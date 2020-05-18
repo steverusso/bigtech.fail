@@ -1,0 +1,37 @@
+{{ define "style" }}
+	{{ partialCached "css-inline.html" "pages/events.css" "events" }}
+{{ end }}
+
+{{ define "main" }}
+	{{ $hasProfiles := isset .Params "profiles" }}
+	{{ $class := and $hasProfiles `has-profiles` }}
+
+	<div class="event cntr {{ $class }}">
+		<main>
+			<!-- The title -->
+			<header>
+				<img src="{{ .Params.image }}" loading="lazy">
+				<h1>{{ .Title }}</h1>
+			</header>
+
+			<hr>
+
+			{{ partial "event/meta.html" . }}
+
+			<!-- The article -->
+			<article>{{ .Content }}</article>
+
+			<hr>
+
+			<!-- Sources -->
+			{{ with .Params.sources }}
+				{{ partial "event/sources.html" . }}
+			{{ end }}
+		</main>
+
+		<!-- The profiles of the people involved in the event (if any). -->
+		{{ if $hasProfiles }}
+			{{ partialCached "event/profiles.html" . .Params.profiles }}
+		{{ end }}
+	</div>
+{{ end }}

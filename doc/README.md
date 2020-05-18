@@ -47,4 +47,4 @@ The summary could be, for example, a brief written history highlighting any nota
 
 ## Information Delivery
 
-The primary information channel will be the website, and secondary channels will include AltTech platforms.
+The primary information channel will be [the website](../website/), and secondary channels will include AltTech platforms.

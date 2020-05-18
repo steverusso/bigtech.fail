@@ -1,0 +1,102 @@
+* { box-sizing: border-box }
+
+body {
+	background: var(--bodyBg);
+	color: var(--bodyColor);
+	font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,Roboto,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji !important;
+	font-size: 105%;
+	margin: 0;
+	word-spacing: 0.075rem;
+}
+
+a {
+	color: var(--linkColor);
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+header {
+	display: flex;
+	align-items: center;
+}
+header img {
+	margin-right: 1rem
+}
+header h1 {
+	margin: 0
+}
+
+hr {
+	border: 0;
+	border-top: thin solid var(--border1);
+	display: block;
+	margin: 1.5rem 0;
+	max-height: 0px;
+	max-width: 100%;
+	width: auto;
+}
+
+img {
+	border-radius: 4px;
+	display: table;
+	max-width: 100% !important;
+}
+
+.icon svg {
+	display: inline;
+	vertical-align: middle;
+}
+
+p, li {
+	color: var(--paraColor);
+}
+
+table {
+	border-collapse: collapse;
+}
+table, th, td {
+	border-top: 1px solid var(--border1);
+	border-bottom: 1px solid var(--border1);
+}
+th, td {
+	padding: 0.75rem 1.25rem;
+}
+th *, td * {
+	display: inline-flex !important;
+	vertical-align: middle;
+}
+tr:nth-child(odd) {
+	background-color: var(--cardBg);
+}
+tr > td:first-child {
+	font-weight: bold;
+}
+table a {
+	color: var(--navColor);
+}
+
+.title { font-size: 1.3rem }
+.caption {
+	font-size: 0.9rem;
+	color: var(--captionColor);
+}
+
+.chip {
+	--bgClr: #607D8B;
+	--height: 23px;
+	background: var(--bgClr);
+	height: var(--height);
+	border-radius: var(--height);
+	display: inline-flex;
+	align-items: center;
+	font-size: 0.75rem;
+	padding: 0 12px;
+}
+
+.mb-8 { margin-bottom: 2rem !important }

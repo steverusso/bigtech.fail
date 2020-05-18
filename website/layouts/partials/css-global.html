@@ -1,0 +1,30 @@
+<!-- This is the CSS that should be included on all pages. -->
+
+<!-- These are the names of the stylesheets from the `assets/css` directory. -->
+<!-- This is the order in which they are bundled (below). -->
+{{ $style := `names:
+  - config
+  - general
+  - layout
+  - overlay
+  - button
+  - navbar
+  - drawer
+  - footer
+  - cards
+  - article
+  - timeline
+` | transform.Unmarshal }}
+
+<!-- Build a slice containing each stylesheet as a resource. -->
+{{ $sheets := slice }}
+{{ range $style.names }}
+	{{ $name := printf "%s.css" . }}
+	{{ $path := path.Join "css" $name }}
+	{{ $sheets = $sheets | append (resources.Get $path) }}
+{{ end }}
+
+<!-- Bundle the stylesheet resources and fingerprint the bundle. -->
+{{ $css := $sheets | resources.Concat "/css/main.css" | resources.Fingerprint "sha512" }}
+
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">

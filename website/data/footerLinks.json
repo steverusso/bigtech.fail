@@ -1,0 +1,51 @@
+[
+	{
+		"title": "Stay Connected",
+		"links": [
+			{
+				"text": "Minds",
+				"href": "https://www.minds.com/bigtechfail",
+				"logo": "/img/logos/minds.png"
+			},
+			{
+				"text": "E-mail",
+				"href": "mailto:info@bigtech.fail",
+				"icon": {
+					"name": "mail_outline",
+					"color": "#03a9f4"
+				}
+			}
+		]
+	},
+	{
+		"title": "Site Links",
+		"links": [
+			{
+				"text": "AltTech",
+				"href": "/alttech/"
+			},
+			{
+				"text": "BigTech",
+				"href": "/platforms/"
+			}
+		]
+	},
+	{
+		"title": "About",
+		"links": [
+			{
+				"text": "Privacy Policy",
+				"href": "/privacy-policy/"
+			}
+		]
+	},
+	{
+		"title": "CryptoCurrency",
+		"links": [
+			{
+				"text": "Monero",
+				"href": "/monero/"
+			}
+		]
+	}
+]

@@ -1,0 +1,65 @@
+:root {
+	--navHeight: 64px;
+	--cntrWidth: 1200px;
+	--cardRadius: 4px;
+
+	--bodyBg: #222;
+	--bodyBg2: #2b2b2b;
+	--bodyColor: #f8f8f8;
+
+	--navBg: #111;
+	--navColor: #eee;
+	--footerBg: var(--navBg);
+
+	--paraColor: #d3d3d3;
+	--linkColor: #29B6F6;
+	--border1: #777;
+	--border3: #aaa;
+	--shadowColor: rgba(0,0,0,.5);
+
+	--cardBg: #333;
+	--cardBefore: #000;
+	--cardTitleBg: #444;
+
+	--tableBorder: #888;
+	--captionColor: #808080;
+
+	--blockquoteBorder: #666;
+	--blockquoteColor: #8f8f8f;
+	--articleHeadings: #fafafa;
+	--articleBold: #fff;
+
+	--jtronBg: linear-gradient(#222, #444);
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--bodyBg: #f6f6f6;
+		--bodyBg2: #f0f0f0;
+		--bodyColor: #444;
+
+		--navBg: #e2e2e2;
+		--navColor: #333;
+		--footerBg: #ebebeb;
+
+		--paraColor: #777;
+		--linkColor: #03A9F4;
+		--border1: #ccc;
+		--border3: #aaa;
+		--shadowColor: rgba(100,100,100,.25);
+
+		--cardBg: #fff;
+		--cardBefore: #aaa;
+		--cardTitleBg: #f2f2f2;
+
+		--tableBorder: #ccc;
+		--captionColor: #aaa;
+
+		--blockquoteBorder: #ccc;
+		--blockquoteColor: #a0a0a0;
+		--articleHeadings: #222;
+		--articleBold: #000;
+
+		--jtronBg: linear-gradient(#ddd, var(--bodyBg2));
+	}
+}

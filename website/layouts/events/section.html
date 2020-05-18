@@ -1,0 +1,11 @@
+{{ define "main" }}
+	<div class="cntr">
+		<div>
+			<b>{{ len .Pages }}</b> <span class="caption">events</span>
+		</div>
+
+		<hr>
+
+		{{ partial "events-timeline.html" .Pages }}
+	</div>
+{{ end }}

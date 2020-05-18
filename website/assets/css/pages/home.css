@@ -1,0 +1,92 @@
+.jtron {
+	background: var(--jtronBg);
+	border-bottom: 1px solid var(--border1);
+}
+.jtron > .cntr {
+	padding: 6.25rem 1.25rem;
+}
+.jtron hr {
+	margin: 3rem auto;
+}
+.jtron .blurb {
+	line-height: 1.75 !important;
+	margin-bottom: 1rem !important;
+	margin-left: auto;
+	max-width: 475px;
+}
+.jtron .blurb > p {
+	text-align: right;
+}
+@media (min-width: 950px) {
+	.jtron hr {
+		transform: rotate(-30deg);
+		width: 40%;
+	}
+}
+
+#usealttech img[src$="laptop.png"] {
+	min-width: 88px; min-height: 88px;
+	max-width: 88px; max-height: 88px;
+	position: absolute;
+}
+
+.alttech-circle-wrap {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+.alttech-circle {
+	position: relative;
+	--size: 400px;
+	max-width: var(--size);
+	width: var(--size);
+	max-height: var(--size);
+	height: var(--size);
+	padding-top: var(--size);
+}
+.alttech-circle > div {
+	--r: 7rem;
+	position: absolute;
+	left: calc(
+		50% -
+		var(--r) *
+		calc(
+			1 -
+			calc(calc(var(--x) * var(--x)) / 2) +
+			calc(calc(var(--x) * var(--x) * var(--x) * var(--x)) / 24) -
+			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 720) +
+			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 40320) -
+			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 3628800)
+		) - 28px
+	);
+	top: calc(
+		50% -
+		var(--r) *
+		calc(
+			var(--x) -
+			calc(calc(var(--x) * var(--x) * var(--x)) / 6) +
+			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 120) -
+			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 5040) +
+			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) ) / 362880) -
+			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) ) / 39916800)
+		) - 28px
+	);
+}
+.alttech-circle > div > img {
+	--size: 50px;
+	max-width: var(--size);
+	max-height: var(--size);
+}
+
+.recent-events {
+	border-top: 1px solid var(--border1);
+	padding: 3rem 0;
+}
+.recent-events h1 {
+	text-align: center;
+}
+.recent-events a[href="/events/"] {
+	display: table;
+	margin: 1rem auto;
+}

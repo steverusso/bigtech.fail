@@ -1,0 +1,28 @@
+.profile.cntr {
+	width: 900px;
+}
+.profile.cntr header img {
+	margin-right: 1rem;
+}
+.profile.cntr header h1 {
+	margin: 0;
+}
+.profile.cntr header p {
+	font-size: 0.9rem;
+}
+.profile.cntr section {
+	display: flex;
+	align-items: center;
+	margin-bottom: 3rem;
+}
+.profile.cntr section a {
+	margin: 0.5rem 1.5rem 0.5rem 0;
+}
+.profile.cntr section a > .icon > svg {
+	max-width: 34px !important; max-height: 34px !important;
+	min-width: 34px !important; min-height: 34px !important;
+}
+.profile.cntr section a > img {
+	max-width: 32px;
+	max-height: 32px;
+}

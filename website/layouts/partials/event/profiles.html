@@ -1,0 +1,24 @@
+{{ $toggleIcon := partialCached "icon.html" "people" "people" }}
+{{ $headerIcon := partialCached "icon.html" (dict "name" "account_box" "size" 48 "color" "#aaa") "event-profiles-header" }}
+
+<input type="checkbox" class="toggle" id="profileDrawerToggle" />
+
+<label for="profileDrawerToggle">
+	{{ $toggleIcon }}
+	<div class="overlay"></div>
+</label>
+
+<aside>
+	<div class="profile-drawer-content">
+		<header>{{ $headerIcon }} People / Entities Involved</header>
+
+		<section>
+			{{ range .Params.profiles }}
+				{{ $path := printf "/profiles/%s.md" . }}
+				{{ $profile := $.GetPage $path }}
+
+				<div>{{ partial "cards/profile.html" $profile }}</div>
+			{{ end }}
+		</section>
+	</div>
+</aside>

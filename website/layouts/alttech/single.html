@@ -1,0 +1,41 @@
+{{ define "style" }}
+	{{ partialCached "css-inline.html" "pages/alttech.css" "alttech" }}
+{{ end }}
+
+{{ define "main" }}
+	{{ $logo := .Params.logo }}
+	{{ $name := .Title }}
+	{{ $slogan := .Params.slogan }}
+	{{ $site := .Params.site }}
+	{{ $href := printf "https://%s" $site }}
+	{{ $similarChips := partial "bigtech-chips.html" .Params.altfor }}
+
+	<div class="alttech cntr">
+		<header>
+			<img src="{{ $logo }}" loading="lazy">
+
+			<div>
+				<h1>{{ $name }}</h1>
+				<q>{{ $slogan }}</q>
+				<a href="{{ $href }}" target="_blank">{{ $site }}</a>
+			</div>
+		</header>
+
+		<hr>
+
+		<!-- A table containing basic info about the alternative platform such as which -->
+		<!-- BigTech platforms it's an alternative for and data about their main policies. -->
+		<table>
+			<tr>
+				<td>Similar to:</td>
+				<td>{{ $similarChips }}</td>
+			</tr>
+
+			{{ with .Params.legal }}
+				{{ partial "policy-table-rows.html" . }}
+			{{ end }}
+		</table>
+
+		<article>{{ .Content }}</article>
+	</div>
+{{ end }}

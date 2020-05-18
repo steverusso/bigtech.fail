@@ -1,0 +1,46 @@
+.btn {
+	--padding: 0.75rem;
+	--fontSize: 1rem;
+	border: 1px solid currentColor;
+	border-radius: 4px;
+	font-size: var(--fontSize);
+	padding: var(--padding);
+	position: relative;
+}
+.btn:hover {
+	cursor: pointer;
+}
+.btn:before  {
+	background-color: currentColor;
+	content: "";
+	opacity: 0;
+	pointer-events: none;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	transition: opacity .2s cubic-bezier(.4,0,.6,1);
+}
+a.btn:hover {
+	text-decoration: none;
+}
+.btn.outlined {
+	background: transparent;
+}
+.btn.outlined:hover:before {
+	opacity: 0.05;
+}
+
+.btn.white {
+	color: #fff;
+}
+.btn.blue {
+	color: #2196f3;
+}
+.btn.light-blue {
+	color: #03a9f4;
+}
+.btn.light-blue-l2 {
+	color: #4fc3f7;
+}

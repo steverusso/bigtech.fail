@@ -1,0 +1,35 @@
+<div id="usealttech" class="cntr">
+	<div class="row align-center">
+		<div class="col md-6 blurb">
+			<h1 class="mb-8">Use AltTech!</h1>
+			<article>
+				<p>
+					Change starts with the content creators.
+					As a content creator, using AltTech not only protects your own voice from <b><u>censorship</u></b>, but it also helps to nullify the <b><u>propaganda</u></b> that inevitably follows.
+					<a href="/creators/">Read here</a> for more on why and how to go about trying AltTech.
+				</p>
+			</article>
+		</div>
+
+		<div class="col md-6 alttech-circle-wrap">
+			<img src="/img/misc/laptop.png" loading="lazy">
+
+			<div class="alttech-circle">
+				{{ $logos := slice "subscribestar" "gab-short" "locals" "brighteon" "minds" "bitchute" }}
+				{{ $names := slice "SubscribeStar" "Gab" "Locals" "Brighteon" "Minds" "BitChute" }}
+				{{ $n := len $logos }}
+				{{ $pi2 := 6.28318 }}
+
+				{{ range $i, $v :=  $logos }}
+					{{ $x := div (mul $pi2 (sub $i 4)) $n }}
+					{{ $title := index $names $i }}
+					{{ $src := printf "/img/logos/%s.png" $v }}
+
+					<div style="--x: {{ $x }};" title="{{ $title }}">
+						<img src="{{ $src }}" loading="lazy">
+					</div>
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,14 @@
+{{ define "main" }}
+	<div class="cntr">
+		<h1>The Failing Platforms</h1>
+		<hr>
+
+		<div class="grid md-6">
+			{{ range .Paginator.Pages }}
+				<div>
+					{{ partial "cards/bigtech.html" . }}
+				</div>
+			{{ end }}
+		</div>
+	</div>
+{{ end }}

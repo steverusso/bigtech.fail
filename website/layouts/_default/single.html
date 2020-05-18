@@ -1,0 +1,25 @@
+{{ define "main" }}
+	<div class="cntr" style="width: 900px;">
+		<header>
+			{{ with index .Params "img" }}
+				<img src="{{ . }}" width="88" height="88" loading="lazy">
+			{{ end }}
+
+			<h1>{{ .Title }}</h1>
+		</header>
+
+		<hr>
+
+		<div class="caption mb-8">
+			{{ if isset .Params "date" }}
+				{{ dateFormat "Jan 2, 2006" .Date }}
+
+				{{ if ne .Lastmod .Date }}
+					<span>(Last Updated: {{ dateFormat "Jan 2, 2006" .Lastmod }})</span>
+				{{ end }}
+			{{ end }}
+		</div>
+
+		<article>{{ .Content }}</article>
+	</div>
+{{ end }}

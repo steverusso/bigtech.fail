@@ -1,0 +1,19 @@
+{{ $meta := `
+  amazon:    ff9800
+  apple:     f48fb1
+  facebook:  3f51b5
+  google:    448Aff
+  instagram: e040fb
+  patreon:   ff8a80
+  pinterest: c62828
+  reddit:    ff5722
+  spotify:   4caf50
+  twitter:   29b6f6
+  youtube:   e53935
+` | transform.Unmarshal }}
+
+{{ range . }}
+	<div class="chip" style="--bgClr: #{{ index $meta . }}">
+		{{ . }}
+	</div>
+{{ end }}

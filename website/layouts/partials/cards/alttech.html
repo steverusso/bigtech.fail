@@ -1,0 +1,20 @@
+{{ $href := .RelPermalink }}
+{{ $img := .Params.logo }}
+{{ $title := .Title }}
+{{ $hasSlogan := isset .Params "slogan" }}
+{{ $preview := plainify .Summary }}
+
+<a class="alttech card" href="{{ $href }}">
+	<div>
+		<header>
+			<img src="{{ $img }}" loading="lazy">
+			<h2>{{ $title }}</h2>
+		</header>
+
+		{{ if $hasSlogan }}
+			<q class="caption">{{ .Params.slogan }}</q>
+		{{ end }}
+	</div>
+
+	<p>{{ $preview }}</p>
+</a>

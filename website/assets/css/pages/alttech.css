@@ -1,0 +1,41 @@
+.alttech.cntr {
+	width: 900px;
+	padding: 2rem 1rem;
+}
+.alttech.cntr > header {
+	margin-bottom: 2rem;
+}
+.alttech.cntr > header img {
+	min-width: 128px;
+	width: 128px;
+	min-height: 128px;
+	height: 128px;
+	margin-right: 2rem;
+}
+.alttech.cntr > header h1 {
+	margin: 0;
+	margin-bottom: 0.75rem;
+}
+.alttech.cntr > header q {
+	font-size: 0.9rem;
+	margin: 1.25rem 0 0.5rem 0;
+}
+.alttech.cntr > header a {
+	font-size: 0.9rem;
+	font-style: italic;
+	margin-left: 0.5rem;
+}
+.alttech.cntr > header a:hover {
+	text-decoration: underline;
+}
+table {
+	margin-bottom: 3rem;
+}
+@media (max-width: 599px) {
+	table {
+		width: 100%;
+	}
+	.alttech.cntr header + hr {
+		display: none;
+	}
+}

@@ -1,0 +1,45 @@
+article img {
+	border: 1px solid var(--border1);
+	margin: 3rem 0 3rem 1rem;
+}
+article img + a {
+	display: table;
+	margin-top: -3rem;
+	margin-left: 1rem;
+}
+article h2, article h3 {
+	color: var(--articleHeadings) !important;
+	font-weight: 600;
+}
+article h2 {
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+article h3 {
+	margin-bottom: 1.5rem;
+}
+article p, article li {
+	line-height: 2;
+}
+article p, article ol, article ul {
+	margin-bottom: 2.5rem;
+}
+article p + ol, article p + ul {
+	margin-top: -2.5rem;
+}
+article strong {
+	color: var(--articleBold) !important;
+}
+
+blockquote {
+	border-left: 3px solid var(--blockquoteBorder);
+	font-style: italic;
+	margin: 1.5rem 0 2.5rem 1rem;
+	padding-left: 1rem;
+}
+blockquote > * {
+	margin: 0.75rem 0 !important;
+}
+blockquote *:not(a) {
+	color: var(--blockquoteColor) !important;
+}

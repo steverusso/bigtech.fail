@@ -1,0 +1,28 @@
+.overlay {
+	background-color: rgba(34,34,34,0.6);
+	color: white;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 0.4s;
+	transition: 0.3s cubic-bezier(0.25,0.75,0.5,1), z-index 1ms;
+
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: -1;
+
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.overlay.bordered {
+	border: 1px solid #aaa;
+}
+.overlay.absolute {
+	position: absolute !important;
+	z-index: 2 !important;
+}

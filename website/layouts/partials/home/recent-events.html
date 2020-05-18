@@ -1,0 +1,15 @@
+<div class="recent-events">
+	<div class="cntr">
+		<h1>Recent Events:</h1>
+		<hr style="width: 50%; margin: 0 auto 1.5rem;">
+
+		<!-- The short timeline of the most recent few events. -->
+		{{ $events := first 6 (.Site.GetPage "/events").Pages }}
+		{{ partial "events-timeline.html" $events }}
+
+		<!-- The " . . . " button which is a link to the full timeline. -->
+		<a href="/events/" class="btn outlined light-blue-l2">
+			&nbsp;&nbsp;&#x25cf;&nbsp;&nbsp;&nbsp;&nbsp;&#x25cf;&nbsp;&nbsp;&nbsp;&nbsp;&#x25cf;&nbsp;&nbsp;
+		</a>
+	</div>
+</div>

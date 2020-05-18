@@ -1,0 +1,27 @@
+<footer>
+	<div class="cntr">
+		<section>
+			{{ range .Site.Data.footerLinks }}
+				<div>
+					<h3>{{ .title }}</h3>
+
+					{{ range .links }}
+						<a href="{{ .href }}">
+							{{ if isset . "logo" }}
+								<img src="{{ .logo }}" width="20" height="20" loading="lazy">
+							{{ end }}
+
+							{{ if isset . "icon" }}
+								{{ partial "icon.html" (merge .icon (dict  "size" 20)) }}
+							{{ end }}
+
+							{{ .text }}
+						</a>
+					{{ end }}
+				</div>
+			{{ end }}
+		</section>
+
+		<img src="/img/bigtechfail-long.png" height="36" width="auto" loading="lazy">
+	</div>
+</footer>

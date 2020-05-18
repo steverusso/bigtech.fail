@@ -1,0 +1,29 @@
+{{ $href := .RelPermalink }}
+{{ $img := .Params.image }}
+{{ $date := dateFormat "Jan 2, 2006" .Params.date }}
+{{ $readTime := printf "~%vm read" .ReadingTime }}
+{{ $preview := default .Summary .Params.preview | truncate 90 }}
+
+{{ $eventIcon := partialCached "icon.html" (dict "size" 20 "name" "event") "event-card-event" }}
+{{ $scheduleIcon := partialCached "icon.html" (dict "size" 20 "name" "schedule") "event-card-schedule" }}
+
+<!-- An event preview card is a card link containing three top level sections: -->
+<!-- 1) the image and title 2) the meta data 3) the text preview. -->
+<a class="event card" href="{{ $href }}" title="{{ .Title }}">
+	<div>
+		<!-- Image and title -->
+		<header>
+			<img src="{{ $img }}" loading="lazy">
+			<h2>{{ .Title }}</h2>
+		</header>
+
+		<!-- Meta info -->
+		<div>
+			<u>{{ $eventIcon }} {{ $date }}</u>
+			<u>{{ $scheduleIcon }} {{ $readTime }}</u>
+		</div>
+	</div>
+
+	<!-- Preview -->
+	<p>{{ $preview }}</p>
+</a>

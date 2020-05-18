@@ -1,0 +1,35 @@
+{{ $hamburger := partial "icon.html" "menu" }}
+{{ $navLinks := .Site.Data.navLinks }}
+
+<nav>
+	<a href="/">
+		{{ if .IsHome }}
+			<img src="/img/bigtechfail-short-96.png" loading="lazy">
+		{{ else }}
+			<img src="/img/bigtechfail-long.png" loading="lazy">
+		{{ end }}
+	</a>
+
+	<div class="items hide-xs">
+		{{ range $navLinks }}
+			<a href="{{ .href }}">{{ .text }}</a>
+		{{ end }}
+	</div>
+
+	<div class="hide-sm-and-up">
+		<input type="checkbox" class="toggle" id="navToggle" />
+
+		<label for="navToggle">
+			{{ $hamburger }}
+			<div class="overlay"></div>
+		</label>
+
+		<aside>
+			<nav></nav>
+
+			{{ range $navLinks }}
+				<a href="{{ .href }}">{{ .text }}</a>
+			{{ end }}
+		</aside>
+	</div>
+</nav>

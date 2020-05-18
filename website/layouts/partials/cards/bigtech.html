@@ -1,0 +1,20 @@
+{{ $href := .RelPermalink }}
+{{ $img := .Params.logo }}
+{{ $title := .Title }}
+{{ $caption := .Params.caption }}
+{{ $preview := plainify .Summary }}
+
+<a class="failing card" href="{{ $href }}">
+	<header>
+		<img src="{{ $img }}" loading="lazy">
+
+		<div>
+			<h2>{{ $title }}</h2>
+			<i class="caption">&nbsp;&nbsp;{{ $caption }}</i>
+		</div>
+	</header>
+
+	<div>
+		<p>{{ $preview }}</p>
+	</div>
+</a>

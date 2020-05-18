@@ -1,0 +1,11 @@
+<div class="event-sources">
+	<h3>Sources :</h3>
+	<ol>
+		{{ range . }}
+			{{ $href := index . 1 }}
+			{{ $text := index . 0 | default $href }}
+
+			<li><a href="{{ $href }}">{{ $text }}</a></li>
+		{{ end }}
+	</ol>
+</div>

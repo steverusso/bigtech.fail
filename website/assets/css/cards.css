@@ -1,0 +1,122 @@
+.card {
+	--imgSize: 64px;
+	background: var(--cardBg);
+	border: 1px solid var(--border1);
+	border-radius: var(--cardRadius);
+	color: var(--paraColor);
+	display: block;
+	position: relative;
+	max-width: 100%;
+	width: 100%;
+	height: 100%;
+	transition: border .4s cubic-bezier(.4,0,.6,1);
+}
+.card:after  {
+	content: "";
+	background: var(--cardBefore);
+	border-radius: var(--cardRadius);
+	opacity: 0;
+	transition: opacity .2s cubic-bezier(.4,0,.6,1);
+	position: absolute;
+	top: 0; right: 0; bottom: 0; left: 0;
+}
+
+a.card:hover {
+	border: 1px solid var(--border3);
+	text-decoration: none;
+}
+a.card:hover:after {
+	opacity: 0.15;
+}
+
+/* The first element of any card is its header / title area. */
+.card > :first-child {
+	background: var(--cardTitleBg);
+	border-bottom: 1px solid var(--border1);
+	border-radius: var(--cardRadius) var(--cardRadius) 0 0;
+	padding: 0.75rem;
+}
+.card > :first-child img {
+	min-width: var(--imgSize); min-height: var(--imgSize);
+	max-width: var(--imgSize); max-height: var(--imgSize);
+	margin-right: 1rem;
+}
+.card > :first-child h2 {
+	font-size: 1.25rem;
+	margin: 0;
+}
+
+.card > :last-child {
+	line-height: 1.75;
+	margin: 0;
+	padding: 0.75rem;
+}
+.card > :last-child > p {
+	margin: 0;
+}
+
+.event.card > header h2 {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2
+}
+.event.card > :first-child > div u {
+	display: inline-flex;
+	align-items: center;
+	color: var(--captionColor);
+	font-size: 0.9rem;
+	margin: 1.25rem 1.25rem 0 0;
+	text-decoration: none;
+}
+.event.card > :first-child > div .icon {
+	margin-right: 0.5rem;
+}
+.event.card > :first-child > div .icon svg {
+	fill: var(--captionColor);
+}
+
+.profile.card {
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+}
+.profile.card > header p {
+	margin: 0;
+	font-size: 0.9rem;
+}
+.profile.card > header .icon {
+	position: absolute;
+	top: 0.75rem; right: 0.75rem;
+}
+.profile.card + section {
+	background: var(--cardTitleBg);
+	border: 1px solid var(--border1);
+	border-top: 1px solid transparent;
+	border-radius: 0 0 var(--cardRadius) var(--cardRadius);
+	padding: 0.25rem 1rem;
+	display: flex;
+	align-items: center;
+}
+.profile.card + section a {
+	margin: 0.5rem 1rem 0.5rem 0;
+}
+.profile.card + section a > .icon > svg {
+	max-width: 30px !important; max-height: 30px !important;
+	min-width: 30px !important; min-height: 30px !important;
+}
+.profile.card + section a > img {
+	max-width: 28px;
+	max-height: 28px;
+}
+
+.alttech.card q {
+	display: block !important;
+	padding-top: 1rem;
+}
+.alttech.card.min > header {
+	padding: 0.5rem;
+}
+.alttech.card.min .icon {
+	position: absolute;
+	top: 1rem; right: 1rem;
+}

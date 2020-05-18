@@ -1,0 +1,13 @@
+{{ define "title" }} Home {{ end }}
+
+{{ define "style" }}
+	{{ partial "css-inline.html" "pages/home.css" }}
+{{ end }}
+
+{{ define "main" }}
+	{{ partial "home/jumbotron.html" . }}
+
+	{{ partial "home/actions.html" . }}
+
+	{{ partial "home/recent-events.html" . }}
+{{ end }}

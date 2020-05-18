@@ -1,0 +1,53 @@
+.timeline {
+	--dividerWidth: 40px;
+	--contentWidth: 100%;
+}
+.timeline .item {
+	display: flex;
+	justify-content: end;
+}
+.timeline .item > div {
+	padding: 0.75rem;
+	width: var(--contentWidth);
+	max-width: var(--contentWidth);
+}
+
+/* The `pre` element is the 'divider' section which forms the timeline line.
+ *  :before -> the vertical line
+ *  :after  -> the marker / circle centered on the vertical line */
+.timeline .item > pre {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+	position: relative;
+	width: var(--dividerWidth);
+}
+.timeline .item > pre:before, .timeline .item > pre:after {
+	content: "";
+	position: absolute;
+}
+.timeline .item > pre:before {
+	background: var(--border1);
+	min-width: 1px; min-height: 100%;
+	max-width: 1px; max-height: 100%;
+}
+.timeline .item > pre:after {
+	--size: 32px;
+	background: var(--cardTitleBg);
+	border: 2px solid var(--border1);
+	border-radius: 50%;
+	min-width: var(--size); min-height: var(--size);
+	max-width: var(--size); max-height: var(--size);
+}
+
+@media (min-width: 850px) {
+	.timeline {
+		--dividerWidth: 80px;
+		--contentWidth: calc(50% - calc(var(--dividerWidth) / 2));
+	}
+	.timeline .item:nth-child(even) {
+		flex-direction: row-reverse;
+		justify-content: start;
+	}
+}

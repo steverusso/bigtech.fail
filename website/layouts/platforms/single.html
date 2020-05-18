@@ -1,0 +1,71 @@
+{{ define "style" }}
+	{{ partialCached "css-inline.html" "pages/platforms.css" "platforms" }}
+{{ end }}
+
+{{ define "main" }}
+	{{ $alts := (.Site.GetPage "/alttech").Pages }}
+	{{ $alts := where $alts "Params.altfor" "intersect" (slice "patreon") }}
+
+	{{ $events := (.Site.GetPage "/events").Pages }}
+	{{ $events := where $events "Params.platforms" "intersect" (slice "patreon") }}
+
+	{{ $numBanned := where $events "Params.tags" "intersect" (slice "banned") | len }}
+	{{ $numFedUp := where $events "Params.tags" "intersect" (slice "walked-away") | len }}
+
+	<div class="platform cntr">
+		<header>
+			<img src="{{ .Params.logo }}" loading="lazy">
+			<h1>{{ .Title }}</h1>
+		</header>
+
+		<hr>
+
+		<div class="row content">
+			<!-- The summary article on the platform. -->
+			<article class="col md-7 lg-8">
+				{{ .Content }}
+			</article>
+
+			<!-- The policy data and alternative platforms. -->
+			<!-- This appears as a sidebar on larger screens. -->
+			<section class="col md-5 lg-4">
+				<table>
+					{{ with .Params.legal }}
+						{{ partial "policy-table-rows.html" . }}
+					{{ end }}
+
+					<tr class="num-banned">
+						<td>No. of Accounts Banned:</td>
+						<td><b>{{ $numBanned }}</b></td>
+					</tr>
+
+					<tr class="num-fedup">
+						<td>No. of People Who Left:</td>
+						<td><b>{{ $numFedUp }}</b></td>
+					</tr>
+				</table>
+
+				<h3>Alternative Platforms ({{ len $alts }})</h3>
+
+				<div class="grid sm-6 md-12 alts">
+					{{ range $alts }}
+						<div>{{ partial "cards/alttech-min.html" . }}</div>
+					{{ end }}
+				</div>
+			</section>
+		</div>
+
+		<div class="events-heading">
+			<h1>Events <b>( {{ len $events }} )</b></h1>
+			<hr>
+		</div>
+
+		<div class="grid sm-6">
+			{{ range $events }}
+				<div>
+					{{ partialCached "cards/event.html" . .RelPermalink }}
+				</div>
+			{{ end }}
+		</div>
+	</div>
+{{ end }}

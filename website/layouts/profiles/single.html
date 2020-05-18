@@ -1,0 +1,26 @@
+{{ define "style" }}
+	{{ partialCached "css-inline.html" "pages/profiles.css" "profiles" }}
+{{ end }}
+
+{{ define "main" }}
+	{{ $name := .Title }}
+	{{ $nickname := .Params.aka }}
+	{{ $img := anchorize $name | printf "/img/people/%s.jpg" }}
+
+	<div class="profile cntr">
+		<header>
+			<img src="{{ $img }}" width="128" height="128" loading="lazy">
+
+			<div>
+				<h1>{{ $name }}</h1>
+				<p>{{ $nickname }}</p>
+			</div>
+		</header>
+
+		<hr>
+
+		{{ partialCached "profile-links.html" .Params.socials .Title }}
+
+		<article>{{ .Content }}</article>
+	</div>
+{{ end }}

@@ -1,0 +1,104 @@
+.event.cntr {
+	position: relative;
+	width: 100%;
+}
+.event.cntr main {
+	max-width: 900px !important;
+	margin: auto;
+	padding: 0 1rem;
+}
+.event.cntr main > header {
+	padding: 1rem 0;
+}
+.event.cntr main > header h1 {
+	margin: 0;
+}
+.event.cntr main > header img {
+	margin-right: 2rem;
+	min-width: 128px; min-height: 128px;
+	max-width: 128px; max-height: 128px;
+}
+
+.event-meta {
+	color: var(--captionColor);
+	margin-bottom: 3rem;
+}
+.event-meta > div {
+	display: inline-flex;
+	align-items: center;
+	margin-right: 2rem;
+}
+.event-meta > div > .icon {
+	margin-right: 0.5rem;
+}
+.event-meta > div > .icon svg {
+	fill: var(--captionColor);
+}
+
+/* This is the toggle for opening / closing the profile drawer. It's a label;
+ * we want it to appear as a button. */
+#profileDrawerToggle + label {
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
+
+	background: #03A9F4;
+	border-radius: 50%;
+	box-shadow: 3px 3px 10px 4px var(--shadowColor);
+	padding: 1rem;
+	z-index: 3;
+}
+#profileDrawerToggle + label .overlay {
+	width: calc(100% - 450px);
+	opacity: 0;
+}
+
+/* The `aside` element inside the event page container is the profile drawer. */
+.event.cntr aside {
+	--width: 450px;
+	border-left: 1px solid var(--border1);
+	top: var(--navHeight);
+	z-index: 2 !important;
+}
+
+/* Hide the scrollbars for the profile drawer content. */
+.profile-drawer-content::-webkit-scrollbar { width: 0 !important } /* Chrome, etc. */
+.profile-drawer-content { scrollbar-width: none }                  /* Firefox      */
+
+.profile-drawer-content > header {
+	background: var(--cardTitleBg);
+	border-bottom: 1px solid var(--border1);
+	font-size: 1.3rem;
+	padding: 1rem 0.5rem;
+}
+.profile-drawer-content > header > .icon {
+	margin-right: 0.5rem;
+}
+.profile-drawer-content {
+	max-height: calc(100vh - var(--navHeight));
+	padding-bottom: 7rem !important;
+	position: -webkit-sticky !important;
+	position: sticky !important;
+	overflow-y: auto;
+}
+.profile-drawer-content > section { padding: 1rem }
+.profile-drawer-content > section > * { margin-bottom: 1rem }
+
+@media (min-width: 1250px) {
+	.event.cntr.has-profiles { padding-right: 450px }
+
+	/* On larger screens, we want to override the default drawer styling of the
+	 * `aside` element. */
+	.event.cntr aside {
+		position: absolute;
+		transform: translateX(0);
+		top: 0;
+		right: 0;
+		z-index: 3;
+		overflow: visible;
+	}
+
+	#profileDrawerToggle + label { display: none }
+
+	.profile-drawer-content { top: var(--navHeight) }
+}

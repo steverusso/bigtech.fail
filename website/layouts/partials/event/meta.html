@@ -1,0 +1,10 @@
+{{ $eventIcon := partialCached "icon.html" (dict "name" "event" "color" "#777") "event-page-event" }}
+{{ $scheduleIcon := partialCached "icon.html" (dict "name" "schedule" "color" "#777") "event-page-schedule" }}
+
+{{ $when := dateFormat "Jan 2, 2006" .Params.date }}
+{{ $readTime := printf "~ %dm read" .ReadingTime }}
+
+<div class="event-meta">
+	<div>{{ $eventIcon }} {{ $when }}</div>
+	<div>{{ $scheduleIcon }} {{ $readTime }}</div>
+</div>

@@ -1,0 +1,32 @@
+{{ $name := .Title }}
+{{ $nickname := default "" .Params.aka }}
+{{ $img := printf "/img/people/%s.jpg" (anchorize $name) }}
+{{ $preview := .Summary | truncate 80 }}
+{{ $href := .RelPermalink }}
+
+{{ $launchIcon := partialCached "icon.html" (dict "name" "launch" "color" "#777") "profile-card-launch" }}
+
+<a class="profile card" href="{{ $href }}" target="_blank">
+	<!-- Title area: profile pic, name, nickname (if any) and the launch icon. -->
+	<header>
+		<img src="{{ $img }}" loading="lazy">
+
+		<div>
+			<h2>{{ $name }}</h2>
+			<p>{{ $nickname }}</p>
+		</div>
+
+		{{ $launchIcon }}
+	</header>
+
+	<p>{{ $preview }}</p>
+</a>
+
+<!--
+ The profile's online / social media links.
+
+ It is illegal for `a` elements to contain other `a` elements. Since the
+ profile card itself is an `a` element, the social links (which are a bunch of
+ `a` elements) need to be outside the card.
+-->
+{{ partialCached "profile-links.html" .Params.socials .Title }}

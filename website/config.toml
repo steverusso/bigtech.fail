@@ -1,0 +1,7 @@
+languageCode = "en-us"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+title = "BigTech.fail"
+enableEmoji = true
+
+[markup.goldmark.renderer]
+unsafe= true

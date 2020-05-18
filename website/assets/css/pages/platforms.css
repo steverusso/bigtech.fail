@@ -1,0 +1,51 @@
+.platform.cntr {
+	width: 1300px;
+}
+.platform.cntr > header {
+	padding: 0.75rem;
+}
+.platform.cntr > header * {
+	display: inline;
+	vertical-align: middle;
+}
+.platform.cntr > header img {
+	margin-right: 2rem;
+	min-width: 80px; min-height: 80px;
+	max-width: 80px; max-height: 80px;
+}
+.platform.cntr > header > h1 {
+	font-size: 3.5rem;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.platform.cntr > header + hr {
+	margin: 1.5rem 0.5rem 0 0.5rem;
+}
+
+.platform.cntr .content section h3 {
+	padding-left: 0.25rem;
+	margin-top: 3rem;
+}
+.platform.cntr .content section table {
+	width: 100%;
+	margin-top: 1.5rem;
+}
+
+@media (min-width: 950px) {
+	.alts > div {
+		margin-bottom: 1.5rem !important;
+		padding: 0 !important;
+	}
+}
+
+@media (min-width: 1250px) {
+	.platform.cntr article {
+		padding-right: 3rem !important;
+	}
+}
+
+.num-banned b { color: #f44336 }
+.num-fedup b { color: #ff9800 }
+
+.events-heading { padding: 1rem 0 0 1rem }
+.events-heading b { font-size: 1.25rem }
