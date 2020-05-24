@@ -3,7 +3,6 @@
 BigTech.fail is an open-source research project aiming to highlight the dangers of censorship, misinformation and surveillance from today's technology companies and governments.
 
 - [Website](./website/)
-- [Server](./server/)
 - [Documentation](./doc/)
 - [Graphics](./graphics/)
 
