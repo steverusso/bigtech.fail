@@ -16,7 +16,7 @@ The archetypes follow the structure outlined in the [documentation](../doc/).
 
 * Profiles:
   ```shell
-  hugo new --kind profile profiles/[the_new_profile].md
+  hugo new --kind profile profiles/[the_new_profile]
   ```
 * Events:
   ```shell
