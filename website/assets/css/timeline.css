@@ -5,6 +5,7 @@
 .timeline .item {
 	display: flex;
 	justify-content: end;
+	justify-content: flex-end !important;
 }
 .timeline .item > div {
 	padding: 0.75rem;
