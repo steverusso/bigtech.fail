@@ -39,17 +39,21 @@ nav label > .icon {
 	z-index: 10;
 	padding: 0 1.25rem;
 }
+nav label > .icon svg {
+	fill: var(--navColor);
+}
 
 nav aside {
 	z-index: 9 !important;
 }
 nav aside > a {
-	color: #eee;
+	color: var(--navColor);
 	display: block;
 	height: auto;
 	text-align: right;
 	padding: 1.5rem;
 }
 nav aside > a:hover {
-	background: #2a2a2a;
+	background: var(--bodyBg2);
+	color: var(--bodyColor);
 }

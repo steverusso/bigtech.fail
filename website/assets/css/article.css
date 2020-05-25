@@ -37,6 +37,9 @@ blockquote {
 	margin: 1.5rem 0 2.5rem 1rem;
 	padding-left: 1rem;
 }
+article p + blockquote {
+	margin-top: -1.5rem;
+}
 blockquote > * {
 	margin: 0.75rem 0 !important;
 }
