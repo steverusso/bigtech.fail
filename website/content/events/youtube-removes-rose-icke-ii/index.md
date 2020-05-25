@@ -3,7 +3,7 @@ title: Youtube Removes Rose/Icke II
 date: 2020-04-06
 image: /img/misc/rose-icke-ii.jpg
 platforms: [ youtube, vimeo ]
-tags: [ content-removed ]
+tags: [ content-removed, covid ]
 sources:
  - [ 'BitChute "David Icke''s Explosive Interview With London Real - The Video That Youtube Doesn''t Want You To See" by DavidIcke (6 Apr 2020)', 'https://www.bitchute.com/video/H4W7FwBy0Ukh/' ]
  - [ 'Instagram - therealbrianrose (7 Apr 2020) (archived)', 'https://archive.vn/3iBgr' ]
@@ -28,3 +28,5 @@ From [Reclaim The Net](https://reclaimthenet.org/youtube-censors-david-icke-lond
 > Rose was also critical of YouTube, a platform he has worked with for more than eight years, for talking to the press without giving London Real any explanation about why the video was removed.
 >
 > "You tell the BBC you're going to take my video off and why but you don't tell me," Rose said. "I still don't know why."
+
+For Brian Rose and David Icke, this was just the beginning, as starting the very next day, they would see [content being removed](/events/london-real-gets-content-removed-from-several-major-platforms/) from several major platforms.
