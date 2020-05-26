@@ -25,7 +25,17 @@ But on top of that, this demonstrates that they will not only advocate for censo
   * Supplemental:
     * [BitChute "Well, This is Truly Unbelievable." by Computing Forever (19 May 2020)](https://www.bitchute.com/video/FN4Usu-sgXI/)
     * [BitChute "Business Insider Attacks Computing Forever, Flags His Video, Then Paywalls Their Hit Piece" by Styxhexenhammer666 (21 May 2020)](https://www.bitchute.com/video/_IWZxxpUePI/)
-  * To reconcile: Cut ties with Martin Coulter _with an explanation_ and issue a retraction addressing the inaccuracies of Martin's original story and Twitter thread.
+  * To reconcile: Cut ties with Martin Coulter _with an explanation_, issue a retraction addressing the inaccuracies of Martin's original story and Twitter thread, and host the interview that you reported and had removed.
+
+### CNBC
+
+* 6 May 2020 - **Advocating For Censorship, Creating Their Own News** -
+Sam Shead, a tech correspondent at CNBC, published [a piece (archived)](https://archive.vn/uEyCe) about [Rose/Icke II](https://bigtech.fail/events/youtube-removes-rose-icke-ii/) being removed by Spotify.
+In the article, Shead says that the interview was removed "hours after CNBC brought it to the company's attention."
+This demonstrates that CNBC will advocate for censorship (possibly to create their own news).
+  * Supplemental:
+    * [Reclaim The Net "David Icke interview removed from Spotify after CNBC complains" by Didi Rankovic (6 May 2020)](https://reclaimthenet.org/david-icke-interview-removed-spotify/)
+  * To reconcile: Cut ties with Shead, issue an apology, and host the podcast that you reported and had removed.
 
 ### The Guardian
 
