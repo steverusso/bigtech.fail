@@ -55,7 +55,7 @@ a.card:hover:after {
 	margin: 0;
 }
 
-.event.card > header h2 {
+.event.card header h2 {
 	display: -webkit-box;
 	overflow: hidden;
 	-webkit-box-orient: vertical;
