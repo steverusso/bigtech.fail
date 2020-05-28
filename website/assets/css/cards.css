@@ -55,24 +55,30 @@ a.card:hover:after {
 	margin: 0;
 }
 
+.event.card {
+	--imgSize: 92px;
+}
 .event.card header h2 {
+	color: var(--articleHeadings);
 	display: -webkit-box;
+	font-size: 1.15rem;
+	line-height: 1.4;
 	overflow: hidden;
 	-webkit-box-orient: vertical;
 	-webkit-line-clamp: 2
 }
-.event.card > :first-child > div u {
+.event.card header u {
 	display: inline-flex;
 	align-items: center;
-	color: var(--captionColor);
+	color: var(--captionColor2);
 	font-size: 0.9rem;
-	margin: 1.25rem 1.25rem 0 0;
+	margin-top: 0.75rem;
 	text-decoration: none;
 }
-.event.card > :first-child > div .icon {
+.event.card header .icon {
 	margin-right: 0.5rem;
 }
-.event.card > :first-child > div .icon svg {
+.event.card header .icon svg {
 	fill: var(--captionColor);
 }
 
