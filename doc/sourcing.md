@@ -6,7 +6,7 @@ The organizations on the distrustful list below cannot be used as sources.
 ## Distrustful
 
 Instead of selectively picking which news outlets to trust, we give every single one the benefit of the doubt.
-If a news outlet does something to betray trust, we will mark it as distrustful (meaning it can no longer be used by BigTech.fail as a source).
+If a news outlet does something to betray trust, we will mark it as distrustful (meaning it can no longer be used by BigTech.fail as a source, unless it is the primary source of a story that has been verified by others).
 Each entry on the distrustful list will contain which offenses (what story, event, etc.) got them there (exception: Buzzfeed).
 
 Being marked as distrustful is **not permanent**.
@@ -37,6 +37,12 @@ This demonstrates that CNBC will advocate for censorship (possibly to create the
     * [Reclaim The Net "David Icke interview removed from Spotify after CNBC complains" by Didi Rankovic (6 May 2020)](https://reclaimthenet.org/david-icke-interview-removed-spotify/)
   * To reconcile: Cut ties with Shead, issue an apology, and host the podcast that you reported and had removed.
 
+### CNET
+
+* 8 May 2020 - **Helping BigTech Censor** -
+Queenie Wong and Joan E. Solsman published a piece with CNET that detailed [how CNET reported to YouTube](https://archive.vn/ooxgP#selection-2121.0-2121.227) nine copies of a video for removal.
+  * To reconcile: Cut ties with the authors, issue an apology, and host the video that you took the time to report _nine copies of_ and had removed.
+
 ### The Guardian
 
 * 14 Nov 2018 - **Baseless Smear of AltTech** -
@@ -52,6 +58,15 @@ WikiLeaks categorically [denied](https://archive.vn/LiRjv) this claim and even [
     * [OffGuardian "UPDATED: The “Secret Meetings” of Paul Manafort & Julian Assange" by Kit Knightly (27 Nov 2018)](https://off-guardian.org/2018/11/27/discuss-the-secret-meetings-of-paul-manafort-julian-assange/)
     * [BitChute "Literal Fake News from the Guardian about Manafort Meeting With Julian Assange" by Styxhexenhammer666 (28 Nov 2018)](https://www.bitchute.com/video/vkIC6_kNNro/)
   * To reconcile: Cut ties with the authors and issue an actual retraction: none of this [language adjustment](https://www.newssniffer.co.uk/articles/1706143/diff/0/1) non-sense.
+
+### The Washington Post
+
+* 20 May 2020 - **Advocating For Censorship, Creating Their Own News** -
+Elizabeth Dwoskin published a piece in The Washington Post about how Google Drive removed the Plandemic - Part 1 video [after The Post notified Google](https://archive.vn/wKfVi#selection-1833.0-1833.195).
+  * Supplemental:
+    * [Reclaim The Net "Google Drive takes down user's personal copy of Judy Mikovits' Plandemic after it was flagged by The Washington Post" by Tom Parker (20 May 2020)](https://reclaimthenet.org/google-drive-takes-down-user-file-plandemic/)
+    * [SHTFplan.com "Google Drive Takes Down PERSONAL Copy Of "Plandemic"" by Mac Slavo (26 May 2020)](https://www.shtfplan.com/headline-news/google-drive-takes-down-personal-copy-of-plandemic_05262020)
+  * To reconcile: Cut ties with Elizabeth Dwoskin, issue an apology, and host the censored video.
 
 ### Buzzfeed
 
