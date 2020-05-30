@@ -12,7 +12,7 @@
 
 		<link rel="shortcut icon" href="/img/bigtechfail-short-96.png">
 
-		<title>{{ .Site.Title }} | {{ block "title" . }} {{ .Title }} {{ end }}</title>
+		<title>{{ .Site.Title }} {{ block "title" . }} {{ with .Title }} | {{ . }} {{ end }} {{ end }}</title>
 	</head>
 
 	<body>
