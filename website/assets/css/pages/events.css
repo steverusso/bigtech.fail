@@ -35,6 +35,12 @@
 	fill: var(--captionColor);
 }
 
+.event-sources li {
+	font-size: 0.95rem;
+	margin-bottom: 0.5rem;
+	line-height: 1.75;
+}
+
 /* This is the toggle for opening / closing the profile drawer. It's a label;
  * we want it to appear as a button. */
 #profileDrawerToggle + label {
