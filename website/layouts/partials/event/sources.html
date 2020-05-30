@@ -5,7 +5,7 @@
 			{{ $href := index . 1 }}
 			{{ $text := index . 0 | default $href }}
 
-			<li><a href="{{ $href }}">{{ $text }}</a></li>
+			<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
 		{{ end }}
 	</ol>
 </div>
