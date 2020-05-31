@@ -6,11 +6,10 @@ image: /img/misc/chipple.png
 platforms: [ apple ]
 tags: [ content-removed ]
 sources:
- - [ 'The Verge "Apple removes Quartz news app from the Chinese App Store over Hong Kong coverage" by Nick Statt (9 Oct 2019)', 'https://www.theverge.com/2019/10/9/20907228/apple-quartz-app-store-china-removal-hong-kong-protests-censorship' ]
- - [ 'OSnews "Apple removes Quartz news app from the Chinese App Store over Hong Kong coverage" by Thom Holwerda (10 Oct 2019)', 'https://www.osnews.com/story/130746/apple-removes-quartz-news-app-from-the-chinese-app-store-over-hong-kong-coverage/' ]
- - [ 'RedState "Apple Caves, Removes Multiple Apps, Including News App Covering Hong Kong Protests, After China Objects" by Nick Arama (10 Oct 2019)', 'https://www.redstate.com/nick-arama/2019/10/10/apple-caves-removes-multiple-apps-including-news-app-covering-protests-after-china-objects/' ]
- - [ 'TechSpot "Apple removes Hong Kong protest app, Quartz news app following Chinese criticism" by Rob Thubron (10 Oct 2019)', 'https://www.techspot.com/news/82284-apple-removes-hong-kong-protest-app-quartz-news.html' ]
- - [ 'CNN Business "Apple removes Quartz app in China" by Jordan Valinsky (10 Oct 2019)', '' ]
+ - [ 'The Verge "Apple removes Quartz news app from the Chinese App Store over Hong Kong coverage" by Nick Statt (9 Oct 2019)', 'https://archive.vn/V980y' ]
+ - [ 'OSnews "Apple removes Quartz news app from the Chinese App Store over Hong Kong coverage" by Thom Holwerda (10 Oct 2019)', 'https://archive.vn/oHI1M' ]
+ - [ 'RedState "Apple Caves, Removes Multiple Apps, Including News App Covering Hong Kong Protests, After China Objects" by Nick Arama (10 Oct 2019)', 'https://archive.vn/EEngx' ]
+ - [ 'TechSpot "Apple removes Hong Kong protest app, Quartz news app following Chinese criticism" by Rob Thubron (10 Oct 2019)', 'https://archive.vn/HMmiC' ]
 ---
 
 Apple removed Quartz's news app from the App Store in China at the request of the Chinese government.
