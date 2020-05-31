@@ -60,12 +60,6 @@
 			<hr>
 		</div>
 
-		<div class="grid sm-6">
-			{{ range $events }}
-				<div>
-					{{ partialCached "cards/event.html" . .RelPermalink }}
-				</div>
-			{{ end }}
-		</div>
+		{{ partial "events-timeline.html" $events }}
 	</div>
 {{ end }}
