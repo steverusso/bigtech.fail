@@ -3,11 +3,13 @@
 {{ end }}
 
 {{ define "main" }}
+	{{ $name := .Name | anchorize }}
+
 	{{ $alts := (.Site.GetPage "/alttech").Pages }}
-	{{ $alts := where $alts "Params.altfor" "intersect" (slice "patreon") }}
+	{{ $alts := where $alts "Params.altfor" "intersect" (slice $name) }}
 
 	{{ $events := (.Site.GetPage "/events").Pages }}
-	{{ $events := where $events "Params.platforms" "intersect" (slice "patreon") }}
+	{{ $events := where $events "Params.platforms" "intersect" (slice $name) }}
 
 	{{ $numBanned := where $events "Params.tags" "intersect" (slice "banned") | len }}
 	{{ $numFedUp := where $events "Params.tags" "intersect" (slice "walked-away") | len }}
@@ -39,10 +41,12 @@
 						<td><b>{{ $numBanned }}</b></td>
 					</tr>
 
-					<tr class="num-fedup">
-						<td>No. of People Who Left:</td>
-						<td><b>{{ $numFedUp }}</b></td>
-					</tr>
+					{{ with $numFedUp }}
+						<tr class="num-fedup">
+							<td>No. of People Who Left:</td>
+							<td><b>{{ . }}</b></td>
+						</tr>
+					{{ end }}
 				</table>
 
 				<h3>Alternative Platforms ({{ len $alts }})</h3>
