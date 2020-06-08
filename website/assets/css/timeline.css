@@ -13,10 +13,10 @@
 	max-width: var(--contentWidth);
 }
 
-/* The `pre` element is the 'divider' section which forms the timeline line.
+/* The `q` element is the 'divider' section which forms the timeline line.
  *  :before -> the vertical line
  *  :after  -> the marker / circle centered on the vertical line */
-.timeline .item > pre {
+.timeline .item > q {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -24,16 +24,16 @@
 	position: relative;
 	width: var(--dividerWidth);
 }
-.timeline .item > pre:before, .timeline .item > pre:after {
+.timeline .item > q:before, .timeline .item > q:after {
 	content: "";
 	position: absolute;
 }
-.timeline .item > pre:before {
+.timeline .item > q:before {
 	background: var(--border1);
 	min-width: 1px; min-height: 100%;
 	max-width: 1px; max-height: 100%;
 }
-.timeline .item > pre:after {
+.timeline .item > q:after {
 	--size: 32px;
 	background: var(--cardTitleBg);
 	border: 2px solid var(--border1);

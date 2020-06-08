@@ -1,7 +1,7 @@
 <div class="timeline">
 	{{ range . }}
 		<div class="item">
-			<pre></pre> <!-- This is what forms the line. -->
+			<q></q> <!-- This is what forms the line with the circles. -->
 
 			<!-- This is the content of the timeline item. -->
 			<div>{{ partialCached "cards/event.html" . .RelPermalink }}</div>
