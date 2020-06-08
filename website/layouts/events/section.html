@@ -1,8 +1,27 @@
+{{ define "style" }}
+<style>
+.cntr > header > b {
+	--h: 28px;
+	background: var(--cardTitleBg);
+	border: 1px solid var(--border1);
+	border-radius: var(--h);
+	display: flex;
+	align-items: center;
+	height: var(--h);
+	margin-left: 1rem;
+	padding: 0 0.75rem;
+}
+</style>
+{{ end }}
+
 {{ define "main" }}
 	<div class="cntr">
-		<div>
-			<b>{{ len .Pages }}</b> <span class="caption">events</span>
-		</div>
+		<header>
+			<h1>Events</h1>
+			<b>{{ len .Pages }}</b>
+		</header>
+
+		<article>{{ .Content }}</article>
 
 		<hr>
 
