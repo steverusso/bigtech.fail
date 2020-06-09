@@ -91,6 +91,7 @@ table a {
 	--bgClr: #607D8B;
 	--height: 23px;
 	background: var(--bgClr);
+	color: #fff;
 	height: var(--height);
 	border-radius: var(--height);
 	display: inline-flex;
