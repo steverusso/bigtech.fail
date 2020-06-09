@@ -31,6 +31,9 @@
 table {
 	margin-bottom: 3rem;
 }
+table .chip {
+	margin-right: 0.5rem;
+}
 @media (max-width: 599px) {
 	table {
 		width: 100%;
