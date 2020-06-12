@@ -5,10 +5,14 @@ image: /img/people/sargon-of-akkad.jpg
 platforms: [ twitter ]
 tags: [ banned ]
 sources:
- - [ "Sargon - YouTube", "https://www.youtube.com/watch?v=gwi6Yl6p2Ek" ]
- - [ "Sargon - YouTube 2", "https://www.youtube.com/watch?v=fKsZeSuDF2I" ]
- - [ "ProdigyGamers", "https://prodigygamers.com/2017/08/15/sargon-of-akkad-permanently-banned-twitter/" ]
+ - [ 'YouTube "Twitter Ban Update" by The Thinkery (10 Aug 2017)', 'https://www.youtube.com/watch?v=gwi6Yl6p2Ek' ]
+ - [ 'YouTube "Where is the Victim, @Jack ?" by The Thinkery (14 Aug 2017)', 'https://www.youtube.com/watch?v=fKsZeSuDF2I' ]
+ - [ 'ProdigyGamers "Sargon Of Akkad Permanently Banned From Twitter" by Kakra (15 Aug 2017)', 'https://archive.vn/gz26Z' ]
 ---
 
-Twitter permanently banned Sargon of Akkad for, as they say, "violating the Twitter Rules", specifically for "participating in targeted abuse", except... they didn't even name a "target" or the "abuse."
-This came about 7 months after they [temporarily suspended his account](/events/twitter-suspends-sargon/) in January of the same year.
+Twitter permanently banned Sargon of Akkad for, as they say, "violating the
+Twitter Rules", specifically for "participating in targeted abuse", except...
+they didn't even name a "target" or the "abuse."
+
+This happened about seven months after Twitter [temporarily suspended Sargon's
+account](/events/twitter-suspends-sargon/).
