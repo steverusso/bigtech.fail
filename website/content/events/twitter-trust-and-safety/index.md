@@ -4,8 +4,8 @@ title: Twitter Establishes Their Trust and Safety Council
 image: /img/misc/ttas.png
 platforms: [ twitter ]
 sources:
- - [ "Twitter Blog Post", "https://blog.twitter.com/official/en_us/a/2016/announcing-the-twitter-trust-safety-council.html" ]
- - [ "Twitter Trust and Safety Council Members", "https://about.twitter.com/en_us/safety/safety-partners.html" ]
+ - [ 'Twitter Blog "Announcing the Twitter Trust & Safety Council" by Patricia Cartes (9 Feb 2016)', 'https://archive.vn/PJ34B' ]
+ - [ 'Twitter Trust and Safety Council Members', 'https://archive.vn/iYwfd' ]
 ---
 
 Twitter announced the formation of their Trust and Safety Council to provide input on policy development to "ensure that people feel safe expressing themselves on Twitter."
