@@ -59,6 +59,24 @@ WikiLeaks categorically [denied](https://archive.vn/LiRjv) this claim and even [
     * [BitChute "Literal Fake News from the Guardian about Manafort Meeting With Julian Assange" by Styxhexenhammer666 (28 Nov 2018)](https://www.bitchute.com/video/vkIC6_kNNro/)
   * To reconcile: Cut ties with the authors and issue an actual retraction: none of this [language adjustment](https://www.newssniffer.co.uk/articles/1706143/diff/0/1) non-sense.
 
+### NBC
+
+* 16 Jun 2020 - **Lobbying Google to Deplatform The Federalist, ZeroHedge** -
+Adele-Momoko Fraser published [this piece (archived)](https://archive.vn/rj36P)
+on NBC which [admitted](https://archive.vn/rj36P#selection-1193.0-1197.134)
+that NBC's "News Verification Unit" (a real thing) brought the research of the
+CCDH (Center for Countering Digital Hate) to Google's attention in order to
+have Google take action against The Federalist and ZeroHedge. In other words,
+NBC teamed up with a British non-profit to lobby Google to remove two of NBC's
+online competitors from Google Ads. And, as it turned out, NBC didn't even get
+the original story correct. They claimed the Federalist was totally removed
+from Google Ads, causing Google to have to [set the record straight](https://archive.vn/qOjoU).
+  * Supplemental:
+    * [The Federalist "Federalist Co-Founder Sean Davis Responds To NBC, Google Deplatforming Attempt" by Tristan Justice (16 Jun 2020)](https://archive.vn/LwmJr)
+    * [ZeroHedge "Google Demonetizes Zero Hedge" by Tyler Durden (17 Jun 2020)](https://archive.vn/D4gG2)
+    * [National Review "Hands Off the Federalist" (16 Jun 2020)](https://archive.vn/lsGYK)
+  * To reconcile: Cut ties with the Momo who wrote the article and issue an apology _explicitly_ for lobbying to have your competitors deplatformed.
+
 ### The Washington Post
 
 * 20 May 2020 - **Advocating For Censorship, Creating Their Own News** -
