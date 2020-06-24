@@ -3,11 +3,8 @@
 
 <nav>
 	<a href="/">
-		{{ if .IsHome }}
-			<img src="/img/bigtechfail-short-96.png" loading="lazy">
-		{{ else }}
-			<img src="/img/bigtechfail-long.png" loading="lazy">
-		{{ end }}
+		{{ $img := cond .IsHome "short-96" "long" }}
+		<img src="/img/bigtechfail-{{ $img }}.png" loading="lazy">
 	</a>
 
 	<div class="items hide-xs">
