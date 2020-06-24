@@ -14,11 +14,6 @@
 					"name": "mail_outline",
 					"color": "#03a9f4"
 				}
-			},
-			{
-				"text": "Contributing",
-				"href": "/help/",
-				"logo": "/img/misc/handshake.png"
 			}
 		]
 	},
@@ -41,6 +36,10 @@
 			{
 				"text": "Privacy Policy",
 				"href": "/privacy-policy/"
+			},
+			{
+				"text": "Contributing",
+				"href": "/help/"
 			}
 		]
 	},
