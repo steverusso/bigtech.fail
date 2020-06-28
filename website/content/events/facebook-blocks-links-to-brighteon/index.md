@@ -14,4 +14,4 @@ From [Reclaim The Net](https://archive.vn/hSatA#selection-405.0-412.1):
 > As of the time of writing, trying to link to any video on Brighteon results in the following message:
 > ![](reclaim-the-net-screenshot.png)
 
-This came shortly after the "Plandemic" documentary, which was [scrubbed from several major platforms](http://localhost:1313/events/youtube-and-facebook-remove-plandemic-part1/), including Facebook, went viral on Brighteon.
+This came shortly after the "Plandemic" documentary, which was [scrubbed from several major platforms](/events/youtube-and-facebook-remove-plandemic-part1/), including Facebook, went viral on Brighteon.
