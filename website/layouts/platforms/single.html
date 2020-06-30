@@ -11,8 +11,7 @@
 	{{ $events := (.Site.GetPage "/events").Pages }}
 	{{ $events := where $events "Params.platforms" "intersect" (slice $name) }}
 
-	{{ $numBanned := where $events "Params.tags" "intersect" (slice "banned") | len }}
-	{{ $numFedUp := where $events "Params.tags" "intersect" (slice "walked-away") | len }}
+	{{ $sumsData := partialCached "data/platform-sums.html" . }}
 
 	<div class="platform cntr">
 		<header>
@@ -36,21 +35,20 @@
 						{{ partial "policy-table-rows.html" . }}
 					{{ end }}
 
-					<tr class="num-banned">
-						<td>No. of Accounts Banned:</td>
-						<td><b>{{ $numBanned }}</b></td>
-					</tr>
+					{{ range $k, $v := $sumsData }}
+						<!-- Proceed if the Platform provides this sum key. -->
+						{{ with index $.Params.sums $k }}
+							{{ $num := where $events "Params.tags" "intersect" (slice $k) | len }}
 
-					{{ with $numFedUp }}
-						<tr class="num-fedup">
-							<td>No. of People Who Left:</td>
-							<td><b>{{ . }}</b></td>
-						</tr>
+							<tr>
+								<td>{{ $v.caption }}</td>
+								<td><b class="{{ $k }}">{{ $num }}</b></td>
+							</tr>
+						{{ end }}
 					{{ end }}
 				</table>
 
 				<h3>Alternative Platforms ({{ len $alts }})</h3>
-
 				<div class="grid sm-6 md-12 alts">
 					{{ range $alts }}
 						<div>{{ partial "cards/alttech-min.html" . }}</div>
