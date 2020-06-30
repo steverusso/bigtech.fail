@@ -4,7 +4,7 @@ date: 2020-04-20
 image: /img/logos/facebook.png
 summary: They say Facebook actually reached out to them ...
 platforms: [ facebook ]
-tags: [ gov ]
+tags: [ covid, gov ]
 sources:
  - [ 'Breitbart "Governors: Facebook Contacted Us About Protests, Not Other Way Around" by Joel B. Pollak (20 Apr 2020)', 'https://www.breitbart.com/the-media/2020/04/20/governors-facebook-contacted-us-about-protests-not-other-way-around/' ]
  - [ 'Summit News "State Governors Say Facebook CONTACTED THEM About ''Reopen America'' Events" by Steve Watson (21 Apr 2020)', 'https://summit.news/2020/04/21/state-governors-say-facebook-contacted-them-about-reopen-america-events/' ]
@@ -13,10 +13,10 @@ sources:
  - [ 'https://twitter.com/oliverdarcy/status/1252224126279802881 (archived)', 'https://archive.vn/RVXlB' ]
 ---
 
-Early in the day on April 20, CNN employee Donie O'Sullivan [tweeted
+Early in the day on April 20, CNN activist Donie O'Sullivan [tweeted
 out](https://archive.vn/I6CxA) that Facebook "removed promotion of
 anti-quarantine events in California, New Jersey, and Nebraska after
-consultation with state governments", which was followed by fellow CNN employee
+consultation with state governments", which was followed by fellow CNN activist
 Oliver Darcy [tweeting out](https://archive.vn/RVXlB) that protest groups "are
 being removed from the platform on the instruction of governments." These
 claims were based on what [a Facebook spokesperson told

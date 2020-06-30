@@ -11,7 +11,7 @@ sources:
  - [ 'Twitter @SusanWojcicki - 1251954886100410368 (19 Apr 2020)', 'https://archive.vn/InWKA' ]
 ---
 
-While appearing on CNN employee Brian Stelter's show, YouTube CEO Susan Wojcicki said "anything that would go against World Health Organization recommendations would be a violation of our policy."
+While appearing on CNN, YouTube CEO Susan Wojcicki said "anything that would go against World Health Organization recommendations would be a violation of our policy."
 
 This is in addition to removing any content that is "medically unsubstantiated" or considered "problematic information."
 In other words, any content published on YouTube that contradicts the WHO would be taken down.
