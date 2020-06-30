@@ -1,5 +1,5 @@
 ---
-name: {{ replace .Name "-" " " | title }}
+title: {{ replace .Name "-" " " | title }}
 socials:
   website:   www.
   support:   www.
