@@ -2,6 +2,7 @@
 title: Twitter Suspends Katie Hopkins After Pressure From Activists
 date: 2020-01-30
 image: /img/people/katie-hopkins.jpg
+profiles: [ katie-hopkins ]
 platforms: [ twitter ]
 tags: [ suspended ]
 sources:
