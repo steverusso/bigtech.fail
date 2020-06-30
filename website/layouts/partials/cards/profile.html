@@ -1,6 +1,12 @@
 {{ $name := .Title }}
 {{ $nickname := default "" .Params.aka }}
+
+<!-- Default to JPG. If not found, try PNG. -->
 {{ $img := printf "/img/people/%s.jpg" (anchorize $name) }}
+{{ if not (fileExists (printf "/static/%s" $img)) }}
+	{{ $img = printf "/img/people/%s.png" (anchorize $name) }}
+{{ end }}
+
 {{ $preview := .Summary | truncate 80 }}
 {{ $href := .RelPermalink }}
 
