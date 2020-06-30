@@ -30,3 +30,5 @@ Twitter gave the [following statement](https://archive.vn/bFO5w#selection-803.0-
 > violative of our rules — which includes violations of our hateful conduct
 > policy and abusive behavior policy. These rules apply to everyone using our
 > service, regardless of the account involved.
+
+Hopkins was [permanently banned](/events/twitter-bans-katie-hopkins/) about six months later.
