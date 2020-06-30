@@ -16,6 +16,9 @@ legal:
     asof: 2020-04-01
     url: https://www.patreon.com/policy/guidelines
     wc: 2876
+sums:
+  banned: true
+  walked-away: true
 url: /patreon/
 ---
 
