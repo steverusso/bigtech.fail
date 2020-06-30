@@ -5,7 +5,11 @@
 {{ define "main" }}
 	{{ $name := .Title }}
 	{{ $nickname := .Params.aka }}
+
 	{{ $img := anchorize $name | printf "/img/people/%s.jpg" }}
+	{{ if not (fileExists (printf "/static/%s" $img)) }}
+		{{ $img = anchorize $name | printf "/img/people/%s.png" }}
+	{{ end }}
 
 	<div class="profile cntr">
 		<header>
