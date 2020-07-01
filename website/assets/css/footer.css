@@ -1,7 +1,7 @@
 footer {
 	background: var(--footerBg);
 	border-top: 1px solid var(--border1);
-	color: var(--navColor);
+	color: var(--footerColor);
 }
 footer section {
 	display: flex;
