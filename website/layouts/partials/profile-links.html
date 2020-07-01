@@ -1,29 +1,10 @@
-{{ $meta := `[
-	{ "key": "website", "text": "Website", "icon": { "name": "language",        "color": "#1E88E5" } },
-	{ "key": "support", "text": "Support", "icon": { "name": "monetization_on", "color": "#4CAF50" } },
-	{ "key": "merch",   "text": "Merch",   "icon": { "name": "shop",            "color": "#F57C00" } },
-
-	{ "key": "locals",      "text": "Locals.com",    "suffix": ".locals.com/",       "logo": "locals.png"        },
-	{ "key": "substar",     "text": "SubscribeStar", "prefix": "subscribestar.com/", "logo": "subscribestar.png" },
-	{ "key": "newproject2", "text": "NewProject2",   "prefix": "newproject2.com/",   "logo": "newproject2.jpg"   },
-	{ "key": "minds",       "text": "Minds",         "prefix": "www.minds.com/",     "logo": "minds.png"         },
-	{ "key": "bitchute",    "text": "Bitchute",      "prefix": "bitchute.com/",      "logo": "bitchute.png"      },
-	{ "key": "brighteon",   "text": "Brighteon",     "prefix": "brighteon.com/",     "logo": "brighteon.png"     },
-	{ "key": "dlive",       "text": "DLive",         "prefix": "dlive.tv/",          "logo": "dlive.png"         },
-	{ "key": "lbry",        "text": "LBRY",          "prefix": "lbry.tv/",           "logo": "lbry.png"          },
-	{ "key": "parler",      "text": "Parler",        "prefix": "parler.com/",        "logo": "parler.png"        },
-	{ "key": "gab",         "text": "Gab",           "prefix": "gab.com/",           "logo": "gab.png"           },
-	{ "key": "telegram",    "text": "Telegram",      "prefix": "t.me/",              "logo": "telegram.png"      },
-	{ "key": "twitter",     "text": "Twitter",       "prefix": "twitter.com/",       "logo": "twitter.png"       },
-	{ "key": "youtube",     "text": "YouTube",       "prefix": "youtube.com/",       "logo": "youtube.png"       },
-	{ "key": "instagram",   "text": "Instagram",     "prefix": "instagram.com/",     "logo": "instagram.png"     }
-]` | unmarshal }}
+{{ $meta := partialCached "data/profile-links.yaml" . }}
 
 <section>
 	<!--
-	 Range over the link meta data, not the links themselves, so that:
-	  1) the order is consistent, every time, no matter what links a profile provides.
-		2) to change the order, or remove a link, a change is only needed in one place.
+	  Range over the link meta data, not the links themselves, so that:
+	   1) the order is consistent, every time, no matter what links a profile provides.
+		 2) to change the order, or remove a link, a change is only needed in one place.
 	-->
 	{{ range $meta }}
 		{{ $prefix := default "" .prefix }}
@@ -34,7 +15,7 @@
 
 		<!-- Proceed if the profile provides this link. -->
 		{{ with index $ .key }}
-			{{ $href := printf "https://%s%s%s" $prefix . $suffix }}
+			{{ $href := printf "https://%s/%s%s" $prefix . $suffix }}
 
 			<a href="{{ $href }}" title="{{ $title }}" target="_blank">
 				{{ with $logo }}
