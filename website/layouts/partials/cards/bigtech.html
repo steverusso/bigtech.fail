@@ -2,7 +2,7 @@
 {{ $img := .Params.logo }}
 {{ $title := .Title }}
 {{ $caption := .Params.caption }}
-{{ $preview := plainify .Summary }}
+{{ $desc := plainify .Summary | safeHTML }}
 
 <a class="failing card" href="{{ $href }}">
 	<header>
@@ -15,6 +15,6 @@
 	</header>
 
 	<div>
-		<p>{{ $preview }}</p>
+		<p>{{ $desc }}</p>
 	</div>
 </a>
