@@ -53,7 +53,7 @@ img {
 	vertical-align: middle;
 }
 
-p, li {
+p, li, span {
 	color: var(--paraColor);
 }
 
