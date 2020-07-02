@@ -44,6 +44,8 @@ nav label > .icon svg {
 }
 
 nav aside {
+	background: var(--navBg);
+	box-shadow: none;
 	z-index: 9 !important;
 }
 nav aside > a {
@@ -54,6 +56,6 @@ nav aside > a {
 	padding: 1.5rem;
 }
 nav aside > a:hover {
-	background: var(--bodyBg2);
-	color: var(--bodyColor);
+	background: #444;
+	color: white;
 }
