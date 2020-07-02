@@ -24,7 +24,6 @@ sums:
   banned: true
   suspended: true
 url: /twitter/
-draft: true
 ---
 
 Twitter really takes the cake on many fronts, the most obvious would be
