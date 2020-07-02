@@ -3,7 +3,7 @@
 {{ $href := .RelPermalink }}
 {{ $logo := .Params.logo }}
 {{ $name := .Title }}
-{{ $preview := truncate 95 .Summary | plainify }}
+{{ $desc := truncate 95 .Summary | plainify | safeHTML }}
 
 <a class="alttech card min" href="{{ $href }}" target="_blank">
 	<header>
@@ -12,5 +12,5 @@
 		{{ $launchIcon }}
 	</header>
 
-	<p>{{ $preview }}</p>
+	<p>{{ $desc }}</p>
 </a>
