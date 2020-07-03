@@ -26,6 +26,7 @@ type scraperFunc func(Ctx, *policy) error
 
 var nonDefaultScrapers = map[string]scraperFunc{
 	"twitter/commguides": twtrCommGuides,
+	"youtube/commguides": ytCommGuides,
 }
 
 func ScrapePlatform(ctx Ctx, p *Platform) error {
@@ -151,4 +152,66 @@ func twtrCommGuideURLs(ctx Ctx) (urls []string, err error) {
 	}
 
 	return
+}
+
+// ytCommGuides gets the word count from each Google support link that makes up
+// YouTube's guidelines.
+func ytCommGuides(c Ctx, pol *policy) error {
+	const sel = "div.article-content-container"
+
+	ctx, cancel := chromedp.NewContext(c)
+	defer cancel()
+
+	urls, err := ytCommGuideURLs(ctx)
+	if err != nil {
+		return fmt.Errorf("getting youtube policy URLs: %v", err)
+	}
+
+	var totalWc int
+	for _, url := range urls {
+		eachCtx, _ := context.WithTimeout(ctx, time.Minute)
+
+		wc, err := getWordCount(eachCtx, url, sel)
+		if err != nil {
+			return fmt.Errorf("%s: %v\n", url, err)
+		}
+
+		totalWc += wc
+	}
+
+	pol.WordCnt = totalWc
+	return nil
+}
+
+// ytCommGuideURLs extracts all of the Google support links from YouTube's
+// "community guidelines" index page as well as the copyright index page (since
+// that's it's own section).
+func ytCommGuideURLs(ctx Ctx) ([]string, error) {
+	targets := map[string]string{
+		"https://www.youtube.com/about/policies/#community-guidelines":         "div.tabs__tab:nth-child(1) > div:nth-child(2) > div:nth-child(1) a",
+		"https://www.youtube.com/about/copyright/#support-and-troubleshooting": "div.tabs__tab:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div > a",
+	}
+
+	var urls []string
+	for page, sel := range targets {
+		var nodes []*cdp.Node
+		navigate := chromedp.Navigate(page)
+		getNodes := chromedp.Nodes(sel, &nodes)
+
+		if err := chromedp.Run(ctx, navigate, getNodes); err != nil {
+			return nil, fmt.Errorf("%s: %v", page, err)
+		}
+
+		for _, a := range nodes {
+			if url := a.AttributeValue("href"); isGoogleSupportLink(url) {
+				urls = append(urls, url)
+			}
+		}
+	}
+
+	return urls, nil
+}
+
+func isGoogleSupportLink(url string) bool {
+	return strings.HasPrefix(url, "https://support.google.com")
 }
