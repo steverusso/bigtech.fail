@@ -18,8 +18,9 @@ type Platform struct {
 	Logo     string             `yaml:"logo"`
 	Caption  string             `yaml:"caption"`
 	Policies map[string]*policy `yaml:"legal"`
+	Sums     map[string]bool    `yaml:"sums"`
 	URL      string             `yaml:"url"`
-	Draft    bool               `yaml:"draft"`
+	Draft    bool               `yaml:"draft,omitempty"`
 
 	Content  string `yaml:"-"`
 	FilePath string `yaml:"-"`
