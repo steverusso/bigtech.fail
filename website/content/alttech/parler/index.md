@@ -20,6 +20,7 @@ legal:
     wc: 1556
     asof: 2020-07-01
 weight: 2
+draft: true
 ---
 
 Parler (which means "to speak" in French) is a social networking and
