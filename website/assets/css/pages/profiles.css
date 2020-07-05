@@ -19,10 +19,10 @@
 	margin: 0.5rem 1.5rem 0.5rem 0;
 }
 .profile.cntr section a > .icon > svg {
-	max-width: 34px !important; max-height: 34px !important;
-	min-width: 34px !important; min-height: 34px !important;
+	width: 34px !important;
+	height: 34px !important;
 }
 .profile.cntr section a > img {
-	max-width: 32px;
-	max-height: 32px;
+	width: 32px !important;
+	height: 32px !important;
 }
