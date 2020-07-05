@@ -101,18 +101,11 @@ a.card:hover:after {
 	border-radius: 0 0 var(--cardRadius) var(--cardRadius);
 	padding: 0.25rem 1rem;
 	display: flex;
+	flex-flow: row wrap;
 	align-items: center;
 }
 .profile.card + section a {
 	margin: 0.5rem 1rem 0.5rem 0;
-}
-.profile.card + section a > .icon > svg {
-	max-width: 30px !important; max-height: 30px !important;
-	min-width: 30px !important; min-height: 30px !important;
-}
-.profile.card + section a > img {
-	max-width: 28px;
-	max-height: 28px;
 }
 
 .alttech.card q {

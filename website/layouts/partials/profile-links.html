@@ -20,8 +20,9 @@
 			<a href="{{ $href }}" title="{{ $title }}" target="_blank">
 				{{ with $logo }}
 					{{ $src := printf "/img/logos/%s" . }}
-					<img src="{{ $src }}" loading="lazy">
+					<img src="{{ $src }}" width="28" height="28" loading="lazy">
 				{{ else }}
+					{{ $icon = merge $icon (dict "size" 32) }}
 					{{ partialCached "icon.html" $icon $icon }}
 				{{ end }}
 			</a>
