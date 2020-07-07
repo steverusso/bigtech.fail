@@ -5,11 +5,7 @@
 {{ define "main" }}
 	{{ $name := .Title }}
 	{{ $nickname := .Params.aka }}
-
-	{{ $img := anchorize $name | printf "/img/people/%s.jpg" }}
-	{{ if not (fileExists (printf "/static/%s" $img)) }}
-		{{ $img = anchorize $name | printf "/img/people/%s.png" }}
-	{{ end }}
+	{{ $img := partialCached "profile-pic.html" . $name }}
 
 	<div class="profile cntr">
 		<header>
@@ -23,7 +19,7 @@
 
 		<hr>
 
-		{{ partialCached "profile-links.html" .Params.socials .Title }}
+		{{ partialCached "profile-links.html" .Params.socials $name }}
 
 		<article>{{ .Content }}</article>
 	</div>
