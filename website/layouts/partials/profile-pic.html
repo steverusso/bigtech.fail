@@ -1,0 +1,14 @@
+<!-- This partial returns the URL for the profile picture of the given -->
+<!-- Profile,	using the PNG if it exists and defaulting to the JPG. -->
+
+{{ $pic := "" }}
+{{ $key := anchorize .Title }}
+
+{{ range $ext := slice "jpg" "png" }}
+	{{ $imgSrc := printf "/img/people/%s.%s" $key $ext }}
+	{{ $exists := printf "/static%s" $imgSrc | fileExists }}
+
+	{{ $pic = $pic | cond $exists $imgSrc }}
+{{ end }}
+
+{{ return $pic }}

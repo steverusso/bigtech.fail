@@ -1,18 +1,12 @@
-{{ $name := .Title }}
-{{ $nickname := default "" .Params.aka }}
-
-<!-- Default to JPG. If not found, try PNG. -->
-{{ $img := printf "/img/people/%s.jpg" (anchorize $name) }}
-{{ if not (fileExists (printf "/static/%s" $img)) }}
-	{{ $img = printf "/img/people/%s.png" (anchorize $name) }}
-{{ end }}
-
-{{ $preview := .Summary | truncate 80 }}
 {{ $href := .RelPermalink }}
+{{ $name := .Title }}
+{{ $nickname := .Params.aka | default "" }}
+{{ $img := partialCached "profile-pic.html" . $name }}
+{{ $preview := .Summary | truncate 80 }}
 
 {{ $launchIcon := partialCached "icon.html" (dict "name" "launch" "color" "#777") "profile-card-launch" }}
 
-<a class="profile card" href="{{ $href }}" target="_blank">
+<a class="profile card" href="{{ $href }}">
 	<!-- Title area: profile pic, name, nickname (if any) and the launch icon. -->
 	<header>
 		<img src="{{ $img }}" loading="lazy">
@@ -35,4 +29,4 @@
  profile card itself is an `a` element, the social links (which are a bunch of
  `a` elements) need to be outside the card.
 -->
-{{ partialCached "profile-links.html" .Params.socials .Title }}
+{{ partialCached "profile-links.html" .Params.socials $name }}
