@@ -12,7 +12,7 @@
 
 {{ $launchIcon := partialCached "icon.html" (dict "name" "launch" "color" "#777") "profile-card-launch" }}
 
-<a class="profile card" href="{{ $href }}" target="_blank">
+<a class="profile card" href="{{ $href }}">
 	<!-- Title area: profile pic, name, nickname (if any) and the launch icon. -->
 	<header>
 		<img src="{{ $img }}" loading="lazy">
