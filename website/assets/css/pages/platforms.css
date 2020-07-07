@@ -10,8 +10,6 @@
 }
 .platform.cntr > header img {
 	margin-right: 2rem;
-	min-width: 80px; min-height: 80px;
-	max-width: 80px; max-height: 80px;
 }
 .platform.cntr > header > h1 {
 	font-size: 3.5rem;
