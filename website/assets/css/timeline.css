@@ -52,3 +52,23 @@
 		justify-content: start;
 	}
 }
+
+.condensed {
+	max-width: 650px;
+}
+.condensed > .timeline {
+	--dividerWidth: 40px;
+	--contentWidth: 100%;
+}
+.condensed > .timeline .item {
+	flex-direction: row;
+	justify-content: start;
+}
+.condensed > .timeline .event.card {
+	--imgSize: 72px;
+}
+@media (min-width: 750px) {
+	.condensed {
+		margin-left: 2.5rem;
+	}
+}
