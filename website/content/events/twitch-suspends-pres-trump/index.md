@@ -1,6 +1,6 @@
 ---
 title: Twitch Suspends Trump Campaign Account
-date: 2020-07-09
+date: 2020-06-29
 image: /img/people/trump.jpg
 platforms: [ twitch ]
 tags: [ suspended ]
