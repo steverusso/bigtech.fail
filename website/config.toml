@@ -1,7 +1,12 @@
 languageCode = "en-us"
-disableKinds = ["taxonomy", "taxonomyTerm"]
 title = "BigTech.fail"
 enableEmoji = true
+
+[taxonomies]
+	platform = "platforms"
+
+[permalinks]
+	platforms = "/:slug/"
 
 [markup.goldmark.renderer]
 unsafe= true
