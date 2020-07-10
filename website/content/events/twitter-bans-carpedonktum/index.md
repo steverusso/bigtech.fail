@@ -12,15 +12,14 @@ sources:
 ---
 
 Twitter suspended @CarpeDonktum, otherwise known as "Donald Trump's favorite
-meme maker." The account had about 273k followers.
+meme maker." The account had about 273k followers. In [the ban
+notice](ban-notice.jpg), Twitter said the ban was due to "multiple copyright
+infringement notifications" which CarpeDonktum decided not to contest.
 
-In [the ban notice](ban-notice.jpg), Twitter said the ban was due to "multiple
-copyright infringement notifications" which CarpeDonktum decided not to
-contest. He [compiled all of the
+The copyright complaints, likely all frivolous since the content is clearly
+fair use, were coincidentally filed after Trump tweeted one of CarpeDonktum's
+videos. The video in the tweet got nearly 20 million views and the tweet itself
+[was labeled](/events/twitter-labels-trump-tweet-as-manipulated-media/) as
+"maninpulated media" by Twitter. Carpe Donktum [compiled all of the
 videos](https://www.minds.com/newsfeed/1122612088517787648) that had violations
 filed against them.
-
-This happened about a week after Twitter [labeled a Trump
-tweet](/events/twitter-labels-trump-tweet-as-manipulated-media/) as
-"maninpulated media" which contained a clearly satirical video created by
-CarpeDonktum.

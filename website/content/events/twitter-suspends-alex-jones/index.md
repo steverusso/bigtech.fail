@@ -2,6 +2,7 @@
 date: 2018-08-14
 title: Twitter Suspends Alex Jones
 image: /img/people/alex-jones.jpg
+profiles: [ alex-jones ]
 platforms: [ twitter ]
 tags: [ suspended ]
 sources:

@@ -12,6 +12,8 @@ socials:
   twitter:  mlchristiansen
 ---
 
-Matt Christiansen is a political podcaster and YouTuber.
-
-He played a major role during the aftermath of the [Patreon-Sargon ban](/events/patreon-bans-sargon/) by "transcribing" and [publishing a very revealing phone call](/events/matt-christiansen-has-call-with-patreon/) he had with Jacqueline Hart from Patreon.
+Matt Christiansen is a political content creater and co-host of _Beauty and the
+Beta_. He played a major role during the aftermath of the [Patreon-Sargon
+ban](/events/patreon-bans-sargon/) by "transcribing" and [publishing a very
+revealing phone call](/events/matt-christiansen-has-call-with-patreon/) he had
+with Jacqueline Hart from Patreon.
