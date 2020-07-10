@@ -60,6 +60,10 @@ p, li, span {
 table {
 	border-collapse: collapse;
 }
+th {
+	background: var(--bodyBg);
+	text-align: left;
+}
 table, th, td {
 	border-top: 1px solid var(--border1);
 	border-bottom: 1px solid var(--border1);
@@ -73,9 +77,6 @@ th *, td * {
 }
 tr:nth-child(odd) {
 	background-color: var(--cardBg);
-}
-tr > td:first-child {
-	font-weight: bold;
 }
 table a {
 	color: var(--navColor);

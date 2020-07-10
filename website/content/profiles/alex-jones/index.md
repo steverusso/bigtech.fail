@@ -10,7 +10,7 @@ socials:
   minds:    Infowars/
 ---
 
-Alex Jones is perhaps the most banned person on the internet, having been banned from more than a dozen different platforms and services.
-From [his bio](https://www.infowars.com/about-alex-jones/): "Alex Jones is a unique voice that sifts through the information and exposes the underlying intentions."
-
-Despite the numerous bans, he remains active in the online free speech havens such as his own website, InfoWars.com, and other platforms such as Gab and Minds.
+Alex Jones [is](https://www.infowars.com/about-alex-jones/) "a unique voice
+that sifts through the information and exposes the underlying intentions." He
+is also perhaps the most banned person on the internet, having been banned from
+more than a dozen different platforms and services.
