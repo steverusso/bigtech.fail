@@ -1,5 +1,5 @@
 {{ $href := .RelPermalink }}
-{{ $img := .Params.logo }}
+{{ $img := anchorize .Name | printf "/img/logos/%s.png" }}
 {{ $title := .Title }}
 {{ $caption := .Params.caption }}
 {{ $desc := plainify .Summary | safeHTML }}

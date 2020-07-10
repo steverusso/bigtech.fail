@@ -1,6 +1,5 @@
 ---
 title: Patreon
-logo: /img/logos/patreon.png
 caption: Preventing you from supporting who you want
 legal:
   tos:
@@ -19,7 +18,6 @@ legal:
 sums:
   banned: true
   walked-away: true
-url: /patreon/
 ---
 
 Patreon is a financial services platform that has a history of stepping outside their own ToS and banning people for political reasons.
