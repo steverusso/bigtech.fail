@@ -5,9 +5,11 @@
 
 		<div class="grid md-6">
 			{{ range .Pages }}
-				<div>
-					{{ partial "cards/bigtech.html" . }}
-				</div>
+				{{ if .Content | ne "" }}
+					<div>
+						{{ partial "cards/bigtech.html" . }}
+					</div>
+				{{ end }}
 			{{ end }}
 		</div>
 	</div>
