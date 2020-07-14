@@ -3,11 +3,12 @@
 {{ end }}
 
 {{ define "main" }}
-	{{ $sumsData := partialCached "data/platform-sums.html" . }}
+	{{ $sumsMeta := partialCached "data/platform-sums.html" . }}
 
 	{{ $name := .Name | anchorize }}
 	{{ $img := anchorize .Name | printf "/img/logos/%s.png" }}
 	{{ $events := .Pages }}
+	{{ $sumFields := .Params.sums | default dict }}
 
 	{{ $alts := (.Site.GetPage "/alttech").Pages }}
 	{{ $alts := where $alts "Params.altfor" "intersect" (slice $name) }}
@@ -34,17 +35,15 @@
 						{{ partial "policy-table-rows.html" . }}
 					{{ end }}
 
-					{{ range $k, $v := $sumsData }}
+					{{ range $k, $v := $sumsMeta }}
 						<!-- Proceed if the Platform provides this sum key. -->
-						{{ with $.Params.sums }}
-						{{ with index . $k }}
+						{{ with index $sumFields $k }}
 							{{ $num := where $events "Params.tags" "intersect" (slice $k) | len }}
 
 							<tr>
 								<td>{{ $v.caption }}</td>
 								<td><b class="{{ $k }}">{{ $num }}</b></td>
 							</tr>
-						{{ end }}
 						{{ end }}
 					{{ end }}
 				</table>
