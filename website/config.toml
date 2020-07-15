@@ -2,6 +2,9 @@ languageCode = "en-us"
 title = "BigTech.fail"
 enableEmoji = true
 
+[minify]
+	minifyOutput = true
+
 [taxonomies]
 	platform = "platforms"
 
