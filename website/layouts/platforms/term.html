@@ -3,15 +3,9 @@
 {{ end }}
 
 {{ define "main" }}
-	{{ $sumsMeta := partialCached "data/platform-sums.html" . }}
-
 	{{ $slug := .Name | anchorize }}
 	{{ $img := $slug | printf "/img/logos/%s.png" }}
 	{{ $events := .Pages }}
-	{{ $sumFields := .Params.sums | default dict }}
-
-	{{ $alts := (.Site.GetPage "/alttech").Pages }}
-	{{ $alts := where $alts "Params.altfor" "intersect" (slice $slug) }}
 
 	<div class="platform cntr">
 		<header>
@@ -21,46 +15,14 @@
 
 		<hr>
 
-		<div class="row content">
-			<!-- The summary article on the platform. -->
-			<article class="col md-7 lg-8">
-				{{ .Content }}
-			</article>
+		{{ if not .Params.eventsOnly }}
+			{{ partial "platform-rundown.html" . }}
 
-			<!-- The policy data and alternative platforms. -->
-			<!-- This appears as a sidebar on larger screens. -->
-			<section class="col md-5 lg-4">
-				<table>
-					{{ with .Params.legal }}
-						{{ partial "policy-table-rows.html" . }}
-					{{ end }}
-
-					{{ range $k, $v := $sumsMeta }}
-						<!-- Proceed if the Platform provides this sum key. -->
-						{{ with index $sumFields $k }}
-							{{ $num := where $events "Params.tags" "intersect" (slice $k) | len }}
-
-							<tr>
-								<td>{{ $v.caption }}</td>
-								<td><b class="{{ $k }}">{{ $num }}</b></td>
-							</tr>
-						{{ end }}
-					{{ end }}
-				</table>
-
-				<h3>Alternative Platforms ({{ len $alts }})</h3>
-				<div class="grid sm-6 md-12 alts">
-					{{ range $alts }}
-						<div>{{ partial "cards/alttech-min.html" . }}</div>
-					{{ end }}
-				</div>
-			</section>
-		</div>
-
-		<div class="events-heading">
-			<h1>Events <b>( {{ len $events }} )</b></h1>
-			<hr>
-		</div>
+			<div class="events-heading">
+				<h1>Events <b>( {{ len $events }} )</b></h1>
+				<hr>
+			</div>
+		{{ end }}
 
 		{{ partial "events-timeline.html" $events }}
 	</div>
