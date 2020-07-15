@@ -1,6 +1,5 @@
 ---
 title: Twitter
-logo: /img/logos/twitter.png
 caption: "Perfecting digital echo chambers."
 legal:
   commguides:
@@ -23,7 +22,6 @@ legal:
 sums:
   banned: true
   suspended: true
-url: /twitter/
 ---
 
 Twitter really takes the cake on many fronts, the most obvious would be

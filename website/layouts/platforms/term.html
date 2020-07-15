@@ -3,19 +3,19 @@
 {{ end }}
 
 {{ define "main" }}
-	{{ $name := .Name | anchorize }}
+	{{ $sumsMeta := partialCached "data/platform-sums.html" . }}
+
+	{{ $slug := .Name | anchorize }}
+	{{ $img := $slug | printf "/img/logos/%s.png" }}
+	{{ $events := .Pages }}
+	{{ $sumFields := .Params.sums | default dict }}
 
 	{{ $alts := (.Site.GetPage "/alttech").Pages }}
-	{{ $alts := where $alts "Params.altfor" "intersect" (slice $name) }}
-
-	{{ $events := partialCached "data/events" . }}
-	{{ $events := where $events "Params.platforms" "intersect" (slice $name) }}
-
-	{{ $sumsData := partialCached "data/platform-sums.html" . }}
+	{{ $alts := where $alts "Params.altfor" "intersect" (slice $slug) }}
 
 	<div class="platform cntr">
 		<header>
-			<img src="{{ .Params.logo }}" width="80" height="80" loading="lazy">
+			<img src="{{ $img }}" width="80" height="80" loading="lazy">
 			<h1>{{ .Title }}</h1>
 		</header>
 
@@ -35,9 +35,9 @@
 						{{ partial "policy-table-rows.html" . }}
 					{{ end }}
 
-					{{ range $k, $v := $sumsData }}
+					{{ range $k, $v := $sumsMeta }}
 						<!-- Proceed if the Platform provides this sum key. -->
-						{{ with index $.Params.sums $k }}
+						{{ with index $sumFields $k }}
 							{{ $num := where $events "Params.tags" "intersect" (slice $k) | len }}
 
 							<tr>

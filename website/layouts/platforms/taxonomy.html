@@ -4,10 +4,12 @@
 		<hr>
 
 		<div class="grid md-6">
-			{{ range .Paginator.Pages }}
-				<div>
-					{{ partial "cards/bigtech.html" . }}
-				</div>
+			{{ range .Pages }}
+				{{ if .Content | ne "" }}
+					<div>
+						{{ partial "cards/bigtech.html" . }}
+					</div>
+				{{ end }}
 			{{ end }}
 		</div>
 	</div>
