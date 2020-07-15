@@ -1,4 +1,4 @@
-{{ $meta := partialCached "data/profile-links.yaml" . }}
+{{ $meta := resources.Get "data/profile-links.yaml" | unmarshal }}
 
 <section>
 	<!--
