@@ -5,13 +5,13 @@
 {{ define "main" }}
 	{{ $sumsMeta := partialCached "data/platform-sums.html" . }}
 
-	{{ $name := .Name | anchorize }}
-	{{ $img := anchorize .Name | printf "/img/logos/%s.png" }}
+	{{ $slug := .Name | anchorize }}
+	{{ $img := $slug | printf "/img/logos/%s.png" }}
 	{{ $events := .Pages }}
 	{{ $sumFields := .Params.sums | default dict }}
 
 	{{ $alts := (.Site.GetPage "/alttech").Pages }}
-	{{ $alts := where $alts "Params.altfor" "intersect" (slice $name) }}
+	{{ $alts := where $alts "Params.altfor" "intersect" (slice $slug) }}
 
 	<div class="platform cntr">
 		<header>
