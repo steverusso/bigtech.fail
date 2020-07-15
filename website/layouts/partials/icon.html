@@ -1,4 +1,4 @@
-{{ $icons := partialCached "data/icons.html" . }}
+{{ $icons := resources.Get "data/icons.yaml" | unmarshal }}
 
 <!-- Default values for color, size and name. -->
 {{ $color := "#fff" }}
