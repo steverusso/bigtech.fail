@@ -1,4 +1,4 @@
-{{ $sumsMeta := partialCached "data/platform-sums.html" . }}
+{{ $sumsMeta := resources.Get "data/platform-sums.yaml" | unmarshal }}
 
 {{ $slug := .Name | anchorize }}
 {{ $sumFields := .Params.sums | default dict }}
