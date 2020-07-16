@@ -94,11 +94,38 @@ table a {
 	background: var(--bgClr);
 	color: #fff;
 	height: var(--height);
+	border: 1px solid transparent;
 	border-radius: var(--height);
 	display: inline-flex;
 	align-items: center;
 	font-size: 0.75rem;
+	margin: 0.2rem;
 	padding: 0 12px;
+	position: relative;
 }
+.chip:hover {
+	text-decoration: none;
+	border: 1px solid #fff;
+}
+.chip:after {
+	content: "";
+	border-radius: var(--height);
+	position: absolute;
+	top: 0; right: 0; bottom: 0; left: 0;
+}
+.chip:hover:after {
+	background: rgba(0,0,0,0.15);
+}
+.chip.amazon {    --bgClr: #ff9800 }
+.chip.apple {     --bgClr: #f48fb1 }
+.chip.facebook {  --bgClr: #3f51b5 }
+.chip.google {    --bgClr: #448Aff }
+.chip.instagram { --bgClr: #e040fb }
+.chip.patreon {   --bgClr: #ff8a80 }
+.chip.pinterest { --bgClr: #c62828 }
+.chip.reddit {    --bgClr: #ff5722 }
+.chip.spotify {   --bgClr: #4caf50 }
+.chip.twitter {   --bgClr: #03a9f4 }
+.chip.youtube {   --bgClr: #e53935 }
 
 .mb-8 { margin-bottom: 2rem !important }

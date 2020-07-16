@@ -8,7 +8,6 @@
 	{{ $slogan := .Params.slogan }}
 	{{ $site := .Params.site }}
 	{{ $href := printf "https://%s" $site }}
-	{{ $similarChips := partial "bigtech-chips.html" .Params.altfor }}
 
 	<div class="alttech cntr">
 		<header>
@@ -28,7 +27,11 @@
 		<table>
 			<tr>
 				<td>Similar to:</td>
-				<td>{{ $similarChips }}</td>
+				<td>
+					{{ range .Params.altfor }}
+						<a href="/{{ . }}/" class="chip {{ . }}">{{ . }}</a>
+					{{ end }}
+				</td>
 			</tr>
 
 			{{ with .Params.legal }}
