@@ -1,0 +1,16 @@
+{{ define "title" }} | {{ .Title | title }} {{ end }}
+
+{{ define "main" }}
+	<div class="cntr">
+		<h1>Alternatives for {{ .Title | title }}</h1>
+		<hr>
+
+		<div class="grid md-6 lg-4">
+			{{ range .Pages }}
+				<div>
+					{{ partial "cards/alttech.html" . }}
+				</div>
+			{{ end }}
+		</div>
+	</div>
+{{ end }}
