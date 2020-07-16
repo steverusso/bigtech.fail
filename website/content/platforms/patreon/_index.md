@@ -15,9 +15,7 @@ legal:
     asof: 2020-04-01
     url: https://www.patreon.com/policy/guidelines
     wc: 2876
-sums:
-  banned: true
-  walked-away: true
+tags: [ banned, walked-away ]
 ---
 
 Patreon is a financial services platform that has a history of stepping outside their own ToS and banning people for political reasons.

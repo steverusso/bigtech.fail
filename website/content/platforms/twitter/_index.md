@@ -19,9 +19,7 @@ legal:
     sel: main > .p22-chapters-container
     arc: https://archive.vn/Ch4z3
     wc: 5606
-sums:
-  banned: true
-  suspended: true
+tags: [ banned, suspended ]
 ---
 
 Twitter really takes the cake on many fronts, the most obvious would be
