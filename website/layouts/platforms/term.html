@@ -15,7 +15,7 @@
 
 		<hr>
 
-		{{ if not .Params.eventsOnly }}
+		{{ if .Content | ne "" }}
 			{{ partial "platform-rundown.html" . }}
 
 			<div class="events-heading">
