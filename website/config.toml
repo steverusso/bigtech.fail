@@ -7,10 +7,11 @@ enableEmoji = true
 
 [taxonomies]
 	profile = "profiles"
+	altfor = "altfor"
 	platform = "platforms"
 
 [permalinks]
 	platforms = "/:slug/"
 
 [markup.goldmark.renderer]
-unsafe= true
+	unsafe= true
