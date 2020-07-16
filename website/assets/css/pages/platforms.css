@@ -43,8 +43,12 @@
 }
 
 .banned { color: #f44336 }
-.suspended { color: #ff9800 }
+.suspended, .content-removed { color: #ff9800 }
 .walked-away { color: #43a047 }
 
 .events-heading { padding: 1rem 0 0 1rem }
 .events-heading b { font-size: 1.25rem }
+
+tr > td:first-child {
+	font-weight: bold;
+}
