@@ -31,11 +31,14 @@
 			{{ end }}
 		</table>
 
-		<h3>Alternative Platforms ({{ len $alts }})</h3>
-		<div class="grid sm-6 md-12 alts">
-			{{ range $alts }}
-				<div>{{ partial "cards/alttech-min.html" . }}</div>
-			{{ end }}
-		</div>
+		{{ with $alts }}
+			<h3>Alternative Platforms ({{ len . }})</h3>
+
+			<div class="grid sm-6 md-12 alts">
+				{{ range . }}
+					<div>{{ partial "cards/alttech-min.html" . }}</div>
+				{{ end }}
+			</div>
+		{{ end }}
 	</section>
 </div>
