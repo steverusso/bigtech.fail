@@ -31,6 +31,9 @@
 table {
 	margin-bottom: 3rem;
 }
+tr > td:first-child {
+	font-weight: bold;
+}
 table .chip {
 	margin-right: 0.5rem;
 }
