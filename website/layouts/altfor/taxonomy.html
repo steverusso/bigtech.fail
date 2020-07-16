@@ -3,11 +3,13 @@
 		<header>
 			<h1>Alternative Platforms</h1>
 
+			<!--
 			{{ range .Pages }}
-				<a href="{{ .RelPermalink }}" class="chip {{ .Name }}">
-					{{ .Name }}
+				<a href="{{ .RelPermalink }}" class="chip {{ .Name | anchorize }}">
+					{{ .Name | title }}
 				</a>
 			{{ end }}
+			-->
 		</header>
 
 		<hr>
