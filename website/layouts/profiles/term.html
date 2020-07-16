@@ -13,7 +13,7 @@
 
 			<div>
 				<h1>{{ $name }}</h1>
-				<p>{{ $nickname }}</p>
+				{{ with $nickname }}<p>{{ . }}</p>{{ end }}
 			</div>
 		</header>
 
