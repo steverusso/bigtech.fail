@@ -2,9 +2,7 @@
 
 {{ $slug := .Name | anchorize }}
 {{ $sumFields := .Params.sums | default dict }}
-
-{{ $alts := (.Site.GetPage "/alttech").Pages }}
-{{ $alts := where $alts "Params.altfor" "intersect" (slice $slug) }}
+{{ $alts := index .Site.Taxonomies.altfor $slug }}
 
 <div class="row content">
 	<!-- The summary article on the platform. -->
