@@ -1,7 +1,7 @@
-{{ $sumsMeta := resources.Get "data/platform-sums.yaml" | unmarshal }}
+{{ $tagsMeta := resources.Get "data/tags.yaml" | unmarshal }}
 
 {{ $slug := .Name | anchorize }}
-{{ $sumFields := .Params.sums | default dict }}
+{{ $tags := .Params.tags | default slice }}
 {{ $alts := index .Site.Taxonomies.altfor $slug }}
 
 <div class="row content">
@@ -18,16 +18,13 @@
 				{{ partial "policy-table-rows.html" . }}
 			{{ end }}
 
-			{{ range $k, $v := $sumsMeta }}
-				<!-- Proceed if the Platform provides this sum key. -->
-				{{ with index $sumFields $k }}
-					{{ $num := where $.Pages "Params.tags" "intersect" (slice $k) | len }}
+			{{ range $tags}}
+				{{ $num := where $.Pages "Params.tags" "intersect" (slice .) | len }}
 
-					<tr>
-						<td>{{ $v.caption }}</td>
-						<td><b class="{{ $k }}">{{ $num }}</b></td>
-					</tr>
-				{{ end }}
+				<tr>
+					<td>{{ (index $tagsMeta .).caption }}</td>
+					<td><b class="{{ . }}">{{ $num }}</b></td>
+				</tr>
 			{{ end }}
 		</table>
 
