@@ -7,17 +7,13 @@
 	{{ $nickname := .Params.aka }}
 	{{ $img := partialCached "profile-pic.html" . $name }}
 
-	{{ $k := slice (anchorize $name) }}
-	{{ $events := partialCached "data/events" . }}
-	{{ $events := where $events "Params.profiles" "intersect" $k }}
-
 	<div class="profile cntr">
 		<header>
 			<img src="{{ $img }}" width="120" height="120" loading="lazy">
 
 			<div>
 				<h1>{{ $name }}</h1>
-				<p>{{ $nickname }}</p>
+				{{ with $nickname }}<p>{{ . }}</p>{{ end }}
 			</div>
 		</header>
 
@@ -30,7 +26,7 @@
 		<hr>
 
 		<div class="condensed">
-			{{ partial "events-timeline.html" $events }}
+			{{ partial "events-timeline.html" .Pages }}
 		</div>
 	</div>
 {{ end }}

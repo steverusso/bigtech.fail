@@ -6,6 +6,7 @@ enableEmoji = true
 	minifyOutput = true
 
 [taxonomies]
+	profile = "profiles"
 	platform = "platforms"
 
 [permalinks]
