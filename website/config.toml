@@ -12,6 +12,7 @@ enableEmoji = true
 
 [permalinks]
 	platforms = "/:slug/"
+	altfor = "/:slug/alts"
 
 [markup.goldmark.renderer]
 	unsafe= true
