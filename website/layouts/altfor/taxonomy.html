@@ -4,7 +4,7 @@
 		<hr>
 
 		<div class="grid md-6 lg-4">
-			{{ range .Pages }}
+			{{ range (.Site.GetPage "section" "alttech").Pages }}
 				<div>
 					{{ partial "cards/alttech.html" . }}
 				</div>
