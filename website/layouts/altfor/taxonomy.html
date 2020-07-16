@@ -1,0 +1,25 @@
+{{ define "title" }} | AltTech {{ end }}
+
+{{ define "main" }}
+	<div class="cntr">
+		<header>
+			<h1>Alternative Platforms</h1>
+
+			{{ range .Pages }}
+				<a href="{{ .RelPermalink }}" class="chip {{ .Name }}">
+					{{ .Name }}
+				</a>
+			{{ end }}
+		</header>
+
+		<hr>
+
+		<div class="grid md-6 lg-4">
+			{{ range (.Site.GetPage "section" "alttech").Pages }}
+				<div>
+					{{ partial "cards/alttech.html" . }}
+				</div>
+			{{ end }}
+		</div>
+	</div>
+{{ end }}
