@@ -12,7 +12,6 @@ socials:
   telegram:  freedomainradio
   parler:    profile/stefanmolyneux
   gab:       stefanmolyneux
-  twitter:   StefanMolyneux
   instagram: stefanmolyneux
 ---
 
