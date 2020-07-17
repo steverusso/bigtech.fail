@@ -15,8 +15,6 @@
 }
 .event.cntr main > header img {
 	margin-right: 2rem;
-	min-width: 128px; min-height: 128px;
-	max-width: 128px; max-height: 128px;
 }
 
 .event-meta {
