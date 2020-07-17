@@ -1,5 +1,3 @@
-{{ $icons := resources.Get "data/icons.yaml" | unmarshal }}
-
 <!-- Default values for color, size and name. -->
 {{ $color := "#fff" }}
 {{ $size := 24 }}
@@ -14,6 +12,6 @@
 
 <div class="icon">
 	<svg width="{{ $size }}" height="{{ $size }}" viewBox="0 0 24 24" fill="{{ $color }}">
-		{{ index $icons $name | safeHTML }}
+		{{ index site.Data.icons $name | safeHTML }}
 	</svg>
 </div>

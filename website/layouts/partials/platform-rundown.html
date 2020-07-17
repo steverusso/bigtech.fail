@@ -1,5 +1,3 @@
-{{ $tagsMeta := resources.Get "data/tags.yaml" | unmarshal }}
-
 {{ $slug := .Name | anchorize }}
 {{ $tags := .Params.tags | default slice }}
 {{ $alts := index .Site.Taxonomies.altfor $slug }}
@@ -22,7 +20,7 @@
 				{{ $num := where $.Pages "Params.tags" "intersect" (slice .) | len }}
 
 				<tr>
-					<td>{{ (index $tagsMeta .).caption }}</td>
+					<td>{{ (index site.Data.tags .).caption }}</td>
 					<td><b class="{{ . }}">{{ $num }}</b></td>
 				</tr>
 			{{ end }}
