@@ -3,8 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-	{{ $hasProfiles := isset .Params "profiles" }}
-	{{ $class := and $hasProfiles `has-profiles` }}
+	{{ $class := and (.Param `profiles`) `has-profiles` }}
 
 	<div class="event cntr {{ $class }}">
 		<main>
