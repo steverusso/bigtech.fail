@@ -1,29 +1,23 @@
-{{ $meta := site.Data.profileLinksMeta }}
-
 <section>
 	<!--
 	  Range over the link meta data, not the links themselves, so that:
 	   1) the order is consistent, every time, no matter what links a profile provides.
 		 2) to change the order, or remove a link, a change is only needed in one place.
 	-->
-	{{ range $meta }}
-		{{ $prefix := default "" .prefix }}
-		{{ $suffix := default "" .suffix }}
-		{{ $title := .text }}
-		{{ $icon := .icon }}
-		{{ $logo := .logo }}
-
+	{{ range $v := site.Data.profileLinksMeta }}
 		<!-- Proceed if the profile provides this link. -->
 		{{ with index $ .key }}
+			{{ $prefix := $v.prefix | default "" }}
+			{{ $suffix := $v.suffix | default "" }}
 			{{ $href := printf "https://%s/%s%s" $prefix . $suffix }}
 
-			<a href="{{ $href }}" title="{{ $title }}" target="_blank">
-				{{ with $logo }}
+			<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">
+				{{ with $v.logo }}
 					{{ $src := printf "/img/logos/%s" . }}
 					<img src="{{ $src }}" width="28" height="28" loading="lazy">
 				{{ else }}
-					{{ $icon = merge $icon (dict "size" 32) }}
-					{{ partialCached "icon.html" $icon $icon }}
+					{{ $ic := $v.icon | merge (dict "size" 32) }}
+					{{ partialCached "icon.html" $ic $ic }}
 				{{ end }}
 			</a>
 		{{ end }}
