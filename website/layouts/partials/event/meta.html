@@ -1,5 +1,5 @@
-{{ $eventIcon := partialCached "icon.html" "event" }}
-{{ $clockIcon := partialCached "icon.html" "schedule" }}
+{{ $eventIcon := partialCached "icon.html" "event" "event" }}
+{{ $clockIcon := partialCached "icon.html" "schedule" "schedule" }}
 
 {{ $when := .Params.date | dateFormat "Jan 2, 2006" }}
 {{ $readTime := .ReadingTime | printf "~ %dm read" }}
