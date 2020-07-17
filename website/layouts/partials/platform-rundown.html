@@ -20,7 +20,7 @@
 				{{ $num := where $.Pages "Params.tags" "intersect" (slice .) | len }}
 
 				<tr>
-					<td>{{ (index site.Data.tags .).caption }}</td>
+					<td>{{ (index site.Data.tagsMeta .).caption }}</td>
 					<td><b class="{{ . }}">{{ $num }}</b></td>
 				</tr>
 			{{ end }}
