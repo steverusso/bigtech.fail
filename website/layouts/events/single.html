@@ -30,8 +30,8 @@
 		</main>
 
 		<!-- The profiles of the people involved in the event (if any). -->
-		{{ if $hasProfiles }}
-			{{ partialCached "event/profiles.html" . .Params.profiles }}
+		{{ with .Params.profiles }}
+			{{ partialCached "event/profiles.html" . . }}
 		{{ end }}
 	</div>
 {{ end }}
