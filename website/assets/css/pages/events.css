@@ -29,7 +29,8 @@
 .event-meta > div > .icon {
 	margin-right: 0.5rem;
 }
-.event-meta > div > .icon svg {
+.event-meta > div > .icon svg,
+.profile-drawer-content > header > .icon > svg {
 	fill: var(--captionColor);
 }
 
