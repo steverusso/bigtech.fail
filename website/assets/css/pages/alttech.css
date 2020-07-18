@@ -21,17 +21,11 @@
 	font-style: italic;
 	margin-left: 0.5rem;
 }
-.alttech.cntr > header a:hover {
-	text-decoration: underline;
-}
 table {
 	margin-bottom: 3rem;
 }
 tr > td:first-child {
 	font-weight: bold;
-}
-table .chip {
-	margin-right: 0.5rem;
 }
 @media (max-width: 599px) {
 	table {
