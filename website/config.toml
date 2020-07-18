@@ -1,4 +1,5 @@
 languageCode = "en-us"
+disableKinds = [ "RSS" ]
 title = "BigTech.fail"
 enableEmoji = true
 
