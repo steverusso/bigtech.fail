@@ -3,6 +3,11 @@
 {{ end }}
 
 {{ define "main" }}
+	{{ $eventIcon := partialCached "icon.html" "event" "event" }}
+	{{ $clockIcon := partialCached "icon.html" "schedule" "schedule" }}
+
+	{{ $when := .Params.date | dateFormat "Jan 2, 2006" }}
+	{{ $readTime := .ReadingTime | printf "~ %dm read" }}
 	{{ $class := and (.Param `profiles`) `has-profiles` }}
 
 	<div class="event cntr {{ $class }}">
@@ -15,7 +20,11 @@
 
 			<hr>
 
-			{{ partial "event/meta.html" . }}
+			<!-- Meta data: date the event took place, how long it takes to read. -->
+			<div class="event-meta">
+				<div>{{ $eventIcon }} {{ $when }}</div>
+				<div>{{ $clockIcon }} {{ $readTime }}</div>
+			</div>
 
 			<!-- The article -->
 			<article>{{ .Content }}</article>
