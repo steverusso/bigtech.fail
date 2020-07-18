@@ -5,7 +5,6 @@
 {{ define "main" }}
 	{{ $logo := .Params.logo }}
 	{{ $name := .Title }}
-	{{ $slogan := .Params.slogan }}
 	{{ $site := .Params.site }}
 	{{ $href := printf "https://%s" $site }}
 
@@ -15,7 +14,11 @@
 
 			<div>
 				<h1>{{ $name }}</h1>
-				<q>{{ $slogan }}</q>
+
+				{{ with .Params.slogan }}
+					<q>{{ . }}</q>
+				{{ end }}
+
 				<a href="{{ $href }}" target="_blank">{{ $site }}</a>
 			</div>
 		</header>
