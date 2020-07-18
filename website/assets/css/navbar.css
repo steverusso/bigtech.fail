@@ -10,10 +10,6 @@ nav {
 	width: 100%;
 	z-index: 4;
 }
-nav > :first-child img {
-	height: 36px;
-	width: auto;
-}
 nav > :first-child {
 	font-size: 1.25rem;
 }
