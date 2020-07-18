@@ -1,10 +1,10 @@
 {{ $hamburger := partial "icon.html" "menu" }}
-{{ $navLinks := .Site.Data.navLinks }}
+{{ $navLinks := site.Data.navLinks }}
 
 <nav>
 	<a href="/">
 		{{ $img := cond .IsHome "short-96" "long" }}
-		<img src="/img/bigtechfail-{{ $img }}.png" loading="lazy">
+		<img src="/img/bigtechfail-{{ $img }}.png" height="36" width="auto" loading="lazy">
 	</a>
 
 	<div class="items hide-xs">

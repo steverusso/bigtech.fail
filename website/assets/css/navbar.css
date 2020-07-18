@@ -1,26 +1,17 @@
 nav {
 	background: var(--navBg);
-	box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.35) ,0 1px 10px 0 rgba(0,0,0,.12);
+	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
 	display: flex;
-	align-items: stretch;
 	justify-content: space-between;
 	height: var(--navHeight);
 	position: sticky;
 	top: 0;
-	width: 100%;
 	z-index: 4;
-}
-nav > :first-child img {
-	height: 36px;
-	width: auto;
-}
-nav > :first-child {
-	font-size: 1.25rem;
 }
 nav .items {
 	font-size: 0.925rem;
 }
-nav a {
+nav > a, nav .items a {
 	color: var(--navColor);
 	display: inline-flex;
 	align-items: center;
@@ -30,19 +21,19 @@ nav a {
 nav a:hover {
 	color: #888;
 }
+
 nav label > .icon {
 	height: var(--navHeight);
 	display: flex;
 	align-items: center;
+	padding: 0 1.25rem;
 	position: fixed;
 	top: 0; right: 0;
 	z-index: 10;
-	padding: 0 1.25rem;
 }
 nav label > .icon svg {
 	fill: var(--navColor);
 }
-
 nav aside {
 	background: var(--navBg);
 	box-shadow: none;
@@ -51,11 +42,6 @@ nav aside {
 nav aside > a {
 	color: var(--navColor);
 	display: block;
-	height: auto;
 	text-align: right;
 	padding: 1.5rem;
-}
-nav aside > a:hover {
-	background: #444;
-	color: white;
 }
