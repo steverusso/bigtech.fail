@@ -1,22 +1,22 @@
-.alttech.cntr {
+.cntr {
 	width: 900px;
 	padding: 2rem 1rem;
 }
-.alttech.cntr > header {
+.cntr > header {
 	margin-bottom: 2rem;
 }
-.alttech.cntr > header img {
+.cntr > header img {
 	margin-right: 2rem;
 }
-.alttech.cntr > header h1 {
+.cntr > header h1 {
 	margin: 0;
 	margin-bottom: 0.75rem;
 }
-.alttech.cntr > header q {
+.cntr > header q {
 	font-size: 0.9rem;
 	margin: 1.25rem 0 0.5rem 0;
 }
-.alttech.cntr > header a {
+.cntr > header a {
 	font-size: 0.9rem;
 	font-style: italic;
 	margin-left: 0.5rem;
@@ -31,7 +31,7 @@ tr > td:first-child {
 	table {
 		width: 100%;
 	}
-	.alttech.cntr header + hr {
+	.cntr header + hr {
 		display: none;
 	}
 }
