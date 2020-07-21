@@ -1,29 +1,29 @@
-.cntr {
+.prof.cntr {
 	padding: 1.5rem;
 }
-.cntr header img {
+.prof.cntr header img {
 	margin-right: 1rem;
 }
-.cntr header h1 {
+.prof.cntr header h1 {
 	margin: 0;
 }
-.cntr header p {
+.prof.cntr header p {
 	font-size: 0.9rem;
 }
-.cntr section {
+.prof.cntr section {
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;
 	margin-bottom: 3rem;
 }
-.cntr section a {
+.prof.cntr section a {
 	margin: 0.5rem 1.5rem 0.5rem 0;
 }
-.cntr section a > .icon > svg {
+.prof.cntr section a > .icon > svg {
 	width: 34px !important;
 	height: 34px !important;
 }
-.cntr section a > img {
+.prof.cntr section a > img {
 	width: 32px !important;
 	height: 32px !important;
 }

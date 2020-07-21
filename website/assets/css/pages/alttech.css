@@ -1,21 +1,21 @@
-.cntr {
+.altt.cntr {
 	padding: 2rem 1rem;
 }
-.cntr > header {
+.altt.cntr > header {
 	margin-bottom: 2rem;
 }
-.cntr > header img {
+.altt.cntr > header img {
 	margin-right: 2rem;
 }
-.cntr > header h1 {
+.altt.cntr > header h1 {
 	margin: 0;
 	margin-bottom: 0.75rem;
 }
-.cntr > header q {
+.altt.cntr > header q {
 	font-size: 0.9rem;
 	margin: 1.25rem 0 0.5rem 0;
 }
-.cntr > header a {
+.altt.cntr > header a {
 	font-size: 0.9rem;
 	font-style: italic;
 	margin-left: 0.5rem;
@@ -30,7 +30,7 @@ tr > td:first-child {
 	table {
 		width: 100%;
 	}
-	.cntr header + hr {
+	.altt.cntr header + hr {
 		display: none;
 	}
 }
