@@ -3,6 +3,9 @@ disableKinds = [ "RSS" ]
 title = "BigTech.fail"
 enableEmoji = true
 
+[frontmatter]
+	lastmod = [ ":git", "lastmod" ]
+
 [minify]
 	minifyOutput = true
 
