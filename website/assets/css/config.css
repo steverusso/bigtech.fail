@@ -1,6 +1,5 @@
 :root {
 	--navHeight: 64px;
-	--cntrWidth: 1200px;
 	--cardRadius: 4px;
 
 	--bodyBg: #222;
@@ -40,8 +39,6 @@
 		--bodyColor: #444;
 
 		--navBg: #333;
-		--footerColor: #333;
-		--footerBg: #ebebeb;
 
 		--paraColor: #777;
 		--linkColor: #03A9F4;

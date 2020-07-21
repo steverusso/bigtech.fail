@@ -19,10 +19,3 @@
 	align-items: center;
 	justify-content: center;
 }
-.overlay.bordered {
-	border: 1px solid #aaa;
-}
-.overlay.absolute {
-	position: absolute !important;
-	z-index: 2 !important;
-}

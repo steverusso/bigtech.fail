@@ -1,7 +1,7 @@
 footer {
 	background: var(--footerBg);
 	border-top: 1px solid var(--border1);
-	color: var(--footerColor);
+	color: #fff;
 }
 footer section {
 	display: flex;
@@ -12,20 +12,19 @@ footer section {
 	margin-bottom: 2rem;
 }
 footer section > div {
-	margin: 2rem 1rem;
+	margin: 0 1rem 2rem;
 }
 footer h3 {
 	margin-bottom: 1.5rem;
 }
 footer a {
-	color: var(--captionColor);
+	color: #bbb;
 	display: flex;
 	align-items: center;
 	margin: 1rem 0 0 0.5rem;
 }
-footer a > img:first-child,
-footer a > .icon:first-child {
-	margin-right: 0.5rem;
+footer a > img, footer a > .icon {
+	margin-right: 0.75rem;
 }
 footer a:hover {
 	color: #777;
