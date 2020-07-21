@@ -1,7 +1,7 @@
 .cntr {
+	width: 1200px;
 	margin: auto;
 	padding: 2rem 0.5rem;
-	width: var(--cntrWidth);
 	max-width: 100% !important;
 }
 .cntr > h1:first-child {
