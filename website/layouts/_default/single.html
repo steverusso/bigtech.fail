@@ -1,7 +1,7 @@
 {{ define "main" }}
-	<div class="cntr" style="width: 900px;">
+	<div class="cntr w900">
 		<header>
-			{{ with index .Params "img" }}
+			{{ with .Param "img" }}
 				<img src="{{ . }}" width="88" height="88" loading="lazy">
 			{{ end }}
 
@@ -11,12 +11,12 @@
 		<hr>
 
 		<div class="caption mb-8">
-			{{ if isset .Params "date" }}
-				{{ dateFormat "Jan 2, 2006" .Date }}
+			{{ with .Date }}
+				{{ .Format "Jan 2, 2006" }}
+			{{ end }}
 
-				{{ if ne .Lastmod .Date }}
-					<span>(Last Updated: {{ dateFormat "Jan 2, 2006" .Lastmod }})</span>
-				{{ end }}
+			{{ with .Lastmod }}
+				(Last Updated: {{ .Format "Jan 2, 2006" }})
 			{{ end }}
 		</div>
 

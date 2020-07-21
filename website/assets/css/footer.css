@@ -8,8 +8,8 @@ footer section {
 	justify-content: space-evenly;
 	flex-flow: row wrap;
 	border-bottom: 1px solid var(--border1);
-	padding-bottom: 1rem;
-	margin-bottom: 2rem;
+	padding: 1.25rem 0 2rem;
+	margin-bottom: 2.5rem;
 }
 footer section > div {
 	margin: 0 1rem 2rem;

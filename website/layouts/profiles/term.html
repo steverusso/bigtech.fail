@@ -4,16 +4,15 @@
 
 {{ define "main" }}
 	{{ $name := .Title }}
-	{{ $nickname := .Params.aka }}
 	{{ $img := partialCached "profile-pic.html" . $name }}
 
-	<div class="profile cntr">
+	<div class="cntr prof w900">
 		<header>
 			<img src="{{ $img }}" width="120" height="120" loading="lazy">
 
 			<div>
 				<h1>{{ $name }}</h1>
-				{{ with $nickname }}<p>{{ . }}</p>{{ end }}
+				{{ with .Params.aka }}<p>{{ . }}</p>{{ end }}
 			</div>
 		</header>
 
