@@ -9,13 +9,16 @@
 	margin: 2rem auto;
 }
 .jtron .blurb {
-	line-height: 1.75 !important;
 	margin-bottom: 1rem !important;
 	margin-left: auto;
 	max-width: 475px;
 }
 .jtron .blurb > p {
 	text-align: right;
+}
+.jtron .blurb.mobile {
+	display: none;
+	line-height: 1.75;
 }
 .jtron .links {
 	padding-bottom: 2rem;
@@ -57,10 +60,21 @@
 .jtron .links a img {
 	margin-bottom: 0.75rem;
 }
-@media (min-width: 950px) {
+@media (max-width: 950px) {
+	.jtron .blurb:not(.mobile) { display: none }
+	.jtron .blurb.mobile { display: flex }
+}
+@media (min-width: 951px) {
 	.jtron hr {
-		transform: rotate(-30deg);
-		width: 40%;
+		transform: rotate(-40deg);
+		margin-bottom: -1rem !important;
+		margin-top: 3rem !important;
+		width: 25%;
+	}
+}
+@media (prefers-color-scheme: light) {
+	.jtron hr {
+		border-top: thin solid #888;
 	}
 }
 
