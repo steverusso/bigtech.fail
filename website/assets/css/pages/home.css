@@ -3,13 +3,12 @@
 	border-bottom: 1px solid var(--border1);
 }
 .jtron > .cntr {
-	padding: 6.25rem 1.25rem;
+	padding: 5.5rem 1.25rem;
 }
 .jtron hr {
-	margin: 3rem auto;
+	margin: 2rem auto;
 }
 .jtron .blurb {
-	line-height: 1.75 !important;
 	margin-bottom: 1rem !important;
 	margin-left: auto;
 	max-width: 475px;
@@ -17,10 +16,65 @@
 .jtron .blurb > p {
 	text-align: right;
 }
-@media (min-width: 950px) {
+.jtron .blurb.mobile {
+	display: none;
+	line-height: 1.75;
+}
+.jtron .links {
+	padding-bottom: 2rem;
+	text-align: center;
+	max-width: 725px;
+	margin: auto;
+}
+.jtron .links a {
+	background: var(--cardBg);
+	border: 2px solid var(--border1);
+	border-radius: 7px;
+	color: var(--captionColor);
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	font-size: 0.9rem;
+	margin: 0.38rem 0.25rem;
+	position: relative;
+	width: 112px;
+	height: 112px;
+	transition: border .2s cubic-bezier(.4,0,.6,1);
+}
+.jtron .links a:after {
+	content: "";
+	background: var(--cardBefore);
+	opacity: 0;
+	transition: opacity .2s cubic-bezier(.4,0,.6,1);
+	position: absolute;
+	top: 0; right: 0; bottom: 0; left: 0;
+}
+.jtron .links a:hover {
+	border: 2px solid var(--border3);
+	text-decoration: none;
+}
+.jtron .links a:hover:after {
+	opacity: 0.15;
+}
+.jtron .links a img {
+	margin-bottom: 0.75rem;
+}
+@media (max-width: 950px) {
+	.jtron .blurb:not(.mobile) { display: none }
+	.jtron .blurb.mobile { display: flex }
+}
+@media (min-width: 951px) {
 	.jtron hr {
-		transform: rotate(-30deg);
-		width: 40%;
+		transform: rotate(-40deg);
+		margin-bottom: -1rem !important;
+		margin-top: 3rem !important;
+		width: 25%;
+	}
+}
+@media (prefers-color-scheme: light) {
+	.jtron hr {
+		border-top: thin solid #888;
 	}
 }
 

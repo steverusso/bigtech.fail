@@ -58,6 +58,6 @@
 		--articleHeadings: #222;
 		--articleBold: #000;
 
-		--jtronBg: linear-gradient(#ddd, var(--bodyBg2));
+		--jtronBg: linear-gradient(#ccc, #fff);
 	}
 }
