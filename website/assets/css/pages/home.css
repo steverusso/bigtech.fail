@@ -3,10 +3,10 @@
 	border-bottom: 1px solid var(--border1);
 }
 .jtron > .cntr {
-	padding: 6.25rem 1.25rem;
+	padding: 5.5rem 1.25rem;
 }
 .jtron hr {
-	margin: 3rem auto;
+	margin: 2rem auto;
 }
 .jtron .blurb {
 	line-height: 1.75 !important;
@@ -16,6 +16,35 @@
 }
 .jtron .blurb > p {
 	text-align: right;
+}
+.jtron .links {
+	padding-bottom: 2rem;
+	text-align: center;
+	max-width: 725px;
+	margin: auto;
+}
+.jtron .links a {
+	background: var(--cardBg);
+	border: 2px solid var(--border1);
+	border-radius: 7px;
+	color: var(--captionColor);
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	font-size: 0.9rem;
+	margin: 0.38rem 0.25rem;
+	width: 112px;
+	height: 112px;
+}
+.jtron .links a:hover {
+	background: var(--cardTitleBg);
+	border: 2px solid var(--border3);
+	color: var(--bodyColor);
+	text-decoration: none;
+}
+.jtron .links a img {
+	margin-bottom: 0.75rem;
 }
 @media (min-width: 950px) {
 	.jtron hr {
