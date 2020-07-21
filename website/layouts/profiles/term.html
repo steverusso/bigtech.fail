@@ -7,7 +7,7 @@
 	{{ $nickname := .Params.aka }}
 	{{ $img := partialCached "profile-pic.html" . $name }}
 
-	<div class="cntr">
+	<div class="cntr w900">
 		<header>
 			<img src="{{ $img }}" width="120" height="120" loading="lazy">
 
