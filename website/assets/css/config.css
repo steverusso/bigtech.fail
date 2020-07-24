@@ -40,7 +40,7 @@
 
 		--navBg: #333;
 
-		--paraColor: #777;
+		--paraColor: #666;
 		--linkColor: #03A9F4;
 		--border1: #ccc;
 		--border3: #aaa;
@@ -54,9 +54,9 @@
 		--captionColor: #a7a7a7;
 
 		--blockquoteBorder: #ccc;
-		--blockquoteColor: #a0a0a0;
+		--blockquoteColor: #8e8e8e;
 		--articleHeadings: #222;
-		--articleBold: #000;
+		--articleBold: #555;
 
 		--jtronBg: linear-gradient(#ccc, #fff);
 	}
