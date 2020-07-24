@@ -47,7 +47,7 @@
 
 		<!-- The profiles of the people involved in the event (if any). -->
 		{{ with .Params.profiles }}
-			{{ partialCached "event/profiles.html" . . }}
+			{{ partialCached "event-profiles.html" . . }}
 		{{ end }}
 	</div>
 {{ end }}
