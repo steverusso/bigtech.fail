@@ -10,12 +10,6 @@
 .event.cntr main > header {
 	padding: 1rem 0;
 }
-.event.cntr main > header h1 {
-	margin: 0;
-}
-.event.cntr main > header img {
-	margin-right: 2rem;
-}
 
 .event-meta {
 	color: var(--captionColor);
