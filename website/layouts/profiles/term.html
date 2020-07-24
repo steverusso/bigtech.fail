@@ -1,5 +1,23 @@
 {{ define "style" }}
-	{{ partialCached "css-inline.html" "pages/profiles.css" "profiles" }}
+<style>
+.prof.cntr section {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+	margin-bottom: 3rem;
+}
+.prof.cntr section a {
+	margin: 0.5rem 1.5rem 0.5rem 0;
+}
+.prof.cntr section a > .icon > svg {
+	width: 34px !important;
+	height: 34px !important;
+}
+.prof.cntr section a > img {
+	width: 32px !important;
+	height: 32px !important;
+}
+</style>
 {{ end }}
 
 {{ define "main" }}
