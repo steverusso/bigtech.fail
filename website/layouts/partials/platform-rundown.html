@@ -1,5 +1,4 @@
 {{ $slug := .Name | anchorize }}
-{{ $tags := .Params.tags | default slice }}
 {{ $alts := index .Site.Taxonomies.altfor $slug }}
 
 <div class="row content">
@@ -14,15 +13,6 @@
 		<table>
 			{{ with .Params.legal }}
 				{{ partial "policy-table-rows.html" . }}
-			{{ end }}
-
-			{{ range $tags}}
-				{{ $num := where $.Pages "Params.tags" "intersect" (slice .) | len }}
-
-				<tr>
-					<td>{{ (index site.Data.tagsMeta .).caption }}</td>
-					<td><b class="{{ . }}">{{ $num }}</b></td>
-				</tr>
 			{{ end }}
 		</table>
 
