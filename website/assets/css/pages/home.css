@@ -23,7 +23,7 @@
 .jtron .links {
 	padding-bottom: 2rem;
 	text-align: center;
-	max-width: 725px;
+	max-width: 710px;
 	margin: auto;
 }
 .jtron .links a {
@@ -38,8 +38,8 @@
 	font-size: 0.9rem;
 	margin: 0.38rem 0.25rem;
 	position: relative;
-	width: 112px;
-	height: 112px;
+	width: 108px;
+	height: 108px;
 	transition: border .2s cubic-bezier(.4,0,.6,1);
 }
 .jtron .links a:after {

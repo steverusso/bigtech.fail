@@ -12,7 +12,10 @@
 
 			<div>
 				<h1>{{ $name }}</h1>
-				{{ with .Params.aka }}<p>{{ . }}</p>{{ end }}
+
+				{{ with .Params.aka }}
+					<p class="caption">{{ . }}</p>
+				{{ end }}
 			</div>
 		</header>
 

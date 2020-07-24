@@ -1,23 +1,11 @@
 .platform.cntr {
 	width: 1300px;
 }
-.platform.cntr > header {
-	padding: 0.75rem;
-}
-.platform.cntr > header * {
-	display: inline;
-	vertical-align: middle;
-}
-.platform.cntr > header img {
-	margin-right: 2rem;
-}
 .platform.cntr > header > h1 {
 	font-size: 3.5rem;
-	margin-top: 0;
-	margin-bottom: 0;
 }
 .platform.cntr > header + hr {
-	margin: 1.5rem 0.5rem 0 0.5rem;
+	margin-bottom: 0;
 }
 
 .platform.cntr .content section h3 {

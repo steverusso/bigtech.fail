@@ -83,8 +83,7 @@ a.card:hover:after {
 }
 
 .profile.card {
-	border-bottom-right-radius: 0;
-	border-bottom-left-radius: 0;
+	border-radius: var(--cardRadius) var(--cardRadius) 0 0;
 }
 .profile.card > header p {
 	margin: 0;

@@ -1,8 +1,13 @@
 .cntr {
 	width: 1200px;
 	margin: auto;
-	padding: 2rem 0.5rem;
+	padding: 1.5rem;
 	max-width: 100% !important;
+}
+@media (max-width: 500px) {
+	.cntr {
+		padding: 1rem;
+	}
 }
 .cntr.w900 {
 	width: 900px;
@@ -25,6 +30,9 @@
 }
 .col.xs-6, .grid.xs-6 { --c: 6 }
 @media (max-width: 599px) {
+	.col, .grid > div {
+		padding: 0.75rem 0.25rem;
+	}
 	.hide-xs { display: none !important }
 }
 @media (min-width: 600px) {
