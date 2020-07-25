@@ -13,13 +13,13 @@ sources:
  - [ 'Press For Truth - altCensored', 'https://altcensored.com/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
  - [ 'Press For Truth''s YouTube Stats (Summary Profile) - Social Blade Stats', 'https://socialblade.com/youtube/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
 extra:
- - https://lbry.tv/@PressForTruth:4/PFT-Terminated-VIDEO:a
+ - 'https://lbry.tv/@PressForTruth:4/PFT-Terminated-VIDEO:a'
 ---
 
-YouTube removed _Press For Truth_, an independent media channel run by Dan
-Dicks. His **14 year old channel** had about **272k subscribers** and over **35
-million lifetime views**, and it was removed without any warning, guidelines
-strike, or explanation.
+YouTube "permanently disabled" _Press For Truth_, an independent media channel
+run by Dan Dicks. His **14 year old channel** had about **272k subscribers**
+and over **35 million lifetime views**, and it was removed without any warning,
+guidelines strike, or explanation.
 
 > My life’s work, 14 years, 5 documentary films, over 270k subscribers, over
 > 35m views, all gone, no warning, no email, nothing!!! Please message
