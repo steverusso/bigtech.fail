@@ -1,9 +1,9 @@
 ---
-title: Facebook Removes Andrew Schulz Video About Epstein's Powerful Connections
+title: Facebook and Instagram Remove Andrew Schulz Video About Epstein Connections
 date: 2020-07-15
 image: /img/people/andrew-schulz.jpg
 profiles: [ andrew-schulz ]
-platforms: [ facebook ]
+platforms: [ facebook, instagram ]
 tags: [ content-removed ]
 sources:
  - [ 'twitter.com/andrewschulz/status/1283595725088215051 (archived)', 'http://archive.is/ovlQL' ]
@@ -13,16 +13,19 @@ sources:
  - [ 'twitter.com/FDRLST/status/1285309477789605890 (archived)', 'http://archive.is/Fu3rJ' ]
  - [ 'twitter.com/emilyjashinsky/status/1285311029619105793 (archived)', 'http://archive.vn/9uQsV' ]
  - [ 'twitter.com/andrewschulz/status/1285405179727183878 (archived)', 'http://archive.is/E5pR5' ]
+ - [ 'twitter.com/andrewschulz/status/1286152080965722112 (archived)', 'http://archive.is/IYFV8' ]
  - [ 'Reclaim The Net "Facebook removes video that roasts Jeffrey Epstein and Ghislaine Maxwell" by Cindy Harper (21 Jul 2020)', 'http://archive.is/r4CYi' ]
 ---
 
-Facebook removed a video by comedian Andrew Schulz titled **"Ghislaine &
-Epstein... How DEEP Their Pedo Connections Go | Andrew Schulz"** because it
-violated the platform's policies against "Bullying and Harassment." The people
-he potentially "harassed", in order of appearance, are: Ghislaine Maxwell,
-Jeffrey Epstein, Kevin Spacey, Bill Clinton, Donald Trump, Prince Andrew, Les
-Wexner, Bill Gates, and Alan Dershowitz. He "bullied" this group of elites by
-simply pointing out their blatant connections to one another.
+Facebook and Instagram removed a video by comedian Andrew Schulz titled
+**"Ghislaine & Epstein... How DEEP Their Pedo Connections Go | Andrew
+Schulz."** Instagram did so without warning or explanation; Facebook claimed
+that it violated the platform's policies against "Bullying and Harassment."
+
+The people he potentially "harassed", in order of appearance, are: Ghislaine
+Maxwell, Jeffrey Epstein, Kevin Spacey, Bill Clinton, Donald Trump, Prince
+Andrew, Les Wexner, Bill Gates, and Alan Dershowitz. He "bullied" this group of
+elites by simply pointing out their blatant connections to one another.
 
 Towards the end of the video, [Schulz questions](https://youtu.be/hBaObOJ2Jbg?t=290)
 why all of this information is still being dismissed as baseless:
