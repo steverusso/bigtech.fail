@@ -1,14 +1,14 @@
-{{ $launchIcon := partial "icon.html" (dict "name" "launch" "size" 20 "color" "#888") }}
+{{ $launchIcon := partialCached "icon.html" "launch" "launch" }}
 
 {{ $href := .RelPermalink }}
 {{ $logo := .Params.logo }}
-{{ $name := .Title }}
-{{ $desc := truncate 95 .Summary | plainify | safeHTML }}
+{{ $desc := .Summary | truncate 95 | plainify }}
 
 <a class="alttech card min" href="{{ $href }}" target="_blank">
 	<header>
 		<img src="{{ $logo }}" loading="lazy">
-		<h2>{{ $name }}</h2>
+		<h2>{{ .Title }}</h2>
+
 		{{ $launchIcon }}
 	</header>
 

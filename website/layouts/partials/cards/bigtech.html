@@ -1,20 +1,16 @@
 {{ $href := .RelPermalink }}
-{{ $img := anchorize .Name | printf "/img/logos/%s.png" }}
-{{ $title := .Title }}
-{{ $caption := .Params.caption }}
-{{ $desc := plainify .Summary | safeHTML }}
+{{ $img := .Name | anchorize | printf "/img/logos/%s.png" }}
+{{ $desc := .Summary | plainify | safeHTML }}
 
 <a class="failing card" href="{{ $href }}">
 	<header>
 		<img src="{{ $img }}" loading="lazy">
 
 		<div>
-			<h2>{{ $title }}</h2>
-			<i class="caption">&nbsp;&nbsp;{{ $caption }}</i>
+			<h2>{{ .Title }}</h2>
+			<i class="caption">{{ .Params.caption }}</i>
 		</div>
 	</header>
 
-	<div>
-		<p>{{ $desc }}</p>
-	</div>
+	<p>{{ $desc }}</p>
 </a>
