@@ -29,6 +29,8 @@ their Terms of Service and Privacy Policy.** However, there are more dangerous
 aspects of the company to explore, such as involvment with world governments
 and shadow banning practices.
 
+<!--more-->
+
 ## Government
 
 Perhaps the most disturbing part of BigTech in general is the established
