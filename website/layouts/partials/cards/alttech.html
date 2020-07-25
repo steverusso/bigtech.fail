@@ -1,13 +1,12 @@
 {{ $href := .RelPermalink }}
 {{ $img := .Params.logo }}
-{{ $title := .Title }}
-{{ $preview := plainify .Summary }}
+{{ $preview := .Summary | plainify }}
 
 <a class="alttech card" href="{{ $href }}">
 	<div>
 		<header>
 			<img src="{{ $img }}" loading="lazy">
-			<h2>{{ $title }}</h2>
+			<h2>{{ .Title }}</h2>
 		</header>
 
 		{{ with .Params.slogan }}

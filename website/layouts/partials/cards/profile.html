@@ -1,10 +1,9 @@
+{{ $launchIcon := partialCached "icon.html" "launch" "launch" }}
+
 {{ $href := .RelPermalink }}
 {{ $name := .Title }}
-{{ $nickname := .Params.aka | default "" }}
 {{ $img := partialCached "profile-pic.html" . $name }}
 {{ $preview := .Summary | truncate 80 }}
-
-{{ $launchIcon := partialCached "icon.html" (dict "name" "launch" "color" "#777") "profile-card-launch" }}
 
 <a class="profile card" href="{{ $href }}">
 	<!-- Title area: profile pic, name, nickname (if any) and the launch icon. -->
@@ -13,7 +12,7 @@
 
 		<div>
 			<h2>{{ $name }}</h2>
-			<p>{{ $nickname }}</p>
+			{{ with .Params.aka }}<p>{{ . }}</p>{{ end }}
 		</div>
 
 		{{ $launchIcon }}

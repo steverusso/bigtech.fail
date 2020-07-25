@@ -1,12 +1,14 @@
-{{ $href := .RelPermalink }}
-{{ $img := .Params.image }}
-{{ $date := dateFormat "Jan 2, 2006" .Params.date }}
-{{ $preview := default .Summary .Params.preview | truncate 90 }}
-
 {{ $eventIcon := partialCached "icon.html" (dict "name" "event" "size" 20) "event-card-event" }}
 
-<!-- An event card is a card link containing two top level sections: -->
-<!-- 1) the header (image, title, meta) and 2) the text preview. -->
+{{ $href := .RelPermalink }}
+{{ $img := .Params.image }}
+{{ $date := .Date.Format "Jan 2, 2006" }}
+{{ $preview := .Params.preview | default .Summary | truncate 90 }}
+
+<!--
+ An event card is a card link containing two top level sections:
+ 1) the header (image, title, meta) and 2) the text preview.
+-->
 <a class="event card" href="{{ $href }}" title="{{ .Title }}">
 	<!-- Image, title, meta -->
 	<header>

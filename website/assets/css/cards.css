@@ -45,6 +45,9 @@ a.card:hover:after {
 	font-size: 1.25rem;
 	margin: 0;
 }
+.card > :first-child .icon svg {
+	fill: var(--captionColor);
+}
 
 .card > :last-child {
 	line-height: 1.75;
@@ -77,9 +80,6 @@ a.card:hover:after {
 }
 .event.card header .icon {
 	margin-right: 0.5rem;
-}
-.event.card header .icon svg {
-	fill: var(--captionColor);
 }
 
 .profile.card {
