@@ -11,7 +11,7 @@
 	height: 100%;
 	transition: border .4s cubic-bezier(.4,0,.6,1);
 }
-.card:after  {
+.card:after, .nice-hover:after  {
 	content: "";
 	background: var(--cardBefore);
 	border-radius: var(--cardRadius);
@@ -21,11 +21,11 @@
 	top: 0; right: 0; bottom: 0; left: 0;
 }
 
-a.card:hover {
+a.card:hover, .nice-hover:hover {
 	border: 1px solid var(--border3);
 	text-decoration: none;
 }
-a.card:hover:after {
+a.card:hover:after, .nice-hover:hover:after {
 	opacity: 0.15;
 }
 

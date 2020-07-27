@@ -20,7 +20,7 @@
 			{{ $slug := $name | anchorize }}
 			{{ $img := $slug | printf "/img/logos/%s.png" }}
 
-			<a href="/{{ $slug }}/">
+			<a class="nice-hover" href="/{{ $slug }}/">
 				<img src="{{ $img }}" width="44" height="44" loading="lazy">
 				<span>{{ $name }}</span>
 			</a>
