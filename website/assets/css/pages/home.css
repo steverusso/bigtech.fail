@@ -42,20 +42,8 @@
 	height: 108px;
 	transition: border .2s cubic-bezier(.4,0,.6,1);
 }
-.jtron .links a:after {
-	content: "";
-	background: var(--cardBefore);
-	opacity: 0;
-	transition: opacity .2s cubic-bezier(.4,0,.6,1);
-	position: absolute;
-	top: 0; right: 0; bottom: 0; left: 0;
-}
 .jtron .links a:hover {
 	border: 2px solid var(--border3);
-	text-decoration: none;
-}
-.jtron .links a:hover:after {
-	opacity: 0.15;
 }
 .jtron .links a img {
 	margin-bottom: 0.75rem;
