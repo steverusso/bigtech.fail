@@ -16,15 +16,15 @@
 			<div class="altfor-map">
 				{{ $launch := partial "icon" (dict "name" "launch" "size" 14) }}
 
-				{{ range slice "Twitter" "Patreon" "YouTube" "Facebook" }}
-					{{ $k := . | anchorize }}
+				{{ range $i, $v := slice "Twitter" "Patreon" "YouTube" "Facebook" }}
+					{{ $k := $v | anchorize }}
 
 					<div>
-						<input type="radio" name="platform" value="{{ . }}" id="{{ $k }}" checked>
+						<input type="radio" name="platform" id="{{ $k }}"{{ if eq $i 0 }}checked{{ end }}>
 
 						<label for="{{ $k }}">
 							<img src="/img/logos/{{ $k }}.png" width="24" height="24" loading="lazy">
-							<div>{{ . }}</div>
+							<div>{{ $v }}</div>
 						</label>
 
 						<div class="alts">
