@@ -75,7 +75,7 @@
 	justify-content: center;
 }
 .altfor-map {
-	--border: 1px solid var(--border1);
+	--border: 2px solid var(--border1);
 	position: relative;
 	max-width: 100%;
 	overflow: hidden;
@@ -89,6 +89,11 @@
 .altfor-map label {
 	display: inline-flex;
 	width: 160px;
+}
+@media (max-width: 420px) {
+	.altfor-map label { width: 80px; padding-right: 0 }
+	.altfor-map label img { margin: 0 0.75rem }
+	.altfor-map label div { display: none }
 }
 .altfor-map label, .altfor-map .alts a {
 	align-items: center;
