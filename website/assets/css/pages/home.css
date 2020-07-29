@@ -22,7 +22,7 @@
 }
 .jtron .links {
 	max-width: 710px;
-	margin: 0 auto 2rem;
+	margin: 0 auto 3rem;
 	text-align: center;
 }
 .jtron .links a {
@@ -61,6 +61,10 @@
 	}
 }
 
+.use-alttech {
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
 @media (max-width: 949px) {
 	.use-alttech > .row {
 		max-width: 600px;
