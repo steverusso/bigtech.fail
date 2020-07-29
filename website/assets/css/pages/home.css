@@ -21,26 +21,21 @@
 	line-height: 1.75;
 }
 .jtron .links {
-	padding-bottom: 2rem;
-	text-align: center;
 	max-width: 710px;
-	margin: auto;
+	margin: 0 auto 2rem;
+	text-align: center;
 }
 .jtron .links a {
-	background: var(--cardBg);
 	border: 2px solid var(--border1);
 	border-radius: 7px;
-	color: var(--captionColor);
 	display: inline-flex;
+	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	flex-direction: column;
 	font-size: 0.9rem;
 	margin: 0.38rem 0.25rem;
-	position: relative;
 	width: 108px;
 	height: 108px;
-	transition: border .2s cubic-bezier(.4,0,.6,1);
 }
 .jtron .links a:hover {
 	border: 2px solid var(--border3);
@@ -66,59 +61,68 @@
 	}
 }
 
-#usealttech img[src$="laptop.png"] {
-	min-width: 88px; min-height: 88px;
-	max-width: 88px; max-height: 88px;
-	position: absolute;
+@media (max-width: 949px) {
+	.use-alttech > .row {
+		max-width: 600px;
+		margin: auto;
+	}
+	.use-alttech > .row > .col:first-child {
+		text-align: center;
+	}
 }
-
-.alttech-circle-wrap {
+.use-alttech > .row > .col:nth-child(2) {
 	display: flex;
-	align-items: center;
 	justify-content: center;
-	position: relative;
 }
-.alttech-circle {
+.altfor-map {
+	--border: 1px solid var(--border1);
 	position: relative;
-	--size: 400px;
-	max-width: var(--size);
-	width: var(--size);
-	max-height: var(--size);
-	height: var(--size);
-	padding-top: var(--size);
+	max-width: 100%;
+	overflow: hidden;
 }
-.alttech-circle > div {
-	--r: 7rem;
+.altfor-map > div {
+	width: 400px;
+}
+.altfor-map img {
+	margin-right: 0.75rem;
+}
+.altfor-map label {
+	display: inline-flex;
+	width: 160px;
+}
+.altfor-map label, .altfor-map .alts a {
+	align-items: center;
+	padding: 0.75rem 2.25rem 0.75rem 1.25rem;
+}
+.altfor-map input:checked ~ label, .altfor-map .alts {
+	background: linear-gradient(to right, var(--bodyBg), var(--cardBg));
+	border-top: var(--border);
+	border-bottom: var(--border);
+}
+.altfor-map .alts {
+	background: linear-gradient(to left, var(--bodyBg), var(--cardBg));
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: center;
 	position: absolute;
-	left: calc(
-		50% -
-		var(--r) *
-		calc(
-			1 -
-			calc(calc(var(--x) * var(--x)) / 2) +
-			calc(calc(var(--x) * var(--x) * var(--x) * var(--x)) / 24) -
-			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 720) +
-			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 40320) -
-			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 3628800)
-		) - 28px
-	);
-	top: calc(
-		50% -
-		var(--r) *
-		calc(
-			var(--x) -
-			calc(calc(var(--x) * var(--x) * var(--x)) / 6) +
-			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 120) -
-			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x)) / 5040) +
-			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) ) / 362880) -
-			calc(calc(var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) * var(--x) ) / 39916800)
-		) - 28px
-	);
+	top: 0;
+	height: 100%;
+	width: 240px;
 }
-.alttech-circle > div > img {
-	--size: 50px;
-	max-width: var(--size);
-	max-height: var(--size);
+.altfor-map .alts a {
+	color: var(--bodyColor);
+	display: flex;
+}
+.altfor-map .alts svg {
+	margin: -0.7rem 0 0 0.4rem;
+	fill: var(--captionColor);
+}
+.altfor-map input, .altfor-map input:not(:checked) ~ .alts {
+	display: none;
+}
+.altfor-map input:not(:checked) ~ label {
+	border-right: var(--border);
+	color: var(--captionColor);
 }
 
 .recent-events {

@@ -1,14 +1,6 @@
-{{ $images := (`d:
-  - [ subscribestar.png, SubscribeStar ]
-  - [ thinkspot.jpg,     ThinkSpot     ]
-  - [ locals.png,        Locals        ]
-  - [ brighteon.png,     Brighteon     ]
-  - [ minds.png,         Minds         ]
-  - [ bitchute.png,      BitChute      ]
-` | unmarshal).d }}
-
-<div id="usealttech" class="cntr">
+<div class="cntr use-alttech">
 	<div class="row align-center">
+
 		<div class="col md-6 blurb">
 			<h1 class="mb-8">Use AltTech!</h1>
 			<article>
@@ -20,23 +12,33 @@
 			</article>
 		</div>
 
-		<div class="col md-6 alttech-circle-wrap">
-			<img src="/img/misc/laptop.png" loading="lazy">
+		<div class="col md-6">
+			<div class="altfor-map">
+				{{ $launch := partial "icon" (dict "name" "launch" "size" 14) }}
 
-			<div class="alttech-circle">
-				{{ $n := len $images }}
-				{{ $pi2 := 6.28318 }}
+				{{ range slice "Twitter" "Patreon" "YouTube" "Facebook" }}
+					{{ $k := . | anchorize }}
 
-				{{ range $i, $v :=  $images }}
-					{{ $x := div (mul $pi2 (sub $i 4)) $n }}
-					{{ $text := index $v 1 }}
-					{{ $img := printf "/img/logos/%s" (index $v 0) }}
+					<div>
+						<input type="radio" name="platform" value="{{ . }}" id="{{ $k }}" checked>
 
-					<div style="--x: {{ $x }};" title="{{ $text }}">
-						<img src="{{ $img }}" loading="lazy">
+						<label for="{{ $k }}">
+							<img src="/img/logos/{{ $k }}.png" width="24" height="24" loading="lazy">
+							<div>{{ . }}</div>
+						</label>
+
+						<div class="alts">
+							{{ range index site.Taxonomies.altfor $k }}
+								<a href="{{ .RelPermalink }}">
+									<img src="/img/logos/{{ .Name | anchorize }}.png" width="24" height="24" loading="lazy">
+									{{ .Name }} {{ $launch }}
+								</a>
+							{{ end }}
+						</div>
 					</div>
 				{{ end }}
 			</div>
 		</div>
+
 	</div>
 </div>
