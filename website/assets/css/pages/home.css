@@ -91,6 +91,7 @@
 	margin-right: 0.75rem;
 }
 .altfor-map label {
+	cursor: pointer;
 	display: inline-flex;
 	width: 160px;
 }
