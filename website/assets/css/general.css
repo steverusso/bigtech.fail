@@ -37,7 +37,6 @@ hr {
 	border-top: thin solid var(--border1);
 	margin: 1.5rem 0;
 	max-height: 0px;
-	width: auto;
 }
 
 img {
@@ -47,7 +46,6 @@ img {
 }
 
 .icon svg {
-	display: inline;
 	vertical-align: middle;
 }
 
@@ -86,9 +84,9 @@ table a {
 }
 
 .chip {
-	--bgClr: #607D8B;
+	--c: #607D8B;
 	--height: 23px;
-	background: var(--bgClr);
+	background: var(--c);
 	color: #fff;
 	height: var(--height);
 	border: 1px solid transparent;
@@ -113,16 +111,16 @@ table a {
 .chip:hover:after {
 	background: rgba(0,0,0,0.15);
 }
-.chip.amazon {    --bgClr: #ff9800 }
-.chip.apple {     --bgClr: #f48fb1 }
-.chip.facebook {  --bgClr: #3f51b5 }
-.chip.google {    --bgClr: #448Aff }
-.chip.instagram { --bgClr: #e040fb }
-.chip.patreon {   --bgClr: #ff8a80 }
-.chip.pinterest { --bgClr: #c62828 }
-.chip.reddit {    --bgClr: #ff5722 }
-.chip.spotify {   --bgClr: #4caf50 }
-.chip.twitter {   --bgClr: #03a9f4 }
-.chip.youtube {   --bgClr: #e53935 }
+.chip.amazon {    --c: #ff9800 }
+.chip.apple {     --c: #f48fb1 }
+.chip.facebook {  --c: #3f51b5 }
+.chip.google {    --c: #448Aff }
+.chip.instagram { --c: #e040fb }
+.chip.patreon {   --c: #ff8a80 }
+.chip.pinterest { --c: #c62828 }
+.chip.reddit {    --c: #ff5722 }
+.chip.spotify {   --c: #4caf50 }
+.chip.twitter {   --c: #03a9f4 }
+.chip.youtube {   --c: #e53935 }
 
 .mb-8 { margin-bottom: 2rem !important }
