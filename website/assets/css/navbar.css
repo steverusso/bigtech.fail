@@ -31,9 +31,6 @@ nav label > .icon {
 	top: 0; right: 0;
 	z-index: 10;
 }
-nav label > .icon svg {
-	fill: var(--navColor);
-}
 nav aside {
 	background: var(--navBg);
 	box-shadow: none;
