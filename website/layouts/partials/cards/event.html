@@ -1,4 +1,4 @@
-{{ $eventIcon := partialCached "icon" (dict "name" "event" "size" 20) "event-card-event" }}
+{{ $eventIcon := partialCached "icon" (dict "name" "event" "size" "") "event-card-event" }}
 
 {{ $date := .Date.Format "Jan 2, 2006" }}
 {{ $preview := .Params.preview | default .Summary | truncate 90 }}
