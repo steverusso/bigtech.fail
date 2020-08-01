@@ -1,5 +1,5 @@
-{{ $toggleIcon := partialCached "icon.html" "people" "people" }}
-{{ $headerIcon := partialCached "icon.html" (dict "name" "account_box" "size" 40) "event-profiles-header" }}
+{{ $toggleIcon := partialCached "icon" (dict "name" "people" "color" "#fff") "event-profiles-toggle" }}
+{{ $headerIcon := partialCached "icon" (dict "name" "account_box" "size" 40) "event-profiles-header" }}
 
 <input type="checkbox" class="toggle" id="profileDrawerToggle">
 
