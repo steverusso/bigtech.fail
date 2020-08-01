@@ -8,8 +8,7 @@
 		{{ $wc := .wc | lang.NumFmt 0 }}
 
 		<tr title="Last we checked: {{ $asof }}">
-			<td>{{ $name }}:</td>
-
+			<td><b>{{ $name }}:</b></td>
 			<td>
 				<a href="{{ .url }}" target="_blank">
 					<span>{{ $wc }} words</span>
