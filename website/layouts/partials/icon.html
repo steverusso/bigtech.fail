@@ -3,7 +3,7 @@
 {{ $color := "" }}
 {{ $size := 24 }}
 
-<!-- If the context is a map, use its values instead. -->
+<!-- If the context is a map, process its values. -->
 {{ if reflect.IsMap . }}
 	{{ $name = .name | default "lens" }}
 	{{ $color = .color | default $color }}
