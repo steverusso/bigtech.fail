@@ -1,17 +1,17 @@
 <!-- Default values for color, size and name. -->
-{{ $color := "#fff" }}
-{{ $size := 24 }}
 {{ $name := . }}
+{{ $color := "" }}
+{{ $size := 24 }}
 
-<!-- If the context is a map, use it's values instead (if they're set). -->
+<!-- If the context is a map, use its values instead. -->
 {{ if reflect.IsMap . }}
-	{{ $color = default $color .color }}
-	{{ $size = default $size .size }}
-	{{ $name = default "lens" .name }}
+	{{ $name = .name | default "lens" }}
+	{{ $color = .color | default $color }}
+	{{ if isset . "size" }} {{ $size = .size }} {{ end }}
 {{ end }}
 
 <div class="icon">
-	<svg width="{{ $size }}" height="{{ $size }}" viewBox="0 0 24 24" fill="{{ $color }}">
+	<svg viewBox="0 0 24 24" fill="{{ $color }}" width="{{ $size }}" height="{{ $size }}">
 		{{ index site.Data.icons $name | safeHTML }}
 	</svg>
 </div>
