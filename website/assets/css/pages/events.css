@@ -23,8 +23,7 @@
 .event-meta > div > .icon {
 	margin-right: 0.5rem;
 }
-.event-meta > div > .icon svg,
-.profile-drawer-content > header > .icon > svg {
+.event-meta svg, .profile-drawer-content > header svg {
 	fill: var(--captionColor);
 }
 
