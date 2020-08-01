@@ -1,15 +1,13 @@
 .altt.cntr > header {
 	margin-bottom: 2rem;
 }
+.altt.cntr > header > div {
+	font-size: 0.9rem;
+}
 .altt.cntr > header h1 {
 	margin-bottom: 0.75rem;
 }
-.altt.cntr > header q {
-	font-size: 0.9rem;
-	margin: 1.25rem 0 0.5rem 0;
-}
 .altt.cntr > header a {
-	font-size: 0.9rem;
 	font-style: italic;
 	margin-left: 0.5rem;
 }
@@ -19,8 +17,5 @@ table {
 @media (max-width: 599px) {
 	table {
 		width: 100%;
-	}
-	.altt.cntr header + hr {
-		display: none;
 	}
 }
