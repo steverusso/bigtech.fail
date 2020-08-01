@@ -80,6 +80,8 @@ a.card:hover:after {
 }
 .event.card header .icon {
 	margin-right: 0.5rem;
+	width: 20px;
+	height: 20px;
 }
 
 .profile.card {
