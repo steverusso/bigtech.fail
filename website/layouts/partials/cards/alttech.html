@@ -1,8 +1,7 @@
-{{ $href := .RelPermalink }}
 {{ $img := .Params.logo }}
 {{ $preview := .Summary | plainify }}
 
-<a class="alttech card" href="{{ $href }}">
+<a class="alttech card" href="{{ .RelPermalink }}">
 	<div>
 		<header>
 			<img src="{{ $img }}" loading="lazy">

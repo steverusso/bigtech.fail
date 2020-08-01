@@ -1,11 +1,10 @@
 {{ $launchIcon := partialCached "icon.html" "launch" "launch" }}
 
-{{ $href := .RelPermalink }}
 {{ $name := .Title }}
 {{ $img := partialCached "profile-pic.html" . $name }}
 {{ $preview := .Summary | truncate 80 }}
 
-<a class="profile card" href="{{ $href }}">
+<a class="profile card" href="{{ .RelPermalink }}">
 	<!-- Title area: profile pic, name, nickname (if any) and the launch icon. -->
 	<header>
 		<img src="{{ $img }}" loading="lazy">
