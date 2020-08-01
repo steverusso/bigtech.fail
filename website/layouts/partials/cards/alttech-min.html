@@ -1,10 +1,9 @@
 {{ $launchIcon := partialCached "icon.html" "launch" "launch" }}
 
-{{ $href := .RelPermalink }}
 {{ $logo := .Params.logo }}
 {{ $desc := .Summary | truncate 95 | plainify }}
 
-<a class="alttech card min" href="{{ $href }}" target="_blank">
+<a class="alttech card min" href="{{ .RelPermalink }}">
 	<header>
 		<img src="{{ $logo }}" loading="lazy">
 		<h2>{{ .Title }}</h2>

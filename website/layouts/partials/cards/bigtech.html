@@ -1,8 +1,7 @@
-{{ $href := .RelPermalink }}
 {{ $img := .Name | anchorize | printf "/img/logos/%s.png" }}
 {{ $desc := .Summary | plainify | safeHTML }}
 
-<a class="failing card" href="{{ $href }}">
+<a class="failing card" href="{{ .RelPermalink }}">
 	<header>
 		<img src="{{ $img }}" loading="lazy">
 
