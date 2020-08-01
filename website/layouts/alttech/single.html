@@ -4,7 +4,6 @@
 
 {{ define "main" }}
 	{{ $logo := .Params.logo }}
-	{{ $name := .Title }}
 	{{ $site := .Params.site }}
 	{{ $href := printf "https://%s" $site }}
 
@@ -13,7 +12,7 @@
 			<img src="{{ $logo }}" width="128" height="128" loading="lazy">
 
 			<div>
-				<h1>{{ $name }}</h1>
+				<h1>{{ .Title }}</h1>
 
 				{{ with .Params.slogan }}
 					<q>{{ . }}</q>
@@ -23,13 +22,11 @@
 			</div>
 		</header>
 
-		<hr>
+		<hr class="hide-xs">
 
-		<!-- A table containing basic info about the alternative platform such as which -->
-		<!-- BigTech platforms it's an alternative for and data about their main policies. -->
 		<table>
 			<tr>
-				<td>Similar to:</td>
+				<td><b>Similar to:</b></td>
 				<td>
 					{{ range .Params.altfor }}
 						<a href="/{{ . }}/" class="chip {{ . }}">{{ . }}</a>
