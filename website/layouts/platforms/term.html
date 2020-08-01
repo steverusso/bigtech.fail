@@ -3,9 +3,8 @@
 {{ end }}
 
 {{ define "main" }}
-	{{ $slug := .Name | anchorize }}
+	{{ $slug := .Title | anchorize }}
 	{{ $img := $slug | printf "/img/logos/%s.png" }}
-	{{ $events := .Pages }}
 
 	<div class="platform cntr">
 		<header>
@@ -19,11 +18,11 @@
 			{{ partial "platform-rundown.html" . }}
 
 			<div class="events-heading">
-				<h1>Events <b>( {{ len $events }} )</b></h1>
+				<h1>Events <b>( {{ len .Pages }} )</b></h1>
 				<hr>
 			</div>
 		{{ end }}
 
-		{{ partial "events-timeline.html" $events }}
+		{{ partial "events-timeline.html" .Pages }}
 	</div>
 {{ end }}
