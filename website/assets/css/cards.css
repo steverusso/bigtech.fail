@@ -45,7 +45,7 @@ a.card:hover:after {
 	font-size: 1.25rem;
 	margin: 0;
 }
-.card > :first-child .icon svg {
+.card > :first-child svg {
 	fill: var(--captionColor);
 }
 

@@ -1,5 +1,5 @@
-{{ $img := .Name | anchorize | printf "/img/logos/%s.png" }}
-{{ $desc := .Summary | plainify | safeHTML }}
+{{ $img := .Title | anchorize | printf "/img/logos/%s.png" }}
+{{ $desc := .Summary | truncate 125 | plainify | safeHTML }}
 
 <a class="failing card" href="{{ .RelPermalink }}">
 	<header>
