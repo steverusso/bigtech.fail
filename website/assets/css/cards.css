@@ -108,15 +108,3 @@ a.card:hover:after {
 .profile.card + section a {
 	margin: 0.5rem 1rem 0.5rem 0;
 }
-
-.alttech.card q {
-	display: block !important;
-	padding-top: 1rem;
-}
-.alttech.card.min > header {
-	padding: 0.5rem;
-}
-.alttech.card.min .icon {
-	position: absolute;
-	top: 1rem; right: 1rem;
-}
