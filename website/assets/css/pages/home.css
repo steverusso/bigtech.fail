@@ -137,13 +137,18 @@
 }
 
 .recent-events {
+	background: var(--bodyBg2);
 	border-top: 1px solid var(--border1);
 	padding: 3rem 0;
 }
-.recent-events h1 {
-	text-align: center;
+@media (min-width: 850px) {
+	.recent-events .cntr > h1 {
+		text-align: center;
+	}
 }
 .recent-events a[href="/events/"] {
 	display: table;
 	margin: 1rem auto;
+	padding: 0.75rem 1.5rem;
+	word-spacing: 1rem;
 }

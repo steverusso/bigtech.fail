@@ -7,5 +7,16 @@
 
 	{{ partial "home/actions.html" . }}
 
-	{{ partial "home/recent-events.html" . }}
+	<div class="recent-events">
+		<div class="cntr">
+			<h1>Recent Events:</h1>
+			<hr>
+
+			<!-- The short timeline of the six most recent events. -->
+			{{ (site.GetPage "/events").Pages | first 6 | partial "events-timeline" }}
+
+			<!-- The " . . . " button which is a link to the full timeline. -->
+			<a href="/events/" class="btn light-blue">&#x25cf; &#x25cf; &#x25cf;</a>
+		</div>
+	</div>
 {{ end }}
