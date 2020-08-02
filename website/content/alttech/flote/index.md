@@ -1,6 +1,5 @@
 ---
 title: Flote
-logo: /img/logos/flote.png
 site: flote.app
 slogan: Free social media.
 altfor: [ facebook, instagram, twitter ]

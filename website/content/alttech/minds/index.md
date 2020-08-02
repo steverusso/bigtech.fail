@@ -1,6 +1,5 @@
 ---
 title: Minds
-logo: /img/logos/minds.png
 site: www.minds.com
 slogan: Take back control of your social media.
 summary: Minds is a relatively decentralized social media platform that supports free speech.

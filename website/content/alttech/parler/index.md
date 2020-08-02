@@ -1,6 +1,5 @@
 ---
 title: Parler
-logo: /img/logos/parler.png
 site: www.parler.com
 slogan: Free Expression. User Privacy.
 summary: Parler is a social networking and microblogging service.
