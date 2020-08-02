@@ -6,7 +6,7 @@
 		<div class="grid md-6 lg-4">
 			{{ range .Pages }}
 				<div>
-					{{ partial "cards/alttech.html" . }}
+					{{ partialCached "cards/alttech" . .RelPermalink }}
 				</div>
 			{{ end }}
 		</div>
