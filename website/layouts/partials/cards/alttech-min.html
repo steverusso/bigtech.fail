@@ -1,11 +1,10 @@
-{{ $launchIcon := partialCached "icon.html" "launch" "launch" }}
+{{ $launchIcon := partialCached "icon" "launch" "launch" }}
 
-{{ $logo := .Params.logo }}
 {{ $desc := .Summary | truncate 95 | plainify }}
 
 <a class="alttech card min" href="{{ .RelPermalink }}">
 	<header>
-		<img src="{{ $logo }}" loading="lazy">
+		<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
 		<h2>{{ .Title }}</h2>
 
 		{{ $launchIcon }}

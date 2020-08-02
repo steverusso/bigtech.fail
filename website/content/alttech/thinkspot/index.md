@@ -1,7 +1,6 @@
 ---
 weight: 3
 title: Thinkspot
-logo: /img/logos/thinkspot.png
 site: www.thinkspot.com
 slogan: Ideas live here.
 altfor: [ patreon ]

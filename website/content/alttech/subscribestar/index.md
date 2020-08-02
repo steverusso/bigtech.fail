@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: SubscribeStar
-logo: /img/logos/subscribestar.png
 site: www.subscribestar.com
 slogan: Independent membership platform.
 altfor: [ patreon ]

@@ -1,6 +1,5 @@
 ---
 title: BitChute
-logo: /img/logos/bitchute.png
 site: www.bitchute.com
 slogan: A mind is like a parachute. It doesn't work if it is not open.
 altfor: [ youtube ]

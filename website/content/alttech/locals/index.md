@@ -1,7 +1,6 @@
 ---
 weight: 2
 title: Locals
-logo: /img/logos/locals.png
 site: locals.com
 slogan: Own your community, Own your future.
 summary: Locals is a subscription-based community solution that gives power to creators.

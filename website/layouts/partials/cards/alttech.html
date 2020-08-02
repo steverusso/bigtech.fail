@@ -1,10 +1,7 @@
-{{ $img := .Params.logo }}
-{{ $preview := .Summary | plainify }}
-
 <a class="alttech card" href="{{ .RelPermalink }}">
 	<div>
 		<header>
-			<img src="{{ $img }}" loading="lazy">
+			<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
 			<h2>{{ .Title }}</h2>
 		</header>
 
@@ -13,5 +10,5 @@
 		{{ end }}
 	</div>
 
-	<p>{{ $preview }}</p>
+	<p>{{ .Summary | plainify }}</p>
 </a>

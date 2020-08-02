@@ -1,6 +1,5 @@
 ---
 title: Brighteon
-logo: /img/logos/brighteon.png
 site: www.brighteon.com
 slogan: REFUSE to be silenced. Free speech lives here.
 altfor: [ youtube ]
