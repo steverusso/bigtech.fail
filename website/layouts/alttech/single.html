@@ -3,13 +3,12 @@
 {{ end }}
 
 {{ define "main" }}
-	{{ $logo := .Params.logo }}
 	{{ $site := .Params.site }}
 	{{ $href := printf "https://%s" $site }}
 
 	<div class="cntr altt w900">
 		<header>
-			<img src="{{ $logo }}" width="128" height="128" loading="lazy">
+			<img src="/img/logos/{{ .Title | anchorize }}.png" width="128" height="128" loading="lazy">
 
 			<div>
 				<h1>{{ .Title }}</h1>
