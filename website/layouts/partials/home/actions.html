@@ -30,8 +30,8 @@
 						<div class="alts">
 							{{ range index site.Taxonomies.altfor $k }}
 								<a href="{{ .RelPermalink }}">
-									<img src="/img/logos/{{ .Name | anchorize }}.png" width="24" height="24" loading="lazy">
-									{{ .Name }} {{ $launch }}
+									<img src="/img/logos/{{ .Title | anchorize }}.png" width="24" height="24" loading="lazy">
+									{{ .Title }} {{ $launch }}
 								</a>
 							{{ end }}
 						</div>

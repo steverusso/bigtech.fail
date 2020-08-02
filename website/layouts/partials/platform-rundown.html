@@ -1,4 +1,4 @@
-{{ $slug := .Name | anchorize }}
+{{ $slug := .Title | anchorize }}
 {{ $alts := index .Site.Taxonomies.altfor $slug }}
 
 <div class="row content">
