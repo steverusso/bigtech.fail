@@ -65,10 +65,14 @@
 	z-index: 2 !important;
 }
 
-/* Hide the scrollbars for the profile drawer content. */
-.profile-drawer-content::-webkit-scrollbar { width: 0 !important } /* Chrome, etc. */
-.profile-drawer-content { scrollbar-width: none }                  /* Firefox      */
-
+.profile-drawer-content {
+	max-height: calc(100vh - var(--navHeight));
+	padding-bottom: 7rem !important;
+	position: -webkit-sticky !important;
+	position: sticky !important;
+	overflow-y: auto;
+	scrollbar-width: none;
+}
 .profile-drawer-content > header {
 	background: var(--cardTitleBg);
 	border-bottom: 1px solid var(--border1);
@@ -78,15 +82,9 @@
 .profile-drawer-content > header > .icon {
 	margin-right: 0.5rem;
 }
-.profile-drawer-content {
-	max-height: calc(100vh - var(--navHeight));
-	padding-bottom: 7rem !important;
-	position: -webkit-sticky !important;
-	position: sticky !important;
-	overflow-y: auto;
-}
 .profile-drawer-content > section { padding: 1rem }
 .profile-drawer-content > section > * { margin-bottom: 1rem }
+.profile-drawer-content::-webkit-scrollbar { width: 0 !important }
 
 @media (min-width: 1250px) {
 	.event.cntr.has-profiles { padding-right: 450px }
