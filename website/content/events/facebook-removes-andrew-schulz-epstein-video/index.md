@@ -15,6 +15,7 @@ sources:
  - [ 'twitter.com/andrewschulz/status/1285405179727183878 (archived)', 'http://archive.is/E5pR5' ]
  - [ 'twitter.com/andrewschulz/status/1286152080965722112 (archived)', 'http://archive.is/IYFV8' ]
  - [ 'Reclaim The Net "Facebook removes video that roasts Jeffrey Epstein and Ghislaine Maxwell" by Cindy Harper (21 Jul 2020)', 'http://archive.is/r4CYi' ]
+ - [ 'YouTube "Trump & Zuck Protecting Ghislaine Maxwell? | Andrew Schulz" by The Andrew Schulz (25 Jul 2020)', 'https://www.youtube.com/watch?v=UqPjaj-UbTo' ]
 ---
 
 Facebook and Instagram removed a video by comedian Andrew Schulz titled
@@ -43,5 +44,6 @@ with the following:
 >
 > -- Andrew Schulz  👑HEZI (@andrewschulz) [15 Jul 2020](http://archive.is/jh2Ni)
 
-For the time being, the video is still available
-[on YouTube](https://www.youtube.com/watch?v=hBaObOJ2Jbg).
+For the time being, the video is still available [on
+YouTube](https://www.youtube.com/watch?v=hBaObOJ2Jbg), and Schulz made a [follow
+up video](https://www.youtube.com/watch?v=UqPjaj-UbTo) as well.
