@@ -1,8 +1,5 @@
 {{ $eventIcon := partialCached "icon" (dict "name" "event" "size" "") "event-card-event" }}
 
-{{ $date := .Date.Format "Jan 2, 2006" }}
-{{ $preview := .Params.preview | default .Summary | truncate 90 }}
-
 <!--
  An event card is a card link containing two top level sections:
  1) the header (image, title, meta) and 2) the text preview.
@@ -14,10 +11,10 @@
 
 		<div>
 			<h2>{{ .Title }}</h2>
-			<u>{{ $eventIcon }} {{ $date }}</u>
+			<u>{{ $eventIcon }} {{ .Date.Format "Jan 2, 2006" }}</u>
 		</div>
 	</header>
 
 	<!-- Preview -->
-	<p>{{ $preview }}</p>
+	<p>{{ .Params.preview | default .Summary | truncate 90 }}</p>
 </a>

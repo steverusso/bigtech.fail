@@ -1,9 +1,6 @@
-{{ $img := .Title | anchorize | printf "/img/logos/%s.png" }}
-{{ $desc := .Summary | truncate 125 | plainify | safeHTML }}
-
 <a class="failing card" href="{{ .RelPermalink }}">
 	<header>
-		<img src="{{ $img }}" loading="lazy">
+		<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
 
 		<div>
 			<h2>{{ .Title }}</h2>
@@ -11,5 +8,5 @@
 		</div>
 	</header>
 
-	<p>{{ $desc }}</p>
+	<p>{{ .Summary | truncate 125 | plainify | safeHTML }}</p>
 </a>
