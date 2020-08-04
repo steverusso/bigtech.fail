@@ -10,6 +10,12 @@
 .event.cntr main > header {
 	padding: 1rem 0;
 }
+@media (max-width: 450px) {
+	.event.cntr main > header {
+		flex-direction: column;
+		text-align: center;
+	}
+}
 
 .event-meta {
 	color: var(--captionColor);
