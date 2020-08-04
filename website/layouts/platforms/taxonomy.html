@@ -5,7 +5,7 @@
 
 		<div class="grid md-6">
 			{{ range .Pages }}
-				{{ if .Content | ne "" }}
+				{{ if "" | ne .Content }}
 					<div>
 						{{ partial "cards/bigtech.html" . }}
 					</div>

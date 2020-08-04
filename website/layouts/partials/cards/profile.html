@@ -2,7 +2,6 @@
 
 {{ $name := .Title }}
 {{ $img := partialCached "profile-pic.html" . $name }}
-{{ $preview := .Summary | truncate 80 }}
 
 <a class="profile card" href="{{ .RelPermalink }}">
 	<!-- Title area: profile pic, name, nickname (if any) and the launch icon. -->
@@ -17,14 +16,14 @@
 		{{ $launchIcon }}
 	</header>
 
-	<p>{{ $preview }}</p>
+	<p>{{ .Summary | truncate 80 }}</p>
 </a>
 
 <!--
  The profile's online / social media links.
 
- It is illegal for `a` elements to contain other `a` elements. Since the
- profile card itself is an `a` element, the social links (which are a bunch of
- `a` elements) need to be outside the card.
+ It's illegal for `a` elements to contain other `a` elements. Since the profile
+ card itself is an `a` element, the social links (which are a bunch of `a`
+ elements) need to be outside the card.
 -->
 {{ partialCached "profile-links.html" .Params.socials $name }}
