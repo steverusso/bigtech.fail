@@ -67,7 +67,6 @@
 
 .profile-drawer-content {
 	max-height: calc(100vh - var(--navHeight));
-	padding-bottom: 7rem !important;
 	position: -webkit-sticky !important;
 	position: sticky !important;
 	overflow-y: auto;
@@ -82,8 +81,8 @@
 .profile-drawer-content > header > .icon {
 	margin-right: 0.5rem;
 }
-.profile-drawer-content > section { padding: 1rem }
-.profile-drawer-content > section > * { margin-bottom: 1rem }
+.profile-drawer-content > section > * { margin: 1rem }
+.profile-drawer-content > section > :last-child { margin-bottom: 7rem }
 .profile-drawer-content::-webkit-scrollbar { width: 0 !important }
 
 @media (min-width: 1250px) {
