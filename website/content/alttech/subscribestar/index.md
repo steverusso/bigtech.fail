@@ -19,7 +19,7 @@ legal:
     asof: 2020-01-13
 ---
 
-SubscribeStar is perhaps the most popular alternative membership platform to Patreon.
+SubscribeStar is perhaps the most popular alternative for Patreon.
 <!--more-->
 From their [About page](https://www.subscribestar.com/about):
 > At SubscribeStar we believe that every talent deserves to be discovered and rewarded properly so it can continue developing further.
