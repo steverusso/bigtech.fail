@@ -2,7 +2,6 @@
 date: 2019-11-20
 title: Twitter Bans BNL After Tweeting Link to Biden-Ukraine Article
 image: /img/logos/breakingnlive.jpg
-preview: Twitter banned @BreakingNLive for being "spam" after they tweeted out a link to a Biden-Ukraine article.
 platforms: [ twitter ]
 tags: [ banned ]
 sources:

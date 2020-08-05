@@ -2,7 +2,6 @@
 date: 2018-09-20
 title: Twitter Suspends Actor James Woods For Tweeting a Meme
 image: /img/people/james-woods.jpg
-preview: And Twitter classified this as election meddling, which is just rich lol
 platforms: [ twitter ]
 tags: [ suspended ]
 sources:

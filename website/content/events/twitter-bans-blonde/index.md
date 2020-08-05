@@ -2,7 +2,6 @@
 date: 2017-11-28
 title: Twitter Bans Blonde
 image: /img/people/blonde.jpg
-preview: Shortly after being temporarily suspended twice within two weeks
 profiles: [ blonde ]
 platforms: [ twitter ]
 tags: [ banned ]

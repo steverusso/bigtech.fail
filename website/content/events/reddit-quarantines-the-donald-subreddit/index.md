@@ -2,7 +2,6 @@
 date: 2019-06-26
 title: Reddit Quarantines r/The_Donald
 image: /img/logos/reddit-the-donald.png
-preview: So only politicians can openly threaten violence without consequence? Gotcha
 platforms: [ reddit ]
 tags: [ quarantine ]
 sources:

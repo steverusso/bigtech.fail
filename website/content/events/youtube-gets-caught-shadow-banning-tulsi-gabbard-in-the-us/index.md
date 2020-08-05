@@ -1,8 +1,7 @@
 ---
 date: 2019-10-22
-title: YouTube Gets Caught Shadow Banning Tulsi Gabbard ONLY in the US
+title: YouTube Shadow Bans Presidential Candidate Tulsi Gabbard in US *ONLY*
 image: /img/people/tulsi-gabbard.jpg
-preview: Shadow banning a candidate in the country for which she's running to be President
 platforms: [ youtube ]
 tags: [ shadow-banned ]
 sources:
