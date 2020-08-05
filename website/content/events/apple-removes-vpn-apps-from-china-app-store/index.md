@@ -2,7 +2,7 @@
 date: 2017-07-29
 title: Apple Removes VPN Apps From China App Store
 image: /img/misc/chipple.png
-preview: To say this isn't a good look for Apple would be a bit of an understatement
+summary: To say this isn't a good look for Apple would be a bit of an understatement
 platforms: [ apple ]
 tags: [ content-removed ]
 sources:

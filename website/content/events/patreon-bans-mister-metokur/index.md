@@ -2,7 +2,7 @@
 date: 2019-11-21
 title: Patreon Bans Mister Metokur For Showing Footage of Trans Surgeries
 image: /img/people/mister-metokur.jpg
-preview: And Patreon classified that as "hate speech." Let that sink in
+summary: And Patreon classified that as "hate speech." Let that sink in
 platforms: [ patreon ]
 tags: [ banned, defunded ]
 sources:
