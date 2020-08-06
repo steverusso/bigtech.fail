@@ -9,37 +9,26 @@
 
 	<div class="event cntr {{ $class }}">
 		<main>
-			<!-- The title -->
 			<header>
 				<img src="{{ .Params.image }}" width="128" height="128" loading="lazy">
 				<h1>{{ .Title }}</h1>
 			</header>
 
-			<hr>
-
-			<!-- Meta data: date the event took place, how long it takes to read. -->
-			<div class="event-meta">
-				<div>{{ $eventIcon }} {{ .Date.Format "Jan 2, 2006" }}</div>
-				<div>{{ $clockIcon }} ~{{ .ReadingTime }}m read</div>
+			<div class="meta">
+				<u>{{ $eventIcon }} {{ .Date.Format "Jan 2, 2006" }}</u>
+				<u>{{ $clockIcon }} ~{{ .ReadingTime }}m read</u>
 			</div>
 
-			<!-- The article -->
 			<article>{{ .Content }}</article>
 
-			<hr>
-
-			<!-- Sources -->
-			<div class="event-sources">
-				<h3>Sources :</h3>
-				<ol>
-					{{ range .Params.sources }}
-						{{ $href := index . 1 }}
-						{{ $text := index . 0 | default $href }}
-
-						<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
-					{{ end }}
-				</ol>
-			</div>
+			<h3>Sources :</h3>
+			<ol class="sources">
+				{{ range .Params.sources }}
+					{{ $href := index . 1 }}
+					{{ $text := index . 0 | default $href }}
+					<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
+				{{ end }}
+			</ol>
 		</main>
 
 		<!-- The profiles of the people involved in the event (if any). -->

@@ -8,7 +8,12 @@
 	padding: 0 1rem;
 }
 .event.cntr main > header {
-	padding: 1rem 0;
+	padding-bottom: 1.5rem;
+}
+.event.cntr main > header,
+.event.cntr main > article {
+	margin-bottom: 1.5rem;
+	border-bottom: 1px solid var(--border1);
 }
 @media (max-width: 450px) {
 	.event.cntr main > header {
@@ -17,23 +22,24 @@
 	}
 }
 
-.event-meta {
+.meta {
 	color: var(--captionColor);
 	margin-bottom: 3rem;
 }
-.event-meta > div {
+.meta > u {
 	display: inline-flex;
 	align-items: center;
 	margin-right: 2rem;
+	text-decoration: none;
 }
-.event-meta > div > .icon {
+.meta > u > .icon {
 	margin-right: 0.5rem;
 }
-.event-meta svg, .profile-drawer-content > header svg {
+.meta svg, .profile-drawer-content > header svg {
 	fill: var(--captionColor);
 }
 
-.event-sources li {
+.sources li {
 	font-size: 0.95rem;
 	margin-bottom: 0.5rem;
 	line-height: 1.75;
