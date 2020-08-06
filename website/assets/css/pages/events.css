@@ -22,19 +22,19 @@
 	}
 }
 
-.event-meta {
+.meta {
 	color: var(--captionColor);
 	margin-bottom: 3rem;
 }
-.event-meta > div {
+.meta > div {
 	display: inline-flex;
 	align-items: center;
 	margin-right: 2rem;
 }
-.event-meta > div > .icon {
+.meta > div > .icon {
 	margin-right: 0.5rem;
 }
-.event-meta svg, .profile-drawer-content > header svg {
+.meta svg, .profile-drawer-content > header svg {
 	fill: var(--captionColor);
 }
 
