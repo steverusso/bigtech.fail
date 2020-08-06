@@ -26,12 +26,13 @@
 	color: var(--captionColor);
 	margin-bottom: 3rem;
 }
-.meta > div {
+.meta > u {
 	display: inline-flex;
 	align-items: center;
 	margin-right: 2rem;
+	text-decoration: none;
 }
-.meta > div > .icon {
+.meta > u > .icon {
 	margin-right: 0.5rem;
 }
 .meta svg, .profile-drawer-content > header svg {
