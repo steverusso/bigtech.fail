@@ -38,7 +38,7 @@
 	fill: var(--captionColor);
 }
 
-.event-sources li {
+.sources li {
 	font-size: 0.95rem;
 	margin-bottom: 0.5rem;
 	line-height: 1.75;
