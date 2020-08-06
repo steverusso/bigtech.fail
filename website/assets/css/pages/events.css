@@ -8,7 +8,12 @@
 	padding: 0 1rem;
 }
 .event.cntr main > header {
-	padding: 1rem 0;
+	padding-bottom: 1.5rem;
+}
+.event.cntr main > header,
+.event.cntr main > article {
+	margin-bottom: 1.5rem;
+	border-bottom: 1px solid var(--border1);
 }
 @media (max-width: 450px) {
 	.event.cntr main > header {
