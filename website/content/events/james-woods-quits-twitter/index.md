@@ -2,7 +2,6 @@
 date: 2019-05-09
 title: James Woods Quits Twitter
 image: /img/people/james-woods.jpg
-preview: A few weeks after Twitter suspended actor James Woods for the 2nd time
 platforms: [ twitter ]
 tags: [ walked-away ]
 sources:

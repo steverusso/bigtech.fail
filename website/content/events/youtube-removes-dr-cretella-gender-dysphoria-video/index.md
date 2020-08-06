@@ -2,7 +2,7 @@
 date: 2019-11-05
 title: YouTube Removes Dr. Cretella's Gender Dysphoria Video
 image: /img/people/dr-michelle-cretella.png
-preview: '"...if you want to cut off a healthy arm or a healthy leg, you''re mentally ill. But..."'
+summary: '"...if you want to cut off a healthy arm or a healthy leg, you''re mentally ill. But..."'
 platforms: [ youtube ]
 tags: [ content-removed ]
 sources:

@@ -2,7 +2,6 @@
 date: 2018-11-29
 title: Patreon Bans BitChute
 image: /img/logos/bitchute.png
-preview: About two weeks after being banned from Paypal, BitChute was banned from Patreon as well.
 platforms: [ patreon ]
 tags: [ banned, defunded ]
 sources:

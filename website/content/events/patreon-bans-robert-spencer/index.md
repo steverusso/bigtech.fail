@@ -1,9 +1,8 @@
 ---
 date: 2018-08-14
-order: 1
 title: Patreon Bans Robert Spencer
 image: /img/people/robert-spencer.jpg
-preview: Turns out Patreon is actually Mastercard's bitch, believe it or not
+summary: Turns out Patreon is actually Mastercard's bitch, believe it or not
 platforms: [ patreon ]
 tags: [ banned, defunded ]
 sources:

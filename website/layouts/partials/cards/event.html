@@ -1,11 +1,10 @@
-{{ $eventIcon := partialCached "icon" (dict "name" "event" "size" "") "event-card-event" }}
+{{ $eventIcon := partialCached "icon" (dict "name" "event" "size" "") "ece" }}
 
 <!--
  An event card is a card link containing two top level sections:
  1) the header (image, title, meta) and 2) the text preview.
 -->
 <a class="event card" href="{{ .RelPermalink }}" title="{{ .Title }}">
-	<!-- Image, title, meta -->
 	<header>
 		<img src="{{ .Params.image }}" loading="lazy">
 
@@ -15,6 +14,5 @@
 		</div>
 	</header>
 
-	<!-- Preview -->
-	<p>{{ .Params.preview | default .Summary | truncate 90 }}</p>
+	<p>{{ .Summary | truncate 90 }}</p>
 </a>

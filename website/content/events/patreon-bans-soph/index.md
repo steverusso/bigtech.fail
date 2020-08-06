@@ -2,7 +2,7 @@
 date: 2019-08-02
 title: Patreon Bans Soph the Day After She's Banned From YouTube
 image: /img/people/soph.jpg
-preview: BigTech scared of a 14 year old girl lol
+summary: BigTech scared of a 14 year old girl lol
 platforms: [ patreon ]
 tags: [ banned ]
 sources:

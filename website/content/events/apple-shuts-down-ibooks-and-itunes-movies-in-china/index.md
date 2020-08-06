@@ -2,7 +2,7 @@
 date: 2016-04-21
 title: Apple Shuts Down iBooks and iTunes Movies Apps In China
 image: /img/misc/chipple.png
-preview: So apparently, they'll even remove their own apps lol
+summary: So apparently, they'll even remove their own apps lol
 platforms: [ apple ]
 tags: [ content-removed ]
 sources:

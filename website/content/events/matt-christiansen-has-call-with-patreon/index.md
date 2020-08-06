@@ -3,7 +3,7 @@ date: 2018-12-20
 order: 2
 title: Matt Christiansen Further Exposes Patreon In Call With Jacqueline Hart
 image: /img/people/matt-christiansen.jpg
-preview: In this phone call, Matt gives Patreon more than enough rope to metaphorically hang themselves
+summary: In this phone call, Matt gives Patreon more than enough rope to metaphorically hang themselves
 profiles: [ matt-christiansen ]
 platforms: [ patreon ]
 sources:

@@ -2,7 +2,7 @@
 date: 2019-07-19
 title: Google Bans Gab From the Play Store, Again
 image: /img/misc/gab-ai-banned.png
-preview: But this time, it's even worse...
+summary: But this time, it's even worse...
 platforms: [ google ]
 tags: [ banned, content-removed ]
 sources:

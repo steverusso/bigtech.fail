@@ -2,7 +2,6 @@
 date: 2017-11-02
 title: Twitter Suspends Blonde For Banter
 image: /img/people/blonde.jpg
-preview: Literally just bantering with one of her followers
 profiles: [ blonde ]
 platforms: [ twitter ]
 tags: [ suspended ]

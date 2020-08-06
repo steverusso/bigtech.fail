@@ -1,9 +1,7 @@
 ---
 date: 2019-11-10
-order: 1
 title: Facebook Suspends Tim Pool For Reporting On Alleged CIA Whistleblower
 image: /img/people/tim-pool.jpg
-preview: "All for saying the words \"Eric Ciaramella\" in a post linking to POLITICO"
 profiles: [ tim-pool ]
 platforms: [ facebook ]
 tags: [ suspended ]

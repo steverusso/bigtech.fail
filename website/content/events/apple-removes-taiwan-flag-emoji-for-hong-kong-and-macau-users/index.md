@@ -2,7 +2,6 @@
 date: 2019-10-03
 title: Apple Removes Taiwan Flag Emoji For Hong Kong and Macau Users
 image: /img/misc/taiwan-flag-emoji.png
-preview: Amid the very heated, pro-democracy protests in Hong Kong
 platforms: [ apple ]
 tags: [ content-removed ]
 sources:
@@ -18,7 +17,7 @@ sources:
  - [ 'Quartz "You can’t use the Taiwan flag emoji on a Chinese iPhone" by Josh Horwitz', 'https://qz.com/1250884/you-cant-use-the-taiwan-flag-emoji-on-a-chinese-iphone/' ]
 ---
 
-This ~~sneaky~~ move by Apple seems to have been discovered in the very beginning of October by a software developer.
+This sneaky move by Apple seems to have been discovered in the very beginning of October by a software developer.
 (It was picked up by independent media a few days later.)
 
 [A Hiraku Dev blog post](https://hiraku.tw/2019/10/4877/) details the difference in the section source code, betweeon iOS 13.0 and iOS 13.1.1, that controls whether the flag will be displayed or not.
