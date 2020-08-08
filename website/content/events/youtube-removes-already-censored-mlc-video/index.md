@@ -15,7 +15,8 @@ sources:
 Matt Christiansen released a video covering the
 [highly-censored](/events/white-coat-summit/) "White Coat Summit." YouTube
 promptly removed this video because it contained information and opinions that
-contradicted the WHO.
+contradicted the WHO. So Matt re-uploaded the video with all potential
+violations blurred and bleeped out.
 > YouTube banned my video this morning simply for talking about the wrongthink
 > doctor press conference, so I blurred their faces and censored
 > 'hydr*x*chl*roq**ne.'  🙄
@@ -26,9 +27,8 @@ contradicted the WHO.
 >
 > -- Matt Christiansen (@MLChristiansen) [29 Jul 2020](http://archive.is/ywfl2)
 
-Matt re-uploaded the video with all potential violations blurred and bleeped
-out, and YouTube _still_ removed this video as well. Matt appealed this
-removal, and the decision was upheld.
+YouTube _still_ removed this video as well and upheld their decision when Matt
+appealed.
 > Ridiculous.  My video was taken down AGAIN.  I will appeal this one.  Still
 > available on BitChute here: https://www.bitchute.com/video/c16AjNmVKj9N/ ...
 >
@@ -40,6 +40,6 @@ removal, and the decision was upheld.
 >
 > -- Matt Christiansen (@MLChristiansen) [29 Jul 2020](http://archive.is/FSLS3)
 
-The video can still be viewed
+The uncensored version of the video can still be viewed
 [on BitChute](https://www.bitchute.com/video/c16AjNmVKj9N/) and
 [on Minds](https://www.minds.com/newsfeed/1135933204005781504).
