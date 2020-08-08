@@ -34,8 +34,10 @@ video itself. Twitter in particular went berserk. Within less than two days, the
 3. [suspended PragerU](/events/twitter-suspends-prager-u/) along with other leading conservatives such as [Robby Starbuck](/events/twitter-suspends-robby-starbuck/).
 
 ...and that's just to name a few cases for Twitter alone. YouTube removed many
-reuploads and even coverage of the censorship itself. SquareSpace even jumped
-in by [shutting down](http://archive.is/Ob07h) the
+reuploads and even coverage of the censorship itself, going so far as to
+[remove videos that were themselves
+censored](/events/youtube-removes-already-censored-mlc-video/). SquareSpace
+even jumped in by [shutting down](http://archive.is/Ob07h) the
 [americasfrontlinedoctors.com](http://archive.is/806An) website.
 
 The full video of the press conference is, as usual, can still be viewed within
