@@ -16,6 +16,7 @@ sources:
  - [ 'RealClear Politics "Facebook and YouTube Ban Video Of Doctors Talking COVID, Silenced Doctors Hold Press Conference" by Ian Schwartz (28 Jul 2020)', 'http://archive.is/XPYoG' ]
  - [ 'twitter.com/robbystarbuck/status/1287944649827590144', 'http://archive.is/vH3FY' ]
  - [ 'altCensored "America''s Frontline Doctors Summit- Session 2" by TPPatriots (27 Jul 2020)', 'https://altcensored.com/watch?v=aX_Q1FaY9pI' ]
+ - [ 'BitChute "COVID-19 Censorship Has Killed People" by Akkad Daily (8 Aug 2020)', 'https://www.bitchute.com/video/Hj0LKciyhjU/' ]
 ---
 
 _America’s Frontline Doctors_ held a press conference in D.C. which featured a
