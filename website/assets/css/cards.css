@@ -66,22 +66,15 @@ a.card:hover:after {
 	display: -webkit-box;
 	font-size: 1.15rem;
 	line-height: 1.4;
+	margin-bottom: 0.75rem;
 	overflow: hidden;
 	-webkit-box-orient: vertical;
 	-webkit-line-clamp: 2
 }
 .event.card header u {
-	display: inline-flex;
-	align-items: center;
 	color: var(--captionColor2);
 	font-size: 0.9rem;
-	margin-top: 0.75rem;
 	text-decoration: none;
-}
-.event.card header .icon {
-	margin-right: 0.5rem;
-	width: 20px;
-	height: 20px;
 }
 
 .profile.card {
