@@ -1,5 +1,3 @@
-{{ $launchIcon := partialCached "icon.html" "launch" "launch" }}
-
 {{ $name := .Title }}
 {{ $img := partialCached "profile-pic.html" . $name }}
 
@@ -13,7 +11,7 @@
 			{{ with .Params.aka }}<p>{{ . }}</p>{{ end }}
 		</div>
 
-		{{ $launchIcon }}
+		<u>&#10132;</u>
 	</header>
 
 	<p>{{ .Summary | truncate 80 }}</p>

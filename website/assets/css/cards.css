@@ -3,7 +3,7 @@
 	background: var(--cardBg);
 	border: 1px solid var(--border1);
 	border-radius: var(--cardRadius);
-	color: var(--paraColor);
+	color: var(--bodyColor);
 	display: block;
 	position: relative;
 	max-width: 100%;
@@ -45,24 +45,17 @@ a.card:hover:after {
 	font-size: 1.25rem;
 	margin: 0;
 }
-.card > :first-child svg {
-	fill: var(--captionColor);
-}
 
 .card > :last-child:not(span) {
 	line-height: 1.75;
 	margin: 0;
 	padding: 0.75rem;
 }
-.card > :last-child > p {
-	margin: 0;
-}
 
 .event.card {
 	--imgSize: 92px;
 }
 .event.card header h2 {
-	color: var(--articleHeadings);
 	display: -webkit-box;
 	font-size: 1.15rem;
 	line-height: 1.4;
@@ -84,9 +77,12 @@ a.card:hover:after {
 	margin: 0;
 	font-size: 0.9rem;
 }
-.profile.card > header .icon {
+.profile.card > header u {
+	color: var(--captionColor);
+	font-size: 1.5rem;
 	position: absolute;
-	top: 0.75rem; right: 0.75rem;
+	top: 0.5rem; right: 0.75rem;
+	text-decoration: none;
 }
 .profile.card + section {
 	background: var(--cardTitleBg);
