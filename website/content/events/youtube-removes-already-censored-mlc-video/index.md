@@ -1,5 +1,5 @@
 ---
-title: Youtube Removes Already-Censored Video by Matt Christiansen
+title: YouTube Removes Already-Censored Video by Matt Christiansen
 date: 2020-07-29
 image: /img/misc/mlc-no-2nd-opinions.jpg
 profiles: [ matt-christiansen ]

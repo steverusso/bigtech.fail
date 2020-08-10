@@ -1,5 +1,5 @@
 ---
-title: Youtube Removes Rose/Icke II
+title: YouTube Removes Rose/Icke II
 date: 2020-04-06
 image: /img/misc/rose-icke-ii.jpg
 platforms: [ youtube, vimeo ]
