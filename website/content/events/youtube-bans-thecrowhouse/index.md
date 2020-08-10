@@ -24,11 +24,11 @@ over **237k subscribers** and nearly **22 million lifetime views**.
 >
 > -- max igan (@maxigan) [8 Jul 2020](http://archive.is/XtAby)
 
-The last video Max published, less than a week before his ban, was titled
-"Welcome to the Wonderful World of We Control What You Can Say"
-https://www.altcensored.com/watch?v=hziVZBw4yDk
-> I'll keep uploading to YouTube until they delete my channel altogether.
-
+One of the last videos Max published, less than a week before his ban, was titled
+"Welcome to the Wonderful World of We Control What You Can Say" (which can
+still be viewed [on altCensored](https://www.altcensored.com/watch?v=hziVZBw4yDk)
+and [on BitChute](https://www.bitchute.com/video/hziVZBw4yDk/)). In it, he
+points out how politicians are the ones causing real harm, not the virus:
 > ...none of the economic hardship that we're seeing is a result of COVID-19.
 > COVID-19 has done nothing to the world economy. What has happened to the
 > world economy is it has been decimated by politicians, and they've used
