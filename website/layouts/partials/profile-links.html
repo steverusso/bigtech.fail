@@ -12,12 +12,11 @@
 			{{ $href := printf "https://%s/%s%s" $prefix . $suffix }}
 
 			<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">
-				{{ with $v.logo }}
-					{{ $src := printf "/img/logos/%s" . }}
-					<img src="{{ $src }}" width="28" height="28" loading="lazy">
+				{{ with $v.icon }}
+					{{ $ic := . | merge (dict "size" 32) }}
+					{{ partialCached "icon" $ic $ic }}
 				{{ else }}
-					{{ $ic := $v.icon | merge (dict "size" 32) }}
-					{{ partialCached "icon.html" $ic $ic }}
+					<img src="/img/logos/{{ $v.key }}.png" width="28" height="28" loading="lazy">
 				{{ end }}
 			</a>
 		{{ end }}
