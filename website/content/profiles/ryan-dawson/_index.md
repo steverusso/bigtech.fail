@@ -1,13 +1,12 @@
 ---
 title: Ryan Dawson
 socials:
-  website:   www.ancreport.com
-  support:   www.ancreport.com/donate/
-  merch:     www.teezily.com/stores/anc
-  substar:   ancreport
-  bitchute:  channel/kCBxN1oEVOa0/
-  youtube:   c/RyDawson1
-  twitter:   twitter
+  website: www.ancreport.com
+  support: www.ancreport.com/donate/
+  merch: www.teezily.com/stores/anc
+  subscribestar: ancreport
+  bitchute: channel/kCBxN1oEVOa0/
+  youtube: c/RyDawson1
 ---
 
 [Ryan Dawson](https://www.ancreport.com/ryan-dawson/) is host of Anti Neocon

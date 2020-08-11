@@ -1,13 +1,13 @@
 ---
 title: Dan Dicks
 socials:
-  website:   pressfortruth.ca
-  support:   pressfortruth.ca/donate/
-  substar:   pressfortruth
-  bitchute:  channel/uMyXWmHMxzx4/
-  lbry:      '@PressForTruth'
-  dlive:     PressForTruth
-  twitter:   DanDicksPFT
+  website: pressfortruth.ca
+  support: pressfortruth.ca/donate/
+  subscribestar: pressfortruth
+  bitchute: channel/uMyXWmHMxzx4/
+  lbry: '@PressForTruth'
+  dlive: PressForTruth
+  twitter: DanDicksPFT
   instagram: dandickspft
 ---
 

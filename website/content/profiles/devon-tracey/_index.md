@@ -2,14 +2,14 @@
 title: Devon Tracey
 aka: Atheist Roo
 socials:
-  website:   www.atheismisunstoppable.com
-  merch:     www.atheismisunstoppable.com/t-shirt/
-  substar:   atheism
-  bitchute:  channel/s9qPWO5Faflp/
-  dlive:     Devon_Tracey
-  telegram:  atheistroo
-  parler:    profile/DevonTracey
-  twitter:   HeWasntJogging
+  website: www.atheismisunstoppable.com
+  merch: www.atheismisunstoppable.com/t-shirt/
+  subscribestar: atheism
+  bitchute: channel/s9qPWO5Faflp/
+  dlive: Devon_Tracey
+  telegram: atheistroo
+  parler: profile/DevonTracey
+  twitter: HeWasntJogging
   instagram: atheist_roo
 ---
 

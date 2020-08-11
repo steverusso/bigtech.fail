@@ -1,8 +1,8 @@
 ---
 title: Andy Ngo
 socials:
-  locals:  ngo
-  substar: AndyNgo
+  locals: ngo
+  subscribestar: AndyNgo
   twitter: MrAndyNgo
 ---
 
