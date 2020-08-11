@@ -1,15 +1,15 @@
 ---
 title: Matt Christiansen
 socials:
-  website:  www.mattchristiansenmedia.com
-  support:  www.mattchristiansenmedia.com/support
-  substar:  matt-christiansen
-  dlive:    mlchristiansen
-  gab:      mlchristiansen
+  website: www.mattchristiansenmedia.com
+  support: www.mattchristiansenmedia.com/support
+  subscribestar: matt-christiansen
+  dlive: mlchristiansen
+  gab: mlchristiansen
   bitchute: profile/T5pudGiMPQb8/
-  minds:    mlchristiansen/
-  youtube:  channel/UCxeY-wRrb65Jt37QHa5xMog
-  twitter:  mlchristiansen
+  minds: mlchristiansen/
+  youtube: channel/UCxeY-wRrb65Jt37QHa5xMog
+  twitter: mlchristiansen
 ---
 
 Matt Christiansen is a political content creater and co-host of _Beauty and the

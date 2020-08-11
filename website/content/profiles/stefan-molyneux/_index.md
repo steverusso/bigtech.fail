@@ -1,17 +1,17 @@
 ---
 title: Stefan Molyneux
 socials:
-  website:   www.freedomain.com
-  support:   www.freedomain.com/donate
-  locals:    freedomain
-  substar:   freedomain
-  minds:     StefanMolyneux
-  bitchute:  channel/freedomainradio
-  lbry:      '@freedomain'
-  dlive:     freedomain
-  telegram:  freedomainradio
-  parler:    profile/stefanmolyneux
-  gab:       stefanmolyneux
+  website: www.freedomain.com
+  support: www.freedomain.com/donate
+  locals: freedomain
+  subscribestar: freedomain
+  minds: StefanMolyneux
+  bitchute: channel/freedomainradio
+  lbry: '@freedomain'
+  dlive: freedomain
+  telegram: freedomainradio
+  parler: profile/stefanmolyneux
+  gab: stefanmolyneux
   instagram: stefanmolyneux
 ---
 

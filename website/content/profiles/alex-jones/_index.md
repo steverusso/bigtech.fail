@@ -1,13 +1,13 @@
 ---
 title: Alex Jones
 socials:
-  website:  www.infowars.com
-  support:  www.infowarsstore.com
-  substar:  alexjones
-  gab:      RealAlexJones
+  website: www.infowars.com
+  support: www.infowarsstore.com
+  subscribestar: alexjones
+  gab: RealAlexJones
   bitchute: profile/37LtOAayc4Wy/
   telegram: infowarslive
-  minds:    Infowars/
+  minds: Infowars/
 ---
 
 Alex Jones [is](https://www.infowars.com/about-alex-jones/) "a unique voice

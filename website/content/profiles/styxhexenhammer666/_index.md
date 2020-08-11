@@ -2,16 +2,16 @@
 title: Styxhexenhammer666
 aka: Styx
 socials:
-  website:   tarlwarwick.net/
-  merch:     tarlwarwick.net/collections/all
-  substar:   styxhexenhammer
-  minds:     Styxhexenhammer/
-  bitchute:  profile/Za8Dc9idFh5M/
+  website: tarlwarwick.net/
+  merch: tarlwarwick.net/collections/all
+  subscribestar: styxhexenhammer
+  minds: Styxhexenhammer/
+  bitchute: profile/Za8Dc9idFh5M/
   brighteon: channel/styxhexenhammer666
-  lbry:      '@Styxhexenhammer666'
-  gab:       Styx666Official
-  youtube:   user/Styxhexenhammer666
-  twitter:   Styx666Official
+  lbry: '@Styxhexenhammer666'
+  gab: Styx666Official
+  youtube: user/Styxhexenhammer666
+  twitter: Styx666Official
 ---
 
 Styx is a libertarian political commentator who has been a, if not _the_, leader in calling for users and creators to pioneer alternative platforms.
