@@ -1,5 +1,5 @@
 {{ $hamburger := partial "icon" (dict "name" "menu" "color" "#eee") }}
-{{ $navLinks := site.Data.navLinks }}
+{{ $links := site.Data.navLinks }}
 
 <nav>
 	<a href="/">
@@ -8,7 +8,7 @@
 	</a>
 
 	<div class="items hide-xs">
-		{{ range $navLinks }}
+		{{ range $links }}
 			<a href="{{ .href }}">{{ .text }}</a>
 		{{ end }}
 	</div>
@@ -17,14 +17,14 @@
 		<input type="checkbox" class="toggle" id="navToggle">
 
 		<label for="navToggle">
-			{{ $hamburger }}
+			<div class="menu">{{ $hamburger }}</div>
 			<div class="overlay"></div>
 		</label>
 
 		<aside>
 			<nav></nav>
 
-			{{ range $navLinks }}
+			{{ range $links }}
 				<a href="{{ .href }}">{{ .text }}</a>
 			{{ end }}
 		</aside>

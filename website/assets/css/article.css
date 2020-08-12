@@ -21,7 +21,7 @@ article h3 {
 article p, article li {
 	line-height: 2;
 }
-article p, article ol, article ul {
+article p, article ol, article ul, article table {
 	margin-bottom: 2.5rem;
 }
 article p + ol, article p + ul {

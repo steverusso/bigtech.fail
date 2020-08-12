@@ -23,7 +23,7 @@ footer a {
 	align-items: center;
 	margin: 1rem 0 0 0.5rem;
 }
-footer a > img, footer a > .icon {
+footer a > img, footer a > svg {
 	margin-right: 0.75rem;
 }
 footer a:hover {

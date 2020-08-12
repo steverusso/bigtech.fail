@@ -10,8 +10,6 @@
 	{{ if isset . "size" }} {{ $size = .size }} {{ end }}
 {{ end }}
 
-<div class="icon">
-	<svg viewBox="0 0 24 24" fill="{{ $color }}" width="{{ $size }}" height="{{ $size }}">
-		{{ index site.Data.icons $name | safeHTML }}
-	</svg>
-</div>
+<svg viewBox="0 0 24 24" fill="{{ $color }}" width="{{ $size }}" height="{{ $size }}">
+	{{ index site.Data.icons $name | safeHTML }}
+</svg>

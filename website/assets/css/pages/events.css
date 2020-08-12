@@ -32,7 +32,7 @@
 	margin-right: 2rem;
 	text-decoration: none;
 }
-.meta > u > .icon {
+.meta > u > svg {
 	margin-right: 0.5rem;
 }
 .meta svg, .profile-drawer-content > header svg {
@@ -84,7 +84,7 @@
 	font-size: 1.3rem;
 	padding: 1rem 0.5rem;
 }
-.profile-drawer-content > header > .icon {
+.profile-drawer-content > header > svg {
 	margin-right: 0.5rem;
 }
 .profile-drawer-content > section > * { margin: 1rem }
