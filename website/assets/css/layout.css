@@ -12,9 +12,6 @@
 .cntr.w900 {
 	width: 900px;
 }
-.cntr > h1:first-child {
-	margin: 1rem 0;
-}
 
 .row, .grid {
 	display: flex;
