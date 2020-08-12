@@ -22,7 +22,7 @@ nav a:hover {
 	color: #888;
 }
 
-nav label > .icon {
+nav label > .menu {
 	height: var(--navHeight);
 	display: flex;
 	align-items: center;

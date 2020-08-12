@@ -45,10 +45,6 @@ img {
 	max-width: 100% !important;
 }
 
-.icon svg {
-	vertical-align: middle;
-}
-
 p, li, span {
 	color: var(--paraColor);
 }
