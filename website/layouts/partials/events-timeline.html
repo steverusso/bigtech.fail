@@ -1,7 +1,10 @@
 <div class="timeline">
 	{{ range . }}
-		<div class="item">
-			<q></q> <!-- This is what forms the line with the circles. -->
+		{{ $id := substr (.RelPermalink | sha1) 0 5 }}
+
+		<div class="item" id="{{ $id }}">
+			<!-- This is what forms the line with the anchor link in the circle. -->
+			<u><a href="#{{ $id }}"></a></u>
 
 			<!-- This is the content of the timeline item. -->
 			<div>{{ partialCached "cards/event" . .RelPermalink }}</div>
