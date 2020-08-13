@@ -61,11 +61,11 @@
 }
 
 @media (min-width: 850px) {
-	.timeline {
+	:not(.condensed) > .timeline {
 		--dividerWidth: 80px;
 		--contentWidth: calc(50% - calc(var(--dividerWidth) / 2));
 	}
-	.timeline .item:nth-child(even) {
+	:not(.condensed) > .timeline .item:nth-child(even) {
 		flex-direction: row-reverse;
 		justify-content: start;
 	}
@@ -73,14 +73,6 @@
 
 .condensed {
 	max-width: 650px;
-}
-.condensed > .timeline {
-	--dividerWidth: 40px;
-	--contentWidth: 100%;
-}
-.condensed > .timeline .item {
-	flex-direction: row;
-	justify-content: start;
 }
 .condensed > .timeline .event.card {
 	--imgSize: 72px;
