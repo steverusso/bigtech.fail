@@ -6,40 +6,58 @@
 	display: flex;
 	justify-content: end;
 	justify-content: flex-end !important;
+	margin-top: -100px;
+	padding-top: 100px;
 }
 .timeline .item > div {
 	padding: 0.75rem;
 	width: var(--contentWidth);
 	max-width: var(--contentWidth);
 }
+.timeline .item:target .event.card {
+	border: 1px solid var(--blockquoteColor);
+	box-shadow: 0 0 12px 6px var(--blockquoteBorder);
+}
 
-/* The `q` element is the 'divider' section which forms the timeline line.
- *  :before -> the vertical line
- *  :after  -> the marker / circle centered on the vertical line */
-.timeline .item > q {
+/* The `u` & `a` elements are the 'divider' section which form the line of time.
+ *  u:before -> the vertical line
+ *  a        -> the marker / circle centered on the vertical line
+ *  a:after  -> the icon within the circle */
+.timeline .item > u, .timeline .item > u > a:after {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+.timeline .item > u {
 	margin: 0;
 	position: relative;
+	text-decoration: none;
 	width: var(--dividerWidth);
 }
-.timeline .item > q:before, .timeline .item > q:after {
+.timeline .item > u > a:hover {
+	text-decoration: none;
+}
+.timeline .item > u:before {
 	content: "";
 	position: absolute;
-}
-.timeline .item > q:before {
 	background: var(--border1);
 	min-width: 1px; min-height: 100%;
 	max-width: 1px; max-height: 100%;
 }
-.timeline .item > q:after {
-	--size: 32px;
+.timeline .item > u > a {
+	--size: 44px;
 	background: var(--cardTitleBg);
 	border: 2px solid var(--border1);
 	border-radius: 50%;
 	min-width: var(--size); min-height: var(--size);
 	max-width: var(--size); max-height: var(--size);
+	z-index: 1;
+}
+.timeline .item > u > a:after {
+	content: "\02425";
+	color: var(--captionColor);
+	font-size: 28px;
+	height: calc(var(--size) + 4px);
 }
 
 @media (min-width: 850px) {
