@@ -57,7 +57,7 @@
 	content: "\02425";
 	color: var(--captionColor);
 	font-size: 28px;
-	height: calc(var(--size) + 4px);
+	max-height: calc(var(--size) + 4px);
 }
 
 @media (min-width: 850px) {
