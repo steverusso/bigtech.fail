@@ -29,6 +29,11 @@ nav label > .menu {
 	top: 0; right: 0;
 	z-index: 10;
 }
+nav label > .menu svg {
+	width: 32px;
+	height: 32px;
+	fill: #eee;
+}
 nav aside {
 	background: var(--navBg);
 	box-shadow: none;
