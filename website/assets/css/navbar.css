@@ -20,7 +20,7 @@ nav a:hover {
 	color: #888;
 }
 
-nav label > .menu {
+.hamburger {
 	height: var(--navHeight);
 	display: flex;
 	align-items: center;
@@ -29,11 +29,21 @@ nav label > .menu {
 	top: 0; right: 0;
 	z-index: 10;
 }
-nav label > .menu svg {
+.hamburger i {
+	border: 1px solid #eee;
+	position: relative;
 	width: 32px;
-	height: 32px;
-	fill: #eee;
 }
+.hamburger i:before, .hamburger i:after {
+	content: "";
+	border: 1px solid #eee;
+	position: absolute;
+	right: -1px;
+	min-width: 100%;
+}
+.hamburger i:before { top: -9px; }
+.hamburger i:after { top: 7px; }
+
 nav aside {
 	background: var(--navBg);
 	box-shadow: none;
