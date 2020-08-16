@@ -1,0 +1,33 @@
+- title: Stay Connected
+  links:
+  - text: GitHub
+    href: https://github.com/steverusso/bigtech.fail/
+    logo: /img/logos/github.png
+  - text: E-mail
+    href: mailto:info@bigtech.fail
+    icon:
+      name: mail_outline
+      color: "#03a9f4"
+  - text: Minds
+    href: https://www.minds.com/bigtechfail
+    logo: /img/logos/minds.png
+
+- title: Site Links
+  links:
+  - text: AltTech
+    href: /alttech/
+  - text: BigTech
+    href: /platforms/
+
+- title: About
+  links:
+  - text: Privacy Policy
+    href: /privacy-policy/
+  - text: Contributing
+    href: /help/
+
+- title: CryptoCurrency
+  links:
+  - text: Monero
+    href: /monero/
+    logo: /img/logos/monero.png
