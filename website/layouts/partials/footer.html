@@ -11,10 +11,6 @@
 								<img src="{{ . }}" width="20" height="20" loading="lazy">
 							{{ end }}
 
-							{{ with .icon }}
-								{{ partial "icon.html" (merge . (dict  "size" 20)) }}
-							{{ end }}
-
 							{{ .text }}
 						</a>
 					{{ end }}
