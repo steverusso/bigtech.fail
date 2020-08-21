@@ -2,13 +2,17 @@
 <!-- Profile,	using the PNG if it exists and defaulting to the JPG. -->
 
 {{ $pic := "" }}
-{{ $key := anchorize .Title }}
 
-{{ range $ext := slice "jpg" "png" }}
-	{{ $imgSrc := printf "/img/people/%s.%s" $key $ext }}
-	{{ $exists := printf "/static%s" $imgSrc | fileExists }}
+{{ with .Param "image" }}
+	{{ $pic = . }}
+{{ else }}
+	{{ $key := anchorize .Title }}
+	{{ range $ext := slice "jpg" "png" }}
+		{{ $imgSrc := printf "/img/people/%s.%s" $key $ext }}
+		{{ $exists := printf "/static%s" $imgSrc | fileExists }}
 
-	{{ $pic = $pic | cond $exists $imgSrc }}
+		{{ $pic = $pic | cond $exists $imgSrc }}
+	{{ end }}
 {{ end }}
 
 {{ return $pic }}
