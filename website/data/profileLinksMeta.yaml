@@ -1,6 +1,6 @@
-- { key: website, text: Website, icon: { name: public,       color: '#1e88e5' } }
-- { key: support, text: Support, icon: { name: request_page, color: '#4caf50' } }
-- { key: merch,   text: Merch,   icon: { name: shop,         color: '#f57c00' } }
+- { key: website, text: Website, icon: website }
+- { key: support, text: Support, icon: support }
+- { key: merch,   text: Merch,   icon: merch }
 
 - { key: locals,        text: Locals.com,    suffix: .locals.com }
 - { key: subscribestar, text: SubscribeStar, prefix: subscribestar.com }
