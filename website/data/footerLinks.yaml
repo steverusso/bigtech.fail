@@ -5,9 +5,7 @@
     logo: /img/logos/github.png
   - text: E-mail
     href: mailto:info@bigtech.fail
-    icon:
-      name: mail_outline
-      color: "#03a9f4"
+    logo: /img/icons/email.png
   - text: Minds
     href: https://www.minds.com/bigtechfail
     logo: /img/logos/minds.png
