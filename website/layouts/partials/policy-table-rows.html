@@ -1,5 +1,4 @@
 {{ $names := dict "tos" "Terms of Service" "privacy" "Privacy Policy" "commguides" "Community Guidelines" }}
-{{ $launchIcon := partialCached "icon.html" (dict "name" "launch" "color" "#888" "size" 16) "table-launch" }}
 
 {{ range $k := slice "tos" "privacy" "commguides" }}
 	{{ with index $ $k }}
@@ -10,11 +9,7 @@
 		<tr title="Last we checked: {{ $asof }}">
 			<td><b>{{ $name }}:</b></td>
 			<td>
-				<a href="{{ .url }}" target="_blank">
-					<span>{{ $wc }} words</span>
-					&nbsp;
-					{{ $launchIcon }}
-				</a>
+				<a href="{{ .url }}" target="_blank" class="open">{{ $wc }} words</a>
 			</td>
 		</tr>
 	{{ end }}
