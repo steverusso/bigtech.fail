@@ -8,35 +8,30 @@
 	padding: 0 1rem;
 }
 .event.cntr main > header {
-	padding-bottom: 1.5rem;
+	padding-bottom: 1.75rem;
+	margin-bottom: 2.5rem;
+}
+.event.cntr main > header u {
+	color: var(--captionColor);
+	display: block;
+	margin-top: 1rem;
+	text-decoration: none;
 }
 .event.cntr main > header,
 .event.cntr main > article {
-	margin-bottom: 1.5rem;
 	border-bottom: 1px solid var(--border1);
+}
+.event.cntr main > article {
+	margin-bottom: 1.5rem;
 }
 @media (max-width: 450px) {
 	.event.cntr main > header {
 		flex-direction: column;
 		text-align: center;
 	}
-}
-
-.meta {
-	color: var(--captionColor);
-	margin-bottom: 3rem;
-}
-.meta > u {
-	display: inline-flex;
-	align-items: center;
-	margin-right: 2rem;
-	text-decoration: none;
-}
-.meta > u > svg {
-	margin-right: 0.5rem;
-}
-.meta svg, .profile-drawer-content > header svg {
-	fill: var(--captionColor);
+	.event.cntr main > header h1 {
+		margin-top: 2rem;
+	}
 }
 
 .sources li {
@@ -47,7 +42,7 @@
 
 /* This is the toggle for opening / closing the profile drawer. It's a label;
  * we want it to appear as a button. */
-#profileDrawerToggle + label {
+#profilesToggle + label {
 	position: fixed;
 	bottom: 2rem;
 	right: 2rem;
@@ -55,10 +50,17 @@
 	background: #03A9F4;
 	border-radius: 50%;
 	box-shadow: 3px 3px 10px 4px var(--shadowColor);
-	padding: 1rem;
+	padding: 0.9rem;
 	z-index: 3;
 }
-#profileDrawerToggle + label .overlay {
+#profilesToggle + label:after {
+	content: "";
+	display: block;
+	background: no-repeat center/100% url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAABYAQMAAABLW6J3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAKlJREFUOMvdkDEKwzAUQx06ePQRfJP6YoUEOvRagV7EvYFHDyGqrEA/NLRTMiQCWW8w3192J9aNvi54weA6jOKA7DyKODIDqjgxIyZxz0yYVwxmD3xzByY97M1/drA9rcuqo3XXn9DZSXMb4PaSzbd9PvsnQOu0fvRI9i3prOtAYceqWkwek+oyI1QYYAYe+iqKA9Su6aGhC9/FXvzUA0H8ossPrpvxAfUGmls1d6OdE4kAAAAASUVORK5CYII=');
+	width: 28px;
+	height: 28px;
+}
+#profilesToggle + label .overlay {
 	width: calc(100% - 450px);
 	opacity: 0;
 }
@@ -82,11 +84,17 @@
 	background: var(--cardTitleBg);
 	border-bottom: 1px solid var(--border1);
 	font-size: 1.3rem;
-	padding: 1rem 0.5rem;
+	padding: 1.25rem 0.5rem;
 }
-.profile-drawer-content > header > svg {
-	margin-right: 0.5rem;
+.profile-drawer-content > header:before {
+	content: "";
+	background: no-repeat center/100% url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAY1BMVEUAAACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAwX8KIAAAAIHRSTlMABbb88Av3aBouD33i08RK6b8myXJhUdmsRIU3oJ9auW9yIiwAAAFESURBVFjD7dVbbsMgEIXhIQwYzMX3W9Kk3v8q24dWcu1Jwziq1Ej+F/AheDjA/GQHcAB/D0iNIaCWOwHduIsAEBfX6D3AcDPwlbkNfCDWsKiOXKAy8CNT8QBvYZX1HEA62OQkA/BmCxjPAK5AdGUABQUUDMBQgEkHSkUBqkwGMKeAHNOvUFNAzXiDjAIyBhApIDIAnGDThAxgHhWsUuPMAXS3BjrNAmbsBSwSPXIHBdvFLVSL/EnTsRffx0e9a5VlOBfWFucgn/gXpHztn2nW5RBKvQeQ6Ktzb3P1WV4X7uRRMoBydNNqEtTkRp8IDK2lB6XOGvkQ0E2n4G6ieMffgaZbHE4TJ3kfQJfDw1RX3gPiBZKyFQ1UBhIzFQWgheQsEsCbSgfUGwG0wKjdAjLjAJn8l4BgRABzODEKLzNpB3AAiX0ALfSCW2e8siQAAAAASUVORK5CYII=');
+	border-radius: 2px;
+	margin: 0 1rem 0 0.5rem;
+	width: 28px;
+	height: 28px;
 }
+
 .profile-drawer-content > section > * { margin: 1rem }
 .profile-drawer-content > section > :last-child { margin-bottom: 7rem }
 .profile-drawer-content::-webkit-scrollbar { width: 0 !important }
@@ -105,7 +113,7 @@
 		overflow: visible;
 	}
 
-	#profileDrawerToggle + label { display: none }
+	#profilesToggle + label { display: none }
 
 	.profile-drawer-content { top: var(--navHeight) }
 }
