@@ -1,16 +1,12 @@
-{{ $toggleIcon := partialCached "icon" (dict "name" "people" "color" "#fff") "event-profiles-toggle" }}
-{{ $headerIcon := partialCached "icon" (dict "name" "account_box" "size" 40) "event-profiles-header" }}
-
 <input type="checkbox" class="toggle" id="profileDrawerToggle">
 
 <label for="profileDrawerToggle">
-	{{ $toggleIcon }}
 	<div class="overlay"></div>
 </label>
 
 <aside>
 	<div class="profile-drawer-content">
-		<header>{{ $headerIcon }} Profiles Involved</header>
+		<header>Profiles Involved</header>
 
 		<section>
 			{{ range $ }}
