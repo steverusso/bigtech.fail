@@ -8,6 +8,7 @@ sources:
  - [ 'YouTube Official Blog "An update on how YouTube supports elections" by Leslie Miller (13 Aug 2020)', 'http://archive.is/Yfqg9' ]
  - [ 'MintPress News "Discussion of Wikileaks or any “Hacked Information” Banned Under New YouTube Rules" by Alan Macleod (14 Aug 2020)', 'http://archive.is/IyH3V' ]
  - [ 'Medium "How We Could Wind Up Banned From Discussing An October Surprise On Social Media This Election" by Caitlin Johnstone (15 Aug 2020)', 'http://archive.is/6sUYN' ]
+ - [ 'BitChute "Youtube Targets Whistleblowers and Activists With New "Hacked" Material TOS" by Styxhexenhammer666 (15 Aug 2020)', 'https://www.bitchute.com/video/e2fH9V8EcTI/' ]
  - [ 'twitter.com/caitoz/status/1293723634381369345', 'http://archive.is/hlU0g' ]
  - [ 'Reclaim The Net "YouTube joins Twitter in banning content around "hacked" material in the run up to the election" by Didi Rankovic (17 Aug 2020)', 'http://archive.is/Ow4CD' ]
 ---
