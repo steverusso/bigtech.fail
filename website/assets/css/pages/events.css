@@ -8,35 +8,27 @@
 	padding: 0 1rem;
 }
 .event.cntr main > header {
-	padding-bottom: 1.5rem;
+	padding-bottom: 1.75rem;
+	margin-bottom: 2.5rem;
+}
+.event.cntr main > header u {
+	color: var(--captionColor);
+	display: block;
+	margin-top: 1rem;
+	text-decoration: none;
 }
 .event.cntr main > header,
 .event.cntr main > article {
-	margin-bottom: 1.5rem;
 	border-bottom: 1px solid var(--border1);
+}
+.event.cntr main > article {
+	margin-bottom: 1.5rem;
 }
 @media (max-width: 450px) {
 	.event.cntr main > header {
 		flex-direction: column;
 		text-align: center;
 	}
-}
-
-.meta {
-	color: var(--captionColor);
-	margin-bottom: 3rem;
-}
-.meta > u {
-	display: inline-flex;
-	align-items: center;
-	margin-right: 2rem;
-	text-decoration: none;
-}
-.meta > u > svg {
-	margin-right: 0.5rem;
-}
-.meta svg, .profile-drawer-content > header svg {
-	fill: var(--captionColor);
 }
 
 .sources li {
@@ -85,8 +77,10 @@
 	padding: 1rem 0.5rem;
 }
 .profile-drawer-content > header > svg {
+	fill: var(--captionColor);
 	margin-right: 0.5rem;
 }
+
 .profile-drawer-content > section > * { margin: 1rem }
 .profile-drawer-content > section > :last-child { margin-bottom: 7rem }
 .profile-drawer-content::-webkit-scrollbar { width: 0 !important }

@@ -3,21 +3,18 @@
 {{ end }}
 
 {{ define "main" }}
-	{{ $eventIcon := partialCached "icon" "event" "event" }}
-	{{ $clockIcon := partialCached "icon" "schedule" "schedule" }}
 	{{ $class := and (.Param `profiles`) `has-profiles` }}
 
 	<div class="event cntr {{ $class }}">
 		<main>
 			<header>
 				<img src="{{ .Params.image }}" width="128" height="128" loading="lazy">
-				<h1>{{ .Title }}</h1>
-			</header>
 
-			<div class="meta">
-				<u>{{ $eventIcon }} {{ .Date.Format "Jan 2, 2006" }}</u>
-				<u>{{ $clockIcon }} ~{{ .ReadingTime }}m read</u>
-			</div>
+				<div>
+					<h1>{{ .Title }}</h1>
+					<u>{{ .Date.Format "Jan 2, 2006" }}</u>
+				</div>
+			</header>
 
 			<article>{{ .Content }}</article>
 
