@@ -3,7 +3,7 @@
 
 <!-- Build a slice containing each stylesheet as a resource. -->
 {{ $sheets := slice }}{{ range $names }}
-	{{ $sheets = $sheets | append (resources.Get (path.Join "css" .)) }}
+	{{ $sheets = $sheets | append (resources.Get .) }}
 {{ end }}
 
 <!-- Bundle the stylesheet resources and fingerprint the bundle. -->

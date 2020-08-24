@@ -1,4 +1,4 @@
-{{ $res := path.Join "css" . | resources.Get }}
+{{ $res := resources.Get . }}
 {{ $css := $res.Content | safeCSS }}
 
 <style>{{ $css }}</style>
