@@ -10,11 +10,9 @@
 	<!-- The policy data and alternative platforms. -->
 	<!-- This appears as a sidebar on larger screens. -->
 	<section class="col md-5 lg-4">
-		<table>
-			{{ with .Params.legal }}
-				{{ partial "policy-table-rows.html" . }}
-			{{ end }}
-		</table>
+		{{ with .Params.legal }}
+			{{ partial "policy-table.html" . }}
+		{{ end }}
 
 		{{ with $alts }}
 			<h3>Alternative Platforms ({{ len . }})</h3>
