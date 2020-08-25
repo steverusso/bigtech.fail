@@ -79,7 +79,7 @@ tr:nth-child(odd) {
 	background-color: var(--cardBg);
 }
 table a {
-	color: var(--navColor);
+	color: var(--bodyColor);
 }
 
 .overlay {
