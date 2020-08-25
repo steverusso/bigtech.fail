@@ -112,7 +112,7 @@ h3[data-count] {
 	display: inline-block;
 	font-size: calc(var(--h) / 1.5);
 	font-weight: bold;
-	margin: 0 0 0.5rem calc(var(--h) / 2);
+	margin: 0 0 calc(var(--h) / 4) calc(var(--h) / 2);
 	padding: calc(var(--h) / 7.5) 0.75rem calc(var(--h) / 5.25);
 	vertical-align: middle;
 }
