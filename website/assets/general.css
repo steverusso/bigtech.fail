@@ -98,19 +98,22 @@ table a {
 }
 
 h1[data-count] {
-	display: inline;
+	--h: 27px;
+	margin: 0;
 }
-h1[data-count]:after {
-	--h: 28px;
+h3[data-count] {
+	--h: 22px;
+}
+[data-count]:after {
 	content: attr(data-count) " ";
 	background: var(--cardTitleBg);
 	border: 1px solid var(--border3);
 	border-radius: var(--h);
 	display: inline-block;
-	font-size: calc(var(--h) - 11px);
+	font-size: calc(var(--h) / 1.5);
 	font-weight: bold;
-	margin: 0 0 0.5rem 1rem;
-	padding: 0.2rem 0.75rem;
+	margin: 0 0 calc(var(--h) / 4) calc(var(--h) / 2);
+	padding: calc(var(--h) / 7.5) 0.75rem calc(var(--h) / 5.25);
 	vertical-align: middle;
 }
 
