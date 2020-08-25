@@ -15,7 +15,7 @@
 		{{ end }}
 
 		{{ with $alts }}
-			<h3>Alternative Platforms ({{ len . }})</h3>
+			<h3 data-count="{{ len . }}">Alternative Platforms</h3>
 
 			<div class="grid sm-6 md-12 alts">
 				{{ range . }}
