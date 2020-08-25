@@ -23,20 +23,16 @@
 
 		<hr class="hide-xs">
 
-		<table>
-			<tr>
-				<td><b>Similar to:</b></td>
-				<td>
-					{{ range .Params.altfor }}
-						<a href="/{{ . }}/" class="chip {{ . }}">{{ . }}</a>
-					{{ end }}
-				</td>
-			</tr>
-
-			{{ with .Params.legal }}
-				{{ partial "policy-table-rows.html" . }}
+		<p>
+			<b>Similar to:</b>
+			{{ range .Params.altfor }}
+				<a href="/{{ . }}/" class="chip {{ . }}">{{ . }}</a>
 			{{ end }}
-		</table>
+		</p>
+
+		{{ with .Params.legal }}
+			{{ partial "policy-table.html" . }}
+		{{ end }}
 
 		<article>{{ .Content }}</article>
 	</div>
