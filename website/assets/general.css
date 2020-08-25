@@ -97,6 +97,23 @@ table a {
 	height: 100%;
 }
 
+h1[data-count] {
+	display: inline;
+}
+h1[data-count]:after {
+	--h: 28px;
+	content: attr(data-count) " ";
+	background: var(--cardTitleBg);
+	border: 1px solid var(--border3);
+	border-radius: var(--h);
+	display: inline-block;
+	font-size: calc(var(--h) - 11px);
+	font-weight: bold;
+	margin: 0 0 0.5rem 1rem;
+	padding: 0.2rem 0.75rem;
+	vertical-align: middle;
+}
+
 .title { font-size: 1.3rem }
 .caption {
 	font-size: 0.9rem;

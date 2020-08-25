@@ -10,11 +10,10 @@
 
 .platform.cntr .content section h3 {
 	padding-left: 0.25rem;
-	margin-top: 3rem;
 }
 .platform.cntr .content section table {
+	margin: 1.5rem 0 3rem;
 	width: 100%;
-	margin-top: 1.5rem;
 }
 
 @media (min-width: 950px) {
@@ -33,6 +32,3 @@
 .banned { color: #f44336 }
 .suspended, .content-removed { color: #ff9800 }
 .walked-away { color: #43a047 }
-
-.events-heading { padding: 1rem 0 0 1rem }
-.events-heading b { font-size: 1.25rem }

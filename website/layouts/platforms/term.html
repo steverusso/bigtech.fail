@@ -17,10 +17,8 @@
 		{{ if .Content | ne "" }}
 			{{ partial "platform-rundown.html" . }}
 
-			<div class="events-heading">
-				<h1>Events <b>( {{ len .Pages }} )</b></h1>
-				<hr>
-			</div>
+			<h1 data-count="{{ len .Pages }}">Events</h1>
+			<hr>
 		{{ end }}
 
 		{{ partial "timeline" .Pages }}
