@@ -30,8 +30,8 @@ promoting legacy and corporate media outlets. They do this primarily by:
 ## Next Level Shadow Banning
 
 YouTube gets caught shadow banning channels and videos all the time now.
-However, they really took this shady practice to the next level. For example,
-on September 30, 2019, Steven Crowder [published
+However, they really took this shady practice to another level. On September
+30, 2019, Steven Crowder [published
 evidence](/events/crowder-confirms-youtube-shadow-ban/) that YouTube was shadow
 banning his channel _only in the United States_. **He and many others warned**
 that if they could do this to him, the largest conservative channel on the
