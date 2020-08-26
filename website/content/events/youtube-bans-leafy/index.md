@@ -19,7 +19,7 @@ extra:
 ---
 
 YouTube banned content creator "Leafy" [for](https://archive.is/MboSe/image)
-violating YouTube's "policy prohibiting content designed to harass, bully or
+violating YouTube's policy "prohibiting content designed to harass, bully or
 threaten." His channel had **4.91 million subscribers** and just over **1.2
 <u>billion</u> lifetime views**.
 > Morning @TeamYouTube my channel was suspended yesterday, curious if there is
