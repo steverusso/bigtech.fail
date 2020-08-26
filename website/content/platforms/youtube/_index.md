@@ -21,10 +21,10 @@ legal:
 The demise of YouTube is a sad and backward story about a platform turning its
 back on the independent content creators who helped build it up in favor of
 promoting legacy and corporate media outlets. They do this primarily by:
-1. manipulating search algorithms to artificially boost content from channels
-	 they label as "authoritative" while burying other content that would have
-	 been found organically.
-2. controlling where money flows by revoking monetization from smaller,
+1. **Manipulating search algorithms** to artificially boost content from
+	 channels they label as "authoritative" while burying other content that
+	 would have been found organically.
+2. **Controlling where money flows** by revoking monetization from smaller,
 	 independent content creators for absurd reasons.
 
 ## Next Level Shadow Banning
@@ -35,8 +35,8 @@ However, they really took this shady practice to another level. On September
 evidence](/events/crowder-confirms-youtube-shadow-ban/) that YouTube was shadow
 banning his channel _only in the United States_. **He and many others warned**
 that if they could do this to him, the largest conservative channel on the
-platform, they will do it to anyone. Sure enough, less than a month later,
-[YouTube was
+platform, they will do it to anyone. Sure enough, less than a month later, in
+what is perhaps the clearest example of election interference, [YouTube was
 caught](/events/youtube-gets-caught-shadow-banning-tulsi-gabbard-in-the-us/)
 doing _the exact same thing_ to Tulsi Gabbard, a Democratic presidential
 candidate and current US congresswoman.
@@ -47,8 +47,8 @@ There are many instances of creators being demonetized on YouTube en masse, but
 there are two examples that stand out quite a bit.
 
 In the beginning of 2017, an advertiser boycott triggered what came to be known
-as [the Adpocalypse](/events/youtube-adpocalypse/) in which YouTube caved to
-the boycott by demonetizing a massive amount of channels of all kinds.
+as [the Adpocalypse](/events/youtube-adpocalypse/) when YouTube caved to the
+boycott by demonetizing a massive amount of channels of all kinds.
 Additionally, YouTube raised the eligibility requirements for the Parter
 Program so that YouTube could, in their own words, "ensure revenue only flows
 to creators who are playing by the rules."
