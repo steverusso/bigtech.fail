@@ -48,10 +48,10 @@ there are two examples that stand out quite a bit.
 
 In the beginning of 2017, an advertiser boycott triggered what came to be known
 as [the Adpocalypse](/events/youtube-adpocalypse/) in which YouTube caved to
-the boycott by demonetizing a massive amount of channels of all kinds. YouTube
-then raised the eligibility requirements for the Parter Program so that YouTube
-could, in their own words, "ensure revenue only flows to creators who are
-playing by the rules."
+the boycott by demonetizing a massive amount of channels of all kinds.
+Additionally, YouTube raised the eligibility requirements for the Parter
+Program so that YouTube could, in their own words, "ensure revenue only flows
+to creators who are playing by the rules."
 
 In June of 2019, after a Vox employee claimed YouTube profits off of "hate
 speech", YouTube caved and tried to appease him by demonetizing dozens of
