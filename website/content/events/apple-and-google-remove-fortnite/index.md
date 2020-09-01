@@ -13,6 +13,8 @@ sources:
  - [ 'twitter.com/EpicNewsroom/status/1295430127455596544', 'http://archive.is/4XFYx' ]
  - [ 'GamesBeat "App Store war: Apple, Google delete Fortnite after Epic Games adds direct payment (Updated)" by Dean Takahashi (13 Aug 2020)', 'http://archive.is/OtvaU' ]
  - [ 'AppleInsider "Apple threatens to close Epic Games developer account on Aug. 28" by Amber Neely (18 Aug 2020)', 'http://archive.is/cRsPL' ]
+extra:
+ - [ 'Wall Street Journal "News Publishers Join Fight Against Apple Over App Store Terms" by Benjamin Mullin (20 Aug 2020)', 'https://archive.is/v6LKN' ]
 ---
 
 Epic Games, the company behind the game _Fortnite_, announced the "Fortnite
@@ -56,7 +58,7 @@ adverse action against the company.
 > -- Epic Games Newsroom (@EpicNewsroom) [17 Aug 2020](http://archive.is/4XFYx)
 
 Opinion: Epic is clearly in violation of their agreement with Apple and will
-very likely lose (if this even reaches the inside of a court room).  However,
+very likely lose (if this even reaches the inside of a court room). However,
 situations like this should highlight for the rest of us the **dangers of using
 and supporting highly-centralized services, especially app stores**.
 
