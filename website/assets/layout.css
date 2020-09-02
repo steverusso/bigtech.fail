@@ -41,6 +41,7 @@
 	.hide-sm-and-down { display: none !important }
 }
 @media (min-width: 950px) {
+	.grid.md-4 { --c: 4 }
 	.col.md-5 { --c: 5 }
 	.col.md-6, .grid.md-6 { --c: 6 }
 	.col.md-7 { --c: 7 }

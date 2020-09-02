@@ -16,11 +16,12 @@
 	width: 100%;
 }
 
-@media (min-width: 950px) {
-	.alts > div {
-		margin-bottom: 1.5rem !important;
-		padding: 0 !important;
-	}
+.no-writeup {
+	margin: 2rem 0;
+}
+:not(.no-writeup) > .alts > div {
+	padding: 0 !important;
+	margin-bottom: 1.5rem;
 }
 
 @media (min-width: 1250px) {
