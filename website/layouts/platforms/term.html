@@ -16,11 +16,25 @@
 
 		{{ if .Content | ne "" }}
 			{{ partial "platform-rundown.html" . }}
+		{{ else }}
+			{{ $slug := .Title | anchorize }}
+			{{ $alts := index .Site.Taxonomies.altfor $slug }}
 
-			<h1 data-count="{{ len .Pages }}">Events</h1>
-			<hr>
+			<div class="no-writeup">
+				{{ with $alts }}
+					<h3 data-count="{{ len . }}">Alternative Platforms</h3>
+
+					<div class="grid sm-6 md-4 alts">
+						{{ range . }}
+							<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
+						{{ end }}
+					</div>
+				{{ end }}
+			</div>
 		{{ end }}
 
+		<h1 data-count="{{ len .Pages }}">Events</h1>
+		<hr>
 		{{ partial "timeline" .Pages }}
 	</div>
 {{ end }}
