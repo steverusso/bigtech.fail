@@ -1,16 +1,16 @@
-input.toggle {
+input[id^="toggle"] {
 	display: none;
 }
-input.toggle:checked ~ label .overlay {
+input[id^="toggle"] ~ label {
+	cursor: pointer;
+}
+input[id^="toggle"]:checked ~ aside {
+	transform: translateX(0);
+}
+input[id^="toggle"]:checked ~ label .overlay {
 	visibility: visible;
 	opacity: 1;
 	z-index: 5;
-}
-input.toggle:checked ~ aside {
-	transform: translateX(0);
-}
-input.toggle ~ label {
-	cursor: pointer;
 }
 
 aside {
