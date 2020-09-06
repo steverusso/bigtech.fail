@@ -78,6 +78,9 @@
 	width: 28px;
 	height: 28px;
 }
+.profiles.content > section > * {
+	margin: 1rem;
+}
 
 @media (min-width: 1250px) {
 	#profilesToggle + label { display: none }
