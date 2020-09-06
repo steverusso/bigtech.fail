@@ -4,8 +4,31 @@ input[id^="toggle"] {
 input[id^="toggle"] ~ label {
 	cursor: pointer;
 }
+/* This is the toggle for opening / closing a side drawer. It's a label;
+ * we want it to appear as a button. */
+input[id^="toggle"] ~ label:not([for="toggleNav"]) {
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
+
+	background: #03A9F4;
+	border-radius: 50%;
+	box-shadow: 3px 3px 10px 4px var(--shadowColor);
+	padding: 0.9rem;
+	z-index: 3;
+}
+input[id^="toggle"] ~ label:not([for="toggleNav"]):after {
+	content: "";
+	display: block;
+	width: 28px;
+	height: 28px;
+}
 input[id^="toggle"]:checked ~ aside {
 	transform: translateX(0);
+}
+input[id^="toggle"] ~ label:not([for="toggleNav"]) .overlay {
+	width: calc(100% - 450px);
+	opacity: 0;
 }
 input[id^="toggle"]:checked ~ label .overlay {
 	visibility: visible;
@@ -48,6 +71,10 @@ aside > .content > section > :last-child { margin-bottom: 7rem }
 aside > .content::-webkit-scrollbar { width: 0 !important }
 
 @media (min-width: 1250px) {
+	input[id^="toggle"] ~ label {
+		display: none;
+	}
+
 	aside {
 		position: absolute;
 		transform: translateX(0);

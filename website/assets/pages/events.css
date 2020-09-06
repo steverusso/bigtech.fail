@@ -40,29 +40,8 @@
 	line-height: 1.75;
 }
 
-/* This is the toggle for opening / closing the profile drawer. It's a label;
- * we want it to appear as a button. */
-#toggleProfiles + label {
-	position: fixed;
-	bottom: 2rem;
-	right: 2rem;
-
-	background: #03A9F4;
-	border-radius: 50%;
-	box-shadow: 3px 3px 10px 4px var(--shadowColor);
-	padding: 0.9rem;
-	z-index: 3;
-}
 #toggleProfiles + label:after {
-	content: "";
-	display: block;
 	background: no-repeat center/100% url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAABYAQMAAABLW6J3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAKlJREFUOMvdkDEKwzAUQx06ePQRfJP6YoUEOvRagV7EvYFHDyGqrEA/NLRTMiQCWW8w3192J9aNvi54weA6jOKA7DyKODIDqjgxIyZxz0yYVwxmD3xzByY97M1/drA9rcuqo3XXn9DZSXMb4PaSzbd9PvsnQOu0fvRI9i3prOtAYceqWkwek+oyI1QYYAYe+iqKA9Su6aGhC9/FXvzUA0H8ossPrpvxAfUGmls1d6OdE4kAAAAASUVORK5CYII=');
-	width: 28px;
-	height: 28px;
-}
-#toggleProfiles + label .overlay {
-	width: calc(100% - 450px);
-	opacity: 0;
 }
 .profiles.content > header {
 	background: var(--cardTitleBg);
@@ -80,8 +59,4 @@
 }
 .profiles.content > section > * {
 	margin: 1rem;
-}
-
-@media (min-width: 1250px) {
-	#toggleProfiles + label { display: none }
 }
