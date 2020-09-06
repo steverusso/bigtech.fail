@@ -84,6 +84,17 @@ aside > .content > header:before {
 	height: 28px;
 }
 
+.aside-parent {
+	position: relative;
+	width: 100%;
+}
+.aside-parent > main {
+	--maxW: 900px;
+	max-width: var(--maxW) !important;
+	margin: auto;
+	padding: 0 1rem;
+}
+
 @media (min-width: 1250px) {
 	input[id^="toggle"] ~ label {
 		display: none;
@@ -102,7 +113,7 @@ aside > .content > header:before {
 		top: var(--navHeight);
 	}
 
-	.aside-prev-sibling {
+	.aside-parent {
 		--width: 450px;
 		padding-right: calc(var(--width) + 1.25rem);
 	}

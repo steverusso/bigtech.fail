@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-	{{ $class := and (.Param `profiles`) `aside-prev-sibling` }}
+	{{ $class := and (.Param `profiles`) `aside-parent` }}
 
 	<div class="event cntr {{ $class }}">
 		<main>

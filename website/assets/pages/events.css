@@ -1,12 +1,3 @@
-.event.cntr {
-	position: relative;
-	width: 100%;
-}
-.event.cntr main {
-	max-width: 900px !important;
-	margin: auto;
-	padding: 0 1rem;
-}
 .event.cntr main > header {
 	padding-bottom: 1.75rem;
 	margin-bottom: 2.5rem;
