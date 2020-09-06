@@ -80,7 +80,5 @@
 }
 
 @media (min-width: 1250px) {
-	.event.cntr.has-profiles { padding-right: 450px }
-
 	#profilesToggle + label { display: none }
 }
