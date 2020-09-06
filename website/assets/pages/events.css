@@ -65,14 +65,6 @@
 	opacity: 0;
 }
 
-/* The `aside` element inside the event page container is the profile drawer. */
-.event.cntr aside {
-	--width: 450px;
-	border-left: 1px solid var(--border1);
-	top: var(--navHeight);
-	z-index: 2 !important;
-}
-
 .profile-drawer-content {
 	max-height: calc(100vh - var(--navHeight));
 	position: -webkit-sticky !important;
@@ -101,17 +93,6 @@
 
 @media (min-width: 1250px) {
 	.event.cntr.has-profiles { padding-right: 450px }
-
-	/* On larger screens, we want to override the default drawer styling of the
-	 * `aside` element. */
-	.event.cntr aside {
-		position: absolute;
-		transform: translateX(0);
-		top: 0;
-		right: 0;
-		z-index: 3;
-		overflow: visible;
-	}
 
 	#profilesToggle + label { display: none }
 

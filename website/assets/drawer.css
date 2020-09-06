@@ -12,16 +12,18 @@ input.toggle:checked ~ aside {
 input.toggle ~ label {
 	cursor: pointer;
 }
+
 aside {
 	background: var(--bodyBg);
+	border-left: 1px solid var(--border1);
 	box-shadow: 0 0 transparent, -15px 0 20px 0 var(--shadowColor);
 
 	position: fixed;
-	top: 0;
+	top: var(--navHeight);
 	right: 0;
-	z-index: 6 !important;
+	z-index: 2 !important;
 
-	--width: 325px;
+	--width: 450px;
 	width: var(--width);
 	max-width: 100%;
 
@@ -32,4 +34,14 @@ aside {
 
 	transition: transform 0.35s;
 	transform: translateX(110%);
+}
+@media (min-width: 1250px) {
+	aside {
+		position: absolute;
+		transform: translateX(0);
+		top: 0;
+		right: 0;
+		z-index: 3;
+		overflow: visible;
+	}
 }
