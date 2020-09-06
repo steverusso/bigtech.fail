@@ -45,7 +45,7 @@ nav a:hover {
 .hamburger i:after { top: 7px; }
 
 aside[data-nav] {
-	--width: 325px;
+	--asideW: 325px;
 	background: var(--navBg);
 	border-left: none;
 	box-shadow: none;
