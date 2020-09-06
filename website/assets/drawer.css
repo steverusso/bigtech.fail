@@ -35,6 +35,19 @@ aside {
 	transition: transform 0.35s;
 	transform: translateX(110%);
 }
+
+aside > .content {
+	max-height: calc(100vh - var(--navHeight));
+	position: -webkit-sticky !important;
+	position: sticky !important;
+	overflow-y: auto;
+	scrollbar-width: none;
+}
+
+aside > .content > section > * { margin: 1rem }
+aside > .content > section > :last-child { margin-bottom: 7rem }
+aside > .content::-webkit-scrollbar { width: 0 !important }
+
 @media (min-width: 1250px) {
 	aside {
 		position: absolute;
@@ -43,5 +56,9 @@ aside {
 		right: 0;
 		z-index: 3;
 		overflow: visible;
+	}
+
+	aside > .content {
+		top: var(--navHeight);
 	}
 }
