@@ -3,7 +3,7 @@ title: Twitter Bans Jarvis Dupont
 date: 2020-08-17
 image: /img/misc/jarvis-dupont.jpg
 platforms: [ twitter ]
-tags: [ banned, satire ]
+tags: [ banned, humor ]
 sources:
  - [ 'Spectator USA "My open letter to Twitter" by Jarvis Dupont (19 Aug 2020)', 'https://spectator.us/open-letter-twitter-jarvis-dupont-banned/' ]
  - [ 'Jarvis Dupont''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'https://socialblade.com/twitter/user/jarvisdupont' ]

@@ -3,7 +3,7 @@ title: Twitter Bans Tolerance Police (@DiversityPatrol)
 date: 2020-08-18
 image: /img/misc/diversity-patrol.jpg
 platforms: [ twitter ]
-tags: [ banned, satire ]
+tags: [ banned, humor ]
 sources:
  - [ 'twitter.com/banthebbc/status/1295687833571725313', 'https://archive.is/q2Rc7' ]
  - [ 'twitter.com/banthebbc/status/1295705193196199937', 'https://archive.is/Ux6AT' ]
