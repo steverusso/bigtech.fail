@@ -3,7 +3,7 @@ title: Twitter Suspends Titania Mcgrath Again
 date: 2020-08-14
 image: /img/misc/titania-mcgrath.jpg
 platforms: [ twitter ]
-tags: [ suspended, satire ]
+tags: [ suspended, humor ]
 sources:
  - [ 'twitter.com/andrewdoyle_com/status/1294424464378269696', 'https://archive.is/ADDMa' ]
  - [ 'twitter.com/andrewdoyle_com/status/1295369833811517440', 'https://archive.is/MuHMS' ]

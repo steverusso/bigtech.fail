@@ -3,7 +3,7 @@ title: Twitter Bans Liberal Larry
 date: 2020-08-17
 image: /img/misc/liberal-larry.jpg
 platforms: [ twitter ]
-tags: [ banned, satire ]
+tags: [ banned, humor ]
 sources:
  - [ 'share.par.pw/post/690d9b843ad44fd6a1e619d4da2aa11a', 'https://archive.is/uDQj6' ]
  - [ 'facebook.com/larrydaliberal/posts/2720064991574080', 'https://archive.is/VxBW4' ]
