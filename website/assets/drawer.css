@@ -1,28 +1,52 @@
-input.toggle {
+input[id^="toggle"] {
 	display: none;
 }
-input.toggle:checked ~ label .overlay {
+input[id^="toggle"] ~ label {
+	cursor: pointer;
+}
+/* This is the toggle for opening / closing a side drawer. It's a label;
+ * we want it to appear as a button. */
+input[id^="toggle"] ~ label:not([for="toggleNav"]) {
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
+
+	background: #03A9F4;
+	border-radius: 50%;
+	box-shadow: 3px 3px 10px 4px var(--shadowColor);
+	padding: 0.9rem;
+	z-index: 3;
+}
+input[id^="toggle"] ~ label:not([for="toggleNav"]):after {
+	content: "";
+	display: block;
+	width: 28px;
+	height: 28px;
+}
+input[id^="toggle"]:checked ~ aside {
+	transform: translateX(0);
+}
+input[id^="toggle"]:checked ~ label .overlay {
 	visibility: visible;
 	opacity: 1;
 	z-index: 5;
 }
-input.toggle:checked ~ aside {
-	transform: translateX(0);
+input[id^="toggle"] ~ label:not([for="toggleNav"]) .overlay {
+	width: calc(100% - var(--asideW));
+	opacity: 0;
 }
-input.toggle ~ label {
-	cursor: pointer;
-}
+
 aside {
 	background: var(--bodyBg);
+	border-left: 1px solid var(--border1);
 	box-shadow: 0 0 transparent, -15px 0 20px 0 var(--shadowColor);
 
 	position: fixed;
-	top: 0;
+	top: var(--navHeight);
 	right: 0;
-	z-index: 6 !important;
+	z-index: 2 !important;
 
-	--width: 325px;
-	width: var(--width);
+	width: var(--asideW);
 	max-width: 100%;
 
 	max-height: 100%;
@@ -32,4 +56,64 @@ aside {
 
 	transition: transform 0.35s;
 	transform: translateX(110%);
+}
+
+aside > .content {
+	max-height: calc(100vh - var(--navHeight));
+	position: -webkit-sticky !important;
+	position: sticky !important;
+	overflow-y: auto;
+	scrollbar-width: none;
+}
+
+aside > .content > section > :last-child { margin-bottom: 7rem }
+aside > .content::-webkit-scrollbar { width: 0 !important }
+
+aside > .content > header {
+	background: var(--cardTitleBg);
+	border-bottom: 1px solid var(--border1);
+	font-size: 1.3rem;
+	padding: 1.25rem 0.5rem;
+}
+aside > .content > header:before {
+	content: "";
+	border-radius: 2px;
+	margin: 0 1rem 0 0.5rem;
+	width: 28px;
+	height: 28px;
+}
+
+.aside-parent {
+	--asideW: 450px;
+	position: relative;
+	width: 100%;
+}
+.aside-parent > main {
+	--maxW: 900px;
+	max-width: var(--maxW) !important;
+	margin: auto;
+	padding: 0 1rem;
+}
+
+@media (min-width: 1250px) {
+	input[id^="toggle"] ~ label {
+		display: none;
+	}
+
+	aside {
+		position: absolute;
+		transform: translateX(0);
+		top: 0;
+		right: 0;
+		z-index: 3;
+		overflow: visible;
+	}
+
+	aside > .content {
+		top: var(--navHeight);
+	}
+
+	.aside-parent {
+		padding-right: calc(var(--asideW) + 1.25rem);
+	}
 }

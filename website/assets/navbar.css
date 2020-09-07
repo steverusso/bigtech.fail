@@ -44,12 +44,17 @@ nav a:hover {
 .hamburger i:before { top: -9px; }
 .hamburger i:after { top: 7px; }
 
-nav aside {
+aside[data-nav] {
+	--asideW: 325px;
 	background: var(--navBg);
+	border-left: none;
 	box-shadow: none;
+
+	position: fixed;
+	top: 0;
 	z-index: 9 !important;
 }
-nav aside > a {
+aside[data-nav] > a {
 	color: var(--navColor);
 	display: block;
 	text-align: right;

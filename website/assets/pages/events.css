@@ -1,12 +1,3 @@
-.event.cntr {
-	position: relative;
-	width: 100%;
-}
-.event.cntr main {
-	max-width: 900px !important;
-	margin: auto;
-	padding: 0 1rem;
-}
 .event.cntr main > header {
 	padding-bottom: 1.75rem;
 	margin-bottom: 2.5rem;
@@ -40,80 +31,12 @@
 	line-height: 1.75;
 }
 
-/* This is the toggle for opening / closing the profile drawer. It's a label;
- * we want it to appear as a button. */
-#profilesToggle + label {
-	position: fixed;
-	bottom: 2rem;
-	right: 2rem;
-
-	background: #03A9F4;
-	border-radius: 50%;
-	box-shadow: 3px 3px 10px 4px var(--shadowColor);
-	padding: 0.9rem;
-	z-index: 3;
-}
-#profilesToggle + label:after {
-	content: "";
-	display: block;
+#toggleProfiles + label:after {
 	background: no-repeat center/100% url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAABYAQMAAABLW6J3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAKlJREFUOMvdkDEKwzAUQx06ePQRfJP6YoUEOvRagV7EvYFHDyGqrEA/NLRTMiQCWW8w3192J9aNvi54weA6jOKA7DyKODIDqjgxIyZxz0yYVwxmD3xzByY97M1/drA9rcuqo3XXn9DZSXMb4PaSzbd9PvsnQOu0fvRI9i3prOtAYceqWkwek+oyI1QYYAYe+iqKA9Su6aGhC9/FXvzUA0H8ossPrpvxAfUGmls1d6OdE4kAAAAASUVORK5CYII=');
-	width: 28px;
-	height: 28px;
 }
-#profilesToggle + label .overlay {
-	width: calc(100% - 450px);
-	opacity: 0;
-}
-
-/* The `aside` element inside the event page container is the profile drawer. */
-.event.cntr aside {
-	--width: 450px;
-	border-left: 1px solid var(--border1);
-	top: var(--navHeight);
-	z-index: 2 !important;
-}
-
-.profile-drawer-content {
-	max-height: calc(100vh - var(--navHeight));
-	position: -webkit-sticky !important;
-	position: sticky !important;
-	overflow-y: auto;
-	scrollbar-width: none;
-}
-.profile-drawer-content > header {
-	background: var(--cardTitleBg);
-	border-bottom: 1px solid var(--border1);
-	font-size: 1.3rem;
-	padding: 1.25rem 0.5rem;
-}
-.profile-drawer-content > header:before {
-	content: "";
+.profiles.content > header:before {
 	background: no-repeat center/100% url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAY1BMVEUAAACgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKAwX8KIAAAAIHRSTlMABbb88Av3aBouD33i08RK6b8myXJhUdmsRIU3oJ9auW9yIiwAAAFESURBVFjD7dVbbsMgEIXhIQwYzMX3W9Kk3v8q24dWcu1Jwziq1Ej+F/AheDjA/GQHcAB/D0iNIaCWOwHduIsAEBfX6D3AcDPwlbkNfCDWsKiOXKAy8CNT8QBvYZX1HEA62OQkA/BmCxjPAK5AdGUABQUUDMBQgEkHSkUBqkwGMKeAHNOvUFNAzXiDjAIyBhApIDIAnGDThAxgHhWsUuPMAXS3BjrNAmbsBSwSPXIHBdvFLVSL/EnTsRffx0e9a5VlOBfWFucgn/gXpHztn2nW5RBKvQeQ6Ktzb3P1WV4X7uRRMoBydNNqEtTkRp8IDK2lB6XOGvkQ0E2n4G6ieMffgaZbHE4TJ3kfQJfDw1RX3gPiBZKyFQ1UBhIzFQWgheQsEsCbSgfUGwG0wKjdAjLjAJn8l4BgRABzODEKLzNpB3AAiX0ALfSCW2e8siQAAAAASUVORK5CYII=');
-	border-radius: 2px;
-	margin: 0 1rem 0 0.5rem;
-	width: 28px;
-	height: 28px;
 }
-
-.profile-drawer-content > section > * { margin: 1rem }
-.profile-drawer-content > section > :last-child { margin-bottom: 7rem }
-.profile-drawer-content::-webkit-scrollbar { width: 0 !important }
-
-@media (min-width: 1250px) {
-	.event.cntr.has-profiles { padding-right: 450px }
-
-	/* On larger screens, we want to override the default drawer styling of the
-	 * `aside` element. */
-	.event.cntr aside {
-		position: absolute;
-		transform: translateX(0);
-		top: 0;
-		right: 0;
-		z-index: 3;
-		overflow: visible;
-	}
-
-	#profilesToggle + label { display: none }
-
-	.profile-drawer-content { top: var(--navHeight) }
+.profiles.content > section > * {
+	margin: 1rem;
 }
