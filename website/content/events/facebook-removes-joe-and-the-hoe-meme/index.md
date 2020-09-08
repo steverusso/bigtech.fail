@@ -4,7 +4,7 @@ date: 2020-08-18
 image: /img/misc/joe-and-the-hoe.png
 profiles: [ mark-dice ]
 platforms: [ facebook ]
-tags: [ content-removed, humor, gov, wtf ]
+tags: [ content-removed, humor, gov ]
 sources:
  - [ 'twitter.com/MarkDice/status/1295884941125853184', 'http://archive.is/3JILq' ]
  - [ 'twitter.com/MarkDice/status/1296232702526418944', 'http://archive.is/D6ol4' ]
