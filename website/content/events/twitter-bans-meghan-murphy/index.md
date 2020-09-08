@@ -3,7 +3,7 @@ date: 2018-11-23
 title: Twitter Bans Meghan Murphy For Misgendering
 image: /img/people/meghan-murphy.jpg
 platforms: [ twitter ]
-tags: [ banned, misgendering ]
+tags: [ banned, trans ]
 sources:
  - [ 'Meghan Murphy''s Post on Feminist Current', 'https://www.feministcurrent.com/2018/11/20/twitter-wants-shut-right-wants-join-dont-think-either/' ]
  - [ 'Meghan Murphy - YouTube Video', 'https://www.youtube.com/watch?v=sqRyAoSzGrI' ]
