@@ -3,7 +3,7 @@ date: 2019-06-26
 title: Reddit Quarantines r/The_Donald
 image: /img/logos/reddit-the-donald.png
 platforms: [ reddit ]
-tags: [ quarantine ]
+tags: [ restricted ]
 sources:
  - [ 'The Verge "Reddit quarantines Trump subreddit r/The_Donald for violent comments" by Adi Robertson (26 Jun 2019)', 'http://archive.is/tlgBU' ]
  - [ 'Bounding Into Comics "CENSORSHIP: Reddit Quarantines The_Donald Subreddit – Carlos Maza Involved!" by Jorge Arenas (26 Jun 2019)', 'http://archive.is/UV94y' ]

@@ -4,7 +4,7 @@ title: Google Bans Gab From the Play Store, Again
 image: /img/misc/gab-ai-banned.png
 summary: But this time, it's even worse...
 platforms: [ google ]
-tags: [ banned, content-removed ]
+tags: [ banned, app ]
 sources:
  - [ 'Breitbart "Google Blacklists Free Speech Platform Gab’s Latest App" by Lucas Nolan', 'https://www.breitbart.com/tech/2019/07/20/google-blacklists-free-speech-platform-gabs-latest-app/' ]
  - [ 'Gab''s Ban Notice From Google', 'ban-notice.jpg' ]

@@ -3,7 +3,7 @@ title: YouTube Removes Video of Sen. Rand Paul For Saying "Eric Ciaramella"
 date: 2020-02-13
 image: /img/people/rand-paul.jpg
 platforms: [ youtube ]
-tags: [ content-removed, gov, ciaramella ]
+tags: [ content-removed, gov ]
 sources:
  - [ 'Twitter @RandPaul 1227975800928063490', 'https://archive.vn/uO11Q' ]
  - [ 'The Hill "YouTube removes video of Rand Paul reading alleged whistleblower''s name on Senate floor" by Justin Wise (13 Feb 2020)', 'https://archive.vn/6bmlL' ]
