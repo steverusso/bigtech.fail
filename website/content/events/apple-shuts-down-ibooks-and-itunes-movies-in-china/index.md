@@ -4,7 +4,7 @@ title: Apple Shuts Down iBooks and iTunes Movies Apps In China
 image: /img/misc/chipple.png
 summary: So apparently, they'll even remove their own apps lol
 platforms: [ apple ]
-tags: [ content-removed ]
+tags: [ app ]
 sources:
  - [ 'Apple Newsroom "Apple Brings Apple Music, iTunes Movies & iBooks to Customers in China Starting Today" (30 Sep 2015)', 'https://www.apple.com/newsroom/2015/09/30Apple-Brings-Apple-Music-iTunes-Movies-iBooks-to-Customers-in-China-Starting-Today/' ]
  - [ 'The New York Times "Apple Services Shut Down in China in Startling About-Face" by Paul Mozur and Jane Perlez (21 Apr 2016)', 'https://archive.ph/W2Vn1' ]

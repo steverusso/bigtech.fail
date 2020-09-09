@@ -3,7 +3,7 @@ date: 2016-12-23
 title: Apple Removes the New York Times App From China's App Store
 image: /img/misc/chipple.png
 platforms: [ apple ]
-tags: [ content-removed, china ]
+tags: [ app, china ]
 sources:
  - [ 'The New York Times "Apple Removes New York Times Apps From Its Store in China" by Katie Benner and Sui-Lee Wee (4 Jan 2017)', 'https://archive.vn/zpYLL' ]
  - [ 'ZeroHedge "Apple Removes NYT App In China After Pressure From Beijing"', 'https://archive.vn/JjpzD' ]

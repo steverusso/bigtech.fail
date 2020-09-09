@@ -3,7 +3,7 @@ date: 2017-08-17
 title: Google Removes Gab From the Play Store
 image: /img/misc/gab-ai-banned.png
 platforms: [ google ]
-tags: [ banned, content-removed ]
+tags: [ banned, app ]
 sources:
  - [ 'Breitbart "Free Speech Social Network ''Gab'' Banned From Google Play Store" by Charlie Nash', 'https://www.breitbart.com/tech/2017/08/17/free-speech-social-network-gab-banned-google-play-store/' ]
  - [ 'The Gateway Pundit "Google Removes Gab''s Android App From Play Store Over ''Hate Speech''" by Joshua Caplan', 'https://www.thegatewaypundit.com/2017/08/google-removes-gabs-android-app-google-play-store-hate-speech/' ]

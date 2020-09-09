@@ -4,7 +4,7 @@ order: 2
 title: Apple Removes the Quartz News App From China's App Store
 image: /img/misc/chipple.png
 platforms: [ apple ]
-tags: [ content-removed ]
+tags: [ app ]
 sources:
  - [ 'The Verge "Apple removes Quartz news app from the Chinese App Store over Hong Kong coverage" by Nick Statt (9 Oct 2019)', 'https://archive.vn/V980y' ]
  - [ 'OSnews "Apple removes Quartz news app from the Chinese App Store over Hong Kong coverage" by Thom Holwerda (10 Oct 2019)', 'https://archive.vn/oHI1M' ]

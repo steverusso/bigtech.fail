@@ -4,7 +4,7 @@ title: Apple Removes HKmap.live From App Store
 image: /img/logos/hkmap-live.jpg
 summary: ...the day after Apple was criticized by the Chinese Communist Party's news outlet
 platforms: [ apple ]
-tags: [ content-removed ]
+tags: [ app ]
 sources:
  - [ '@hkmaplive Twitter Thread - 1182154372563836928', 'https://twitter.com/hkmaplive/status/1182154372563836928' ]
  - [ '@Pinboard Twitter Thread - 1182348757360234497', 'https://twitter.com/Pinboard/status/1182348757360234497' ]
