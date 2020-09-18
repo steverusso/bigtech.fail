@@ -1,0 +1,21 @@
+{{ define "main" }}
+	<div class="cntr aside-parent tags-drawer-parent">
+		<main>
+			<header>
+				<img src="{{ .Params.image }}" width="72" height="72" loading="lazy">
+				<h1>{{ .LinkTitle | default (.Data.Term | title) }}</h1>
+			</header>
+			<hr>
+
+			<article>{{ .Content }}</article>
+
+			<h2 data-count="{{ len .Pages }}">Events</h2>
+
+			<hr>
+
+			{{ partial "timeline" .Pages }}
+		</main>
+
+		{{ partialCached "tags-drawer" . }}
+	</div>
+{{ end }}
