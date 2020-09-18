@@ -16,7 +16,9 @@
 							<img src="{{ . }}" width="48" height="48" loading="lazy">
 						{{ end }}
 
-						{{ .Page.LinkTitle | default (.Term | title) }} ({{ len .Page.Pages }})
+						<div data-count="{{ len .Page.Pages }}">
+							{{ .Page.LinkTitle | default (.Term | title) }}
+						</div>
 					</a>
 				</div>
 			{{ end }}

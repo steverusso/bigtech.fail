@@ -108,4 +108,20 @@ a.card:hover:after {
 	border-top-right-radius: 0;
 	border-bottom-right-radius: 0;
 	margin-right: 1rem;
+	padding: 0.75rem;
+}
+.tag.card div[data-count] {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	line-height: 1;
+	padding: 0 0.75rem 0 0;
+	width: 100%;
+}
+.tag.card div[data-count]:after {
+	--h: 23px;
+	color: var(--articleBold);
+	background: var(--cardBg);
+	margin: 0;
+	padding: 0.1rem 0.6rem 0.2rem;
 }
