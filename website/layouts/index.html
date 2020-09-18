@@ -13,7 +13,17 @@
 			<hr>
 
 			<!-- The short timeline of the six most recent events. -->
-			{{ (site.GetPage "/events").Pages | first 6 | partial "timeline" }}
+			<div class="timeline">
+				{{ range (site.GetPage "/events").Pages | first 6 }}
+					<div class="item">
+						<!-- This is what forms the line with the anchor link in the circle. -->
+						<u><i></i></u>
+
+						<!-- This is the content of the timeline item. -->
+						<div>{{ partialCached "cards/event" . .RelPermalink }}</div>
+					</div>
+				{{ end }}
+			</div>
 
 			<!-- The " . . . " button which is a link to the full timeline. -->
 			<a href="/events/" class="btn light-blue">&#x25cf; &#x25cf; &#x25cf;</a>
