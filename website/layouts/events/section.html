@@ -1,11 +1,15 @@
 {{ define "main" }}
-	<div class="cntr">
-		<h1 data-count="{{ len .Pages }}">Events</h1>
+	<div class="cntr aside-parent tags-drawer-parent">
+		<main>
+			<h1 data-count="{{ len .Pages }}">Events</h1>
 
-		<article>{{ .Content }}</article>
+			<article>{{ .Content }}</article>
 
-		<hr>
+			<hr>
 
-		{{ partial "timeline" .Pages }}
+			{{ partial "timeline" .Pages }}
+		</main>
+
+		{{ partialCached "tags-drawer" . }}
 	</div>
 {{ end }}
