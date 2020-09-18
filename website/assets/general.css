@@ -105,6 +105,11 @@ h1[data-count] {
 	--h: 25px;
 	margin: 0;
 }
+h2[data-count] {
+	--h: 23px;
+	margin: 0;
+	margin-top: 5rem;
+}
 h3[data-count] {
 	--h: 22px;
 }

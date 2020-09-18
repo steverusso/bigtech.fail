@@ -65,10 +65,9 @@ aside > .content {
 	overflow-y: auto;
 	scrollbar-width: none;
 }
-
-aside > .content > section > :last-child { margin-bottom: 7rem }
-aside > .content::-webkit-scrollbar { width: 0 !important }
-
+aside > .content::-webkit-scrollbar {
+	width: 0 !important;
+}
 aside > .content > header {
 	background: var(--cardTitleBg);
 	border-bottom: 1px solid var(--border1);
@@ -81,6 +80,9 @@ aside > .content > header:before {
 	margin: 0 1rem 0 0.5rem;
 	width: 28px;
 	height: 28px;
+}
+aside > .content > section {
+	padding-bottom: 7rem;
 }
 
 .aside-parent {
@@ -110,10 +112,27 @@ aside > .content > header:before {
 	}
 
 	aside > .content {
+		height: 100%;
 		top: var(--navHeight);
 	}
 
 	.aside-parent {
 		padding-right: calc(var(--asideW) + 1.25rem);
 	}
+}
+
+.tags-drawer-parent {
+	--asideW: 375px;
+}
+.tags-drawer-parent > main {
+	--maxW: 1200px;
+}
+#toggleEvtTags + label:after {
+	background: no-repeat center/100% url('/img/icons/tags-white.png');
+}
+aside.tags > .content > header:before {
+	background: no-repeat center/100% url('/img/icons/tags.png');
+}
+aside.tags > .content > section > * {
+	margin: 1rem;
 }

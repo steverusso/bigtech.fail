@@ -1,0 +1,27 @@
+<input type="checkbox" id="toggleEvtTags">
+
+<label for="toggleEvtTags">
+	<div class="overlay"></div>
+</label>
+
+<aside class="tags">
+	<div class="content">
+		<header>Tags</header>
+
+		<section>
+			{{ range site.Taxonomies.tags.ByCount }}
+				<div>
+					<a class="tag card" href="{{ .Page.RelPermalink }}">
+						{{ with .Page.Params.image }}
+							<img src="{{ . }}" width="48" height="48" loading="lazy">
+						{{ end }}
+
+						<div data-count="{{ len .Page.Pages }}">
+							{{ .Page.LinkTitle | default (.Term | title) }}
+						</div>
+					</a>
+				</div>
+			{{ end }}
+		</section>
+	</div>
+</aside>
