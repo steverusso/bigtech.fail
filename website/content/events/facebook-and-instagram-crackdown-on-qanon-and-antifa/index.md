@@ -3,7 +3,7 @@ title: Facebook and Instagram Crackdown on QAnon and Antifa
 date: 2020-08-19
 image: /img/misc/qanon.jpg
 platforms: [ facebook, instagram ]
-tags: [ banned, content-removed, gov, qanon ]
+tags: [ banned, content-removed, gov ]
 sources:
  - [ 'Facebook Newsroom "An Update to How We Address Movements and Organizations Tied to Violence" (19 Aug 2020)', 'http://archive.is/QutUY' ]
 ---
