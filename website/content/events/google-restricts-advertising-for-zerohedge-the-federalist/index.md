@@ -3,7 +3,7 @@ title: Google Restricts Advertising for Zerohedge and The Federalist
 date: 2020-06-16
 image: /img/logos/zerohedge-thefederalist.png
 platforms: [ google ]
-tags: [ defunded, advertising ]
+tags: [ defunded ]
 sources:
  - [ 'National Review "Hands Off the Federalist" (16 Jun 2020)', 'https://archive.vn/lsGYK' ]
  - [ 'The Federalist "Federalist Co-Founder Sean Davis Responds To NBC, Google Deplatforming Attempt" by Tristan Justice (16 Jun 2020)', 'https://archive.vn/LwmJr' ]
