@@ -110,10 +110,27 @@ aside > .content > header:before {
 	}
 
 	aside > .content {
+		height: 100%;
 		top: var(--navHeight);
 	}
 
 	.aside-parent {
 		padding-right: calc(var(--asideW) + 1.25rem);
 	}
+}
+
+.tags-drawer-parent {
+	--asideW: 375px;
+}
+.tags-drawer-parent > main {
+	--maxW: 1200px;
+}
+#toggleEvtTags + label:after {
+	background: no-repeat center/100% url('/img/icons/tags-white.png');
+}
+aside.tags > .content > header:before {
+	background: no-repeat center/100% url('/img/icons/tags.png');
+}
+aside.tags > .content > section > * {
+	margin: 1rem;
 }
