@@ -65,10 +65,9 @@ aside > .content {
 	overflow-y: auto;
 	scrollbar-width: none;
 }
-
-aside > .content > section > :last-child { margin-bottom: 7rem }
-aside > .content::-webkit-scrollbar { width: 0 !important }
-
+aside > .content::-webkit-scrollbar {
+	width: 0 !important;
+}
 aside > .content > header {
 	background: var(--cardTitleBg);
 	border-bottom: 1px solid var(--border1);
@@ -81,6 +80,9 @@ aside > .content > header:before {
 	margin: 0 1rem 0 0.5rem;
 	width: 28px;
 	height: 28px;
+}
+aside > .content > section {
+	padding-bottom: 7rem;
 }
 
 .aside-parent {
