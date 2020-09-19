@@ -5,8 +5,8 @@
 {{ define "main" }}
 	{{ $class := and (.Param `profiles`) `aside-parent` }}
 
-	<div class="event cntr {{ $class }}">
-		<main>
+	<div class="cntr {{ $class }}">
+		<main class="event">
 			<header>
 				<img src="{{ .Params.image }}" width="128" height="128" loading="lazy">
 
