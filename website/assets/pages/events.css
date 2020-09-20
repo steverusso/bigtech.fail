@@ -3,18 +3,18 @@ main.event {
 	margin: auto;
 }
 main.event > header {
-	border-bottom: 1px solid var(--border1);
+	border-bottom: var(--border1);
 	padding-bottom: 1.75rem;
 	margin-bottom: 2.5rem;
 }
 main.event > header u {
-	color: var(--captionColor);
+	color: var(--caption);
 	display: block;
 	margin-top: 1rem;
 	text-decoration: none;
 }
 main.event > article {
-	border-bottom: 1px solid var(--border1);
+	border-bottom: var(--border1);
 	margin-bottom: 1.5rem;
 }
 @media (max-width: 450px) {

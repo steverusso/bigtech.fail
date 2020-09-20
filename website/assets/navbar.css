@@ -8,7 +8,7 @@ nav {
 	top: 0;
 	z-index: 4;
 }
-nav > a, nav .items a {
+nav a {
 	color: var(--navColor);
 	display: inline-flex;
 	align-items: center;
@@ -49,7 +49,6 @@ aside[data-nav] {
 	background: var(--navBg);
 	border-left: none;
 	box-shadow: none;
-
 	position: fixed;
 	top: 0;
 	z-index: 9 !important;

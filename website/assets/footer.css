@@ -1,13 +1,13 @@
 footer {
-	background: var(--footerBg);
-	border-top: 1px solid var(--border1);
+	background: var(--navBg);
+	border-top: var(--border1);
 	color: #fff;
 }
 footer section {
 	display: flex;
 	justify-content: space-evenly;
 	flex-flow: row wrap;
-	border-bottom: 1px solid var(--border1);
+	border-bottom: var(--border1);
 	padding: 1.25rem 0 2rem;
 	margin-bottom: 2.5rem;
 }

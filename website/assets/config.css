@@ -1,6 +1,5 @@
 :root {
 	--navHeight: 64px;
-	--cardRadius: 4px;
 
 	--bodyBg: #222;
 	--bodyBg2: #2b2b2b;
@@ -8,21 +7,19 @@
 
 	--navBg: #111;
 	--navColor: #eee;
-	--footerBg: var(--navBg);
 
-	--paraColor: #d3d3d3;
-	--linkColor: #29B6F6;
-	--border1: #777;
-	--border3: #aaa;
+	--borderColor: #777;
+	--border1: 1px solid var(--borderColor);
+	--border2: 2px solid var(--borderColor);
+
+	--para: #d3d3d3;
+	--link: #29B6F6;
+	--caption: #888;
 	--shadowColor: rgba(0,0,0,.5);
 
 	--cardBg: #333;
 	--cardBefore: #000;
 	--cardTitleBg: #444;
-
-	--tableBorder: #888;
-	--captionColor: #888;
-	--captionColor2: #8f8f8f;
 
 	--blockquoteBorder: #666;
 	--blockquoteColor: #8f8f8f;
@@ -39,19 +36,16 @@
 		--bodyColor: #444;
 
 		--navBg: #333;
+		--borderColor: #ccc;
 
-		--paraColor: #666;
-		--linkColor: #03A9F4;
-		--border1: #ccc;
-		--border3: #aaa;
+		--para: #666;
+		--link: #03A9F4;
+		--caption: #a7a7a7;
 		--shadowColor: rgba(100,100,100,.25);
 
 		--cardBg: #fff;
 		--cardBefore: #aaa;
 		--cardTitleBg: #f2f2f2;
-
-		--tableBorder: #ccc;
-		--captionColor: #a7a7a7;
 
 		--blockquoteBorder: #ccc;
 		--blockquoteColor: #8e8e8e;
