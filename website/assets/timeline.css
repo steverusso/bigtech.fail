@@ -36,14 +36,14 @@
 .timeline .item > u:before {
 	content: "";
 	position: absolute;
-	background: var(--border1);
+	background: var(--borderColor);
 	min-width: 1px; min-height: 100%;
 	max-width: 1px; max-height: 100%;
 }
 .timeline .item > u > a, .timeline .item > u > i {
 	--size: 44px;
 	background: var(--cardTitleBg);
-	border: 2px solid var(--border1);
+	border: var(--border2);
 	margin-top: 3.25rem;
 	border-radius: 50%;
 	min-width: var(--size); min-height: var(--size);
@@ -52,7 +52,7 @@
 }
 .timeline .item > u > a:hover {
 	background: var(--cardBg);
-	border: 2px solid var(--border3);
+	border-color: #aaa;
 	text-decoration: none;
 }
 .timeline .item > u > a:after {

@@ -1,4 +1,6 @@
-* { box-sizing: border-box }
+* {
+	box-sizing: border-box;
+}
 
 html {
 	scroll-behavior: smooth;
@@ -14,7 +16,7 @@ body {
 }
 
 a {
-	color: var(--linkColor);
+	color: var(--link);
 	text-decoration: none;
 }
 a:hover {
@@ -39,15 +41,15 @@ header {
 	align-items: center;
 }
 header img {
-	margin-right: 2rem
+	margin-right: 2rem;
 }
 header h1 {
-	margin: 0
+	margin: 0;
 }
 
 hr {
 	border: 0;
-	border-top: thin solid var(--border1);
+	border-top: var(--border1);
 	margin: 1.5rem 0;
 	max-height: 0px;
 }
@@ -59,7 +61,7 @@ img {
 }
 
 p, li, span {
-	color: var(--paraColor);
+	color: var(--para);
 }
 
 table {
@@ -70,8 +72,8 @@ th {
 	text-align: left;
 }
 table, th, td {
-	border-top: 1px solid var(--border1);
-	border-bottom: 1px solid var(--border1);
+	border-top: var(--border1);
+	border-bottom: var(--border1);
 }
 th, td {
 	padding: 0.75rem 1.25rem;
@@ -88,48 +90,49 @@ table a {
 
 .overlay {
 	background-color: rgba(34,34,34,0.6);
-	visibility: hidden;
-	opacity: 0;
-	transition: 0.3s cubic-bezier(0.25,0.75,0.5,1);
-
 	position: fixed;
 	left: 0;
 	top: 0;
-	z-index: -1;
-
 	width: 100%;
 	height: 100%;
+	opacity: 0;
+	transition: 0.3s cubic-bezier(0.25,0.75,0.5,1);
+	visibility: hidden;
+	z-index: -1;
 }
 
-h1[data-count] {
-	--h: 25px;
-	margin: 0;
-}
-h2[data-count] {
-	--h: 23px;
-	margin: 0;
-	margin-top: 5rem;
-}
-h3[data-count] {
-	--h: 22px;
-}
 [data-count]:after {
 	content: attr(data-count) " ";
 	background: var(--cardTitleBg);
-	border: 1px solid var(--border3);
+	border: 1px solid #aaa;
 	border-radius: var(--h);
-	display: inline-block;
-	font-size: calc(var(--h) / 1.5);
+	display: inline-flex;
+	align-items: center;
+	font-size: var(--fs);
 	font-weight: bold;
-	margin: 0 0 calc(var(--h) / 4) calc(var(--h) / 2);
-	padding: calc(var(--h) / 7.5) 0.75rem calc(var(--h) / 5.25);
-	vertical-align: middle;
+	height: var(--h);
+	margin: 0 0 0 calc(var(--h) / 2);
+	padding: 0 0.75rem;
+	vertical-align: top;
+}
+h1[data-count] {
+	--h: 25px;
+	--fs: 18px;
+	margin: 0;
+}
+h2[data-count] {
+	--h: 22px;
+	--fs: 17px;
+	margin: 5rem 0 0 0;
+}
+h3[data-count] {
+	--h: 19px;
+	--fs: 15px;
 }
 
-.title { font-size: 1.3rem }
 .caption {
 	font-size: 0.9rem;
-	color: var(--captionColor);
+	color: var(--caption);
 }
 
 .chip {

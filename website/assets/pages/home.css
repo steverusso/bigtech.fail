@@ -1,6 +1,6 @@
 .jtron {
 	background: var(--jtronBg);
-	border-bottom: 1px solid var(--border1);
+	border-bottom: var(--border1);
 }
 .jtron > .cntr {
 	padding: 5.5rem 1.25rem;
@@ -9,6 +9,7 @@
 	margin: 2rem auto;
 }
 .jtron .blurb {
+	font-size: 1.3rem;
 	margin-bottom: 1rem !important;
 	margin-left: auto;
 	max-width: 475px;
@@ -26,7 +27,7 @@
 	text-align: center;
 }
 .jtron .links a {
-	border: 2px solid var(--border1);
+	border: var(--border2);
 	border-radius: 7px;
 	display: inline-flex;
 	flex-direction: column;
@@ -38,7 +39,7 @@
 	height: 108px;
 }
 .jtron .links a:hover {
-	border: 2px solid var(--border3);
+	border-color: #aaa;
 }
 .jtron .links a img {
 	margin-bottom: 0.75rem;
@@ -57,7 +58,7 @@
 }
 @media (prefers-color-scheme: light) {
 	.jtron hr {
-		border-top: thin solid #888;
+		border-top: 1px solid #888;
 	}
 }
 
@@ -79,7 +80,6 @@
 	justify-content: center;
 }
 .altfor-map {
-	--border: 2px solid var(--border1);
 	position: relative;
 	max-width: 100%;
 	overflow: hidden;
@@ -106,8 +106,8 @@
 }
 .altfor-map input:checked ~ label, .altfor-map .alts {
 	background: linear-gradient(to right, var(--bodyBg), var(--cardBg));
-	border-top: var(--border);
-	border-bottom: var(--border);
+	border-top: var(--border2);
+	border-bottom: var(--border2);
 }
 .altfor-map .alts {
 	background: linear-gradient(to left, var(--bodyBg), var(--cardBg));
@@ -124,21 +124,17 @@
 	color: var(--bodyColor);
 	display: flex;
 }
-.altfor-map .alts svg {
-	margin: -0.7rem 0 0 0.4rem;
-	fill: var(--captionColor);
-}
 .altfor-map input, .altfor-map input:not(:checked) ~ .alts {
 	display: none;
 }
 .altfor-map input:not(:checked) ~ label {
-	border-right: var(--border);
-	color: var(--captionColor);
+	border-right: var(--border2);
+	color: var(--caption);
 }
 
 .recent-events {
 	background: var(--bodyBg2);
-	border-top: 1px solid var(--border1);
+	border-top: var(--border1);
 	padding: 3rem 0;
 }
 @media (min-width: 850px) {
