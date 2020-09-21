@@ -7,6 +7,9 @@ article img + a {
 	margin-top: -3rem;
 	margin-left: 1rem;
 }
+article > h1:first-child {
+	display: none;
+}
 article h2, article h3 {
 	color: var(--articleHeadings) !important;
 	font-weight: 600;
