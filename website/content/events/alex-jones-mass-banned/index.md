@@ -6,10 +6,17 @@ profiles: [ alex-jones ]
 platforms: [ apple, facebook, youtube, spotify ]
 tags: [ banned ]
 sources:
- - [ "ZeroHedge - Apple, Facebook", "https://www.zerohedge.com/news/2018-08-06/alex-jones-and-infowars-podcasts-banned-itunes-content-removed" ]
- - [ "ZeroHedge - YouTube update", "https://www.zerohedge.com/news/2018-08-06/youtube-bans-alex-jones-after-itunes-facebook-remove-content" ]
- - [ "Facebook's Statement", "https://newsroom.fb.com/news/2018/08/enforcing-our-community-standards/" ]
+ - [ 'ZeroHedge "Alex Jones And Infowars Banned From iTunes, "Unpublished" By FaceBook" by Tyler Durden (6 Aug 2018)', 'https://archive.is/4MCzZ' ]
+ - [ 'ZeroHedge "YouTube Bans Alex Jones After iTunes, Facebook Remove Content" by Tyler Durden (6 Aug 2018)', 'https://archive.is/vn7DK' ]
+ - [ 'Facebook Newsroom "Enforcing Our Community Standards" (6 Aug 2018)', 'https://archive.is/z4yug' ]
 ---
 
-On Monday, August 6, 2018, news broke that Alex Jones was being removed from several social media platforms, starting with Apple and Facebook.
-Facebook released [a statement](https://newsroom.fb.com/news/2018/08/enforcing-our-community-standards/) on Aug 6 titled "Enforcing Our Community Standards" regarding their removal of the Alex Jones Channel Page, the Alex Jones Page, the InfoWars Page, and the Infowars Nightly News Page.
+Alex Jones was banned from several social media platforms, starting with Apple
+and Facebook. Facebook released a [statement](https://archive.is/z4yug)
+regarding their removal of several pages related to InfoWars:
+> As a result of reports we received, last week, we removed four videos on four
+> Facebook Pages for violating our hate speech and bullying policies. These
+> pages were the Alex Jones Channel Page, the Alex Jones Page, the InfoWars
+> Page and the Infowars Nightly News Page. In addition, one of the admins of
+> these Pages – Alex Jones – was placed in a 30-day block for his role in
+> posting violating content to these Pages.
