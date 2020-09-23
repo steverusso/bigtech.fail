@@ -89,7 +89,7 @@ a.card:hover:after {
 	background: var(--cardTitleBg);
 	border: var(--border1);
 	border-top: 1px solid transparent;
-	border-radius: 0 0 var(--radius) var(--radius);
+	border-radius: 0 0 4px 4px;
 	padding: 0.25rem 1rem;
 	display: flex;
 	flex-flow: row wrap;
