@@ -2,6 +2,7 @@
 title: YouTube Pulls Louder With Crowder Livestream of Biden Town Hall
 date: 2020-09-18
 image: /img/people/steven-crowder.jpg
+profiles: [ steven-crowder ]
 platforms: [ youtube ]
 tags: [ content-removed, copyright ]
 sources:
