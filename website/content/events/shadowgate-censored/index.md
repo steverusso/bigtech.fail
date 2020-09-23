@@ -21,7 +21,7 @@ sources:
  - [ 'YouTube "Shadowgate Updates" by Millie Weaver (20 Aug 2020)', 'https://www.youtube.com/watch?v=ddeD6Oa8Mr8' ]
 ---
 
-YouTube and Facebook deleted Millie Weaver's documentary _Shadow Gate_ for
+YouTube and Facebook deleted Millie Weaver's documentary _ShadowGate_ for
 violating "hate speech" rules after it had been live for a couple of days
 accumulating millions of views.
 > YouTube just banned Millie Weaver's new #ShadowGate documentary, claiming it
@@ -50,6 +50,7 @@ platforms.
 >
 > -- Mark Dice (@MarkDice) [19 Aug 2020](http://archive.is/QEUGt)
 
-The documentary can still be viewed in full [on Millie's
-website](https://www.millennialmillie.com) and [on
-BitChute](https://www.bitchute.com/channel/m294VZFG6Kp1/).
+_ShadowGate_ was even [removed from Banned.Video](https://archive.is/0vMl1), a
+site that focuses on hosting highly censored videos. The documentary can still
+be viewed in full [on Millie's website](https://www.millennialmillie.com) and
+[on BitChute](https://www.bitchute.com/channel/m294VZFG6Kp1/).
