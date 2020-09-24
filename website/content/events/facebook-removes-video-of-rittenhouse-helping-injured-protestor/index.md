@@ -5,6 +5,7 @@ image: /img/people/kyle-rittenhouse-2.jpg
 profiles: [ mark-dice ]
 platforms: [ facebook ]
 tags: [ content-removed, restricted ]
+context: kyle-rittenhouse
 sources:
  - [ 'twitter.com/MarkDice/status/1300970053307740160', 'https://archive.is/AOOOT' ]
  - [ 'BitChute "⚠️ No Truth Allowed ⚠️" by Mark Dice (2 Sep 2020)', 'https://www.bitchute.com/video/Tj-WjV2dtmI/' ]
@@ -12,11 +13,10 @@ sources:
 ---
 
 Media analyist Mark Dice posted a video on Facebook of [Kyle
-Rittenhouse](/events/facebook-classifies-rittenhouse-self-defense-shooting-as-mass-murder/)
-helping an injured protestor in Kenosha, WI. Facebook removed this post, gave
-Mark a community guidelines strike, and restricted his page since Facebook
-deemed this as "praise" or "support" for someone on their "dangerous
-individuals" list:
+Rittenhouse](/context/kyle-rittenhouse/) helping an injured protestor in
+Kenosha, WI. Facebook removed this post, gave Mark a community guidelines
+strike, and restricted his page since Facebook deemed this as "praise" or
+"support" for someone on their "dangerous individuals" list:
 > We don't allow symbols, praise or support of dangerous individuals or
 > organizations on Facebook.
 

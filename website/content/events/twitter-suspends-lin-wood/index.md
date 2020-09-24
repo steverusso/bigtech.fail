@@ -4,6 +4,7 @@ date: 2020-09-01
 image: /img/people/lin-wood.jpg
 platforms: [ twitter ]
 tags: [ suspended ]
+context: kyle-rittenhouse
 sources:
  - [ 'share.par.pw/post/2f44c960beb74d3f9eaa6129baf7414d', 'https://archive.is/wPOUf' ]
  - [ 'twitter.com/CaliKidJMP/status/1300906857419223041', 'https://archive.is/1GwwH' ]
@@ -15,7 +16,7 @@ sources:
 ---
 
 Twitter [temporarily suspended](notice.jpg) attorney Lin Wood after he had
-voiced support for his client, [Kyle Rittenhouse](/events/facebook-classifies-rittenhouse-self-defense-shooting-as-mass-murder/):
+voiced support for his client, [Kyle Rittenhouse](/context/kyle-rittenhouse/):
 > I was censored today on Twitter. I focused there to take on the enemy on its
 > battlefield. The enemy has now refused to engage me. I will now send my
 > messages only from my Parler account. Home court advantage always helps
