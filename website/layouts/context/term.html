@@ -1,0 +1,12 @@
+{{ define "main" }}
+	<div class="cntr">
+		<h1>{{ .LinkTitle | default (.Data.Term | humanize | title) }}</h1>
+		<hr>
+
+		<article>{{ .Content }}</article>
+
+		<h2 data-count="{{ len .Pages }}">Events</h2>
+		<hr>
+		{{ partial "timeline" .Page.Pages }}
+	</div>
+{{ end }}
