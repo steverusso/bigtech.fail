@@ -10,6 +10,7 @@ sources:
  - [ 'share.par.pw/post/4d71ce13c2a448fab51fff4f6c23293f', 'https://archive.is/DbuHk' ]
  - [ 'Sir Lefty Farr-Wright''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'https://socialblade.com/twitter/user/supportourlefty' ]
  - [ 'twitter.com/banthebbc/status/1295621292884983808', 'https://archive.is/FJM3N' ]
+ - [ 'The Conservative Woman "Lost in Twitter’s Leftie limbo" by Sir Lefty Farr-Wright (19 Sep 2020)', 'https://www.conservativewoman.co.uk/lost-in-twitters-leftie-limbo/' ]
 ---
 
 Twitter banned Sir Lefy Farr-Wright (@SupportOurLefty), a left-wing parody
