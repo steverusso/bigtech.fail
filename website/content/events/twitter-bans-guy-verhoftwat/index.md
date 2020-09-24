@@ -1,6 +1,6 @@
 ---
 title: Twitter Bans Guy Verhoftwat
-date: 2020-08-28
+date: 2020-08-18
 image: /img/misc/guy-verhoftwat.jpg
 platforms: [ twitter ]
 tags: [ banned, humor ]
