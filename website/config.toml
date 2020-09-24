@@ -11,6 +11,7 @@ summaryLength = 25
 	minifyOutput = true
 
 [taxonomies]
+	context = "context"
 	tag = "tags"
 	profile = "profiles"
 	altfor = "altfor"
