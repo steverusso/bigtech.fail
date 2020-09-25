@@ -1,3 +1,0 @@
-{{ $css := resources.Get "pages/events.css" | minify | fingerprint "sha512" }}
-
-<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
