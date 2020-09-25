@@ -35,6 +35,15 @@ This could be, for example, when:
 
 Events will contain a date, a title, a summary, any Profiles that were involved, and links to source material.
 
+### Contexts
+
+Sometimes, there are many Events that occur due to a larger situation that
+might not even be related to BigTech at all. For example, after the Kyle
+Rittenhouse self-defense shooting in Kenosha, WI, several BigTech corporations
+suspended and banned many users, not just one or two. A Context will primarily
+provide background information on the bigger picture, but it will also group
+together all related Events.
+
 ### AltTech
 
 An AltTech profile is information about an alternative tech platform.

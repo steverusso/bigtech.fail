@@ -4,6 +4,7 @@ date: 2020-09-03
 image: /img/people/john-pierce.jpg
 platforms: [ twitter ]
 tags: [ suspended ]
+context: kyle-rittenhouse
 sources:
  - [ 'twitter.com/LLinWood/status/1301411353425444865', 'https://archive.is/7zAF7' ]
  - [ 'twitter.com/CaliKidJMP/status/1301569355373838336', 'https://archive.is/oQOgW' ]
@@ -11,9 +12,8 @@ sources:
 ---
 
 Twitter suspended John Pierce, a defense attorney representing [Kyle
-Rittenhouse](/events/facebook-classifies-rittenhouse-self-defense-shooting-as-mass-murder/),
-because he posted [the following tweet](notice.jpg) which was deemed to be
-"glorifying violence":
+Rittenhouse](/context/kyle-rittenhouse/), because he posted [the following
+tweet](notice.jpg) which was deemed to be "glorifying violence":
 > Kyle Rittenhouse will go down in American history alongside that brave
 > unknown patriot at Lexington Green who fired "The Shot Heard Round The World"
 > on April 19, 1775. A Second American Revolution against Tyranny has begun.
