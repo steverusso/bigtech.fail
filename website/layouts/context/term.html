@@ -1,9 +1,24 @@
 {{ define "main" }}
 	<div class="cntr">
-		<h1>{{ .LinkTitle | default (.Data.Term | humanize | title) }}</h1>
+		<header>
+			<img src="{{ .Params.image }}" width="100" height="100" loading="lazy">
+			<h1>{{ .LinkTitle | default (.Data.Term | humanize | title) }}</h1>
+		</header>
 		<hr>
 
 		<article>{{ .Content }}</article>
+		<hr>
+
+		<details open>
+			<summary>Sources / Relevant Media :</summary>
+			<ol class="sources">
+				{{ range .Params.media }}
+					{{ $href := index . 1 }}
+					{{ $text := index . 0 | default $href }}
+					<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
+				{{ end }}
+			</ol>
+		</details>
 
 		<h2 data-count="{{ len .Pages }}">Events</h2>
 		<hr>
