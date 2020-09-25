@@ -64,6 +64,10 @@ p, li, span {
 	color: var(--para);
 }
 
+details summary {
+	cursor: pointer;
+}
+
 table {
 	border-collapse: collapse;
 }
@@ -99,6 +103,12 @@ table a {
 	transition: 0.3s cubic-bezier(0.25,0.75,0.5,1);
 	visibility: hidden;
 	z-index: -1;
+}
+
+.sources li {
+	font-size: 0.95rem;
+	margin-bottom: 0.5rem;
+	line-height: 1.75;
 }
 
 [data-count]:after {
