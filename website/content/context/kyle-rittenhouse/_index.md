@@ -13,9 +13,10 @@ Although he lived in Antioch, Illinois, he worked in Kenosha as a lifeguard.
 Throughout the night, Kyle offered help to injured protestors. At one point,
 rioters started a dumpster fire in a gas station.  Kyle can be seen running
 with a fire extinguisher to the gas station where the fire was then put out
-before causing significant damage.
+before causing significant damage. This angered the mob and led to Kyle fleeing
+in order to avoid major conflict.
 
-This angered the mob and led to Kyle fleeing in order to avoid major conflict.
-This did not work as he was chased, threatened, and assaulted by several
+Retreating did not work as he was chased, threatened, and assaulted by several
 convicted felons from the mob, including one armed with a handgun. Kyle killed
-two and injured one.
+two and injured one. He was arrested two days later and charged with
+intentional homicide.
