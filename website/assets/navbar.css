@@ -27,6 +27,7 @@ nav a:hover {
 }
 [for="toggleNav"] i:after {
 	content: "☰";
+	color: #ddd;
 	font-style: normal;
 	font-size: 36px;
 	line-height: var(--navHeight);
