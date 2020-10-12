@@ -19,30 +19,18 @@ nav a {
 nav a:hover {
 	color: #888;
 }
-
-.hamburger {
-	height: var(--navHeight);
-	display: flex;
-	align-items: center;
+[for="toggleNav"] i {
 	padding: 0 1.25rem;
 	position: fixed;
 	top: 0; right: 0;
 	z-index: 10;
 }
-.hamburger i {
-	border: 1px solid #eee;
-	position: relative;
-	width: 32px;
+[for="toggleNav"] i:after {
+	content: "☰";
+	font-style: normal;
+	font-size: 36px;
+	line-height: var(--navHeight);
 }
-.hamburger i:before, .hamburger i:after {
-	content: "";
-	border: 1px solid #eee;
-	position: absolute;
-	right: -1px;
-	min-width: 100%;
-}
-.hamburger i:before { top: -9px; }
-.hamburger i:after { top: 7px; }
 
 aside[data-nav] {
 	--asideW: 325px;
