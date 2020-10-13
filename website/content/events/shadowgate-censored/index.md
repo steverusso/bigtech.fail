@@ -1,6 +1,6 @@
 ---
 aliases: [ /shadowgate/ ]
-title: Shadow Gate Censored
+title: ShadowGate Censored
 date: 2020-08-16
 image: /img/misc/shadowgate.png
 profiles: [ millie-weaver ]
@@ -18,6 +18,7 @@ sources:
  - [ 'twitter.com/thevivafrei/status/1296282438507925506', 'http://archive.is/4xC5g' ]
  - [ 'twitter.com/zerohedge/status/1295374829500145664', 'https://archive.is/PWPOy' ]
  - [ 'Archive of the video page on YouTube', 'https://archive.vn/4nrAj' ]
+ - [ 'Archive of the video page on Banned.Video', 'https://archive.is/hEShk' ]
  - [ 'YouTube "Shadowgate Updates" by Millie Weaver (20 Aug 2020)', 'https://www.youtube.com/watch?v=ddeD6Oa8Mr8' ]
 ---
 
