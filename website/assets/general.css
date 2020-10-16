@@ -60,7 +60,7 @@ img {
 	max-width: 100% !important;
 }
 
-p, li, span {
+p, li, span, summary {
 	color: var(--para);
 }
 
