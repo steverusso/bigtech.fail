@@ -1,5 +1,5 @@
 ---
-title: Amazon Bans "What Killed Michael Brown?" Documentary
+title: Amazon Removes "What Killed Michael Brown?" Documentary
 date: 2020-10-14
 image: /img/misc/whatkilledmb.jpg
 platforms: [ amazon ]
@@ -9,6 +9,7 @@ sources:
  - [ 'Eli Steele email letter', 'https://archive.is/g8Ao9' ]
  - [ 'twitter.com/whatkilledmb/status/1316408070751154176', 'https://archive.is/8ibdK' ]
  - [ 'twitter.com/whatkilledmb/status/1317979155607166976', 'https://archive.is/6Qr5Q' ]
+ - [ 'twitter.com/whatkilledmb/status/1318741903668473856', 'https://archive.is/cz63u' ]
  - [ 'twitter.com/BobWoodson/status/1317126628552642565', 'https://archive.is/vSkmu' ]
  - [ 'Wall Street Journal "Amazon Cancels Shelby Steele" by The Editorial Board (14 Oct 2020)', 'https://archive.is/JqOam' ]
  - [ 'Reclaim The Net "Amazon criticized for rejecting Michael Brown documentary that doesn’t offer “politically correct narrative”" by Cindy Harper (15 Oct 2020)', 'https://reclaimthenet.org/what-killed-michael-brown/' ]
@@ -29,23 +30,11 @@ with Amazon's film specifications:
 >
 > -- WhatKilledMichaelBrown? (@whatkilledmb) [14 Oct 2020](https://archive.is/8ibdK)
 
-Less than a week later, Amazon reversed the decision and released the film
-without the permission of the production company, causing them to send a cease
-and desist letter to Amazon:
-> In a stunning reversal, Amazon platformed our film, "What Killed Michael
-> Brown?" without our permission. We sent them a cease and desist letter just
-> now. Truth matters. Please see our website for details.
+About a week later, Amazon reversed the decision and released the film:
+> Great news! Amazon reached out to us today. We listened to one another.
+> Amazon acknowledged the issue and promised to do better. So, we are proud to
+> announce that "What Killed Michael Brown?" is now available on Amazon! 
 >
-> -- WhatKilledMichaelBrown? (@whatkilledmb) [19 Oct 2020](https://archive.is/6Qr5Q)
-
-The following brief excerpt from [the
-trailer](https://youtu.be/ZIbAI1vEl-E?t=114) gives a hint as to why this film
-might have annoyed "the powers that be" during a time when they rely on extreme
-racial tensions in order to maintain and increase their power:
-> America's original sin is not slavery. It is simply the use of race as a
-> means to power.
-
-The film is available to be purchased [digitally on
-Vimeo](https://vimeo.com/ondemand/whatkilledmichaelbrown) as well as
-[physically on the film's
-website](https://whatkilledmichaelbrown.com/buy-dvd-blu-ray).
+> Thank you for your support.
+>
+> -- WhatKilledMichaelBrown? (@whatkilledmb) [21 Oct 2020](https://archive.is/cz63u)
