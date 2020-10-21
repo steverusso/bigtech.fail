@@ -9,6 +9,7 @@
 - { key: brighteon,     text: Brighteon,     prefix: brighteon.com }
 - { key: dlive,         text: DLive,         prefix: dlive.tv }
 - { key: lbry,          text: LBRY,          prefix: lbry.tv }
+- { key: rumble,        text: Rumble,        prefix: rumble.com }
 - { key: parler,        text: Parler,        prefix: parler.com }
 - { key: gab,           text: Gab,           prefix: gab.com }
 - { key: telegram,      text: Telegram,      prefix: t.me }
