@@ -2,6 +2,10 @@
 	{{ partialCached "css/events" . }}
 {{ end }}
 
+{{ define "ogdesc" }}
+	{{ .Summary | truncate 69 | plainify }}
+{{ end }}
+
 {{ define "main" }}
 	{{ $class := and (.Param `profiles`) `aside-parent` }}
 
