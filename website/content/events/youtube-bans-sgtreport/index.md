@@ -3,7 +3,7 @@ title: YouTube Bans SGTreport
 date: 2020-10-15
 image: /img/people/sgtreport.jpg
 platforms: [ youtube ]
-tags: [ banned, gov ]
+tags: [ banned ]
 sources:
  - [ 'twitter.com/SGTreport/status/1316797719005007873', 'https://archive.is/zZo3g' ]
  - [ 'Social Blade (SGTreport) socialblade.com/youtube/channel/UC2nQYGjfe9I_tgWpqgJorUg', 'https://archive.is/m2W8F' ]
@@ -32,3 +32,6 @@ almost 1500 uploads.
 > [sgtreport.TV](http://sgtreport.TV) @realDonaldTrump @Annakhait @RudyGiuliani
 >
 > -- SGTreport (@SGTreport) [15 Oct 2020](https://archive.is/zZo3g)
+
+SGTreport [was banned](/events/patreon-bans-sgtreport/) from
+[Patreon](/patreon/) one week later.
