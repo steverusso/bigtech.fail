@@ -1,5 +1,5 @@
 ---
-title: Youtube Bans the Last American Vagabond
+title: YouTube Bans the Last American Vagabond
 date: 2020-10-19
 image: /img/people/tlav.jpg
 profiles: [ tlav ]
