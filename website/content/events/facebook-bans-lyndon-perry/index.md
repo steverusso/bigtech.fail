@@ -23,6 +23,10 @@ process. Speaking to BigTech.fail, Perry said:
 > to upload a photo of myself and copy of driver's license.
 
 After doing so, Facebook said that reviewing the information would take longer
-to review than normal "due to the coronavirus (COVID-19) pandemic." Perry
-mentioned that one of his followers has been looking at the same message
-**<u>for months</u>**.
+to review than normal "due to the coronavirus (COVID-19) pandemic." Three days
+later, Perry's account was suddenly reinstated, **except his admin capabilities
+for _I,Hypocrite_ were disabled**.
+
+[A restriction](page-ban-notice.jpg) placed on his account said he would be
+"restricted from creating Pages" for the next three months. He received from
+Facebook "no email, no message, no notification, nothing."
