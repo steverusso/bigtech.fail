@@ -27,6 +27,6 @@ to review than normal "due to the coronavirus (COVID-19) pandemic." Three days
 later, Perry's account was suddenly reinstated, **except his admin capabilities
 for _I,Hypocrite_ were disabled**.
 
-[A restriction](page-ban-notice.jpg) placed on his account said he would be
+[A restriction](page-ban-notice.png) placed on his account said he would be
 "restricted from creating Pages" for the next three months. He received from
 Facebook "no email, no message, no notification, nothing."
