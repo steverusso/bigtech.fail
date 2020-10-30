@@ -21,10 +21,10 @@ youtube:
 ---
 
 [YouTube](/youtube/) permanently [banned](/tags/banned/) _The Conscious
-Resistance Network_ in an attempt to purge channels that the platform claimed
-were spreading "harmful conspiracy theories." The seven year old channel had
-over **64k subscribers** and more than **5 million total views** across 1820
-videos.
+Resistance Network_ after the channel received a third strike [due
+to](notice.png) violating the platform's "sale of regulated goods policy." The
+seven year old channel had over **64k subscribers** and more than **5 million
+total views** across 1820 videos.
 
 > Yes, it sucks to have my channel deleted, but we knew this was coming, esp
 > pre-election and pre-covid vaxx. Thankfully I have been telling ppl to follow
