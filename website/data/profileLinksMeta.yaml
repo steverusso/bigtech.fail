@@ -11,8 +11,9 @@
 - { key: lbry,          text: LBRY,          prefix: lbry.tv }
 - { key: odysee,        text: Odysee,        prefix: odysee.com }
 - { key: rumble,        text: Rumble,        prefix: rumble.com }
-- { key: parler,        text: Parler,        prefix: parler.com }
+- { key: flote,         text: Flote,         prefix: flote.app }
 - { key: gab,           text: Gab,           prefix: gab.com }
+- { key: parler,        text: Parler,        prefix: parler.com }
 - { key: telegram,      text: Telegram,      prefix: t.me }
 - { key: twitter,       text: Twitter,       prefix: twitter.com }
 - { key: youtube,       text: YouTube,       prefix: youtube.com }
