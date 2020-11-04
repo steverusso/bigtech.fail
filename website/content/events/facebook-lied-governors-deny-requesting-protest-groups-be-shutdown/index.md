@@ -4,13 +4,14 @@ date: 2020-04-20
 image: /img/logos/facebook.png
 summary: They say Facebook actually reached out to them ...
 platforms: [ facebook ]
-tags: [ covid, gov ]
+tags: [ covid, gov, policy ]
 sources:
  - [ 'Breitbart "Governors: Facebook Contacted Us About Protests, Not Other Way Around" by Joel B. Pollak (20 Apr 2020)', 'https://www.breitbart.com/the-media/2020/04/20/governors-facebook-contacted-us-about-protests-not-other-way-around/' ]
  - [ 'Summit News "State Governors Say Facebook CONTACTED THEM About ''Reopen America'' Events" by Steve Watson (21 Apr 2020)', 'https://summit.news/2020/04/21/state-governors-say-facebook-contacted-them-about-reopen-america-events/' ]
  - [ 'Reclaim The Net "State governors say Facebook is lying, Facebook alone decided to shut down protest groups" by Naga Pramod (21 Apr 2020)', 'https://reclaimthenet.org/state-governors-facebook-censorship-protest-groups/' ]
  - [ 'https://twitter.com/donie/status/1252220943314927616 (archived)', 'https://archive.vn/I6CxA' ]
  - [ 'https://twitter.com/oliverdarcy/status/1252224126279802881 (archived)', 'https://archive.vn/RVXlB' ]
+ - [ 'BitChute "Facebook Is BANNING Lockdown Protests At Governments Request As Drones Are Deployed To Spy On Us" by Tim Pool (20 Apr 2020)', 'https://www.bitchute.com/video/dMCfHMjyROY/' ]
 ---
 
 Early in the day on April 20, CNN activist Donie O'Sullivan [tweeted
