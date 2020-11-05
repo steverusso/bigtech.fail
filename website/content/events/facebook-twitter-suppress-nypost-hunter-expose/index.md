@@ -7,9 +7,14 @@ platforms: [ facebook, twitter ]
 tags: [ content-removed, gov ]
 context: nypost-hunter
 sources:
+ - [ 'YouTube "Why Twitter Censored the NY Post Article on Biden" by AwakenWithJP (20 Oct 2020)', 'https://www.youtube.com/watch?v=jrjI2X9TIZA' ]
  - [ 'New York Post "Twitter, Facebook censor Post over Hunter Biden exposé" by Noah Manskar (14 Oct 2020)', 'https://nypost.com/2020/10/14/facebook-twitter-block-the-post-from-posting/' ]
  - [ 'New York Post "Facebook limits spread of The Post’s Hunter Biden exposé" by Noah Manskar (14 Oct 2020)', 'https://nypost.com/2020/10/14/facebook-limits-spread-of-the-posts-hunter-biden-expose/' ]
  - [ 'New York Post "Twitter CEO admits handling of blocked Post article was ‘unacceptable’" by Ben Feuerherd (14 Oct 2020)', 'https://nypost.com/2020/10/14/twitter-ceo-says-handling-of-blocked-post-article-was-unacceptable/' ]
+ - [ 'New York Post "Twitter still holding The Post’s account hostage over Hunter Biden links" by Bruce Golding (16 Oct 2020)', 'https://nypost.com/2020/10/16/twitter-still-holding-the-posts-account-hostage-over-hunter-biden-links/' ]
+ - [ 'New York Post "How tweet it is: Twitter backs down, unlocks Post’s account" by Bruce Golding (30 Oct 2020)', 'https://nypost.com/2020/10/30/twitter-backs-down-agrees-to-unlock-posts-account/' ]
+ - [ 'twitter.com/nypost/status/1322304510736371713', 'https://archive.is/0Ozsn' ]
+ - [ 'twitter.com/nypost/status/1322316590222872577', 'https://archive.is/4Zdu9' ]
  - [ 'twitter.com/michaelmalice/status/1316528108586102789', 'https://archive.is/ihnT5' ]
  - [ 'twitter.com/ComicDaveSmith/status/1316538972840091648', 'https://archive.is/L8kTO' ]
  - [ 'twitter.com/SohrabAhmari/status/1316445808003346435', 'https://archive.is/7yogE' ]
@@ -33,13 +38,18 @@ sources:
  - [ 'twitter.com/HawleyMO/status/1316470069086564352', 'https://archive.is/KZb89' ]
  - [ 'ZeroHedge "Twitter CEO Dorsey Responds To Biden Block-Gate: Unacceptable" by Tyler Durden (14 Oct 2020)', 'https://archive.is/5CiCf' ]
  - [ 'BitChute "Is Social Media Censorship An Attack On Speech?" by Ron Paul Liberty Report (15 Oct 2020)', 'https://www.bitchute.com/video/75OV7n33oK1j/' ]
+ - [ 'Reporting by Matt Taibbi "Facebook and Twitter''s Intervention Highlights Dangerous New Double Standard" (17 Oct 2020)', 'https://taibbi.substack.com/p/facebook-and-twitters-intervention-650' ]
  - [ 'twitter.com/andymstone/status/1316395902479872000', 'https://archive.is/eZu88' ]
 extra:
+ - [ 'twitter.com/Timcast/status/1316474154233860096', 'https://archive.is/dBc3Y' ]
  - [ 'BitChute "The Hunter Biden Email Bombshell has the Legacy Media and Big Tech in a Damage Control Meltdown" by Styxhexenhammer666 (15 Oct 2020)', 'https://www.bitchute.com/video/FRIRzmpbddU/' ]
  - [ 'BitChute "Twitter CENSORS Government Website EXPOSING Joe Biden Corruption, The LIES About It, Total INSANIT.." by Tim Pool (15 Oct 2020)', 'https://www.bitchute.com/video/UgNWKIXvHp8/' ]
  - [ 'twitter.com/ComicDaveSmith/status/1316553101160128512', 'https://archive.is/UMl3I' ]
  - [ 'twitter.com/ggreenwald/status/1316460818217807872', 'https://archive.is/PoNJw' ]
  - [ 'twitter.com/ggreenwald/status/1316496391548669952', 'https://archive.is/Ol8IP' ]
+ - [ 'American Thinker "Does this explain why Facebook suppressed Hunter Biden revelations?" by Andrea Widburg (18 Oct 2020)', 'https://archive.is/RnUJb' ]
+ - [ 'Breitbart "Facebook ‘Content Regulation Manager’ Anna Makanju Advised Joe Biden on Ukraine" by Allum Bokhari (18 Oct 2020)', 'https://archive.is/qsTBU' ]
+ - [ 'twitter.com/TwitterSafety/status/1322298208236830720', 'https://archive.is/kbVNz' ]
 ---
 
 The New York Post triggered a flurry of censorship after dropping an exposé on
@@ -73,7 +83,8 @@ Regardless, Twitter blocked the link to The Post's story and prevented users
 from tweeting or retweeting it. Additionally, they started locking and
 suspending accounts that were able to share the link before it was blocked,
 [starting with](https://archive.is/6eO8l#selection-2035.0-2035.270) The Post's
-main account with 1.8M followers: 
+main account of 1.8M followers, by requiring them to delete the tweet of the
+Hunter Biden news story in order to regain access to their account:
 > The Post’s primary Twitter account was locked as of 2:20 p.m. Wednesday
 > because its articles about the messages obtained from Biden’s laptop broke
 > the social network’s rules against “distribution of hacked material,”
@@ -91,3 +102,8 @@ implications of this policy stance if "applied consistently":
 > docs, Panama Papers, our Brazil Archive — would be banned.
 >
 > -- Glenn Greenwald (@ggreenwald) [15 Oct 2020](https://archive.is/fWjlW)
+
+As for The Post's account, they refused to delete the tweet in question in
+order to have their account unfrozen, and Twitter refused to unfreeze the
+account until the tweet was deleted. This stalemate lasted until Twitter
+finally caved 16 days later and reinstated The Post's account.

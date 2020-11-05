@@ -9,6 +9,7 @@ sources:
  - [ 'twitter.com/Millerita/status/1316519340632494080', 'https://archive.is/Hhf64' ]
  - [ 'twitter.com/Millerita/status/1316542253423239172', 'https://archive.is/bnXDy' ]
  - [ 'twitter.com/JamesOKeefeIII/status/1316522656796160000', 'https://archive.is/uk4wR' ]
+ - [ 'twitter.com/RealJamesWoods/status/1316794500925157376', 'https://archive.is/qHdVi' ]
 ---
 
 Twitter temporarily suspended James Woods for [violating the Twitter
