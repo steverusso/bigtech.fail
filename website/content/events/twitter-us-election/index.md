@@ -3,12 +3,13 @@ title: Twitter Censors Tweets Related to US Election
 date: 2020-11-04
 image: /img/misc/ttas.png
 platforms: [ twitter ]
-tags: [ policy, gov ]
+tags: [ policy, gov, election2020 ]
 sources:
  - [ 'twitter.com/TwitterSafety/status/1323868590047744000', 'https://archive.is/VINai' ]
  - [ 'twitter.com/realDonaldTrump/status/1324004491612618752', 'https://archive.is/5z9mW' ]
  - [ 'twitter.com/realDonaldTrump/status/1324033983882166272', 'https://archive.is/N9Dfv' ]
  - [ 'twitter.com/realDonaldTrump/status/1324108206801563650', 'https://archive.is/ycY0K' ]
+ - [ 'twitter.com/realDonaldTrump/status/1324368202139357186', 'https://archive.is/vw2Dt' ]
  - [ 'twitter.com/MattWalshBlog/status/1323999569466789889', 'https://archive.is/fgPxx' ]
  - [ 'twitter.com/seanmdav/status/1323868997096509443', 'https://archive.is/IurYa' ]
  - [ 'twitter.com/seanmdav/status/1323869847646883841', 'https://archive.is/BbOTj' ]
@@ -23,6 +24,7 @@ sources:
  - [ 'twitter.com/MarkDice/status/1323867727417634816', 'https://archive.is/S77su' ]
  - [ 'twitter.com/MarkDice/status/1323882307955011584', 'https://archive.is/jN6Sx' ]
  - [ 'twitter.com/MarkDice/status/1323890578627522560', 'https://archive.is/cvtNG' ]
+ - [ 'twitter.com/willchamberlain/status/1324379198786592772', 'https://archive.is/rFuWJ' ]
 ---
 
 As the US 2020 Presidential Election started heating up, Twitter started
@@ -60,6 +62,10 @@ suppressed (all with accompanying archive links, as always).
 > reported!
 >
 > -- Donald J. Trump (@realDonaldTrump) [4 Nov 2020](https://archive.is/ycY0K)
+
+> ANY VOTE THAT CAME IN AFTER ELECTION DAY WILL NOT BE COUNTED!
+>
+> -- Donald J. Trump (@realDonaldTrump) [5 Nov 2020](https://archive.is/vw2Dt)
 
 > This is reason enough to go to court. No honest person can look at this and
 > say it's normal and unconcerning. 
@@ -136,3 +142,11 @@ suppressed (all with accompanying archive links, as always).
 > they stopped counting the votes.  #StopTheSteal
 >
 > -- Mark Dice (@MarkDice) [4 Nov 2020](https://archive.is/cvtNG)
+
+> They are waiting to see how many mail-in ballots they will need
+>
+> No other good explanation
+>
+> This should be treated as evidence of intent to commit election fraud
+>
+> -- Will Chamberlain (@willchamberlain) [5 Nov 2020](https://archive.is/rFuWJ)
