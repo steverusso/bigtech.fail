@@ -6,6 +6,7 @@ platforms: [ twitter ]
 tags: [ suspended, gov ]
 sources:
  - [ 'twitter.com/MarkDice/status/1316522762148573184', 'https://archive.is/y9E0Y' ]
+ - [ 'twitter.com/Timcast/status/1316524996253102090', 'https://archive.is/Ehct1' ]
  - [ 'twitter.com/JesseMeester/status/1316529687548616704', 'https://archive.is/p6TxT' ]
  - [ 'twitter.com/TrumpWarRoom/status/1316510056591040513', 'https://archive.is/o0HA0' ]
  - [ 'twitter.com/PressSec/status/1316516578024919041', 'https://archive.is/zJ2Mi' ]
