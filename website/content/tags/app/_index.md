@@ -1,6 +1,8 @@
 ---
 title: Apps
 image: /img/icons/apps.png
+extra:
+ - [ 'Breitbart "Former Apple App Store Chief: Company’s Rules Are a ‘Weapon Against Competitors’" by Lucas Nolan (8 Oct 2020)', 'https://www.breitbart.com/tech/2020/10/08/former-apple-app-store-chief-companys-rules-are-a-weapon-against-competitors/' ]
 ---
 
 This type of Event represents when a BigTech company **interferes with an
