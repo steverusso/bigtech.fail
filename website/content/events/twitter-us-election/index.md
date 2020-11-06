@@ -35,11 +35,12 @@ one could like or retweet them) and slapped with the following label:
 > Some or all of the content shared in this Tweet is disputed and might be
 > misleading about an election or other civic process.
 
-Below are just _some_ of the tweets that Twitter editorialized, restricted and
-suppressed (all with accompanying archive links, as always).
+Below are just _some_ of the tweets that Twitter editorialized, restricted,
+suppressed, or outright deleted (all with accompanying archive links, as
+always).
 
----
-<br>
+<details>
+<summary>Some editorialized, restricted, and /or suppressed tweets</summary>
 
 > Last night I was leading, often solidly, in many key States, in almost all
 > instances Democrat run & controlled. Then, one by one, they started to
@@ -150,3 +151,15 @@ suppressed (all with accompanying archive links, as always).
 > This should be treated as evidence of intent to commit election fraud
 >
 > -- Will Chamberlain (@willchamberlain) [5 Nov 2020](https://archive.is/rFuWJ)
+</details>
+
+<br>
+
+<details>
+<summary>Some removed tweets</summary>
+
+* [twitter.com/theca13/status/1324537564410380288](https://archive.is/1ga3J)
+</details>
+
+<br>
+<br>
