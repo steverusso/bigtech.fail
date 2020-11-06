@@ -9,6 +9,7 @@ sources:
  - [ 'twitter.com/WomenforTrump/status/1324427395231789058', 'https://archive.is/7voyx' ]
  - [ 'twitter.com/ChrisRBarron/status/1324421887204753410', 'https://archive.is/PHx3a' ]
  - [ 'twitter.com/ali/status/1324424134345056256', 'https://archive.is/F0RSz' ]
+ - [ 'twitter.com/CynCity_USA/status/1324423636552396802', 'https://archive.is/k9MlO' ]
  - [ 'The Gateway Pundit "Breaking: Facebook Bans Pro-Trump ‘Stop the Steal’; Page Gained Over 350,000 Followers Since Announced Wednesday" by Kristinn Taylor (5 Nov 2020)', 'https://archive.is/wDY9I' ]
  - [ 'facebook.com/groups/stopthesteal2020 (archived removal)', 'https://archive.vn/ptPSu' ]
 ---
@@ -38,3 +39,5 @@ activists:
 > creating real-world events. The group was organized around the
 > delegitimization of the election process, and we saw worrying calls for
 > violence from some members of the group.
+
+The group quickly [moved over to Parler](https://parler.com/profile/StopTheSteal/posts).
