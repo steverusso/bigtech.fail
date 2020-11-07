@@ -25,6 +25,7 @@ sources:
  - [ 'twitter.com/MarkDice/status/1323882307955011584', 'https://archive.is/jN6Sx' ]
  - [ 'twitter.com/MarkDice/status/1323890578627522560', 'https://archive.is/cvtNG' ]
  - [ 'twitter.com/willchamberlain/status/1324379198786592772', 'https://archive.is/rFuWJ' ]
+ - [ 'twitter.com/PhillyGOP/status/1324860958045577219', 'https://archive.is/pdbph' ]
 ---
 
 As the US 2020 Presidential Election started heating up, Twitter started
@@ -151,6 +152,16 @@ always).
 > This should be treated as evidence of intent to commit election fraud
 >
 > -- Will Chamberlain (@willchamberlain) [5 Nov 2020](https://archive.is/rFuWJ)
+
+> I see dead people voting
+> 👀
+>
+>
+> Look no further than PA's own records
+> 🧟‍♂️
+> 🧟
+>
+> -- Philly GOP (@PhillyGOP) [6 Nov 2020](https://archive.is/pdbph)
 </details>
 
 <br>
