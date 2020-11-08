@@ -5,6 +5,7 @@
 {{ define "main" }}
 	{{ $slug := .Title | anchorize }}
 	{{ $img := $slug | printf "/img/logos/%s.png" }}
+	{{ $alts := index .Site.Taxonomies.altfor $slug }}
 
 	<div class="platform cntr">
 		<header>
@@ -15,11 +16,26 @@
 		<hr>
 
 		{{ if .Content | ne "" }}
-			{{ partial "platform-rundown.html" . }}
-		{{ else }}
-			{{ $slug := .Title | anchorize }}
-			{{ $alts := index .Site.Taxonomies.altfor $slug }}
+			<div class="row content">
+				<!-- The summary article on the platform. -->
+				<article class="col md-7 lg-8">{{ .Content }}</article>
 
+				<!-- The alternatives. This appears as a sidebar on larger screens. -->
+				<section class="col md-5 lg-4">
+					<div class="alts-wrap">
+						{{ with $alts }}
+							<h3 data-count="{{ len . }}">Alternative Platforms</h3>
+
+							<div class="grid sm-6 md-12 alts">
+								{{ range . }}
+									<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
+								{{ end }}
+							</div>
+						{{ end }}
+					</div>
+				</section>
+			</div>
+		{{ else }}
 			<div class="no-writeup">
 				{{ with $alts }}
 					<h3 data-count="{{ len . }}">Alternative Platforms</h3>
