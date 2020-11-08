@@ -28,6 +28,10 @@
 	.platform.cntr article {
 		padding-right: 3rem !important;
 	}
+	.alts-wrap {
+		position: sticky;
+		top: calc(var(--navHeight) + 1rem);
+	}
 }
 
 .banned { color: #f44336 }

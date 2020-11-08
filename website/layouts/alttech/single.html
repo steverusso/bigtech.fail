@@ -30,10 +30,6 @@
 			{{ end }}
 		</p>
 
-		{{ with .Params.legal }}
-			{{ partial "policy-table.html" . }}
-		{{ end }}
-
 		<article>{{ .Content }}</article>
 	</div>
 {{ end }}
