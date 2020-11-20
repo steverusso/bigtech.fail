@@ -29,5 +29,6 @@ _SGTreport_ jumped over to [AltTech](/alttech/) by creating a
 >
 > -- SGTreport (@SGTreport) [22 Oct 2020](https://archive.is/EZyPT)
 
-SGTreport [was banned](/events/youtube-bans-sgtreport/) from
-[YouTube](/youtube/) one week prior.
+SGTreport [was banned from YouTube](/events/youtube-bans-sgtreport/) one week
+prior and [banned from Mailchimp](/events/mailchimp-bans-sgtreport/) three days
+prior.
