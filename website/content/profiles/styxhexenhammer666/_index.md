@@ -29,6 +29,22 @@ its not all that difficult to pioneer AltTech.
 <details>
 <summary>Check out some of his rants related to BigTech:</summary>
 
+[8 Aug 2018 "Infowars Purge Day 3: Mailchimp, Disqus, LinkedIn Ban Big, Scary
+Alex Jones"](https://www.bitchute.com/video/PcpjsNZZNXY/)
+> But the NGO's and the corporate media are dumb enough to think it's a good
+> idea. They just want Infowars off these platforms so they can absorb more
+> audience time usage.
+>
+> ...
+>
+> To all of you: Right Wing Watch, Vox, Salon, The Blaze, Breitbart, all the
+> missing link media sites, you're not exactly CNN size, they will turn on you
+> as soon as they're done bashing a few major content creators out of the way.
+> They'll make an example, shadow ban the rest of us. ... Who do you think is
+> next in line? Do you think it will stop with us? No you've got a large market
+> share too. They're gonna go after you next. They're not gonna partner with
+> you.
+
 [17 Nov 2018 "I Have Stopped Using Paypal for Donation Processing Because of Its Appeasing of Jackboot Lickers"](https://www.bitchute.com/video/RpCrrcrI-bM/)
 
 [24 Nov 2018 "Taking a Hint from Silicon Valley, China to Judge Citizens with
