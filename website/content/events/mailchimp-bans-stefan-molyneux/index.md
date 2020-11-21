@@ -10,6 +10,7 @@ sources:
  - [ 'twitter.com/Mailchimp/status/1217073200414306304', 'https://archive.is/GE3n3' ]
  - [ 'National File "EXCLUSIVE: Leading Email Service Provider Bans Stefan Molyneux After Leftist Outrage Campaign" by Tom Pappert (14 Jan 2020)', 'https://archive.is/0rJ0k' ]
  - [ 'Reclaim The Net "Mailchimp deplatforms Stefan Molyneux after allegations from activist" by Tom Parker (14 Jan 2020)', 'https://reclaimthenet.org/stefan-molyneux-mailchimp-terminated/' ]
+ - [ 'twitter.com/ThomasEWoods/status/1217130459051831297', 'https://archive.is/Sc2My' ]
  - [ 'twitter.com/ZubyMusic/status/1217146970156032002', 'https://archive.is/I73le' ]
 ---
 
