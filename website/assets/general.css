@@ -88,9 +88,6 @@ th *, td * {
 tr:nth-child(odd) {
 	background-color: var(--cardBg);
 }
-table a {
-	color: var(--bodyColor);
-}
 
 .overlay {
 	background-color: rgba(34,34,34,0.6);
