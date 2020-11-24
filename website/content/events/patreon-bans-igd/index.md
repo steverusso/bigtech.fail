@@ -3,7 +3,7 @@ title: Patreon Bans IGD
 date: 2017-07-28
 image: /img/logos/igd.jpg
 platforms: [ patreon ]
-tags: [ banned ]
+tags: [ banned, defunded ]
 sources:
  - [ 'Daily Dot "How Patreon stepped into a war between Antifa and the alt-right" by David Gilmour (7 Aug 2017)', 'https://www.dailydot.com/debug/patreon-antifa-altright-igd-lauren-southern/' ]
  - [ 'Jack Conte - YouTube Video "Patreon CEO on Content Policy, Lauren Southern, and IGD" (28 July 2017)', 'https://www.youtube.com/watch?v=YmcK6GvgVPs' ]

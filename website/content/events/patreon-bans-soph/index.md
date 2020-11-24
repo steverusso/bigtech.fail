@@ -4,7 +4,7 @@ title: Patreon Bans Soph the Day After She's Banned From YouTube
 image: /img/people/soph.jpg
 summary: BigTech scared of a 14 year old girl lol
 platforms: [ patreon ]
-tags: [ banned ]
+tags: [ banned, defunded ]
 sources:
  - [ 'Reclaim the Net "Patreon suspends Soph''s account one day after YouTube deleted her channel" by Tom Parker', 'https://reclaimthenet.org/soph-patreon-removed/' ]
  - [ 'The Mix "Patreon and Bonfire Accounts of ''Soph'' Shutdown Following YouTube Ban" by Spencer Baculi', 'https://www.themix.net/2019/08/patreon-and-bonfire-accounts-of-soph-shutdown-following-youtube-ban/' ]
