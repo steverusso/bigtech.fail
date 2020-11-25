@@ -16,7 +16,7 @@ youtube:
 ---
 
 [YouTube](/youtube/) banned [_Mouthy
-Buddha_](https://www.bitchute.com/channel/wnuZEpMvRZs6/), an political content
+Buddha_](https://www.bitchute.com/channel/wnuZEpMvRZs6/), a political content
 creator, in an attempt to purge channels that the platform claimed were
 spreading "harmful conspiracy theories." The year and a half old channel had
 about **297k subscribers** and over **12.8 million total views** across 90
