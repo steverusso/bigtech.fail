@@ -1,7 +1,6 @@
 ---
 title: Parler
 site: www.parler.com
-slogan: Free Expression. User Privacy.
 summary: Parler is a social networking and microblogging service.
 altfor: [ facebook, twitter ]
 legal:

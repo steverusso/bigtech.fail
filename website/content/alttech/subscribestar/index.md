@@ -2,7 +2,6 @@
 weight: 1
 title: SubscribeStar
 site: www.subscribestar.com
-slogan: Independent membership platform.
 altfor: [ patreon ]
 legal:
   tos:
