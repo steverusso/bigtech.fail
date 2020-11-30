@@ -14,7 +14,7 @@ input[id^="toggle"] ~ label:not([for="toggleNav"]) {
 	background: #03A9F4;
 	border-radius: 50%;
 	box-shadow: 3px 3px 10px 4px var(--shadowColor);
-	padding: 0.9rem;
+	padding: 0.85rem 0.9rem 0.9rem 0.85rem;
 	z-index: 3;
 }
 input[id^="toggle"] ~ label:not([for="toggleNav"]):after {
