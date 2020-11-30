@@ -1,7 +1,6 @@
 ---
 title: BitChute
 site: www.bitchute.com
-slogan: A mind is like a parachute. It doesn't work if it is not open.
 altfor: [ youtube ]
 summary: BitChute is a free speech, peer-to-peer video hosting platform.
 ---

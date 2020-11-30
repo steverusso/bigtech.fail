@@ -1,7 +1,6 @@
 ---
 title: Brighteon
 site: www.brighteon.com
-slogan: REFUSE to be silenced. Free speech lives here.
 altfor: [ youtube ]
 summary: Brighteon is a free speech video hosting platform.
 ---

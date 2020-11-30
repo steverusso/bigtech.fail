@@ -2,7 +2,6 @@
 weight: 3
 title: Thinkspot
 site: www.thinkspot.com
-slogan: Ideas live here.
 altfor: [ patreon ]
 summary: Thinkspot describes itself as an intellectual playground for censorship-free discourse.
 legal:
