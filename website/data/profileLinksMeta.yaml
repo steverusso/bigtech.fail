@@ -18,3 +18,4 @@
 - { key: twitter,       text: Twitter,       prefix: twitter.com }
 - { key: youtube,       text: YouTube,       prefix: youtube.com }
 - { key: instagram,     text: Instagram,     prefix: instagram.com }
+- { key: twitch,        text: Twitch,        prefix: twitch.com }
