@@ -144,42 +144,30 @@ h3[data-count] {
 
 .chip {
 	--c: #607D8B;
-	--height: 23px;
-	background: var(--c);
-	color: #fff;
-	height: var(--height);
-	border: 1px solid transparent;
+	--height: 28px;
+	background: var(--cardTitleBg);
+	border: var(--border1);
 	border-radius: var(--height);
+	color: var(--articleBold);
 	display: inline-flex;
 	align-items: center;
-	font-size: 0.75rem;
-	margin: 0.2rem;
+	font-size: 0.8rem;
+	height: var(--height);
+	margin: 0.25rem;
 	padding: 0 12px;
 	position: relative;
 }
 .chip:hover {
 	text-decoration: none;
-	border: 1px solid #fff;
+	border: 1px solid var(--para);
 }
 .chip:after {
-	content: "";
-	border-radius: var(--height);
-	position: absolute;
-	top: 0; right: 0; bottom: 0; left: 0;
+	transition: none !important;
 }
-.chip:hover:after {
-	background: rgba(0,0,0,0.15);
+.chip > img {
+	width: 16px !important;
+	height: 16px !important;
+	margin-right: 0.5rem;
 }
-.chip.amazon {    --c: #ff9800 }
-.chip.apple {     --c: #f48fb1 }
-.chip.facebook {  --c: #3f51b5 }
-.chip.google {    --c: #448Aff }
-.chip.instagram { --c: #e040fb }
-.chip.patreon {   --c: #ff8a80 }
-.chip.pinterest { --c: #c62828 }
-.chip.reddit {    --c: #ff5722 }
-.chip.spotify {   --c: #4caf50 }
-.chip.twitter {   --c: #03a9f4 }
-.chip.youtube {   --c: #e53935 }
 
 .mb-8 { margin-bottom: 2rem !important }
