@@ -3,6 +3,7 @@ title: Bitchute Reaches 75% of Its Funding Goal
 date: 2020-07-31
 image: /img/logos/bitchute.png
 platforms: [ youtube ]
+tags: [ alttech-growth ]
 sources:
  - [ 'archive of: bitchute.com/help-us-grow/', 'http://archive.is/s6iUN' ]
  - [ 'BitChute "The Future of Bitchute: So Bright I Gotta Wear Shades" by Styxhexenhammer666 (4 Aug 2020)', 'https://www.bitchute.com/video/DN40fpRK_tA/' ]

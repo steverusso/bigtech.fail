@@ -2,8 +2,9 @@
 title: Infowars Reaches 100,000 Subscribers on BitChute!
 date: 2020-11-18
 image: /img/people/alex-jones.jpg
-profiles: [ alex-jones ]
 platforms: [ youtube ]
+tags: [ alttech-growth ]
+profiles: [ alex-jones ]
 sources:
  - [ 'Archive of Infowars channel page crossing 100k subscribers', 'https://archive.is/jGzeL' ]
  - [ 'twitter.com/bitchute/status/1329318510674132995', 'https://archive.is/RC0y5' ]

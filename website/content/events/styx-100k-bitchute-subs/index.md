@@ -2,9 +2,9 @@
 title: Styx Becomes First to Reach 100,000 Subscribers on BitChute!
 date: 2020-10-16
 image: /img/people/styxhexenhammer666.jpg
-profiles: [ styxhexenhammer666 ]
 platforms: [ youtube ]
-tags: [  ]
+tags: [ alttech-growth ]
+profiles: [ styxhexenhammer666 ]
 sources:
  - [ 'BitChute "100,000 Bitchute Subscribers Achieved: Shouting Out Ten Other Creators" by Styxhexenhammer666 (16 Oct 2020)', 'https://www.bitchute.com/video/IqmKfZj9v00/' ]
  - [ 'Styx BitChute channel page archive', 'https://archive.is/lAAGP' ]
