@@ -33,7 +33,11 @@ While the site's ToS and Privacy Policy are absurdly long, there are two things 
 1. They offer a ["TL;DR"](https://locals.com/tldr) that attempts to summarize said absurdly long policies.
 2. Their [Community Guidelines](https://locals.com/community-guidelines) policy is relatively human readable and only takes a few minutes to read through entirely.
 
-https://www.bitchute.com/video/tlFsvbDEf1E/
+On October 19, 2020, author and media personality [Michael
+Malice](https://malice.locals.com/) explained to Locals.com founder Dave Rubin
+[why he prefers](https://www.bitchute.com/video/tlFsvbDEf1E/) Locals over
+Patreon:
+
 > I was on Patreon before, and here are the advantages I had with Locals. I do
 > not ever have to worry that I'm going to make a video or sent out a tweet and
 > have everything I've created vanished overnight. I don't have to worry about
