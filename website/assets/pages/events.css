@@ -14,11 +14,12 @@
 	padding-bottom: 1.75rem;
 	margin-bottom: 2.5rem;
 }
-.crux > header u {
+.crux > header h1:after {
+	content: attr(data-date);
 	color: var(--caption);
 	display: block;
+	font-size: 1.05rem;
 	margin-top: 1rem;
-	text-decoration: none;
 }
 .crux > article {
 	border-bottom: var(--border1);
