@@ -26,7 +26,7 @@
 		<p>
 			<b>Similar to:</b>
 			{{ range .Params.altfor }}
-				<a href="/{{ . }}/" class="chip {{ . }}">{{ . }}</a>
+				{{ partialCached "bigtech-chip" . . }}
 			{{ end }}
 		</p>
 
