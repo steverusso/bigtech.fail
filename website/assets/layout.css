@@ -30,15 +30,9 @@
 	.col, .grid > div {
 		padding: 0.75rem 0.25rem;
 	}
-	.hide-xs { display: none !important }
 }
 @media (min-width: 600px) {
 	.grid.sm-6 { --c: 6 }
-
-	.hide-sm-and-up { display: none !important }
-}
-@media (max-width: 949px) {
-	.hide-sm-and-down { display: none !important }
 }
 @media (min-width: 950px) {
 	.grid.md-4 { --c: 4 }
@@ -46,11 +40,6 @@
 	.col.md-6, .grid.md-6 { --c: 6 }
 	.col.md-7 { --c: 7 }
 	.grid.md-12 { --c: 12 }
-
-	.hide-md-and-up { display: none !important }
-}
-@media (max-width: 1249px) {
-	.hide-md-and-down { display: none !important }
 }
 @media (min-width: 1250px) {
 	.col.lg-4, .grid.lg-4 { --c: 4 }
