@@ -14,14 +14,10 @@
 </nav>
 
 <div class="hide-sm-and-up">
-	<input type="checkbox" id="toggleNav">
+	<input id="toggleNav" type="checkbox">
+	<label for="toggleNav"></label>
 
-	<label for="toggleNav">
-		<i></i>
-		<div class="overlay"></div>
-	</label>
-
-	<aside data-nav>
+	<aside>
 		<nav></nav>
 
 		{{ range $links }}

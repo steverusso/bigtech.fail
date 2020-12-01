@@ -89,19 +89,6 @@ tr:nth-child(odd) {
 	background-color: var(--cardBg);
 }
 
-.overlay {
-	background-color: rgba(34,34,34,0.6);
-	position: fixed;
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 100%;
-	opacity: 0;
-	transition: 0.3s cubic-bezier(0.25,0.75,0.5,1);
-	visibility: hidden;
-	z-index: -1;
-}
-
 .sources li {
 	font-size: 0.95rem;
 	margin-bottom: 0.5rem;
