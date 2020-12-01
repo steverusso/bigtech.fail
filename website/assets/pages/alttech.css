@@ -1,5 +1,7 @@
 .altt.cntr > header {
+	border-bottom: var(--border1);
 	margin-bottom: 2rem;
+	padding-bottom: 2rem;
 }
 .altt.cntr > header > div {
 	font-size: 0.9rem;
