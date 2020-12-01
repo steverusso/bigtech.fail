@@ -19,30 +19,26 @@ nav a {
 nav a:hover {
 	color: #888;
 }
-[for="toggleNav"] i {
-	padding: 0 1.25rem;
-	position: fixed;
-	top: 0; right: 0;
-	z-index: 10;
-}
-[for="toggleNav"] i:after {
+[for="toggleNav"]:after {
 	content: "☰";
 	color: #ddd;
-	font-style: normal;
 	font-size: 36px;
 	line-height: var(--navHeight);
+	padding: 0 1.25rem;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 10;
 }
-
-aside[data-nav] {
+[for="toggleNav"] + aside {
 	--asideW: 325px;
 	background: var(--navBg);
 	border-left: none;
 	box-shadow: none;
-	position: fixed;
 	top: 0;
 	z-index: 9 !important;
 }
-aside[data-nav] > a {
+[for="toggleNav"] + aside > a {
 	color: var(--navColor);
 	display: block;
 	text-align: right;

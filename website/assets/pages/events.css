@@ -86,12 +86,11 @@
 .profiles > div > div {
 	margin-bottom: 1rem;
 }
-
 @media (max-width: 1249px) {
 	#toggleInfo:checked ~ .row > .info {
 		transform: translateX(0);
 	}
-	#toggleInfo + label > .overlay {
+	#toggleInfo + label:before {
 		width: calc(100% - 400px);
 	}
 	#toggleInfo + label:after {

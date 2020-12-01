@@ -1,23 +1,35 @@
 input[id^="toggle"] {
 	display: none;
 }
-input[id^="toggle"] ~ label {
+label[for^="toggle"] {
 	cursor: pointer;
+}
+label[for^="toggle"]:before {
+	content: "";
+	background-color: rgba(34,34,34,0.6);
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	transition: 0.3s cubic-bezier(0.25,0.75,0.5,1);
+	visibility: hidden;
+	z-index: -1;
 }
 /* This is the toggle for opening / closing a side drawer. It's a label;
  * we want it to appear as a button. */
-input[id^="toggle"] ~ label:not([for="toggleNav"]) {
-	position: fixed;
-	bottom: 2rem;
-	right: 2rem;
-
+label[for^="toggle"]:not([for="toggleNav"]) {
 	background: #03A9F4;
 	border-radius: 50%;
 	box-shadow: 3px 3px 10px 4px var(--shadowColor);
 	padding: 0.85rem 0.9rem 0.9rem 0.85rem;
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
 	z-index: 3;
 }
-input[id^="toggle"] ~ label:not([for="toggleNav"]):after {
+label[for^="toggle"]:not([for="toggleNav"]):after {
 	content: "";
 	display: block;
 	width: 28px;
@@ -26,12 +38,12 @@ input[id^="toggle"] ~ label:not([for="toggleNav"]):after {
 input[id^="toggle"]:checked ~ aside {
 	transform: translateX(0);
 }
-input[id^="toggle"]:checked ~ label .overlay {
+input[id^="toggle"]:checked ~ label:before {
 	visibility: visible;
 	opacity: 1;
 	z-index: 5;
 }
-input[id^="toggle"] ~ label:not([for="toggleNav"]) .overlay {
+label[for^="toggle"]:not([for="toggleNav"]):before {
 	width: calc(100% - var(--asideW));
 	opacity: 0;
 }
@@ -97,7 +109,7 @@ aside > .content > section {
 }
 
 @media (min-width: 1250px) {
-	input[id^="toggle"] ~ label {
+	label[for^="toggle"] {
 		display: none;
 	}
 
