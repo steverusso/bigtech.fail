@@ -45,7 +45,7 @@ input[id^="toggle"]:checked ~ label:before {
 }
 label[for^="toggle"]:not([for="toggleNav"]):before {
 	width: calc(100% - var(--asideW));
-	opacity: 0;
+	opacity: 0 !important;
 }
 
 aside {
