@@ -1,4 +1,4 @@
-nav {
+nav, nav ~ aside:before {
 	background: var(--navBg);
 	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
 	display: flex;
@@ -19,7 +19,7 @@ nav a {
 nav a:hover {
 	color: #888;
 }
-[for="toggleNav"]:after {
+nav ~ label:after {
 	content: "☰";
 	color: #ddd;
 	font-size: 36px;
@@ -30,7 +30,7 @@ nav a:hover {
 	top: 0;
 	z-index: 10;
 }
-[for="toggleNav"] + aside {
+nav ~ aside {
 	--asideW: 325px;
 	background: var(--navBg);
 	border-left: none;
@@ -38,9 +38,22 @@ nav a:hover {
 	top: 0;
 	z-index: 9 !important;
 }
-[for="toggleNav"] + aside > a {
+nav ~ aside:before {
+	content: "";
+}
+nav ~ aside > a {
 	color: var(--navColor);
 	display: block;
 	text-align: right;
 	padding: 1.5rem;
+}
+@media (max-width: 599px) {
+	nav > a:not(:first-child) {
+		display: none;
+	}
+}
+@media (min-width: 600px) {
+	nav ~ label, nav ~ aside {
+		display: none;
+	}
 }
