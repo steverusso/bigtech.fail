@@ -6,8 +6,6 @@ socials:
   merch: merch
   subscribestar: substar
   bitchute: bitchute
-  brighteon: brighteon
-  lbry: '@lbry_user'
   minds: minds
   youtube: youtube
   twitter: twitter
