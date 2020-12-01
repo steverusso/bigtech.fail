@@ -6,22 +6,16 @@
 		<img src="/img/bigtechfail-{{ $img }}.png" height="36" width="auto" loading="lazy">
 	</a>
 
-	<div class="items hide-xs">
-		{{ range $links }}
-			<a href="{{ .href }}">{{ .text }}</a>
-		{{ end }}
-	</div>
+	{{ range $links }}
+		<a href="{{ .href }}">{{ .text }}</a>
+	{{ end }}
 </nav>
 
-<div class="hide-sm-and-up">
-	<input id="toggleNav" type="checkbox">
-	<label for="toggleNav"></label>
+<input id="toggleNav" type="checkbox">
+<label for="toggleNav"></label>
 
-	<aside>
-		<nav></nav>
-
-		{{ range $links }}
-			<a href="{{ .href }}">{{ .text }}</a>
-		{{ end }}
-	</aside>
-</div>
+<aside>
+	{{ range $links }}
+		<a href="{{ .href }}">{{ .text }}</a>
+	{{ end }}
+</aside>
