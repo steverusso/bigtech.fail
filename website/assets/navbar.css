@@ -2,7 +2,6 @@ nav, nav ~ aside:before {
 	background: var(--navBg);
 	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
 	display: flex;
-	justify-content: space-between;
 	height: var(--navHeight);
 	position: sticky;
 	top: 0;
@@ -15,6 +14,9 @@ nav a {
 	font-size: 0.925rem;
 	height: 100%;
 	padding: 0 1.25rem;
+}
+nav a:first-child {
+	margin-right: auto;
 }
 nav a:hover {
 	color: #888;
