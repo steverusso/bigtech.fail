@@ -1,21 +1,13 @@
-.platform.cntr {
-	width: 1300px;
-}
 .platform.cntr > header > h1 {
 	font-size: 3rem;
 }
-.platform.cntr > header + hr {
-	margin-bottom: 0;
+.platform.cntr > header {
+	border-bottom: var(--border1);
+	padding-bottom: 2rem;
 }
-
 .platform.cntr .content section h3 {
 	padding-left: 0.25rem;
 }
-.platform.cntr .content section table {
-	margin: 1.5rem 0 3rem;
-	width: 100%;
-}
-
 .no-writeup {
 	margin: 2rem 0;
 }
@@ -23,7 +15,6 @@
 	padding: 0 !important;
 	margin-bottom: 1.5rem;
 }
-
 @media (min-width: 1250px) {
 	.platform.cntr article {
 		padding-right: 3rem !important;
@@ -33,7 +24,3 @@
 		top: calc(var(--navHeight) + 1rem);
 	}
 }
-
-.banned { color: #f44336 }
-.suspended, .content-removed { color: #ff9800 }
-.walked-away { color: #43a047 }
