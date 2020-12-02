@@ -1,12 +1,23 @@
 {{ define "style" }}
-	{{ partialCached "css/inline" "pages/alttech.css" "alttech" }}
+<style>
+.cntr > header {
+	border-bottom: var(--border1);
+	padding-bottom: 2rem;
+}
+.cntr > header h1 {
+	margin-bottom: 0.75rem;
+}
+.cntr > header + p {
+	margin-bottom: 2rem;
+}
+</style>
 {{ end }}
 
 {{ define "main" }}
 	{{ $site := .Params.site }}
 	{{ $href := printf "https://%s" $site }}
 
-	<div class="cntr altt w900">
+	<div class="cntr w900">
 		<header>
 			<img src="/img/logos/{{ .Title | anchorize }}.png" width="96" height="96" loading="lazy">
 
