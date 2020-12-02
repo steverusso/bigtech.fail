@@ -27,13 +27,7 @@
 	<a class="profile card" href="{{ .RelPermalink }}">
 		<header>
 			<img src="{{ partialCached `profile-pic.html` . .Title }}" loading="lazy">
-
-			<div>
-				<h2>{{ .Title }}</h2>
-				{{ with .Params.aka }}<p>{{ . }}</p>{{ end }}
-			</div>
-
-			<u>&#10132;</u>
+			<h2 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ .Title }}</h2>
 		</header>
 
 		<p>{{ .Summary | truncate 80 }}</p>
