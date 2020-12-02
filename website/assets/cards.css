@@ -56,7 +56,9 @@ a.card:hover:after, .chip:hover:after {
 .event.card {
 	--imgSize: 92px;
 }
-.event.card header h2 {
+.event.card h2:before {
+	content: attr(data-t);
+	color: var(--articleBold);
 	display: -webkit-box;
 	font-size: 1.15rem;
 	line-height: 1.4;
@@ -65,10 +67,9 @@ a.card:hover:after, .chip:hover:after {
 	-webkit-box-orient: vertical;
 	-webkit-line-clamp: 2
 }
-.event.card header u {
-	color: #8f8f8f;
+.event.card h2 {
+	color: var(--caption);
 	font-size: 0.9rem;
-	text-decoration: none;
 }
 
 .profile.card {
