@@ -17,7 +17,7 @@
 		</div>
 
 		<div class="links">
-			{{ range $name := slice "Twitter" "YouTube" "Facebook" "Patreon" "Reddit" "Google" "Apple" "Instagram" "Amazon" }}
+			{{ range $name := slice "Twitter" "YouTube" "Facebook" "Patreon" "Reddit" "Google" "Apple" "Instagram" "Amazon" "Mailchimp" }}
 				{{ $slug := $name | anchorize }}
 				{{ $img := $slug | printf "/img/logos/%s.png" }}
 
