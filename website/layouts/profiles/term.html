@@ -1,5 +1,9 @@
 {{ define "style" }}
 <style>
+.prof.cntr [data-aka]:after {
+	font-size: 0.95rem;
+	margin: 0.75rem 0 0 0;
+}
 .prof.cntr section {
 	display: flex;
 	flex-flow: row wrap;
@@ -19,14 +23,7 @@
 	<div class="cntr prof w900">
 		<header>
 			<img src="{{ $img }}" width="120" height="120" loading="lazy">
-
-			<div>
-				<h1>{{ $name }}</h1>
-
-				{{ with .Param "aka" }}
-					<p class="caption">{{ . }}</p>
-				{{ end }}
-			</div>
+			<h1 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ $name }}</h1>
 		</header>
 
 		{{ partialCached "profile-links.html" .Params.socials $name }}

@@ -75,17 +75,13 @@ a.card:hover:after, .chip:hover:after {
 	--imgSize: 48px;
 	border-radius: var(--radius) var(--radius) 0 0;
 }
-.profile.card > header u {
+.profile.card header:after {
+	content: "\2794";
 	color: var(--caption);
 	font-size: 1.5rem;
 	position: absolute;
 	top: 0.5rem; right: 0.75rem;
 	text-decoration: none;
-}
-.profile.card > header p {
-	color: var(--caption);
-	font-size: 0.85rem;
-	margin: 0.33rem 0 0 0;
 }
 .profile.card > p {
 	font-size: 85%;
