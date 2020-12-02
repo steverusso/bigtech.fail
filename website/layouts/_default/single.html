@@ -2,13 +2,11 @@
 	<div class="cntr w900">
 		<header>
 			{{ with .Param "img" }}
-				<img src="{{ . }}" width="80" height="80" loading="lazy">
+				<img src="{{ . }}" width="64" height="64" loading="lazy">
 			{{ end }}
 
 			<h1>{{ .Title }}</h1>
 		</header>
-
-		<hr>
 
 		<div class="caption mb-8">
 			{{ with .Date }}

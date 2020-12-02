@@ -23,18 +23,15 @@
 			<div>
 				<h1>{{ $name }}</h1>
 
-				{{ with .Params.aka }}
+				{{ with .Param "aka" }}
 					<p class="caption">{{ . }}</p>
 				{{ end }}
 			</div>
 		</header>
 
-		<hr>
-
 		{{ partialCached "profile-links.html" .Params.socials $name }}
 
 		<article>{{ .Content }}</article>
-
 		<hr>
 
 		<div class="condensed">

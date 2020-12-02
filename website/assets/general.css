@@ -41,7 +41,12 @@ header {
 	align-items: center;
 }
 header img {
-	margin-right: 2rem;
+	margin-right: 1.5rem;
+}
+.cntr > header:first-child {
+	border-bottom: var(--border1);
+	margin-bottom: 1rem;
+	padding-bottom: 1.5rem;
 }
 header h1 {
 	margin: 0;
