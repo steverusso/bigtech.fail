@@ -38,14 +38,6 @@
 	border-left: var(--border1);
 	padding: 0;
 }
-.info > header {
-	background: var(--cardTitleBg);
-	border-bottom: var(--border1);
-	color: var(--para);
-	font-size: 1.5rem;
-	margin-bottom: 0.5rem;
-	padding: 1.25rem 0.75rem;
-}
 .info > section {
 	overflow-y: auto;
 	padding: 0.75rem;
@@ -86,16 +78,22 @@
 .profiles > div > div {
 	margin-bottom: 1rem;
 }
+#toggleInfo + label:before {
+	width: calc(100% - 400px);
+}
+#toggleInfo + label:after {
+	content: "\1F880";
+	color: white;
+	font-size: 36px;
+	line-height: var(--size);
+}
+#toggleInfo:checked ~ .row > .info {
+	transform: translateX(0);
+}
+#toggleInfo:checked + label:after {
+	content: "\1F882";
+}
 @media (max-width: 1249px) {
-	#toggleInfo:checked ~ .row > .info {
-		transform: translateX(0);
-	}
-	#toggleInfo + label:before {
-		width: calc(100% - 400px);
-	}
-	#toggleInfo + label:after {
-		background: no-repeat center/100% url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAb1BMVEUAAAD+///8/f78/f7////+///+///8/f72+fv9/f7q8Pb9/f79/f7+/v/4+vz6/P38/f39/v78/f77/P37/P35+/z////5+/z+/v/+/v/8/f7+/v/8/f76+/35+/z+/v/9/f79/f77/P319/r///8zIQB3AAAAJHRSTlMAzDY64ZruThyfBbGvZSkiyZR2Vy4K5RPb9NWIXD4U8be0RROo76PuAAABmElEQVRYw92X2XLCMAxFa+otC6YJgbB30/9/Y2lGjAeQnUSavvQ+InTAWmzp5e/kXWsqdVVlWudnOpfOaLiTNq6c7B4aC4RsEya5dzUkVXWj7n0BWRWXvP/awojsOuO+KWCCik0ycQomSSWSutIwUXpF+m/hWXul9sTHW4Lgid9/X5bXojoRZO2f4qeIgIc0Wz1Gkor/6WZ0VC4e8k8dNJqp8NzVw4Wqn89o/6Aqqh85ANTRXkH+EB1Q2sUv0BUSOyvRf183+xkg+xfDSMF974BWQEADKcL517xI+UOD95fN9I0xKtPaJZYJW24AGD7AYI7Y0kOrgEA+G4LjEnXMBqFNWl9fUAtIqcUYMgAxipUEUF2tSgJQ/wMgDKI8jfJCchKAw2ZiAzy2MxegB7PhA8xgdnyAw0uVC7AlXutcQIP2wAWE+LSxAHV8XHmAjn7eacDIjNLb+QDbEyPOHMDDyFvMBRTEmDcHoDbEoDkDoP2UUffwhjoQo65w2JaO+9KFQ7jyCJeuXrT21Z1w8RSuvtzlu84t33L9AJTpah8YI+UXAAAAAElFTkSuQmCC');
-	}
 	.info {
 		background: var(--bodyBg);
 		box-shadow: 0 0 transparent, -15px 0 20px 0 var(--shadowColor);
@@ -113,6 +111,16 @@
 		transition: transform 0.35s;
 		transform: translateX(110%);
 		z-index: 2 !important;
+	}
+	.info:before {
+		content: "Event Info";
+		background: var(--cardTitleBg);
+		border-bottom: var(--border1);
+		color: var(--para);
+		display: flex;
+		font-size: 1.5rem;
+		margin-bottom: 0.5rem;
+		padding: 1.25rem 0.75rem;
 	}
 	.info > section {
 		padding-bottom: 11rem;

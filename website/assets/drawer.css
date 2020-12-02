@@ -23,17 +23,18 @@ label[for^="toggle"]:not([for="toggleNav"]) {
 	background: #03A9F4;
 	border-radius: 50%;
 	box-shadow: 3px 3px 10px 4px var(--shadowColor);
-	padding: 0.85rem 0.9rem 0.9rem 0.85rem;
+	padding: 0.9rem;
 	position: fixed;
 	bottom: 2rem;
 	right: 2rem;
 	z-index: 3;
 }
 label[for^="toggle"]:not([for="toggleNav"]):after {
+	--size: 28px;
 	content: "";
 	display: block;
-	width: 28px;
-	height: 28px;
+	width: var(--size);
+	height: var(--size);
 }
 input[id^="toggle"]:checked ~ aside {
 	transform: translateX(0);
