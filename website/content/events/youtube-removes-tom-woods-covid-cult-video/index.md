@@ -1,0 +1,32 @@
+---
+title: YouTube Restricts The Mises Institute
+date: 2020-11-24
+image: /img/logos/mises-institute.png
+platforms: [ youtube ]
+tags: [ restricted, content-removed, covid ]
+profiles: [  ]
+sources:
+ - [ 'twitter.com/mises/status/1331451565438283776', 'https://archive.is/d4btP' ]
+ - [ 'twitter.com/jeffdeist/status/1331605670949507072', 'https://archive.is/rVvHc' ]
+ - [ 'twitter.com/ThomasEWoods/status/1331418661014429697', 'https://archive.is/bYRsr' ]
+ - [ 'twitter.com/ThomasEWoods/status/1331443357604864001', 'https://archive.is/aWcrK' ]
+ - [ 'twitter.com/mises/status/1331649199721615363', 'https://archive.is/JEKSZ' ]
+ - [ 'Mises Institute "YouTube Attempts to Silence the Mises Institute" by Jeff Deist (25 Nov 2020)', 'https://mises.org/power-market/youtube-attempts-silence-mises-institute' ]
+---
+
+[YouTube](/youtube/) removed a video from [_The Mises
+Institute_](https://mises.org/), a non-profit that promotes Austrian economics
+and freedom. The video, titled _The Covid Cult | Thomas E. Woods, Jr._,
+accumulated **1.5 million views** before YouTube [removed it](notice.jpg)
+without the possibility to appeal the decision.
+
+> My video "The COVID Cult," viewed nearly 1.5 million times, has been removed
+> from @YouTube for violating its terms of service. Apparently its terms of
+> service include requiring people to cheer for lockdowns, which are a
+> brilliant idea and have no side effects
+>
+> -- Tom Woods (@ThomasEWoods) [25 Nov 2020](https://archive.is/bYRsr)
+
+The video is still available in full [on
+BitChute](https://www.bitchute.com/video/mcm8Sc8f66o/) and [on
+Odysee](https://odysee.com/@mises:1/the-covid-cult-thomas-e-woods-jr:e).
