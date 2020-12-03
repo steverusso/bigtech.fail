@@ -1,7 +1,6 @@
 ---
 title: RedPill78
 socials:
-  website: redpill78.tv
   merch: teespring.com/stores/redpill78
   subscribestar: redpill78
   lbry: '@RedPill78:e'
@@ -10,7 +9,6 @@ socials:
   rumble: c/c-294651
   dlive: redpill78
   gab: redpill78
-  twitter: RedPill78
   parler: profile/Redpill78/posts
 ---
 
