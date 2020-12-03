@@ -3,20 +3,6 @@ title: Parler
 site: www.parler.com
 summary: Parler is a social networking and microblogging service.
 altfor: [ facebook, twitter ]
-legal:
-  tos:
-    name: User Agreement
-    url: http://legal.parler.com/documents/useragreement.pdf
-    wc: 2242
-    asof: 2020-07-01
-  privacy:
-    url: https://legal.parler.com/documents/privacypolicy.pdf
-    wc: 1934
-    asof: 2020-07-01
-  commguides:
-    url: https://legal.parler.com/documents/guidelines.pdf
-    wc: 1556
-    asof: 2020-07-01
 weight: 2
 ---
 

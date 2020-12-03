@@ -3,19 +3,6 @@ weight: 1
 title: SubscribeStar
 site: www.subscribestar.com
 altfor: [ patreon ]
-legal:
-  tos:
-    url: https://www.subscribestar.com/tos
-    wc: 6731
-    asof: 2019-10-18
-  privacy:
-    url: https://www.subscribestar.com/privacy
-    wc: 1237
-    asof: 2019-01-14
-  commguides:
-    url: https://www.subscribestar.com/guidelines
-    wc: 502
-    asof: 2020-01-13
 ---
 
 SubscribeStar is perhaps the most popular alternative for Patreon.
