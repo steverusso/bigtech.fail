@@ -4,20 +4,6 @@ title: Thinkspot
 site: www.thinkspot.com
 altfor: [ patreon ]
 summary: Thinkspot describes itself as an intellectual playground for censorship-free discourse.
-legal:
-  tos:
-    name: Terms of Use
-    url: https://www.thinkspot.com/home/tou
-    wc: 1918
-    asof: 2020-04-24
-  privacy:
-    url: https://www.thinkspot.com/home/privacy_policy
-    wc: 1723
-    asof: 2020-04-24
-  commguides:
-    url: https://www.thinkspot.com/home/community_guideline
-    wc: 1633
-    asof: 2020-04-24
 ---
 
 :locked: **Thinkspot is currently in closed beta.** :locked:

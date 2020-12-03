@@ -3,15 +3,6 @@ title: Minds
 site: www.minds.com
 summary: Minds is a relatively decentralized social media platform that supports free speech.
 altfor: [ facebook, instagram, twitter ]
-legal:
-  tos:
-    url: https://www.minds.com/p/terms
-    wc: 8166
-    asof: 2020-06-08
-  privacy:
-    url: https://www.minds.com/p/privacy
-    wc: 2820
-    asof: 2020-06-08
 weight: 1
 ---
 

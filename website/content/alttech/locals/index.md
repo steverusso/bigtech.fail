@@ -4,19 +4,6 @@ title: Locals
 site: locals.com
 summary: Locals is a subscription-based community solution that gives power to creators.
 altfor: [ patreon ]
-legal:
-  tos:
-    url: https://locals.com/terms
-    wc: 7583
-    asof: 2020-04-24
-  privacy:
-    url: https://locals.com/privacy
-    wc: 3878
-    asof: 2020-04-24
-  commguides:
-    url: https://locals.com/community-guidelines
-    wc: 847
-    asof: 2020-04-24
 ---
 
 Locals is _"a subscription-based community solution that gives power to creators, not platforms."_
