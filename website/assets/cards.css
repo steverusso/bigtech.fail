@@ -54,21 +54,26 @@ a.card:hover:after, .chip:hover:after {
 }
 
 .event.card {
-	--imgSize: 92px;
+	--imgSize: 80px;
+}
+.event.card header {
+	padding: 0.5rem;
 }
 .event.card h2:before {
 	content: attr(data-t);
 	color: var(--articleBold);
 	display: -webkit-box;
-	font-size: 1.15rem;
+	font-size: 1.1rem;
 	line-height: 1.4;
-	margin-bottom: 0.75rem;
+	margin-bottom: 0.5rem;
 	overflow: hidden;
 	-webkit-box-orient: vertical;
 	-webkit-line-clamp: 2
 }
 .event.card h2 {
 	color: var(--caption);
+}
+.event.card h2, .event.card p {
 	font-size: 0.9rem;
 }
 
