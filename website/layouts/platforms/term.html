@@ -1,54 +1,49 @@
 {{ define "style" }}
-	{{ partialCached "css/inline" "pages/platforms.css" "platforms" }}
+<style>
+aside:empty {
+	display: none;
+}
+main {
+	justify-content: center;
+}
+</style>
 {{ end }}
 
 {{ define "main" }}
 	{{ $slug := .Title | anchorize }}
 	{{ $img := $slug | printf "/img/logos/%s.png" }}
-	{{ $alts := index .Site.Taxonomies.altfor $slug }}
 
-	<div class="platform cntr">
-		<header>
-			<img src="{{ $img }}" width="64" height="64" loading="lazy">
-			<h1>{{ .Title | title }}</h1>
-		</header>
+	<input id="sbToggle" type="checkbox">
+	<label for="sbToggle"></label>
 
-		{{ if .Content | ne "" }}
-			<div class="row content">
-				<!-- The summary article on the platform. -->
-				<article class="col md-7 lg-8">{{ .Content }}</article>
+	<main>
+		<section>
+			<header>
+				<img src="{{ $img }}" width="64" height="64" loading="lazy">
+				<h1>{{ .Title | title }}</h1>
+			</header>
 
-				<!-- The alternatives. This appears as a sidebar on larger screens. -->
-				<div class="col md-5 lg-4">
-					<div class="alts-wrap">
-						{{ with $alts }}
-							<h3 data-count="{{ len . }}">Alternative Platforms</h3>
+			{{ with .Content }}
+				<article>{{ . }}</article>
+			{{ end }}
 
-							<div class="grid sm-6 md-12 alts">
-								{{ range . }}
-									<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
-								{{ end }}
-							</div>
-						{{ end }}
-					</div>
-				</div>
-			</div>
-		{{ else }}
-			<div class="no-writeup">
-				{{ with $alts }}
-					<h3 data-count="{{ len . }}">Alternative Platforms</h3>
+			<h1 data-count="{{ len .Pages }}">Events</h1>
+			<hr>
+			{{ partial "timeline" .Pages }}
+		</section>
 
-					<div class="grid sm-6 md-4 alts">
+		<aside>
+			{{ with (index .Site.Taxonomies.altfor $slug) }}
+				<div data-stuff>
+					<div>
+						<h3>Alternative Platforms</h3>
+
 						{{ range . }}
 							<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
 						{{ end }}
 					</div>
-				{{ end }}
-			</div>
-		{{ end }}
-
-		<h1 data-count="{{ len .Pages }}">Events</h1>
-		<hr>
-		{{ partial "timeline" .Pages }}
-	</div>
+				</div>
+			{{ end }}
+		</aside>
+	</main>
 {{ end }}
