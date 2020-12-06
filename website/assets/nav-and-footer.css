@@ -1,3 +1,12 @@
+nav a, footer a {
+	color: var(--navColor);
+	align-items: center;
+	font-size: 0.95rem;
+}
+nav a:hover, footer a:hover {
+	color: #888;
+}
+
 #tn {
 	display: none;
 }
@@ -11,18 +20,12 @@ nav, #tn + label + div:before {
 	z-index: 4;
 }
 nav a {
-	color: var(--navColor);
 	display: inline-flex;
-	align-items: center;
-	font-size: 0.925rem;
 	height: 100%;
 	padding: 0 1.25rem;
 }
 nav a:first-child {
 	margin-right: auto;
-}
-nav a:hover {
-	color: #888;
 }
 #tn + label:before {
 	background-color: rgba(34,34,34,0.6);
@@ -84,4 +87,34 @@ nav a:hover {
 	#tn + label, #tn + label + div {
 		display: none;
 	}
+}
+
+footer {
+	background: var(--navBg);
+	border-top: var(--border1);
+	padding-bottom: 2rem;
+}
+footer .cntr {
+	border-bottom: var(--border1);
+	display: flex;
+	justify-content: space-evenly;
+	flex-flow: row wrap;
+	padding: 2.5rem 0.5rem 1.5rem;
+	margin-bottom: 2rem;
+}
+footer .cntr > div {
+	margin: 0 1rem 2rem;
+}
+footer h3 {
+	text-decoration: underline;
+}
+footer a {
+	display: flex;
+	margin: 1rem 0 0 0.5rem;
+}
+footer a > img {
+	margin-right: 0.75rem;
+}
+footer > img:last-child {
+	margin: auto;
 }
