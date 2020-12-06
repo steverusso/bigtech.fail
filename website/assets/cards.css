@@ -80,14 +80,6 @@ a.card:hover:after, .chip:hover:after {
 .profile.card {
 	border-radius: var(--radius) var(--radius) 0 0;
 }
-.profile.card header:after {
-	content: "\2794";
-	color: var(--caption);
-	font-size: 1.5rem;
-	position: absolute;
-	top: 0.5rem;
-	right: 0.75rem;
-}
 .profile.card > p {
 	font-size: 85%;
 }
@@ -128,10 +120,14 @@ a.card:hover:after, .chip:hover:after {
 	width: 40px !important;
 	height: 40px !important;
 }
-.tag.card > u {
+.tag.card > :last-child:not([data-count]):after {
+	content: "\2794";
 	color: var(--caption);
 	position: absolute;
-	right: 0;
+	right: 0.75rem;
+}
+.tag.card > u {
+	padding: 0;
 	text-decoration: none;
 }
 .tag.card div[data-count] {
@@ -147,4 +143,14 @@ a.card:hover:after, .chip:hover:after {
 	background: var(--bodyBg);
 	color: var(--articleBold);
 	margin: 0;
+}
+
+.alttech.card header:after,
+.profile.card header:after {
+	content: "\2794";
+	color: var(--caption);
+	font-size: 1.4rem;
+	position: absolute;
+	top: 0.5rem;
+	right: 0.75rem;
 }

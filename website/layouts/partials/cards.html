@@ -65,9 +65,7 @@
 				<img src="{{ . }}" loading="lazy">
 			{{ end }}
 
-			{{ .LinkTitle | default ($ | title) }}
-
-			<u>&#10132;</u>
+			<u>{{ .LinkTitle | default ($ | title) }}</u>
 		</a>
 	{{ end }}
 {{ end }}
