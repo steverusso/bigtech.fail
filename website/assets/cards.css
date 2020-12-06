@@ -1,6 +1,6 @@
 .card {
 	--radius: 4px;
-	--imgSize: 64px;
+	--imgSize: 48px;
 	background: var(--cardBg);
 	border: var(--border1);
 	border-radius: var(--radius);
@@ -78,7 +78,6 @@ a.card:hover:after, .chip:hover:after {
 }
 
 .profile.card {
-	--imgSize: 48px;
 	border-radius: var(--radius) var(--radius) 0 0;
 }
 .profile.card header:after {
