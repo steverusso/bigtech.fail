@@ -81,13 +81,13 @@ a.card:hover:after, .chip:hover:after {
 	color: var(--caption);
 	font-size: 1.5rem;
 	position: absolute;
-	top: 0.5rem; right: 0.75rem;
-	text-decoration: none;
+	top: 0.5rem;
+	right: 0.75rem;
 }
 .profile.card > p {
 	font-size: 85%;
 }
-.profile.card + section {
+.profile.card + div {
 	background: var(--cardTitleBg);
 	border: var(--border1);
 	border-top: 1px solid transparent;
@@ -97,14 +97,14 @@ a.card:hover:after, .chip:hover:after {
 	flex-flow: row wrap;
 	align-items: center;
 }
-.profile.card + section a {
+.profile.card + div a {
 	padding: 0.5rem;
 	border-radius: 50%;
 }
-.profile.card + section a:hover {
+.profile.card + div a:hover {
 	background: var(--shadowColor);
 }
-.profile.card + section a img {
+.profile.card + div a img {
 	width: 24px !important;
 	height: 24px !important;
 }
