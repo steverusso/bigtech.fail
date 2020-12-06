@@ -1,7 +1,7 @@
 .platform.cntr > header > h1 {
 	font-size: 3rem;
 }
-.platform.cntr .content section h3 {
+.platform.cntr .content > div h3 {
 	padding-left: 0.25rem;
 }
 .no-writeup {

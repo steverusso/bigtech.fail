@@ -19,7 +19,7 @@
 				<article class="col md-7 lg-8">{{ .Content }}</article>
 
 				<!-- The alternatives. This appears as a sidebar on larger screens. -->
-				<section class="col md-5 lg-4">
+				<div class="col md-5 lg-4">
 					<div class="alts-wrap">
 						{{ with $alts }}
 							<h3 data-count="{{ len . }}">Alternative Platforms</h3>
@@ -31,7 +31,7 @@
 							</div>
 						{{ end }}
 					</div>
-				</section>
+				</div>
 			</div>
 		{{ else }}
 			<div class="no-writeup">
