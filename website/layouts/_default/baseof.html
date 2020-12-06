@@ -22,9 +22,7 @@
 	<body>
 		{{ partialCached "navbar.html" . .IsHome }}
 
-		<main>
-			{{ block "main" . }} {{ end }}
-		</main>
+		{{ block "main" . }} {{ end }}
 
 		{{ partialCached "footer.html" . }}
 	</body>
