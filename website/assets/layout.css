@@ -1,11 +1,11 @@
-.cntr {
+.cntr, main {
 	width: 1200px;
 	margin: auto;
 	padding: 1.5rem;
 	max-width: 100% !important;
 }
 @media (max-width: 500px) {
-	.cntr {
+	.cntr, main {
 		padding: 1rem;
 	}
 }
@@ -13,14 +13,14 @@
 	width: 900px;
 }
 
-.row, .grid {
+.row, .grid, #sbToggle ~ main {
 	display: flex;
 	flex-flow: row wrap;
 }
 .col, .grid {
 	--c: 12 /* columns */
 }
-.col, .grid > div {
+.col, .grid > div, section, aside {
 	flex: 0 1 auto;
 	padding: 0.75rem;
 	width: calc(100% / calc(12 / var(--c)));

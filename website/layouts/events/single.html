@@ -48,44 +48,42 @@
 {{ end }}
 
 {{ define "main" }}
-	<div class="event cntr">
-		<input id="toggleInfo" type="checkbox">
-		<label for="toggleInfo"></label>
+	<input id="sbToggle" type="checkbox">
+	<label for="sbToggle"></label>
 
-		<div class="row">
-			<div class="crux col lg-8">
-				<header>
-					<img src="{{ .Params.image }}" width="128" height="128" loading="lazy">
-					<h1 data-date="{{ .Date.Format `2 Jan 2006` }}">{{ .Title }}</h1>
-				</header>
+	<main>
+		<section>
+			<header>
+				<img src="{{ .Params.image }}" width="128" height="128" loading="lazy">
+				<h1 data-date="{{ .Date.Format `2 Jan 2006` }}">{{ .Title }}</h1>
+			</header>
 
-				<article>{{ .Content }}</article>
+			<article>{{ .Content }}</article>
 
-				<h3>Sources:</h3>
-				<ol class="sources">
-					{{ range .Params.sources }}
-						{{ $href := index . 1 }}
-						{{ $text := index . 0 | default $href }}
-						<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
-					{{ end }}
-				</ol>
+			<h3>Sources:</h3>
+			<ol class="sources">
+				{{ range .Params.sources }}
+					{{ $href := index . 1 }}
+					{{ $text := index . 0 | default $href }}
+					<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
+				{{ end }}
+			</ol>
+		</section>
+
+		<aside>
+			<div data-stuff>
+				{{ with .Params.platforms }}
+					{{ partialCached "event-platforms" . . }}
+				{{ end }}
+
+				{{ with .Params.tags }}
+					{{ partialCached "event-tags" . . }}
+				{{ end }}
+
+				{{ with .Params.profiles }}
+					{{ partialCached "event-profiles" . . }}
+				{{ end }}
 			</div>
-
-			<div class="info col lg-4">
-				<section>
-					{{ with .Params.platforms }}
-						{{ partialCached "event-platforms" . . }}
-					{{ end }}
-
-					{{ with .Params.tags }}
-						{{ partialCached "event-tags" . . }}
-					{{ end }}
-
-					{{ with .Params.profiles }}
-						{{ partialCached "event-profiles" . . }}
-					{{ end }}
-				</section>
-			</div>
-		</div>
-	</div>
+		</aside>
+	</main>
 {{ end }}

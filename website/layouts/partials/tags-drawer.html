@@ -1,24 +1,17 @@
-<input id="toggleEvtTags" type="checkbox">
-<label for="toggleEvtTags"></label>
+<div class="tags">
+	<h3>Other Tags:</h3>
 
-<aside class="tags">
-	<div class="content">
-		<header>Tags</header>
+	{{ range site.Taxonomies.tags.ByCount }}
+		<div>
+			<a class="tag card" href="{{ .Page.RelPermalink }}">
+				{{ with .Page.Params.image }}
+					<img src="{{ . }}" loading="lazy">
+				{{ end }}
 
-		<section>
-			{{ range site.Taxonomies.tags.ByCount }}
-				<div>
-					<a class="tag card" href="{{ .Page.RelPermalink }}">
-						{{ with .Page.Params.image }}
-							<img src="{{ . }}" loading="lazy">
-						{{ end }}
-
-						<div data-count="{{ len .Page.Pages }}">
-							{{ .Page.LinkTitle | default (.Term | title) }}
-						</div>
-					</a>
+				<div data-count="{{ len .Page.Pages }}">
+					{{ .Page.LinkTitle | default (.Term | title) }}
 				</div>
-			{{ end }}
-		</section>
-	</div>
-</aside>
+			</a>
+		</div>
+	{{ end }}
+</div>

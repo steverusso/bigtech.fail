@@ -9,7 +9,7 @@
 			<h2 data-t="{{ .Title }}">{{ .Date.Format `2 Jan 2006` }}</h2>
 		</header>
 
-		<p>{{ .Summary | truncate 90 }}</p>
+		<p>{{ .Summary | truncate 80 }}</p>
 	</a>
 {{ end }}
 

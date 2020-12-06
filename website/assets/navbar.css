@@ -1,4 +1,7 @@
-nav, nav ~ aside:before {
+#tn {
+	display: none;
+}
+nav, #tn + label + div:before {
 	background: var(--navBg);
 	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
 	display: flex;
@@ -21,7 +24,15 @@ nav a:first-child {
 nav a:hover {
 	color: #888;
 }
-nav ~ label:after {
+#tn + label:before {
+	background-color: rgba(34,34,34,0.6);
+}
+#tn:checked + label:before {
+	opacity: 1;
+	visibility: visible;
+	z-index: 5;
+}
+#tn + label:after {
 	content: "☰";
 	color: #ddd;
 	font-size: 36px;
@@ -32,18 +43,30 @@ nav ~ label:after {
 	top: 0;
 	z-index: 10;
 }
-nav ~ aside {
-	--asideW: 325px;
+#tn + label + div {
 	background: var(--navBg);
 	border-left: none;
 	box-shadow: none;
+
+	width: 325px;
+	max-width: 100%;
+	height: 100%;
+	max-height: 100%;
+	overflow-y: auto;
+	overflow-x: hidden;
+
+	transition: transform 0.35s;
+	transform: translateX(110%);
+
+	position: fixed;
+	right: 0;
 	top: 0;
 	z-index: 9 !important;
 }
-nav ~ aside:before {
+#tn + label + div:before {
 	content: "";
 }
-nav ~ aside > a {
+#tn + label + div > a {
 	color: var(--navColor);
 	display: block;
 	text-align: right;
@@ -53,9 +76,12 @@ nav ~ aside > a {
 	nav > a:not(:first-child) {
 		display: none;
 	}
+	#tn:checked + label + div {
+		transform: translateX(0);
+	}
 }
 @media (min-width: 600px) {
-	nav ~ label, nav ~ aside {
+	#tn + label, #tn + label + div {
 		display: none;
 	}
 }

@@ -1,72 +1,27 @@
-.event.cntr {
-	width: 1400px;
-}
-.event.cntr > .row {
-	justify-content: center;
-}
-@media (min-width: 900px) and (max-width:1249px) {
-	.event.cntr {
-		width: 900px;
+@media (min-width: 850px) and (max-width:1249px) {
+	main {
+		width: 850px !important;
 	}
 }
-.crux > header {
-	border-bottom: var(--border1);
-	padding-bottom: 1.75rem;
-	margin-bottom: 2.5rem;
-}
-.crux > header h1:after {
+section > header h1:after {
 	content: attr(data-date);
 	color: var(--caption);
 	display: block;
 	font-size: 1.05rem;
 	margin-top: 1rem;
 }
-.crux > article {
+section > article {
 	border-bottom: var(--border1);
 	margin-bottom: 1.5rem;
 }
 @media (max-width: 450px) {
-	.crux > header {
+	section > header {
 		flex-direction: column;
 		text-align: center;
 	}
-	.crux > header h1 {
+	section > header h1 {
 		margin-top: 2rem;
 	}
-}
-.info {
-	border-left: var(--border1);
-	padding: 0;
-}
-.info > section {
-	overflow-y: auto;
-	padding: 0.75rem;
-}
-.info, .info > section {
-	scrollbar-width: none;
-}
-.info::-webkit-scrollbar, .info > section::-webkit-scrollbar {
-	width: 0 !important;
-}
-.info > section > hr {
-	margin: 2rem 0;
-}
-.info > section > div > h3 {
-	display: flex;
-	align-items: center;
-	font-size: 1.1rem;
-	margin-bottom: 0.5rem;
-}
-.info > section > div > h3:before {
-	content: "";
-	background: var(--caption);
-	display: inline-flex;
-	margin: 0 0.75rem 0 0.5rem;
-	width: 10px;
-	height: 10px;
-}
-.info > section > div > div {
-	padding: 0.4rem 0.75rem;
 }
 .platforms h3 {
 	margin-bottom: -0.25rem !important;
@@ -78,66 +33,8 @@
 .profiles > div > div {
 	margin-bottom: 1rem;
 }
-#toggleInfo + label:before {
-	width: calc(100% - 400px);
-}
-#toggleInfo + label:after {
-	content: "\1F880";
-	color: white;
-	font-size: 36px;
-	line-height: var(--size);
-}
-#toggleInfo:checked ~ .row > .info {
-	transform: translateX(0);
-}
-#toggleInfo:checked + label:after {
-	content: "\1F882";
-}
 @media (max-width: 1249px) {
-	.info {
-		background: var(--bodyBg);
-		box-shadow: 0 0 transparent, -15px 0 20px 0 var(--shadowColor);
-
-		position: fixed;
-		top: var(--navHeight);
-		right: 0;
-
-		width: 400px;
-		max-width: 100%;
-		height: 100%;
-		max-height: 100%;
-		overflow-y: auto;
-
-		transition: transform 0.35s;
-		transform: translateX(110%);
-		z-index: 2 !important;
-	}
-	.info:before {
+	aside:before {
 		content: "Event Info";
-		background: var(--cardTitleBg);
-		border-bottom: var(--border1);
-		color: var(--para);
-		display: flex;
-		font-size: 1.5rem;
-		margin-bottom: 0.5rem;
-		padding: 1.25rem 0.75rem;
-	}
-	.info > section {
-		padding-bottom: 11rem;
-		top: 0;
-	}
-}
-@media (min-width: 1250px) {
-	.crux {
-		padding-right: 2rem;
-	}
-	.info > section {
-		max-height: calc(100vh - calc(2 * var(--navHeight)));
-		position: -webkit-sticky;
-		position: sticky;
-		top: calc(var(--navHeight) + 0.5rem);
-	}
-	.info > header {
-		display: none;
 	}
 }
