@@ -63,7 +63,7 @@
 
 @media (min-width: 850px) {
 	:not(.condensed) > .timeline {
-		--dividerWidth: 80px;
+		--dividerWidth: 50px;
 		--contentWidth: calc(50% - calc(var(--dividerWidth) / 2));
 	}
 	:not(.condensed) > .timeline .item:nth-child(even) {

@@ -1,5 +1,5 @@
 {{ define "partials/css/global" }}
-	{{ $names := slice "config" "general" "layout" "button" "navbar" "drawer" "footer" "cards" "article" "timeline" }}
+	{{ $names := slice "config" "general" "layout" "button" "nav-and-footer" "drawer" "cards" "article" "timeline" }}
 	{{ $names := apply $names "printf" "%s.css" "." }}
 
 	<!-- Build a slice containing each stylesheet as a resource. -->
@@ -20,6 +20,6 @@
 {{ end }}
 
 {{ define "partials/css/events" }}
-	{{ $css := resources.Get "pages/events.css" | minify | fingerprint "sha512" }}
+	{{ $css := resources.Get "event-page.css" | minify | fingerprint "sha512" }}
 	<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ end }}

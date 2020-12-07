@@ -1,23 +1,21 @@
 <footer>
 	<div class="cntr">
-		<section>
-			{{ range site.Data.footerLinks }}
-				<div>
-					<h3>{{ .title }}</h3>
+		{{ range site.Data.footerLinks }}
+			<div>
+				<h3>{{ .title }}</h3>
 
-					{{ range .links }}
-						<a href="{{ .href }}">
-							{{ with .logo }}
-								<img src="{{ . }}" width="20" height="20" loading="lazy">
-							{{ end }}
+				{{ range .links }}
+					<a href="{{ .href }}">
+						{{ with .logo }}
+							<img src="{{ . }}" width="20" height="20" loading="lazy">
+						{{ end }}
 
-							{{ .text }}
-						</a>
-					{{ end }}
-				</div>
-			{{ end }}
-		</section>
-
-		<img src="/img/bigtechfail-long.png" height="36" width="auto" loading="lazy">
+						{{ .text }}
+					</a>
+				{{ end }}
+			</div>
+		{{ end }}
 	</div>
+
+	<img src="/img/bigtechfail-long.png" height="36" width="auto" loading="lazy">
 </footer>

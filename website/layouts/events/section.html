@@ -1,15 +1,22 @@
 {{ define "main" }}
-	<div class="cntr aside-parent tags-drawer-parent">
-		<main>
+	<input id="sbToggle" type="checkbox">
+	<label for="sbToggle"></label>
+
+	<main>
+		<section>
 			<h1 data-count="{{ len .Pages }}">Events</h1>
+			<hr>
 
 			<article>{{ .Content }}</article>
-
 			<hr>
 
 			{{ partial "timeline" .Pages }}
-		</main>
+		</section>
 
-		{{ partialCached "tags-drawer" . }}
-	</div>
+		<aside>
+			<div data-stuff>
+				{{ partialCached "tags-drawer" . }}
+			</div>
+		</aside>
+	</main>
 {{ end }}

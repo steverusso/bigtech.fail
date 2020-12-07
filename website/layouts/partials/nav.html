@@ -11,11 +11,11 @@
 	{{ end }}
 </nav>
 
-<input id="toggleNav" type="checkbox">
-<label for="toggleNav"></label>
+<input id="tn" type="checkbox">
+<label for="tn"></label>
 
-<aside>
+<div>
 	{{ range $links }}
 		<a href="{{ .href }}">{{ .text }}</a>
 	{{ end }}
-</aside>
+</div>

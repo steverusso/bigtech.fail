@@ -1,0 +1,120 @@
+nav a, footer a {
+	color: var(--navColor);
+	align-items: center;
+	font-size: 0.95rem;
+}
+nav a:hover, footer a:hover {
+	color: #888;
+}
+
+#tn {
+	display: none;
+}
+nav, #tn + label + div:before {
+	background: var(--navBg);
+	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
+	display: flex;
+	height: var(--navHeight);
+	position: sticky;
+	top: 0;
+	z-index: 4;
+}
+nav a {
+	display: inline-flex;
+	height: 100%;
+	padding: 0 1.25rem;
+}
+nav a:first-child {
+	margin-right: auto;
+}
+#tn + label:before {
+	background-color: rgba(34,34,34,0.6);
+}
+#tn:checked + label:before {
+	opacity: 1;
+	visibility: visible;
+	z-index: 5;
+}
+#tn + label:after {
+	content: "☰";
+	color: #ddd;
+	font-size: 36px;
+	line-height: var(--navHeight);
+	padding: 0 1.25rem;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 10;
+}
+#tn + label + div {
+	background: var(--navBg);
+	border-left: none;
+	box-shadow: none;
+
+	width: 325px;
+	max-width: 100%;
+	height: 100%;
+	max-height: 100%;
+	overflow-y: auto;
+	overflow-x: hidden;
+
+	transition: transform 0.35s;
+	transform: translateX(110%);
+
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 9 !important;
+}
+#tn + label + div:before {
+	content: "";
+}
+#tn + label + div > a {
+	color: var(--navColor);
+	display: block;
+	text-align: right;
+	padding: 1.5rem;
+}
+@media (max-width: 599px) {
+	nav > a:not(:first-child) {
+		display: none;
+	}
+	#tn:checked + label + div {
+		transform: translateX(0);
+	}
+}
+@media (min-width: 600px) {
+	#tn + label, #tn + label + div {
+		display: none;
+	}
+}
+
+footer {
+	background: var(--navBg);
+	border-top: var(--border1);
+	padding-bottom: 2rem;
+}
+footer .cntr {
+	border-bottom: var(--border1);
+	display: flex;
+	justify-content: space-evenly;
+	flex-flow: row wrap;
+	padding: 2.5rem 0.5rem 1.5rem;
+	margin-bottom: 2rem;
+}
+footer .cntr > div {
+	margin: 0 1rem 2rem;
+}
+footer h3 {
+	text-decoration: underline;
+}
+footer a {
+	display: flex;
+	margin: 1rem 0 0 0.5rem;
+}
+footer a > img {
+	margin-right: 0.75rem;
+}
+footer > img:last-child {
+	margin: auto;
+}

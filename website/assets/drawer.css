@@ -1,12 +1,11 @@
-input[id^="toggle"] {
+#sbToggle {
 	display: none;
 }
-label[for^="toggle"] {
+label {
 	cursor: pointer;
 }
-label[for^="toggle"]:before {
+label:before {
 	content: "";
-	background-color: rgba(34,34,34,0.6);
 	position: fixed;
 	left: 0;
 	top: 0;
@@ -19,7 +18,7 @@ label[for^="toggle"]:before {
 }
 /* This is the toggle for opening / closing a side drawer. It's a label;
  * we want it to appear as a button. */
-label[for^="toggle"]:not([for="toggleNav"]) {
+#sbToggle + label {
 	background: #03A9F4;
 	border-radius: 50%;
 	box-shadow: 3px 3px 10px 4px var(--shadowColor);
@@ -29,122 +28,124 @@ label[for^="toggle"]:not([for="toggleNav"]) {
 	right: 2rem;
 	z-index: 3;
 }
-label[for^="toggle"]:not([for="toggleNav"]):after {
+#sbToggle + label:after {
 	--size: 28px;
 	content: "";
 	display: block;
 	width: var(--size);
 	height: var(--size);
 }
-input[id^="toggle"]:checked ~ aside {
+#sbToggle + label:before {
+	width: calc(100% - 400px);
+}
+#sbToggle + label:after {
+	content: "\1F880";
+	color: white;
+	font-size: 36px;
+	line-height: var(--size);
+}
+#sbToggle:checked + label:after {
+	content: "\1F882";
+}
+#sbToggle:checked ~ main > aside {
 	transform: translateX(0);
 }
-input[id^="toggle"]:checked ~ label:before {
+#sbToggle:checked ~ label:before {
 	visibility: visible;
-	opacity: 1;
 	z-index: 5;
 }
-label[for^="toggle"]:not([for="toggleNav"]):before {
-	width: calc(100% - var(--asideW));
-	opacity: 0 !important;
+#sbToggle ~ main {
+	width: 1400px;
+}
+section > header {
+	border-bottom: var(--border1);
+	padding-bottom: 1.75rem;
+	margin-bottom: 2rem;
 }
 
 aside {
-	background: var(--bodyBg);
 	border-left: var(--border1);
-	box-shadow: 0 0 transparent, -15px 0 20px 0 var(--shadowColor);
-
-	position: fixed;
-	top: var(--navHeight);
-	right: 0;
-
-	width: var(--asideW);
 	max-width: 100%;
-	height: 100%;
-	max-height: 100%;
-	overflow-y: auto;
-	overflow-x: hidden;
-
+	padding: 0 !important;
 	transition: transform 0.35s;
-	transform: translateX(110%);
-	z-index: 2 !important;
 }
-
-aside > .content {
-	max-height: calc(100vh - var(--navHeight));
-	position: -webkit-sticky !important;
-	position: sticky !important;
+aside > [data-stuff] {
 	overflow-y: auto;
+	padding: 0 0.75rem;
+}
+aside, aside > [data-stuff] {
 	scrollbar-width: none;
 }
-aside > .content::-webkit-scrollbar {
+aside::-webkit-scrollbar, aside > [data-stuff]::-webkit-scrollbar {
 	width: 0 !important;
 }
-aside > .content > header {
-	background: var(--cardTitleBg);
-	border-bottom: var(--border1);
-	font-size: 1.3rem;
-	padding: 1.25rem 0.5rem;
+aside > [data-stuff] > hr {
+	margin: 2rem 0;
 }
-aside > .content > header:before {
+aside > [data-stuff] > div > h3 {
+	display: flex;
+	align-items: center;
+	font-size: 1.1rem;
+	margin-bottom: 0.5rem;
+}
+aside > [data-stuff] > div > h3:before {
 	content: "";
-	border-radius: 2px;
-	margin: 0 1rem 0 0.5rem;
-	width: 28px;
-	height: 28px;
+	background: var(--caption);
+	display: inline-flex;
+	margin: 0 0.75rem 0 0.5rem;
+	width: 10px;
+	height: 10px;
 }
-aside > .content > section {
-	padding-bottom: 7rem;
+aside > [data-stuff] > div > div {
+	padding: 0.4rem 0.75rem;
 }
-
-.aside-parent {
-	--asideW: 450px;
-	position: relative;
-	width: 100%;
+@media (max-width: 1249px) {
+	aside {
+		background: var(--bodyBg);
+		box-shadow: 0 0 transparent, -15px 0 20px 0 var(--shadowColor);
+		position: fixed;
+		top: var(--navHeight);
+		right: 0;
+		width: 400px !important;
+		height: 100%;
+		max-height: 100%;
+		overflow-y: auto;
+		transform: translateX(110%);
+		z-index: 2 !important;
+	}
+	aside:before {
+		background: var(--cardTitleBg);
+		border-bottom: var(--border1);
+		color: var(--para);
+		display: flex;
+		font-size: 1.5rem;
+		margin-bottom: 0.5rem;
+		padding: 1.25rem 0.75rem;
+	}
+	aside > [data-stuff] {
+		padding-bottom: 11rem;
+		top: 0;
+	}
 }
-.aside-parent > main {
-	--maxW: 900px;
-	max-width: var(--maxW) !important;
-	margin: auto;
-	padding: 0 1rem;
-}
-
 @media (min-width: 1250px) {
-	label[for^="toggle"] {
+	#sbToggle + label {
 		display: none;
 	}
-
 	aside {
-		position: absolute;
-		transform: translateX(0);
-		top: 0;
-		right: 0;
-		z-index: 3;
-		overflow: visible;
+		--c: 3.5;
 	}
-
-	aside > .content {
-		height: 100%;
-		top: var(--navHeight);
+	section {
+		--c: 8.5;
+		padding-right: 2rem !important;
 	}
-
-	.aside-parent {
-		padding-right: calc(var(--asideW) + 1.25rem);
+	aside > [data-stuff] {
+		--top: calc(var(--navHeight) + 1.5rem);
+		max-height: calc(100vh - calc(var(--top) + 1.5rem));
+		position: -webkit-sticky;
+		position: sticky;
+		top: var(--top);
 	}
-}
-
-.tags-drawer-parent {
-	--asideW: 375px;
-}
-.tags-drawer-parent > main {
-	--maxW: 1200px;
-}
-#toggleEvtTags + label:after {
-	background: no-repeat center/100% url('/img/icons/tags-white.png');
-}
-aside.tags > .content > header:before {
-	background: no-repeat center/100% url('/img/icons/tags.png');
-}
-aside.tags > .content > section > * {
-	margin: 1rem;
+	aside > header {
+		display: none;
+	}
 }
