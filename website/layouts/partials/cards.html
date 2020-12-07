@@ -4,10 +4,10 @@
 -->
 {{ define "partials/cards/event" }}
 	<a class="event card" href="{{ .RelPermalink }}" title="{{ .Title }}">
-		<header>
+		<div>
 			<img src="{{ .Params.image }}" loading="lazy">
 			<h2 data-t="{{ .Title }}">{{ .Date.Format `2 Jan 2006` }}</h2>
-		</header>
+		</div>
 
 		<p>{{ .Summary | truncate 80 }}</p>
 	</a>
@@ -21,10 +21,10 @@
 -->
 {{ define "partials/cards/profile" }}
 	<a class="profile card" href="{{ .RelPermalink }}">
-		<header>
+		<div>
 			<img src="{{ partialCached `profile-pic.html` . .Title }}" loading="lazy">
 			<h2 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ .Title }}</h2>
-		</header>
+		</div>
 
 		<p>{{ .Summary | truncate 80 }}</p>
 	</a>
@@ -34,10 +34,10 @@
 
 {{ define "partials/cards/alttech" }}
 	<a class="alttech card" href="{{ .RelPermalink }}">
-		<header>
+		<div>
 			<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
 			<h2>{{ .Title }}</h2>
-		</header>
+		</div>
 
 		<p>{{ .Summary | truncate 95 | plainify }}</p>
 	</a>
@@ -45,14 +45,14 @@
 
 {{ define "partials/cards/bigtech" }}
 	<a class="card" href="{{ .RelPermalink }}">
-		<header>
+		<div>
 			<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
 
 			<div>
 				<h2>{{ .Title }}</h2>
 				<i class="caption">{{ .Params.caption }}</i>
 			</div>
-		</header>
+		</div>
 
 		<p>{{ .Summary | truncate 125 | plainify | safeHTML }}</p>
 	</a>

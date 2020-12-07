@@ -31,10 +31,12 @@ a.card:hover:after, .chip:hover:after {
 }
 
 /* The first element of any card is its header / title area. */
-.card > header:first-child, .card > div:first-child {
+.card > div:first-child {
 	background: var(--cardTitleBg);
 	border-bottom: var(--border1);
 	border-radius: var(--radius) var(--radius) 0 0;
+	display: flex;
+	align-items: center;
 	padding: 0.75rem;
 }
 .card > :first-child img {
@@ -46,8 +48,8 @@ a.card:hover:after, .chip:hover:after {
 	font-size: 1.25rem;
 	margin: 0;
 }
-
-.card > :last-child:not(span) {
+.card > p {
+	font-size: 0.95rem;
 	line-height: 1.75;
 	margin: 0;
 	padding: 0.75rem;
@@ -56,7 +58,7 @@ a.card:hover:after, .chip:hover:after {
 .event.card {
 	--imgSize: 80px;
 }
-.event.card header {
+.event.card > div {
 	padding: 0.5rem;
 }
 .event.card h2:before {
@@ -72,16 +74,11 @@ a.card:hover:after, .chip:hover:after {
 }
 .event.card h2 {
 	color: var(--caption);
-}
-.event.card h2, .event.card p {
 	font-size: 0.9rem;
 }
 
 .profile.card {
 	border-radius: var(--radius) var(--radius) 0 0;
-}
-.profile.card > p {
-	font-size: 85%;
 }
 .profile.card + div {
 	background: var(--cardTitleBg);
@@ -127,6 +124,8 @@ a.card:hover:after, .chip:hover:after {
 	right: 0.75rem;
 }
 .tag.card > u {
+	display: flex;
+	align-items: center;
 	padding: 0;
 	text-decoration: none;
 }
@@ -145,8 +144,8 @@ a.card:hover:after, .chip:hover:after {
 	margin: 0;
 }
 
-.alttech.card header:after,
-.profile.card header:after {
+.alttech.card div:after,
+.profile.card div:after {
 	content: "\2794";
 	color: var(--caption);
 	font-size: 1.4rem;
