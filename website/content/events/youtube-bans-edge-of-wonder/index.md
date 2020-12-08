@@ -4,7 +4,7 @@ date: 2020-10-15
 image: /img/people/edge-of-wonder.jpg
 profiles: [ edge-of-wonder ]
 platforms: [ youtube ]
-tags: [ banned, gov ]
+tags: [ banned ]
 sources:
  - [ 'twitter.com/OnEdgeOfWonder/status/1316761200118714372', 'https://archive.is/cqpvn' ]
  - [ 'twitter.com/OnEdgeOfWonder/status/1316783195266985984', 'https://archive.is/OSo7p' ]

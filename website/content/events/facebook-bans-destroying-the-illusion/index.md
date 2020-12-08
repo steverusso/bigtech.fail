@@ -4,7 +4,7 @@ date: 2020-10-17
 image: /img/people/jordan-sather.jpg
 profiles: [ jordan-sather ]
 platforms: [ facebook, discord ]
-tags: [ banned, gov ]
+tags: [ banned ]
 sources:
  - [ 'gab.com/destroyingtheillusion/posts/105051265957360746', 'https://archive.is/d7rIJ' ]
  - [ 'gab.com/destroyingtheillusion/posts/105051284151498486', 'https://archive.is/QzrkL' ]

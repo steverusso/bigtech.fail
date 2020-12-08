@@ -4,7 +4,7 @@ date: 2020-10-15
 image: /img/people/jordan-sather.jpg
 profiles: [ jordan-sather ]
 platforms: [ youtube ]
-tags: [ banned, gov ]
+tags: [ banned ]
 sources:
  - [ 'altCensored - Destroying the Illusion', 'https://archive.is/Vv8kP' ]
  - [ 'Social Blade (Destroying the Illusion) socialblade.com/youtube/channel/UCMVTRzCXvIbdK0Y1ZxD-BlA', 'https://archive.is/9eYKz' ]

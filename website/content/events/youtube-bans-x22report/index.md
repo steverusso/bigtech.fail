@@ -4,7 +4,7 @@ date: 2020-10-15
 image: /img/people/x22report.jpg
 profiles: [ x22report ]
 platforms: [ youtube ]
-tags: [ banned, gov ]
+tags: [ banned ]
 sources:
  - [ 'minds.com/newsfeed/1163499925731196928', 'https://archive.is/OrN7F' ]
  - [ 'Social Blade (X22Report) socialblade.com/youtube/channel/UCB1o7_gbFp2PLsamWxFenBg', 'https://archive.is/GJn54' ]

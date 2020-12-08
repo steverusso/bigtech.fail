@@ -4,7 +4,7 @@ date: 2020-10-15
 image: /img/people/praying-medic.png
 profiles: [ praying-medic ]
 platforms: [ youtube ]
-tags: [ banned, gov ]
+tags: [ banned ]
 sources:
  - [ 'altCensored - prayingmedic', 'https://archive.is/ROxQB' ]
  - [ 'Social Blade (prayingmedic) socialblade.com/youtube/channel/UCSio3E7kYvPeHKhfuYZWriA', 'https://archive.is/aOef0' ]
