@@ -3,6 +3,7 @@ title: Twitter Adds Shadow Banning to Its Terms of Service
 date: 2020-01-01
 image: /img/misc/shadow-twitter.png
 platforms: [ twitter ]
+tags: [ policy ]
 sources:
  - [ 'Twitter Terms of Service, Effective 1 Jan 2020 (archive)', 'http://archive.is/7AmDl' ]
 ---
