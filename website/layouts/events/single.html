@@ -72,9 +72,7 @@
 
 		<aside>
 			<div data-stuff>
-				{{ with .Params.platforms }}
-					{{ partialCached "event-platforms" . . }}
-				{{ end }}
+				{{ partialCached "event-platforms" .Params.platforms .Params.platforms }}
 
 				{{ with .Params.tags }}
 					{{ partialCached "event-tags" . . }}
