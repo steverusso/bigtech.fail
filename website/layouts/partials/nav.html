@@ -2,8 +2,8 @@
 
 <nav>
 	<a href="/">
-		{{ $img := cond .IsHome "short-96" "long" }}
-		<img src="/img/bigtechfail-{{ $img }}.png" height="36" width="auto" loading="lazy">
+		{{ $img := cond .IsHome "img/bigtechfail-short-96" "logo" }}
+		<img src="/{{ $img }}.png" height="36" width="auto" loading="lazy">
 	</a>
 
 	{{ range $links }}
