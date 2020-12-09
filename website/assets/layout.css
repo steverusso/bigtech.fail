@@ -25,26 +25,16 @@
 	padding: 0.75rem;
 	width: calc(100% / calc(12 / var(--c)));
 }
-.col.xs-6, .grid.xs-6 { --c: 6 }
 @media (max-width: 599px) {
 	.col, .grid > div {
 		padding: 0.75rem 0.25rem;
 	}
 }
-@media (min-width: 600px) {
-	.grid.sm-6 { --c: 6 }
-}
 @media (min-width: 950px) {
-	.grid.md-4 { --c: 4 }
-	.col.md-5 { --c: 5 }
 	.col.md-6, .grid.md-6 { --c: 6 }
-	.col.md-7 { --c: 7 }
-	.grid.md-12 { --c: 12 }
 }
 @media (min-width: 1250px) {
-	.col.lg-4, .grid.lg-4 { --c: 4 }
-	.col.lg-6 { --c: 6 }
-	.col.lg-8 { --c: 8 }
+	.grid.lg-4 { --c: 4 }
 }
 
 .align-center { align-items: center !important }
