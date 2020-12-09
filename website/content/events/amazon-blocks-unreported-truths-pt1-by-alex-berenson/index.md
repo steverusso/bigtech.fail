@@ -1,7 +1,7 @@
 ---
 title: Amazon Blocks Publication of Book by Alex Berenson That Questions the COVID Lockdowns
 date: 2020-06-04
-image: /img/misc/book-unreported-truths-about-covid-pt1.png
+image: /img/books/unreported-truths-about-covid-pt1.png
 platforms: [ amazon ]
 tags: [ content-removed, covid ]
 sources:
