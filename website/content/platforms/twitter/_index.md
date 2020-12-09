@@ -1,33 +1,14 @@
 ---
 title: Twitter
-caption: "Perfecting digital echo chambers."
-legal:
-  commguides:
-    name: Rules and Policies
-    asof: "2020-06-23"
-    url: https://help.twitter.com/en/rules-and-policies
-    wc: 61414
-  privacy:
-    asof: "2020-06-23"
-    url: https://twitter.com/en/privacy
-    sel: main > .p22-chapters-container
-    arc: https://archive.vn/IlFAP
-    wc: 4952
-  tos:
-    asof: "2020-06-23"
-    url: https://twitter.com/en/tos
-    sel: main > .p22-chapters-container
-    arc: https://archive.vn/Ch4z3
-    wc: 5606
-tags: [ banned, suspended ]
+caption: Perfecting digital echo chambers.
 ---
 
-Twitter really takes the cake on many fronts, the most obvious would be
-regarding legal policy since The _Twitter Rules and Policies_ are **over 60k
-words**. That's about five hours worth of reading, and that's **not including
-their Terms of Service and Privacy Policy.** However, there are more dangerous
-aspects of the company to explore, such as involvment with world governments
-and shadow banning practices.
+Twitter really takes the cake on many fronts, the most obvious being the
+oppressive rules and legal policies since The _Twitter Rules and Policies_ are
+**over 60k words**. That's about five hours worth of reading, and that's **not
+including their Terms of Service and Privacy Policy.** However, there are more
+dangerous aspects of the company to explore, such as involvment with world
+governments and shadow banning practices.
 
 <!--more-->
 
@@ -35,10 +16,8 @@ and shadow banning practices.
 
 Perhaps the most disturbing part of BigTech in general is the established
 pattern of stifling voices and material that are critical of government.
-Twitter has certainly done _its_ share.
-
-On Christmas day in 2017, Twitter mysteriously [removed Wikileaks founder
-Julian Assange's
+Twitter has certainly done _its_ share. For example, on Christmas day in 2017,
+Twitter mysteriously [removed Wikileaks founder Julian Assange's
 account](/events/twitter-briefly-removes-julian-assanges-account/) for a few
 hours. They also [restricted his mother's
 account](/events/twitter-restricts-julian-assanges-mother/) about three weeks
@@ -56,16 +35,6 @@ Project Dragonfly (which helped China to censor more efficiently). She even
 helped the company open an AI research facility in Beijing (the surveillance
 capital of the world). Shortly after her appointment to Twitter's BoD, several
 Chinese dissidents had their accounts suspended.
-
-Twitter will also openly attempt to sway elections. For example, in 2018,
-Senate candidate Austin Peterson [was temporarily
-suspended](/events/twitter-suspends-austin-peterson/) a week before the
-election for using a GIF from Twitter's own GIF library (not joking) after the
-opposing candidate's supporters mass-reported his account. In April 2019,
-Twitter [removed the UKIP campaign accounts for Tommy Robinson and Carl
-Benjamin](/events/twitter-bans-ukip-accounts-for-carl-benjamin-and-tommy-robinson/),
-claiming that the two were using their campaign accounts to evade their own
-personal permanent bans.
 
 ## Shadow Banning
 
