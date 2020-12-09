@@ -36,7 +36,7 @@ main {
 			{{ with (index .Site.Taxonomies.altfor $slug) }}
 				<div data-stuff>
 					<div>
-						<h3>Alternative Platforms</h3>
+						<h3>Alternatives:</h3>
 
 						{{ range . }}
 							<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
