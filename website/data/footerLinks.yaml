@@ -1,4 +1,4 @@
-- title: Stay Connected
+- title: Connect
   links:
   - text: GitHub
     href: https://github.com/steverusso/bigtech.fail/
@@ -10,13 +10,6 @@
     href: https://www.minds.com/bigtechfail
     logo: /img/logos/minds.png
 
-- title: Site Links
-  links:
-  - text: AltTech
-    href: /alttech/
-  - text: BigTech
-    href: /platforms/
-
 - title: About
   links:
   - text: Privacy Policy
@@ -26,7 +19,7 @@
   - text: Credits
     href: /credits/
 
-- title: CryptoCurrency
+- title: Miscellaneous
   links:
   - text: Monero
     href: /monero/
