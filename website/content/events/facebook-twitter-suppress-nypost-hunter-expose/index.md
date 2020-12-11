@@ -5,7 +5,6 @@ date: 2020-10-14
 image: /img/logos/nypost.png
 platforms: [ facebook, twitter ]
 tags: [ content-removed, gov ]
-context: nypost-hunter
 sources:
  - [ 'YouTube "Why Twitter Censored the NY Post Article on Biden" by AwakenWithJP (20 Oct 2020)', 'https://www.youtube.com/watch?v=jrjI2X9TIZA' ]
  - [ 'New York Post "Twitter, Facebook censor Post over Hunter Biden exposé" by Noah Manskar (14 Oct 2020)', 'https://nypost.com/2020/10/14/facebook-twitter-block-the-post-from-posting/' ]

@@ -3,8 +3,7 @@ title: Twitter Suspends Pedro Gonzalez
 date: 2020-09-01
 image: /img/people/pedro-gonzalez.jpg
 platforms: [ twitter ]
-tags: [ suspended ]
-context: kyle-rittenhouse
+tags: [ suspended, kyle-rittenhouse ]
 sources:
  - [ 'twitter.com/GavinWax/status/1300820240503316486', 'https://archive.is/AEMML' ]
  - [ 'twitter.com/CassandraRules/status/1300867459759693827', 'https://archive.is/TMVfY' ]
@@ -15,6 +14,7 @@ sources:
 Twitter temporarily suspended Pedro Gonzalez (@emeriticus), assistant editor
 for [American Greatness](https://amgreatness.com/), for tweeting that [Kyle
 Rittenhouse](/context/kyle-rittenhouse/) is a hero:
+
 > So this is the tweet that got my account locked temporarily. To start the
 > countdown for unlocking an account, Twitter has you manually delete the
 > offending tweet. Kind of funny, kind of a humiliating-dystopian-classroom

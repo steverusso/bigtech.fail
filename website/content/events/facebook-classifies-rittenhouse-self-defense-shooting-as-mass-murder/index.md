@@ -4,8 +4,7 @@ date: 2020-08-27
 image: /img/people/kyle-rittenhouse.jpg
 summary: And then banned Kyle Rittenhouse...
 platforms: [ facebook, instagram ]
-tags: [ policy, banned ]
-context: kyle-rittenhouse
+tags: [ policy, banned, kyle-rittenhouse ]
 sources:
  - [ 'threadreaderapp.com/thread/1299083851596214272.html', 'https://threadreaderapp.com/thread/1299083851596214272.html' ]
  - [ 'twitter.com/brianfishman/status/1299084287686434816', 'https://archive.is/xcNKk' ]

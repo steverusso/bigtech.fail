@@ -5,7 +5,6 @@ image: /img/logos/news2share.jpg
 profiles: [ ford-fischer ]
 platforms: [ youtube ]
 tags: [ defunded ]
-context: vox-adpocalypse
 sources:
  - [ 'threadreaderapp.com/thread/1136334778670518273.html', 'https://archive.is/WfQ9f' ]
  - [ 'twitter.com/FordFischer/status/1162463641788198914', 'https://archive.is/r8ugS' ]
