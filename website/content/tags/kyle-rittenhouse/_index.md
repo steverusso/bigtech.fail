@@ -1,5 +1,6 @@
 ---
 aliases: [ /kyle/ ]
+title: Kyle Rittenhouse
 image: /img/people/kyle-rittenhouse.jpg
 media:
  - [ 'BitChute "The Truth About Kyle Rittenhouse" by Mark Dice (1 Sep 2020)', 'https://www.bitchute.com/video/0oQlnihfxhU/' ]

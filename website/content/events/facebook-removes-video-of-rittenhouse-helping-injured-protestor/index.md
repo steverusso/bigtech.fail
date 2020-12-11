@@ -4,8 +4,7 @@ date: 2020-09-02
 image: /img/people/kyle-rittenhouse-2.jpg
 profiles: [ mark-dice ]
 platforms: [ facebook ]
-tags: [ content-removed, restricted ]
-context: kyle-rittenhouse
+tags: [ content-removed, restricted, kyle-rittenhouse ]
 sources:
  - [ 'twitter.com/MarkDice/status/1300970053307740160', 'https://archive.is/AOOOT' ]
  - [ 'BitChute "⚠️ No Truth Allowed ⚠️" by Mark Dice (2 Sep 2020)', 'https://www.bitchute.com/video/Tj-WjV2dtmI/' ]
@@ -17,10 +16,12 @@ Rittenhouse](/context/kyle-rittenhouse/) helping an injured protestor in
 Kenosha, WI. Facebook removed this post, gave Mark a community guidelines
 strike, and restricted his page since Facebook deemed this as "praise" or
 "support" for someone on their "dangerous individuals" list:
+
 > We don't allow symbols, praise or support of dangerous individuals or
 > organizations on Facebook.
 
 Mark responded with the following on Twitter:
+
 > In no way did I "glorify" or celebrate him, nor "praise" him. I simply posted
 > a non-graphic video, and stated as a matter of fact what it showed.  He
 > helped a protester who was injured and didn't show up in Kenosha with any
