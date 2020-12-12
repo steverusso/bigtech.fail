@@ -34,3 +34,7 @@ interesting summary](https://www.bitchute.com/video/deC253KuTV0/):
 > can act as a publisher and direct the publishers [ZeroHedge / The Federalist]
 > to censor those things that they themselves [Google] are not going to become
 > responsible for.
+
+About six months later, ZeroHedge [introducded ZeroHedge
+Premium](https://archive.is/zLp4n), a paid version of their site that offers no
+ads and freer comment sections among many other features.
