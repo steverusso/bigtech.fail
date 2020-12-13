@@ -34,33 +34,23 @@ which the Platform was involved.
 ### AltTech
 
 An AltTech profile is information about an alternative tech platform. It
-contains the platform's name, slogan (if any), data regarding its policies
-(ToS, Privacy Policy and Community Guidelines), and a summary that can include
-miscellaneous information such as some of it's strengths or weaknesses.
+contains the platform's name and a summary that can include miscellaneous
+information such as some of it's strengths or weaknesses.
 
 ### Profiles
 
 A Profile is data about individuals / organizations that have been the targets
 of BigTech abuse. Profiles contain the individual's / organization's _publicly
 available_ name (ex: as it appears on their social media accounts), a short
-bio, and links to their online presence. Doing this helps to negate the
-effectiveness of deplatforming: if someone is kicked off a platform, they can
-still have a presence and a voice somewhere else on the internet.
+bio, and links to their presence on AltTech (if any). Doing this helps to
+negate the effectiveness of deplatforming: if someone is kicked off a platform,
+they can still have a presence and a voice somewhere else on the internet.
 
-The profile links will be prioritized as follows:
+Profile links will be prioritized as follows:
 
 - User-controlled spaces (_their_ website, _their_ independent support mechanism, _their_ merch shop, etc.)
-- Third-party support mechanisms (Locals.com, SubscribeStar, etc.)
-- AltTech (Minds, BitChute, Brighteon, Gab, etc.)
-- BigTech (YouTube, Twitter, Instagram, etc.)
-
-There are certain websites / platforms that will be deliberately excluded from
-the collection of Profile links:
-
-- **Patreon, PayPal, Venmo**
-  - Financial deplatforming messes with people's livlihoods, and it sometimes even goes beyond the actual platforms (ex: Patreon taking certain actions due to pressure from Mastercard). Ideally, we don't want to link to _any_ payment platform that is vulnerable to censorship from banks or payment processors. However, for now, we'll only drop the offenders.
-- **Facebook**
-  - Out of all the failing Platforms, Facebook seems to be winning the race towards non-existence. We want to do our part to help them out. In all seriousness, this platform's growth rate has decreased significantly. Worse, the increase in censorship has caused Facebook in particular to lose the 'cool' factor with Gen Z. Therefore, no creator should be seeking growth on this platform (if they're even still on it).
+- Third-party AltTech support mechanisms (Locals.com, SubscribeStar, etc.)
+- AltTech (Minds, BitChute, LBRY, Gab, etc.)
 
 ## Information Delivery
 
