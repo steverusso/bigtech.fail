@@ -3,10 +3,10 @@
  1) the header (image, title, meta) and 2) the text preview.
 -->
 {{ define "partials/cards/event" }}
-	<a class="event card" href="{{ .RelPermalink }}" title="{{ .Title }}">
+	<a class="ev card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="{{ .Params.image }}" loading="lazy">
-			<h2 data-t="{{ .Title }}">{{ .Date.Format `2 Jan 2006` }}</h2>
+			<h2 title="{{ .Title }}">{{ .Date.Format `2 Jan 2006` }}</h2>
 		</div>
 
 		<p>{{ .Summary | truncate 80 }}</p>
