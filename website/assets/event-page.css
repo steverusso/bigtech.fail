@@ -23,15 +23,8 @@ section > article {
 		margin-top: 2rem;
 	}
 }
-.platforms h3 {
-	margin-bottom: -0.25rem !important;
-}
-.tags > div > div:not(:first-child), .platforms > div > a {
-	margin-top: 0.75rem;
-	margin-bottom: 0;
-}
-.profiles > div > div {
-	margin-bottom: 1rem;
+.tags > div > div:not(:last-child), .profiles > div > div {
+	margin-bottom: 0.75rem;
 }
 @media (max-width: 1249px) {
 	aside:before {
