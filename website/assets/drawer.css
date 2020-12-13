@@ -148,9 +148,9 @@ aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 	}
 }
 
-.tags > div:not(:last-child) {
+.tags > :not(:last-child) {
 	margin-bottom: 0.75rem;
 }
-.tags > div:last-child {
+.tags > :last-child {
 	margin-bottom: 0.25rem;
 }
