@@ -6,17 +6,6 @@
 	{{ .Summary | truncate 69 | plainify }}
 {{ end }}
 
-{{ define "partials/event-tags" }}
-	<h3>Tags:</h3>
-	<div class="tags">
-		{{ range . }}
-			<div>
-				{{ partialCached "tag-card" . . }}
-			</div>
-		{{ end }}
-	</div>
-{{ end }}
-
 {{ define "partials/event-profiles" }}
 	<h3>Profiles:</h3>
 	<div class="profiles">
@@ -62,9 +51,12 @@
 					{{ end }}
 				</div>
 
-				{{ with .Params.tags }}
-					{{ partialCached "event-tags" . . }}
-				{{ end }}
+				<h3>Tags:</h3>
+				<div class="tags">
+					{{ range .Params.tags }}
+						{{ partialCached "tag-card" . . }}
+					{{ end }}
+				</div>
 
 				{{ with .Params.profiles }}
 					{{ partialCached "event-profiles" . . }}
