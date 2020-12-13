@@ -83,13 +83,13 @@ aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 	margin-bottom: 2rem;
 	padding-bottom: 2rem;
 }
-[data-stuff] > div > h3 {
+[data-stuff] > h3 {
 	display: flex;
 	align-items: center;
 	font-size: 1.1rem;
 	margin: 0.75rem 0;
 }
-[data-stuff] > div > h3:before {
+[data-stuff] > h3:before {
 	content: "";
 	background: var(--caption);
 	display: inline-flex;
@@ -97,7 +97,7 @@ aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 	width: 10px;
 	height: 10px;
 }
-[data-stuff] > div > div {
+[data-stuff] > div {
 	padding: 0.4rem 0.75rem;
 }
 @media (max-width: 1249px) {
@@ -146,4 +146,11 @@ aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 		--c: 8.5;
 		padding-right: 2rem !important;
 	}
+}
+
+.tags > div:not(:last-child) {
+	margin-bottom: 0.75rem;
+}
+.tags > div:last-child {
+	margin-bottom: 0.25rem;
 }

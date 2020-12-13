@@ -6,42 +6,27 @@
 	{{ .Summary | truncate 69 | plainify }}
 {{ end }}
 
-{{ define "partials/event-platforms" }}
-	<div>
-		<h3>Corporations:</h3>
-		<div>
-			{{ range . }}
-				{{ partialCached "bigtech-chip" . . }}
-			{{ end }}
-		</div>
-	</div>
-{{ end }}
-
 {{ define "partials/event-tags" }}
+	<h3>Tags:</h3>
 	<div class="tags">
-		<h3>Tags:</h3>
-		<div>
-			{{ range . }}
-				<div>
-					{{ partialCached "tag-card" . . }}
-				</div>
-			{{ end }}
-		</div>
+		{{ range . }}
+			<div>
+				{{ partialCached "tag-card" . . }}
+			</div>
+		{{ end }}
 	</div>
 {{ end }}
 
 {{ define "partials/event-profiles" }}
+	<h3>Profiles:</h3>
 	<div class="profiles">
-		<h3>Profiles:</h3>
-		<div>
-			{{ range . }}
-				{{ with site.GetPage (printf "/profiles/%s" .) }}
-					<div>
-						{{ partialCached "cards/profile" . . }}
-					</div>
-				{{ end }}
+		{{ range . }}
+			{{ with site.GetPage (printf "/profiles/%s" .) }}
+				<div>
+					{{ partialCached "cards/profile" . . }}
+				</div>
 			{{ end }}
-		</div>
+		{{ end }}
 	</div>
 {{ end }}
 
@@ -70,7 +55,12 @@
 
 		<aside>
 			<div data-stuff>
-				{{ partialCached "event-platforms" .Params.platforms .Params.platforms }}
+				<h3>Corporations:</h3>
+				<div>
+					{{ range .Params.platforms }}
+						{{ partialCached "bigtech-chip" . . }}
+					{{ end }}
+				</div>
 
 				{{ with .Params.tags }}
 					{{ partialCached "event-tags" . . }}
