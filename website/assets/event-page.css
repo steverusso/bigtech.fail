@@ -23,8 +23,8 @@ section > article {
 		margin-top: 2rem;
 	}
 }
-.profiles > div {
-	margin-bottom: 1rem;
+.profiles > a:not(:first-child) {
+	margin-top: 1rem;
 }
 @media (max-width: 1249px) {
 	aside:before {

@@ -11,9 +11,7 @@
 	<div class="profiles">
 		{{ range . }}
 			{{ with site.GetPage (printf "/profiles/%s" .) }}
-				<div>
-					{{ partialCached "cards/profile" . . }}
-				</div>
+				{{ partialCached "cards/profile" . . }}
 			{{ end }}
 		{{ end }}
 	</div>
