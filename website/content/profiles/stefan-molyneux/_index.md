@@ -12,7 +12,6 @@ socials:
   telegram: freedomainradio
   parler: profile/stefanmolyneux
   gab: stefanmolyneux
-  instagram: stefanmolyneux
 ---
 
 Stefan Molyneux is the host of Freedomain, one of the most popular philosophy

@@ -8,7 +8,6 @@ socials:
   bitchute: channel/gzFCj8AuSWgp/
   odysee: '@WAM:0'
   flote: JoshSigurdson
-  twitter: WorldAltMedia
 ---
 
 _World Alternative Media_ is an independent media outlet founded in 2013 by

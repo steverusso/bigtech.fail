@@ -8,7 +8,6 @@ socials:
   minds: davecullen
   bitchute: profile/ldxZ8WGbPGJJ/
   gab: DaveCullen
-  youtube: user/LACK78
 ---
 
 Dave Cullen runs a channel called _Computing Forever_ that contains various

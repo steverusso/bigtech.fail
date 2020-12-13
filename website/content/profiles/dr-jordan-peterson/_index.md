@@ -1,11 +1,8 @@
 ---
 title: Dr. Jordan Peterson
 socials:
-  website:   www.jordanbpeterson.com/
-  support:   www.jordanbpeterson.com/donate/
-  twitter:   jordanbpeterson
-  youtube:   c/jordanpetersonvideos
-  instagram: jordan.b.peterson/
+  website: www.jordanbpeterson.com/
+  support: www.jordanbpeterson.com/donate/
 ---
 
 [Dr. Jordan Peterson](https://www.jordanbpeterson.com/about/) is a clinical

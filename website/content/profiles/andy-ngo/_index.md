@@ -3,7 +3,6 @@ title: Andy Ngo
 socials:
   locals: ngo
   subscribestar: AndyNgo
-  twitter: MrAndyNgo
 ---
 
 Andy Ngo is the editor-at-large for the _The Post Millennial_ who is constantly

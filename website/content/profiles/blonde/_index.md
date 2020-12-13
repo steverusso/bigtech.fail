@@ -6,7 +6,6 @@ socials:
   gab: Blonde_Beast
   bitchute: profile/oVBA2s2p1oua/
   minds: BlondeBeast/
-  youtube: channel/UCpbyOgUSjTSPpvVUAT2OyHw
 ---
 
 Blonde is a conservative content creator (mainly on YouTube for now) and

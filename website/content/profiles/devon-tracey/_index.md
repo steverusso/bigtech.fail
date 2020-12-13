@@ -9,8 +9,6 @@ socials:
   dlive: Devon_Tracey
   telegram: atheistroo
   parler: profile/DevonTracey
-  twitter: HeWasntJogging
-  instagram: atheist_roo
 ---
 
 Devon Tracey created

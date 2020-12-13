@@ -4,8 +4,6 @@ image: /img/people/del-bigtree.jpg
 socials:
   website: thehighwire.com
   bitchute: channel/okiFK5CwQrZS/
-  twitter: highwiretalk
-  instagram: highwiretalk/
 ---
 
 Del Bigtree is a filmmaker and an investigative medical journalist and [one of

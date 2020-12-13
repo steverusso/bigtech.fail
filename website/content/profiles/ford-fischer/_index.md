@@ -3,8 +3,6 @@ title: Ford Fischer
 socials:
   website: news2share.com/start/
   minds: fordfischer/
-  youtube: channel/UCbBm6SZ235HFxwVKC7Po5IA
-  twitter: FordFischer
 ---
 
 Ford Fischer is an independent journalist,

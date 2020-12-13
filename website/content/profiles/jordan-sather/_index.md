@@ -11,7 +11,6 @@ socials:
   gab: destroyingtheillusion
   parler: profile/JordanSather/posts
   telegram: joinchat/AAAAAETTa5AH3raPXj5Quw
-  instagram: jaysather/
 ---
 
 [Jordan Sather](https://linktr.ee/JordanSather) is an independent journalist

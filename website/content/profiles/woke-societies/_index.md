@@ -5,8 +5,6 @@ socials:
   merch: wokesocieties.com/store-2/
   dlive: WokeSocieties
   bitchute: channel/su0VFFviTYDs/
-  twitter: wokesocieties
-  twitch: wokesocieties
 ---
 
 [_Woke Societies_](https://wokesocieties.com/about-us/) describes itself as

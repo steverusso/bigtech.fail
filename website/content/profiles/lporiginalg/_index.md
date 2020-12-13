@@ -7,8 +7,6 @@ socials:
   support: ihypocrite.net/donate/
   subscribestar: ihypocrite
   bitchute: channel/hQl9oMSgUyMX/
-  youtube: lporiginalg
-  twitter: lporiginalg
 ---
 
 [Lyndon Perry](https://ihypocrite.net/about/) is the founder and operator of
