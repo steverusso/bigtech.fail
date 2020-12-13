@@ -15,7 +15,3 @@
 - { key: gab,           text: Gab,           prefix: gab.com }
 - { key: parler,        text: Parler,        prefix: parler.com }
 - { key: telegram,      text: Telegram,      prefix: t.me }
-- { key: twitter,       text: Twitter,       prefix: twitter.com }
-- { key: youtube,       text: YouTube,       prefix: youtube.com }
-- { key: instagram,     text: Instagram,     prefix: instagram.com }
-- { key: twitch,        text: Twitch,        prefix: twitch.com }
