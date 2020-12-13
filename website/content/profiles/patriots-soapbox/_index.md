@@ -5,7 +5,6 @@ socials:
   website: patriotssoapbox.com
   support: patriotssoapbox.com/donate/
   merch: shop.patriotssoapbox.com
-  twitter: NotPsb
   dlive: psb
 ---
 

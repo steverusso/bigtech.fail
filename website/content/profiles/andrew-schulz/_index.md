@@ -1,10 +1,7 @@
 ---
 title: Andrew Schulz
 socials:
-  website:   theandrewschulz.com
-  youtube:   user/TheAndrewSchulz
-  twitter:   andrewschulz
-  instagram: andrewschulz/
+  website: theandrewschulz.com
 ---
 
 Andrew Schulz is a comedian and co-host of two podcasts: [Flagrant

@@ -8,8 +8,6 @@ socials:
   bitchute: thelastamericanvagabond/
   odysee: '@TLAVagabond:5'
   dlive: TLAVagabond
-  twitter: TLAVagabond
-  instagram: the_last_american_vagabond/
 ---
 
 [The Last American

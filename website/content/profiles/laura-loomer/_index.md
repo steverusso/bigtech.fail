@@ -6,7 +6,6 @@ socials:
   merch: fruitoftheloomer.com
   parler: profile/LauraLoomer
   telegram: loomeredofficial
-  youtube: youtube.com/channel/UCsWnDtLWKEMJHKYCc9647yQ
 ---
 
 [Laura Loomer](https://loomered.com/press-kit/) is "a Jewish Conservative

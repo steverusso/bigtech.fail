@@ -4,7 +4,6 @@ socials:
   website: edgeofwonder.tv
   support: edgeofwonder.tv/support
   merch: teespring.com/stores/edge-of-wonder
-  twitter: OnEdgeOfWonder
 ---
 
 [Edge of Wonder](https://edgeofwonder.tv/about) is a show hosted by Ben

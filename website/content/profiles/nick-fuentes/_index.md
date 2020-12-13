@@ -1,13 +1,11 @@
 ---
 title: Nick Fuentes
 socials:
-  website:   nicholasjfuentes.com
-  support:   nicholasjfuentes.com/subscribe/
-  merch:     merch.nicholasjfuentes.com
-  dlive:     nickjfuentes
-  telegram:  nickjfuentes1
-  twitter:   nickjfuentes
-  instagram: nicholasjfuentes
+  website: nicholasjfuentes.com
+  support: nicholasjfuentes.com/subscribe/
+  merch: merch.nicholasjfuentes.com
+  dlive: nickjfuentes
+  telegram: nickjfuentes1
 ---
 
 Nick Fuentes is a conservative political commentator, host of America First,

@@ -6,7 +6,6 @@ socials:
   merch: www.teezily.com/stores/anc
   subscribestar: ancreport
   bitchute: channel/kCBxN1oEVOa0/
-  youtube: c/RyDawson1
 ---
 
 [Ryan Dawson](https://www.ancreport.com/ryan-dawson/) is host of Anti Neocon

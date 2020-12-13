@@ -6,8 +6,6 @@ socials:
   merch:    https://teespring.com/stores/timcast
   minds:    Timcast/
   bitchute: profile/rs42eKy5Qhtq/
-  twitter:  timcast
-  youtube:  timcast
 ---
 
 [Tim Pool](https://www.timcast.com/about) is an award winning journalist and

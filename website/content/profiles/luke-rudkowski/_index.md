@@ -9,8 +9,6 @@ socials:
   bitchute: channel/3dbbuob812b0/
   minds: wearechange/
   telegram: News4AChange
-  youtube: user/wearechange/
-  twitter: Lukewearechange
 ---
 
 Luke Rudkowski is the founder of [_We Are Change_](https://wearechange.org/), a

@@ -8,8 +8,6 @@ socials:
   gab: mlchristiansen
   bitchute: profile/T5pudGiMPQb8/
   minds: mlchristiansen/
-  youtube: channel/UCxeY-wRrb65Jt37QHa5xMog
-  twitter: mlchristiansen
 ---
 
 Matt Christiansen is a political content creater and co-host of _Beauty and the

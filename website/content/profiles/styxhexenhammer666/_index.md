@@ -10,8 +10,6 @@ socials:
   brighteon: channel/styxhexenhammer666
   lbry: '@Styxhexenhammer666'
   gab: Styx666Official
-  youtube: user/Styxhexenhammer666
-  twitter: Styx666Official
 ---
 
 Styx is a libertarian political commentator who has been a leader in calling
