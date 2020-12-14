@@ -2,13 +2,56 @@
 	{{ partial "css/inline" "home-page.css" }}
 {{ end }}
 
+{{ define "partials/home-usealttech" }}
+	<div class="cntr use-alttech">
+		<div class="row align-center">
+
+			<div class="col md-6">
+				<h1 class="mb-8">Use AltTech!</h1>
+				<article>
+					<p>
+						Change starts with the content creators.
+						As a content creator, using AltTech not only protects your own voice from <b><u>censorship</u></b>, but it also helps to nullify the <b><u>propaganda</u></b> that inevitably follows.
+						<a href="/creators/">Read here</a> for more on why and how to go about trying AltTech.
+					</p>
+				</article>
+			</div>
+
+			<div class="col md-6">
+				<div class="altfor-map">
+					{{ range $i, $v := slice "Twitter" "Patreon" "YouTube" "Facebook" }}
+						{{ $k := $v | anchorize }}
+
+						<div>
+							<input type="radio" name="platform" id="{{ $k }}"{{ if eq $i 0 }}checked{{ end }}>
+
+							<label for="{{ $k }}">
+								<img src="/img/logos/{{ $k }}.png" width="24" height="24" loading="lazy">
+								<div>{{ $v }}</div>
+							</label>
+
+							<div class="alts">
+								{{ range index site.Taxonomies.altfor $k }}
+									<a href="{{ .RelPermalink }}" class="open">
+										<img src="/img/logos/{{ .Title | anchorize }}.png" width="24" height="24" loading="lazy">
+										{{ .Title }}
+									</a>
+								{{ end }}
+							</div>
+						</div>
+					{{ end }}
+				</div>
+			</div>
+
+		</div>
+	</div>
+{{ end }}
+
 {{ define "main" }}
 	<div class="jtron">
 		<div class="cntr">
 			<img src="/logo.png" width="400" height="auto">
-
 			<hr>
-
 			<p class="blurb">
 				Shining a light on the censorship,<br>
 				propaganda, and mass surveillance from<br>
@@ -17,19 +60,16 @@
 		</div>
 
 		<div class="links">
-			{{ range $name := slice "Twitter" "YouTube" "Facebook" "Patreon" "Reddit" "Google" "Apple" "Instagram" "Amazon" "Mailchimp" }}
-				{{ $slug := $name | anchorize }}
-				{{ $img := $slug | printf "/img/logos/%s.png" }}
-
-				<a class="card" href="/{{ $slug }}/">
-					<img src="{{ $img }}" width="44" height="44" loading="lazy">
-					<span>{{ $name }}</span>
+			{{ range site.Data.orderCorps }}
+				<a class="card" href="/{{ .k }}/">
+					<img src="/img/logos/{{ .k }}.png" width="44" height="44" loading="lazy">
+					<span>{{ .v }}</span>
 				</a>
 			{{ end }}
 		</div>
 	</div>
 
-	{{ partial "home-usealttech.html" . }}
+	{{ partial "home-usealttech" . }}
 
 	<!-- The short timeline of the six most recent events. -->
 	<div class="recent-events">
