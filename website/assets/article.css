@@ -36,7 +36,6 @@ article strong {
 
 blockquote {
 	border-left: 3px solid var(--blockquoteBorder);
-	font-style: italic;
 	margin: 1.5rem 0 2.5rem 1rem;
 	padding-left: 1rem;
 }
