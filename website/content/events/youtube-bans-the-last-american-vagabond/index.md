@@ -2,9 +2,9 @@
 title: YouTube Bans the Last American Vagabond
 date: 2020-10-19
 image: /img/people/tlav.jpg
-profiles: [ tlav ]
 platforms: [ youtube ]
 tags: [ banned ]
+profiles: [ tlav ]
 sources:
  - [ 'altCensored - The Last American Vagabond', 'https://archive.is/ayrZq' ]
  - [ 'Social Blade (The Last American Vagabond) socialblade.com/youtube/channel/UC_ClYrAtDNAGy5J0N-AwBNw', 'https://archive.is/4qXIT' ]
