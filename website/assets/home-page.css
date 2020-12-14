@@ -10,15 +10,14 @@
 }
 .jtron .blurb {
 	font-size: 1.25rem;
-	margin-bottom: 1rem !important;
+	line-height: 2.25;
 	margin-left: auto;
 	max-width: 475px;
 	text-align: right;
-	line-height: 2.25;
 }
 .jtron .links {
-	max-width: 710px;
 	margin: 0 auto 3rem;
+	max-width: 710px;
 	text-align: center;
 }
 .jtron .links a {
@@ -52,8 +51,7 @@
 @media (min-width: 951px) {
 	.jtron hr {
 		transform: rotate(-40deg);
-		margin-bottom: -2rem !important;
-		margin-top: 2rem !important;
+		margin-bottom: -2rem;
 		width: 25%;
 	}
 }
