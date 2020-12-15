@@ -7,14 +7,11 @@
 {{ end }}
 
 {{ define "partials/event-profiles" }}
-	<h3>Profiles:</h3>
-	<div class="profiles">
-		{{ range . }}
-			{{ with site.GetPage (printf "/profiles/%s" .) }}
-				{{ partialCached "cards/profile" . . }}
-			{{ end }}
+	{{ range . }}
+		{{ with site.GetPage (printf "/profiles/%s" .) }}
+			{{ partialCached "cards/profile" . . }}
 		{{ end }}
-	</div>
+	{{ end }}
 {{ end }}
 
 {{ define "main" }}
@@ -57,7 +54,10 @@
 				</div>
 
 				{{ with .Params.profiles }}
-					{{ partialCached "event-profiles" . . }}
+					<h3>Profiles:</h3>
+					<div class="profiles">
+						{{ partialCached "event-profiles" . . }}
+					</div>
 				{{ end }}
 			</div>
 		</aside>
