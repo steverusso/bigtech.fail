@@ -7,8 +7,5 @@ socials:
   subscribestar: substar
   bitchute: bitchute
   minds: minds
-  youtube: youtube
-  twitter: twitter
-  instagram: instagram
 ---
 
