@@ -6,6 +6,9 @@ aside:empty {
 main {
 	justify-content: center;
 }
+[data-stuff] > div > a:not(:first-child) {
+	margin-top: 1rem;
+}
 </style>
 {{ end }}
 
@@ -35,11 +38,10 @@ main {
 		<aside>
 			{{ with (index .Site.Taxonomies.altfor $slug) }}
 				<div data-stuff>
+					<h3>Alternatives:</h3>
 					<div>
-						<h3>Alternatives:</h3>
-
 						{{ range . }}
-							<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
+							{{ partialCached "cards/alttech" . .RelPermalink }}
 						{{ end }}
 					</div>
 				</div>
