@@ -9,6 +9,8 @@ sources:
  - [ 'altcensored.com/channel/UCKEt1xKVBLuL175dkk8rqLg', 'https://archive.is/yVGkd' ]
  - [ 'socialblade.com/youtube/channel/UCKEt1xKVBLuL175dkk8rqLg (archived)', 'https://archive.is/IF0M6' ]
  - [ 'youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg (archived channel removal notice)', 'https://archive.is/sinvd/image' ]
+extra:
+ - [ 'twitter.com/MouthyBuddha/status/1339669814487506947', 'https://archive.is/uvhV8' ]
 youtube:
  subs: 296854
  views: 12833352
