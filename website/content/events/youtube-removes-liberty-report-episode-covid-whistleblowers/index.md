@@ -31,3 +31,7 @@ free expression is being undermined by social media censorship:
 > being allowed to talk and express ourselves, and of course, I always thought
 > the internet would be our bosom buddies on this, and yet we can get
 > blackballed on social media, too.
+
+YouTube [removed another
+episode](/events/youtube-removes-another-liberty-report-for-medical-misinfo/),
+which among other things was critical of Fauci, about three months later.
