@@ -20,17 +20,18 @@ sources:
  - [ 'influenex.com/youtube/channel/UCLdZo0Mkh_z2IQZSmD8Iy0Q', 'https://archive.is/LBNYr' ]
  - [ 'YouTube "CRAZY: YouTube''s REASON For DELETING World Alternative Media - Criticizing Hollywood?!" by  World Alternative Media''s Revenge (16 Oct 2020)', 'https://www.youtube.com/watch?v=A8tlV9zMVAo' ]
  - [ 'flote.app/post/91dd8a83-8602-4df6-bf36-8a0d28f7fdb9', 'https://archive.is/UOOp7' ]
+extra:
+ - [ 'twitter.com/WorldAltMedia/status/1342105276690927617', 'https://archive.is/4uFgw' ]
 youtube:
  subs: 154000
  views: 21500000
  videos: 1705
 ---
 
-[YouTube](/youtube/) permanently [banned](/tags/banned/) _World Alternative
-Media_ in an attempt to purge channels that the platform claimed were spreading
-"harmful conspiracy theories." The seven and a half year old channel had over
-**154k subscribers** and more than **21.5 million total views** across 1700
-videos.
+[YouTube](/youtube/) banned _World Alternative Media_ in an attempt to purge
+channels that the platform claimed were spreading "harmful conspiracy
+theories." The seven and a half year old channel had over **154k subscribers**
+and more than **21.5 million total views** across 1700 videos.
 
 > YouTube just DELETED my channel for no reason without recourse. A channel
 > with 155,000 subs. All we do is tell the news. We just report facts. We had
