@@ -2,7 +2,7 @@
 title: Parler
 site: www.parler.com
 summary: Parler is a social networking and microblogging service.
-altfor: [ facebook, twitter ]
+altfor: [ facebook, twitter, instagram ]
 weight: 2
 ---
 
@@ -17,9 +17,13 @@ microblogging service. From their [About page](https://home.parler.com/about/):
 Many conservative figures have joined as they have been increasingly targeted
 by BigTech. Near the end of June of 2020, Parler [reached number
 one](https://reclaimthenet.org/parler-increase-popularity/) in the "News"
-section of Apple's App Store. At the time of this writing, it seems you must be
-logged into an account in order to view user profiles and certain content on
-Parler. Hopefully this will be addressed as the platform continues to grow.
+section of Apple's App Store.
+
+It reached number one again in January of 2021 after President Trump and many
+of his supporters were purged off of BigTech. It was then [removed from the
+Google Play Store](/events/google-removes-parler-from-play-store/) as well as
+the [Apple App Store and Amazon Web
+Services](/events/apple-removes-parler-from-app-store/).
 
 ### Questionable Policy Decisions
 
