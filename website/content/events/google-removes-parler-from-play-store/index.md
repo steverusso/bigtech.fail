@@ -9,6 +9,8 @@ sources:
  - [ 'Reclaim The Net "Apple threatens to ban Parler from the App Store unless it censors" by Tom Parker (8 Jan 2021)', 'https://reclaimthenet.org/apple-parler-app-store-ban-objectionable-content/' ]
  - [ 'ZeroHedge "Parler Faces Extinction As Amazon Employees Demand AWS Stop Hosting" by Tyler Durden (9 Jan 2021)', 'https://archive.is/fCKQI' ]
  - [ 'Timcast IRL "Google REMOVES Parler App From App Store, This Is ACTIVE Big Tech Censorship" on BitChute (9 Jan 2021)', 'https://www.bitchute.com/video/SHbLwwafmhM/' ]
+extra:
+ - [ 'blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/', 'https://archive.is/5gLNb' ]
 ---
 
 [Google](/google/) removed the Parler app (a Twitter alternative) from the Play
@@ -28,7 +30,6 @@ spokesperson for Google gave the following statement:
 > public safety threat, we are suspending the app’s listings from the Play
 > Store until it addresses these issues.
 
-Apple followed suit by [removing Parler from the App
-Store](/events/apple-removes-parler-from-app-store/) the very next day.
-Additionally, Amazon employees called for Parler to be dropped from Amazon Web
-Services.
+The [very next day](/events/apple-removes-parler-from-app-store/), Apple
+followed suit by removing Parler from Apple's App Store, and Amazon disabled
+Parler's servers on Amazon Web Services (AWS).
