@@ -97,6 +97,9 @@ tr:nth-child(odd) {
 	background-color: var(--cardBg);
 }
 
+.sources {
+	overflow: hidden;
+}
 .sources li {
 	font-size: 0.95rem;
 	margin-bottom: 0.5rem;
