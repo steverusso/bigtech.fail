@@ -7,6 +7,7 @@ socials:
   subscribestar: dave-cullen
   minds: davecullen
   bitchute: profile/ldxZ8WGbPGJJ/
+  odysee: '@ComputingForever:9'
   gab: DaveCullen
 ---
 
