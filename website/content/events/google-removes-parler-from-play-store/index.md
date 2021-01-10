@@ -28,5 +28,7 @@ spokesperson for Google gave the following statement:
 > public safety threat, we are suspending the app’s listings from the Play
 > Store until it addresses these issues.
 
-Apple threatened taking similar action, and Amazon employees called for Parler
-to be dropped from Amazon Web Services as well.
+Apple followed suit by [removing Parler from the App
+Store](/events/apple-removes-parler-from-app-store/) the very next day.
+Additionally, Amazon employees called for Parler to be dropped from Amazon Web
+Services.
