@@ -169,11 +169,3 @@ h3[data-count] {
 }
 
 .mb-8 { margin-bottom: 2rem !important }
-
-[data-aka]:after {
-	content: attr(data-aka) " ";
-	color: var(--caption);
-	display: block;
-	font-size: 0.85rem;
-	margin: 0.33rem 0 0 0;
-}

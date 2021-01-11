@@ -22,16 +22,13 @@
 	position: absolute;
 	top: 0; right: 0; bottom: 0; left: 0;
 }
-
-a.card:hover {
+.card:hover {
 	border-color: #aaa;
 	text-decoration: none;
 }
-a.card:hover:after, .chip:hover:after {
+.card:hover:after, .chip:hover:after {
 	opacity: 0.15;
 }
-
-/* The first element of any card is its header / title area. */
 .card > div:first-child {
 	background: var(--cardTitleBg);
 	border-bottom: var(--border1);
@@ -49,6 +46,23 @@ a.card:hover:after, .chip:hover:after {
 	font-size: 1.25rem;
 	margin: 0;
 }
+.card b:before {
+	content: attr(title);
+	color: var(--articleBold);
+	display: -webkit-box;
+	font-size: 1.1rem;
+	font-weight: 400;
+	line-height: 1.4;
+	margin-bottom: 0.5rem;
+	overflow: hidden;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2
+}
+.card b {
+	color: var(--caption);
+	font-size: 0.9rem;
+	font-weight: 400;
+}
 .card > p {
 	font-size: 0.95rem;
 	line-height: 1.75;
@@ -61,21 +75,6 @@ a.card:hover:after, .chip:hover:after {
 }
 .ev.card > div {
 	padding: 0.5rem;
-}
-.ev.card h2:before {
-	content: attr(title);
-	color: var(--articleBold);
-	display: -webkit-box;
-	font-size: 1.1rem;
-	line-height: 1.4;
-	margin-bottom: 0.5rem;
-	overflow: hidden;
-	-webkit-box-orient: vertical;
-	-webkit-line-clamp: 2
-}
-.ev.card h2 {
-	color: var(--caption);
-	font-size: 0.9rem;
 }
 
 .profile.card {
@@ -101,6 +100,9 @@ a.card:hover:after, .chip:hover:after {
 .profile.card + div a img {
 	width: 24px !important;
 	height: 24px !important;
+}
+.profile.card b:before {
+	margin: 0 0 0.25rem 0;
 }
 
 .tag.card {

@@ -6,7 +6,7 @@
 	<a class="ev card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="{{ .Params.image }}" loading="lazy">
-			<h2 title="{{ .Title }}">{{ .Date.Format `2 Jan 2006` }}</h2>
+			<b title="{{ .Title }}">{{ .Date.Format `2 Jan 2006` }}</b>
 		</div>
 
 		<p>{{ .Summary | truncate 80 }}</p>
@@ -23,7 +23,7 @@
 	<a class="profile card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="{{ partialCached `profile-pic.html` . .Title }}" loading="lazy">
-			<h2 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ .Title }}</h2>
+			<b title="{{ .Title }}">{{ .Params.aka | default "" }}</b>
 		</div>
 
 		<p>{{ .Summary | truncate 80 }}</p>
@@ -47,11 +47,7 @@
 	<a class="card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
-
-			<div>
-				<h2>{{ .Title }}</h2>
-				<i class="caption">{{ .Params.caption }}</i>
-			</div>
+			<b title="{{ .Title }}">{{ .Params.caption }}</b>
 		</div>
 
 		<p>{{ .Summary | truncate 125 | plainify | safeHTML }}</p>
