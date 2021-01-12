@@ -12,6 +12,7 @@ sources:
  - [ 'Archive of channel removal notice', 'https://archive.is/NSqal/image' ]
  - [ 'Computing Forever "Goodbye YouTube" on BitChute (11 Jan 2021)', 'https://www.bitchute.com/video/kl2oj4kEFc7d/' ]
  - [ 'Styxhexenhammer666 "...And Then They Came for Computing Forever" on BitChute (10 Jan 2021)', 'https://www.bitchute.com/video/C9jEnppH26o/' ]
+ - [ 'Computing Forever "How is This a Thing? 12th of January 2021" on BitChute (12 Jan 2021)', 'https://www.bitchute.com/video/H6Ag0s28P43i/' ]
 extra:
  - 'https://altcensored.com/channel/UCT9D87j5W7PtE7NHOR5DUOQ'
 youtube:
@@ -42,4 +43,12 @@ total views** across more than 1,800 videos.
 
 This happened about three weeks after [Cullen
 announced](/events/dave-cullen-starts-leaving-youtube/) that he would no longer
-be posting new content on YouTube.
+be posting new content on YouTube. A couple days later, the _Computing Forever_
+was reinstated. In [a video](https://www.bitchute.com/video/H6Ag0s28P43i/),
+Cullen said it doesn't matter; he's focusing on AltTech:
+
+> I don't care that it's been reinstated, and I won't care when it gets removed
+> again, which it will soon enough. Banned, reinstated, banned again, it's all
+> non-sense, childish and tiresome. I'm not playing around anymore because I
+> don't need to! I've moved on and closed the door on YouTube. I've been so
+> badly treated by them at this point, and I'm happy to be focusing on AltTech.
