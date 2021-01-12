@@ -10,6 +10,7 @@ sources:
  - [ 'minds.com/newsfeed/1194932456675999744', 'https://archive.is/Hftf6' ]
  - [ 'minds.com/newsfeed/1194947979769659392', 'https://archive.is/vvexd' ]
  - [ 'Archive of channel removal notice', 'https://archive.is/NSqal/image' ]
+ - [ 'Computing Forever "Goodbye YouTube" on BitChute (11 Jan 2021)', 'https://www.bitchute.com/video/kl2oj4kEFc7d/' ]
  - [ 'Styxhexenhammer666 "...And Then They Came for Computing Forever" on BitChute (10 Jan 2021)', 'https://www.bitchute.com/video/C9jEnppH26o/' ]
 extra:
  - 'https://altcensored.com/channel/UCT9D87j5W7PtE7NHOR5DUOQ'
