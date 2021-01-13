@@ -1,14 +1,16 @@
 ---
-title: Facebook Restricts Ron Paul For No Discernable Reason
+title: Facebook Restricts Ron Paul For No Discernable Reason (Reversed)
 date: 2021-01-11
 image: /img/people/dr-ron-paul.jpg
 platforms: [ facebook ]
-tags: [ restricted ]
+tags: [ restricted, oops ]
 sources:
  - [ 'twitter.com/RonPaul/status/1348694943905308672', 'https://archive.is/G1xF5' ]
  - [ 'twitter.com/RonPaul/status/1348695284042366977', 'https://archive.is/fx5nv' ]
  - [ 'twitter.com/RandPaul/status/1348704640486014982', 'https://archive.is/9MQ7w' ]
  - [ 'twitter.com/LPNational/status/1348755097363349505', 'https://archive.is/4zx33' ]
+ - [ 'Foundation for Economic Education "Facebook Locks Out Ron Paul Following Column Criticizing Big Tech Censorship, Cites ''Error''" by Jon Miltimore (11 Jan 2021)', 'https://archive.is/okHik' ]
+ - [ 'Jonathan Turley "Ron Paul Posts Criticism of Censorship on Social Media Shortly Before Facebook Blocks Him" by Jonathan Turley (12 Jan 2021)', 'https://archive.is/2HtAO' ]
 ---
 
 [Facebook](/facebook/) restricted Ron Paul from creating new pages and managing
@@ -24,3 +26,8 @@ violations.
 > [<img src="screenshot.jpg" width="350" height="auto" style="margin: 0.5rem">](screenshot.jpg)
 >
 > -- Ron Paul (@RonPaul) [11 Jan 2021](https://archive.is/G1xF5)
+
+This move by Facebook came right aftr Ron Paul posted content that was critical
+of tech censorship. Later that day, Facebook lifted the restrictions and said
+in an email to _Reason_ that the restrictions were placed on his account in
+"error."
