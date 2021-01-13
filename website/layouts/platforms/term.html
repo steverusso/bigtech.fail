@@ -17,7 +17,9 @@ main {
 	{{ $img := $slug | printf "/img/logos/%s.png" }}
 
 	<input id="sbToggle" type="checkbox">
-	<label for="sbToggle"></label>
+	{{ with (index .Site.Taxonomies.altfor $slug) }}
+		<label for="sbToggle"></label>
+	{{ end }}
 
 	<main>
 		<section>
