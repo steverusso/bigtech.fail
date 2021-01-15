@@ -2,8 +2,9 @@
 date: 2019-06-12
 title: Patreon Alternative 'Thinkspot' Enters Public Beta Testing
 image: /img/logos/thinkspot.png
-profiles: [ dr-jordan-peterson ]
 platforms: [ patreon ]
+tags: [ alttech-growth ]
+profiles: [ dr-jordan-peterson ]
 sources:
  - [ 'Jordan Peterson - Tweet 1138884519669436417', 'https://twitter.com/jordanbpeterson/status/1138884519669436417' ]
  - [ 'NewsBusters "Jordan Peterson Announces Free Speech Platform ''Thinkspot''" by Alexander Hall (12 Jun 2019)', 'https://www.newsbusters.org/blogs/techwatch/alexander-hall/2019/06/12/jordan-peterson-announces-free-speech-platform-thinkspot' ]

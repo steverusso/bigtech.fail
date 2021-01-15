@@ -2,9 +2,9 @@
 title: Dave Rubin Launches Locals
 date: 2019-12-04
 image: /img/logos/locals.png
-profiles: [ dave-rubin ]
 platforms: [ patreon ]
-tags: [ ]
+tags: [ alttech-growth ]
+profiles: [ dave-rubin ]
 sources:
  - [ '@RubinReport - Tweet 1202288504006307841 (4 Dec 2019)', 'https://web.archive.org/web/20191204180817/https:/twitter.com/RubinReport/status/1202288504006307841' ]
  - [ 'The Daily Wire "Dave Rubin Launches ''Locals,'' A New Venture To Combat Big Tech Censorship" by Josh Hammer (5 Dec 2019)', 'https://www.dailywire.com/news/dave-rubin-launches-locals-a-new-venture-to-combat-big-tech-censorship' ]
