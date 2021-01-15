@@ -1,10 +1,22 @@
-banned:
-  caption: 'No. of Accounts Banned:'
-suspended:
-  caption: 'No. of Suspensions:'
-content-removed:
-  caption: 'No. of Content Removals:'
-walked-away:
-  caption: 'No. of People Who Left:'
-gov:
-  caption: 'Gov''t Related Events:'
+general:
+- banned
+- gov
+- content-removed
+- suspended
+- defunded
+- policy
+- app
+- restricted
+- alttech-growth
+- walked-away
+- wtf
+- china
+- humor
+- trans
+- exposed
+- oops
+
+specific:
+- election2020
+- covid
+- kyle-rittenhouse
