@@ -143,7 +143,7 @@ h3[data-count] {
 .chip {
 	--c: #607D8B;
 	--height: 28px;
-	background: var(--cardTitleBg);
+	background: var(--cardBg);
 	border: var(--border1);
 	border-radius: var(--height);
 	color: var(--articleBold);
