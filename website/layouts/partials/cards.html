@@ -66,6 +66,15 @@
 	{{ end }}
 {{ end }}
 
+{{ define "partials/tag-card-count" }}
+	{{ with site.GetPage (printf "/tags/%s" .) }}
+		<a class="tag card" href="{{ .Page.RelPermalink }}">
+			<img src="{{ .Params.image }}" loading="lazy">
+			<div data-count="{{ len .Pages }}">{{ .LinkTitle | default ($ | title) }}</div>
+		</a>
+	{{ end }}
+{{ end }}
+
 {{ define "partials/bigtech-chip" }}
 	<a href="/{{ . }}/" class="chip">
 		<img src="/img/logos/{{ . }}.png" loading="lazy">
