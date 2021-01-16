@@ -10,9 +10,9 @@
 	<input type="checkbox" id="seeMore">
 	<label for="seeMore"></label>
 	<div>
-	{{ range $k := site.Data.tagsMeta.general }}
-		{{ partialCached "tag-card-count" . . }}
-	{{ end }}
+		{{ range site.Data.tagsMeta.general }}
+			{{ partialCached "tag-card-count" . . }}
+		{{ end }}
 	</div>
 </div>
 
