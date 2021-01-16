@@ -12,7 +12,7 @@
 	height: 100%;
 	transition: border .4s cubic-bezier(.4,0,.6,1);
 }
-.card:after, .chip:after {
+.card:after {
 	content: "";
 	background: var(--cardBefore);
 	border-radius: var(--radius);
@@ -26,7 +26,7 @@
 	border-color: #aaa !important;
 	text-decoration: none;
 }
-.card:hover:after, .chip:hover:after {
+.card:hover:after {
 	opacity: 0.15;
 }
 .card > div:first-child {
@@ -157,32 +157,20 @@
 	right: 0.75rem;
 }
 
-.chip {
-	background: var(--cardBg);
-	border: var(--border1);
-	border-radius: 4px;
-	color: var(--articleBold);
-	display: inline-block;
-	text-align: center;
+.corps .card {
+	display: inline-flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 	font-size: 0.7rem;
-	margin: 0 0.25rem 0.5rem;
-	padding: 0.25rem;
-	position: relative;
+	margin: 0.38rem 0.25rem;
 }
-.chip:hover {
-	text-decoration: none;
-	border: 1px solid var(--para);
-}
-.chip img {
+.corps .card img {
 	display: block;
 	width: 24px !important;
 	height: 24px !important;
 	margin: 0.25rem auto;
 }
-.corps .chip {
-	width: 100%;
-	padding: 0.25rem 0 !important;
-}
 .corps > div {
-	padding: 0 0.25rem !important;
+	padding: 0.25rem !important;
 }

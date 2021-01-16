@@ -76,7 +76,7 @@
 {{ end }}
 
 {{ define "partials/bigtech-chip" }}
-	<a href="/{{ . }}/" class="chip">
+	<a class="card" href="/{{ . }}/">
 		<img src="/img/logos/{{ . }}.png" loading="lazy">
 		{{ index site.Data.bigtechNames . | default (. | title) }}
 	</a>
