@@ -26,14 +26,12 @@
 			</div>
 		</header>
 
-		<p>
-			<div class="corps">
-				<b>Similar to:</b><br>
-				{{ range .Params.altfor }}
-					<div>{{ partialCached "bigtech-chip" . . }}</div>
-				{{ end }}
-			</div>
-		</p>
+		<div class="corps">
+			<b>Similar to:</b><br>
+			{{ range .Params.altfor }}
+				<div>{{ partialCached "bigtech-chip" . . }}</div>
+			{{ end }}
+		</div>
 
 		<article>{{ .Content }}</article>
 	</div>
