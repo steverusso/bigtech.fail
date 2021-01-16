@@ -63,7 +63,7 @@
 			{{ range site.Data.orderCorps }}
 				<a class="card" href="/{{ .k }}/">
 					<img src="/img/logos/{{ .k }}.png" loading="lazy">
-					<span>{{ .v }}</span>
+					{{ .v }}
 				</a>
 			{{ end }}
 		</div>

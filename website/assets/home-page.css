@@ -21,6 +21,7 @@
 	text-align: center;
 }
 .jtron .corps a {
+	color: var(--para);
 	border: var(--border2);
 	border-radius: 7px;
 	font-size: 0.9rem;
