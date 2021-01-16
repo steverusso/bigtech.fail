@@ -28,7 +28,7 @@ summary {
 
 			{{ with (index .Site.Taxonomies.altfor $slug) }}
 				<details open>
-					<summary>Alternatives:</summary>
+					<summary>Some Alternatives:</summary>
 					<div class="grid sm-6 md-4 lg-6">
 						{{ range . }}
 							<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
