@@ -32,9 +32,6 @@
 	width: 108px;
 	height: 108px;
 }
-.jtron .links a:hover {
-	border-color: #aaa;
-}
 .jtron .links a img {
 	margin-bottom: 0.75rem;
 }
