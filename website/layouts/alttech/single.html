@@ -3,6 +3,12 @@
 .cntr > header h1 {
 	margin-bottom: 0.75rem;
 }
+.corps > div {
+	display: inline-block;
+}
+.corps > div > a {
+	padding: 0.2rem;
+}
 </style>
 {{ end }}
 
@@ -21,10 +27,12 @@
 		</header>
 
 		<p>
-			<b>Similar to:</b>
-			{{ range .Params.altfor }}
-				{{ partialCached "bigtech-chip" . . }}
-			{{ end }}
+			<div class="corps">
+				<b>Similar to:</b><br>
+				{{ range .Params.altfor }}
+					<div>{{ partialCached "bigtech-chip" . . }}</div>
+				{{ end }}
+			</div>
 		</p>
 
 		<article>{{ .Content }}</article>
