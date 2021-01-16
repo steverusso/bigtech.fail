@@ -182,12 +182,12 @@ aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 .tags > #seeMore ~ div {
 	padding-bottom: 0.75rem;
 }
-.tags > #seeMore ~ div > .tag.card:nth-child(n+9) {
+.tags > #seeMore ~ div > .tag.card:nth-child(n+8) {
 	display: none;
 }
 .tags > #seeMore:checked + label:after {
 	content: "(Show Fewer)";
 }
-.tags > #seeMore:checked ~ div > .tag.card:nth-child(n+9) {
+.tags > #seeMore:checked ~ div > .tag.card:nth-child(n+8) {
 	display: flex;
 }
