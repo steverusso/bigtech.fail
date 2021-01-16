@@ -40,9 +40,9 @@
 		<aside>
 			<div data-stuff>
 				<h3>Corporations:</h3>
-				<div>
+				<div class="corps grid xs-3">
 					{{ range .Params.platforms }}
-						{{ partialCached "bigtech-chip" . . }}
+						<div>{{ partialCached "bigtech-chip" . . }}</div>
 					{{ end }}
 				</div>
 

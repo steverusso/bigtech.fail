@@ -1,7 +1,7 @@
 <h3>Corporations:</h3>
-<div class="platforms">
+<div class="corps grid xs-3">
 	{{ range site.Data.orderCorps }}
-		{{ partialCached "bigtech-chip" .k .k }}
+		<div>{{ partialCached "bigtech-chip" .k .k }}</div>
 	{{ end }}
 </div>
 

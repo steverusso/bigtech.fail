@@ -145,14 +145,13 @@ h3[data-count] {
 	--height: 28px;
 	background: var(--cardBg);
 	border: var(--border1);
-	border-radius: var(--height);
+	border-radius: 4px;
 	color: var(--articleBold);
-	display: inline-flex;
-	align-items: center;
-	font-size: 0.8rem;
-	height: var(--height);
+	display: inline-block;
+	text-align: center;
+	font-size: 0.7rem;
 	margin: 0 0.25rem 0.5rem;
-	padding: 0 12px;
+	padding: 0.25rem;
 	position: relative;
 }
 .chip:hover {
@@ -162,10 +161,18 @@ h3[data-count] {
 .chip:after {
 	transition: none !important;
 }
-.chip > img {
-	width: 16px !important;
-	height: 16px !important;
-	margin-right: 0.5rem;
+.chip img {
+	display: block;
+	width: 24px !important;
+	height: 24px !important;
+	margin: 0.25rem auto;
+}
+.corps .chip {
+	width: 100%;
+	padding: 0.25rem 0 !important;
+}
+.corps > div {
+	padding: 0 0.25rem !important;
 }
 
 .mb-8 { margin-bottom: 2rem !important }

@@ -26,6 +26,7 @@
 	width: calc(100% / calc(12 / var(--c)));
 	max-width: 100%;
 }
+.grid.xs-3 { --c: 3 }
 @media (max-width: 599px) {
 	.col, .grid > div {
 		padding: 0.75rem 0.25rem;
