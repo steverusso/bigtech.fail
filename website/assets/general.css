@@ -141,8 +141,6 @@ h3[data-count] {
 }
 
 .chip {
-	--c: #607D8B;
-	--height: 28px;
 	background: var(--cardBg);
 	border: var(--border1);
 	border-radius: 4px;
@@ -157,9 +155,6 @@ h3[data-count] {
 .chip:hover {
 	text-decoration: none;
 	border: 1px solid var(--para);
-}
-.chip:after {
-	transition: none !important;
 }
 .chip img {
 	display: block;
