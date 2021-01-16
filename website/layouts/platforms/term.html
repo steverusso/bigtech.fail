@@ -47,10 +47,6 @@ summary {
 			{{ partial "timeline" .Pages }}
 		</section>
 
-		<aside>
-			<div data-stuff>
-				{{ partialCached "tags-drawer" . }}
-			</div>
-		</aside>
+		{{ partialCached "tags-drawer" . }}
 	</main>
 {{ end }}

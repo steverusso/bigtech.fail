@@ -1,24 +1,28 @@
-<h3>Corporations:</h3>
-<div class="corps grid xs-3">
-	{{ range site.Data.orderCorps }}
-		<div>{{ partialCached "bigtech-chip" .k .k }}</div>
-	{{ end }}
-</div>
+<aside>
+	<div data-stuff>
+		<h3>Corporations:</h3>
+		<div class="corps grid xs-3">
+			{{ range site.Data.orderCorps }}
+				<div>{{ partialCached "bigtech-chip" .k .k }}</div>
+			{{ end }}
+		</div>
 
-<h3>General Tags:</h3>
-<div class="tags">
-	<input type="checkbox" id="seeMore">
-	<label for="seeMore"></label>
-	<div>
-		{{ range site.Data.tagsMeta.general }}
-			{{ partialCached "tag-card-count" . . }}
-		{{ end }}
+		<h3>General Tags:</h3>
+		<div class="tags">
+			<input type="checkbox" id="seeMore">
+			<label for="seeMore"></label>
+			<div>
+				{{ range site.Data.tagsMeta.general }}
+					{{ partialCached "tag-card-count" . . }}
+				{{ end }}
+			</div>
+		</div>
+
+		<h3>Specifc Tags:</h3>
+		<div class="tags">
+			{{ range site.Data.tagsMeta.specific }}
+				{{ partialCached "tag-card-count" . . }}
+			{{ end }}
+		</div>
 	</div>
-</div>
-
-<h3>Specifc Tags:</h3>
-<div class="tags">
-	{{ range site.Data.tagsMeta.specific }}
-		{{ partialCached "tag-card-count" . . }}
-	{{ end }}
-</div>
+</aside>
