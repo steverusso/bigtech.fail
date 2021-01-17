@@ -59,11 +59,11 @@
 			</p>
 		</div>
 
-		<div class="links">
+		<div class="corpos">
 			{{ range site.Data.orderCorps }}
 				<a class="card" href="/{{ .k }}/">
-					<img src="/img/logos/{{ .k }}.png" width="44" height="44" loading="lazy">
-					<span>{{ .v }}</span>
+					<img src="/img/logos/{{ .k }}.png" loading="lazy">
+					{{ .v }}
 				</a>
 			{{ end }}
 		</div>

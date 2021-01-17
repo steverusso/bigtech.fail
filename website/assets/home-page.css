@@ -15,28 +15,24 @@
 	max-width: 475px;
 	text-align: right;
 }
-.jtron .links {
+.jtron .corpos {
 	margin: 0 auto 3rem;
 	max-width: 710px;
 	text-align: center;
 }
-.jtron .links a {
+.jtron .corpos a {
+	color: var(--para);
 	border: var(--border2);
 	border-radius: 7px;
-	display: inline-flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
 	font-size: 0.9rem;
 	margin: 0.38rem 0.25rem;
 	width: 108px;
 	height: 108px;
 }
-.jtron .links a:hover {
-	border-color: #aaa;
-}
-.jtron .links a img {
+.jtron .corpos a img {
 	margin-bottom: 0.75rem;
+	width: 40px !important;
+	height: 40px !important;
 }
 @media (max-width: 500px) {
 	.jtron .blurb {

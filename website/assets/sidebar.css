@@ -72,6 +72,7 @@ section > header {
 	margin-bottom: 2rem;
 }
 aside {
+	background: linear-gradient(to right, var(--bodyBg2), var(--bodyBg));
 	border-left: var(--border1);
 	max-width: 100%;
 	padding: 0 !important;
@@ -157,9 +158,36 @@ aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 	}
 }
 
-.tags > :not(:last-child) {
-	margin-bottom: 0.75rem;
+.tags {
+	position: relative;
 }
-.tags > :last-child {
-	margin-bottom: 0.25rem;
+.tags .tag.card {
+	margin-bottom: 0.6rem;
+}
+.tags > #seeMore {
+	display: none;
+}
+.tags > #seeMore + label {
+	color: var(--link);
+	position: absolute;
+	bottom: 1.25rem;
+	left: 0;
+	text-align: center;
+	width: 100%;
+	z-index: 1;
+}
+.tags > #seeMore + label:after {
+	content: "(Show All)";
+}
+.tags > #seeMore ~ div {
+	padding-bottom: 0.75rem;
+}
+.tags > #seeMore ~ div > .tag.card:nth-child(n+8) {
+	display: none;
+}
+.tags > #seeMore:checked + label:after {
+	content: "(Show Fewer)";
+}
+.tags > #seeMore:checked ~ div > .tag.card:nth-child(n+8) {
+	display: flex;
 }

@@ -6,8 +6,8 @@ aside:empty {
 main {
 	justify-content: center;
 }
-[data-stuff] > div > a:not(:first-child) {
-	margin-top: 1rem;
+summary {
+	margin-bottom: 1rem;
 }
 </style>
 {{ end }}
@@ -17,9 +17,7 @@ main {
 	{{ $img := $slug | printf "/img/logos/%s.png" }}
 
 	<input id="sbToggle" type="checkbox">
-	{{ with (index .Site.Taxonomies.altfor $slug) }}
-		<label for="sbToggle"></label>
-	{{ end }}
+	<label for="sbToggle"></label>
 
 	<main>
 		<section>
@@ -27,6 +25,18 @@ main {
 				<img src="{{ $img }}" width="64" height="64" loading="lazy">
 				<h1>{{ .Title | title }}</h1>
 			</header>
+
+			{{ with (index .Site.Taxonomies.altfor $slug) }}
+				<details open>
+					<summary>Some Alternatives:</summary>
+					<div class="grid sm-6 md-4">
+						{{ range . }}
+							<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
+						{{ end }}
+					</div>
+				</details>
+				{{ if ne "" $.Content }}<hr>{{ end }}
+			{{ end }}
 
 			{{ with .Content }}
 				<article>{{ . }}</article>
@@ -37,17 +47,6 @@ main {
 			{{ partial "timeline" .Pages }}
 		</section>
 
-		<aside>
-			{{ with (index .Site.Taxonomies.altfor $slug) }}
-				<div data-stuff>
-					<h3>Alternatives:</h3>
-					<div>
-						{{ range . }}
-							{{ partialCached "cards/alttech" . .RelPermalink }}
-						{{ end }}
-					</div>
-				</div>
-			{{ end }}
-		</aside>
+		{{ partialCached "sidebar" . }}
 	</main>
 {{ end }}

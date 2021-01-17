@@ -16,10 +16,6 @@
 			{{ partial "timeline" .Pages }}
 		</section>
 
-		<aside>
-			<div data-stuff>
-				{{ partialCached "tags-drawer" . }}
-			</div>
-		</aside>
+		{{ partialCached "sidebar" . }}
 	</main>
 {{ end }}

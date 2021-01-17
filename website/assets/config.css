@@ -31,8 +31,8 @@
 
 @media (prefers-color-scheme: light) {
 	:root {
-		--bodyBg: #f8f8f8;
-		--bodyBg2: #f0f0f0;
+		--bodyBg: #fafafa;
+		--bodyBg2: #f4f4f4;
 		--bodyColor: #444;
 
 		--navBg: #222;

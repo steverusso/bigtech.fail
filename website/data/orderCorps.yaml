@@ -2,9 +2,9 @@
 - { k: youtube, v: YouTube }
 - { k: facebook, v: Facebook }
 - { k: patreon, v: Patreon }
-- { k: reddit, v: Reddit }
 - { k: google, v: Google }
 - { k: apple, v: Apple }
 - { k: instagram, v: Instagram }
 - { k: amazon, v: Amazon }
 - { k: mailchimp, v: Mailchimp }
+- { k: reddit, v: Reddit }

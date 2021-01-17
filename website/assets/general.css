@@ -1,6 +1,9 @@
 * {
 	box-sizing: border-box;
 }
+summary:focus {
+	outline: none;
+}
 
 html {
 	scroll-behavior: smooth;
@@ -138,34 +141,6 @@ h3[data-count] {
 .caption {
 	font-size: 0.9rem;
 	color: var(--caption);
-}
-
-.chip {
-	--c: #607D8B;
-	--height: 28px;
-	background: var(--cardTitleBg);
-	border: var(--border1);
-	border-radius: var(--height);
-	color: var(--articleBold);
-	display: inline-flex;
-	align-items: center;
-	font-size: 0.8rem;
-	height: var(--height);
-	margin: 0 0.25rem 0.5rem;
-	padding: 0 12px;
-	position: relative;
-}
-.chip:hover {
-	text-decoration: none;
-	border: 1px solid var(--para);
-}
-.chip:after {
-	transition: none !important;
-}
-.chip > img {
-	width: 16px !important;
-	height: 16px !important;
-	margin-right: 0.5rem;
 }
 
 .mb-8 { margin-bottom: 2rem !important }
