@@ -43,17 +43,6 @@
 	</a>
 {{ end }}
 
-{{ define "partials/cards/bigtech" }}
-	<a class="card" href="{{ .RelPermalink }}">
-		<div>
-			<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
-			<b title="{{ .Title }}">{{ .Params.caption }}</b>
-		</div>
-
-		<p>{{ .Summary | truncate 125 | plainify | safeHTML }}</p>
-	</a>
-{{ end }}
-
 {{ define "partials/tag-card" }}
 	{{ with site.GetPage (printf "/tags/%s" .) }}
 		<a class="tag card" href="{{ .RelPermalink }}">
@@ -75,7 +64,7 @@
 	{{ end }}
 {{ end }}
 
-{{ define "partials/bigtech-chip" }}
+{{ define "partials/cards/bigtech" }}
 	<a class="card" href="/{{ . }}/">
 		<img src="/img/logos/{{ . }}.png" loading="lazy">
 		{{ index site.Data.bigtechNames . | default (. | title) }}

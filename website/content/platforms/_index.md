@@ -1,3 +1,0 @@
----
-title: Failing Platform Profiles
----
