@@ -3,7 +3,7 @@ title: Twitter Suspends Julians Rum
 date: 2020-10-14
 image: /img/people/julians-rum.jpg
 platforms: [ twitter ]
-tags: [ suspended, gov ]
+tags: [ suspended, gov, hunters-laptop ]
 sources:
  - [ 'share.par.pw/post/c05c2a7bfe3344b9a5e7c47801c5aee4', 'https://archive.is/aTyo7' ]
  - [ 'share.par.pw/post/b8016741e46a4a59a9d9a707c89a9a57', 'https://archive.is/JaTYn' ]
@@ -18,6 +18,7 @@ violating the Twitter Rules against "distributing hacked material" after he
 tweeted a link to the [censored NY Post
 exposé](/events/facebook-twitter-suppress-nypost-hunter-expose/) on Hunter
 Biden:
+
 > I was locked out for a week because I shared “hacked materials”
 >
 > Ie, the NYPost’s Hunter Biden story.
