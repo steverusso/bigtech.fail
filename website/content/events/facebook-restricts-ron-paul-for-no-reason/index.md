@@ -11,6 +11,8 @@ sources:
  - [ 'twitter.com/LPNational/status/1348755097363349505', 'https://archive.is/4zx33' ]
  - [ 'Foundation for Economic Education "Facebook Locks Out Ron Paul Following Column Criticizing Big Tech Censorship, Cites ''Error''" by Jon Miltimore (11 Jan 2021)', 'https://archive.is/okHik' ]
  - [ 'Jonathan Turley "Ron Paul Posts Criticism of Censorship on Social Media Shortly Before Facebook Blocks Him" by Jonathan Turley (12 Jan 2021)', 'https://archive.is/2HtAO' ]
+extra:
+ - [ 'twitter.com/RonPaul/status/1349465640642482176', 'https://archive.is/Olm9s' ]
 ---
 
 [Facebook](/facebook/) restricted Ron Paul from creating new pages and managing
@@ -30,4 +32,15 @@ violations.
 This move by Facebook came right aftr Ron Paul posted content that was critical
 of tech censorship. Later that day, Facebook lifted the restrictions and said
 in an email to _Reason_ that the restrictions were placed on his account in
-"error."
+"error." Two days later, Ron Paul [announced](https://archive.is/Olm9s) that
+his content is now on **LBRY.tv** & **Odysee**!
+
+> Looking for new ways to watch the The Ron Paul Liberty Report?
+>
+> You can now find the show on [LBRY.tv](http://LBRY.tv) and Odysee!
+>
+> [lbry.tv/@RonPaul](https://lbry.tv/@RonPaul)
+>
+> [odysee.com/@RonPaul](https://odysee.com/@RonPaul)
+>
+> -- Ron Paul (@RonPaul) [13 Jan 2021](https://archive.is/Olm9s)
