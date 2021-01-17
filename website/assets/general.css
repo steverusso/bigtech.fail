@@ -1,6 +1,9 @@
 * {
 	box-sizing: border-box;
 }
+summary:focus {
+	outline: none;
+}
 
 html {
 	scroll-behavior: smooth;
