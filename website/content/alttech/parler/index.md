@@ -4,6 +4,7 @@ site: www.parler.com
 summary: Parler is a social networking and microblogging service.
 altfor: [ facebook, twitter, instagram ]
 weight: 2
+draft: true
 ---
 
 Parler (which means "to speak" in French) is a social networking and
