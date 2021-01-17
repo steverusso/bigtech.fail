@@ -1,12 +1,10 @@
 ---
-aliases: [ /hunter/ ]
 title: Facebook and Twitter Suppress NY Post Exposé on Hunter Biden
 date: 2020-10-14
 image: /img/logos/nypost.png
 platforms: [ facebook, twitter ]
-tags: [ content-removed, gov ]
+tags: [ content-removed, gov, hunters-laptop ]
 sources:
- - [ 'YouTube "Why Twitter Censored the NY Post Article on Biden" by AwakenWithJP (20 Oct 2020)', 'https://www.youtube.com/watch?v=jrjI2X9TIZA' ]
  - [ 'New York Post "Twitter, Facebook censor Post over Hunter Biden exposé" by Noah Manskar (14 Oct 2020)', 'https://nypost.com/2020/10/14/facebook-twitter-block-the-post-from-posting/' ]
  - [ 'New York Post "Facebook limits spread of The Post’s Hunter Biden exposé" by Noah Manskar (14 Oct 2020)', 'https://nypost.com/2020/10/14/facebook-limits-spread-of-the-posts-hunter-biden-expose/' ]
  - [ 'New York Post "Twitter CEO admits handling of blocked Post article was ‘unacceptable’" by Ben Feuerherd (14 Oct 2020)', 'https://nypost.com/2020/10/14/twitter-ceo-says-handling-of-blocked-post-article-was-unacceptable/' ]
@@ -30,7 +28,6 @@ sources:
  - [ 'Reclaim The Net "Facebook censors leaked emails story alleging Joe Biden corruption" by Tom Parker (14 Oct 2020)', 'https://reclaimthenet.org/facebook-censors-leaked-emails-story-alleging-joe-biden-corruption/' ]
  - [ 'Reclaim The Net "Twitter is blocking links to New York Post Joe and Hunter Biden exposé and locking accounts that share it" by Tom Parker (14 Oct 2020)', 'https://reclaimthenet.org/twitter-censors-biden-nypost-story/' ]
  - [ 'Breitbart "Facebook and Twitter Censor Biden Bombshells Weeks After Execs Join His Transition Team" by Lucas Nolan (15 Oct 2020)', 'https://archive.is/KudKp' ]
- - [ 'twitter.com/VinceCoglianese/status/1316535862264561664', 'https://archive.is/5BeeR' ]
  - [ 'twitter.com/JudiciaryGOP/status/1316485994548547586', 'https://archive.is/iNUVb' ]
  - [ 'threadreaderapp.com/thread/1316525303930458115.html', 'https://archive.is/44IXA' ]
  - [ 'twitter.com/jack/status/1316528193621327876', 'https://archive.is/WHh7g' ]
@@ -39,30 +36,14 @@ sources:
  - [ 'BitChute "Is Social Media Censorship An Attack On Speech?" by Ron Paul Liberty Report (15 Oct 2020)', 'https://www.bitchute.com/video/75OV7n33oK1j/' ]
  - [ 'Reporting by Matt Taibbi "Facebook and Twitter''s Intervention Highlights Dangerous New Double Standard" (17 Oct 2020)', 'https://taibbi.substack.com/p/facebook-and-twitters-intervention-650' ]
  - [ 'twitter.com/andymstone/status/1316395902479872000', 'https://archive.is/eZu88' ]
-extra:
- - [ 'twitter.com/Timcast/status/1316474154233860096', 'https://archive.is/dBc3Y' ]
- - [ 'BitChute "The Hunter Biden Email Bombshell has the Legacy Media and Big Tech in a Damage Control Meltdown" by Styxhexenhammer666 (15 Oct 2020)', 'https://www.bitchute.com/video/FRIRzmpbddU/' ]
- - [ 'BitChute "Twitter CENSORS Government Website EXPOSING Joe Biden Corruption, The LIES About It, Total INSANIT.." by Tim Pool (15 Oct 2020)', 'https://www.bitchute.com/video/UgNWKIXvHp8/' ]
- - [ 'twitter.com/ComicDaveSmith/status/1316553101160128512', 'https://archive.is/UMl3I' ]
- - [ 'twitter.com/ggreenwald/status/1316460818217807872', 'https://archive.is/PoNJw' ]
- - [ 'twitter.com/ggreenwald/status/1316496391548669952', 'https://archive.is/Ol8IP' ]
- - [ 'American Thinker "Does this explain why Facebook suppressed Hunter Biden revelations?" by Andrea Widburg (18 Oct 2020)', 'https://archive.is/RnUJb' ]
- - [ 'Breitbart "Facebook ‘Content Regulation Manager’ Anna Makanju Advised Joe Biden on Ukraine" by Allum Bokhari (18 Oct 2020)', 'https://archive.is/qsTBU' ]
- - [ 'twitter.com/TwitterSafety/status/1322298208236830720', 'https://archive.is/kbVNz' ]
 ---
 
-The New York Post triggered a flurry of censorship after dropping an exposé on
-Hunter Biden titled [_"Smoking-gun email reveals how Hunter Biden introduced
-Ukrainian businessman to VP
-dad"_](https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/),
-which contained allegations that the Senate Homeland Security and Governmental
-Affairs Committee
-[confirmed](https://archive.is/JOKqx#selection-2027.0-2027.190) they were
-investigating shortly after publication.
+[Facebook](/facebook/) and [Twitter](/twitter/) suppressed [an
+exposé](https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/)
+published by the New York Post about Hunter Biden's corruption. Facebook
+spokesperson (and former Democrat Party opertative) Andy Stone confirmed that
+the platform is in fact reducing distribution of the article:
 
-BigTech corporations moved quickly to suppress this information. Facebook
-spokesperson and former Democrat Party opertative Andy Stone confirmed that the
-platform is in fact reducing distribution of the article:
 > While I will intentionally not link to the New York Post, I want be clear
 > that this story is eligible to be fact checked by Facebook's third-party fact
 > checking partners. In the meantime, we are reducing its distribution on our
@@ -70,11 +51,11 @@ platform is in fact reducing distribution of the article:
 >
 > -- Andy Stone (@andymstone) [14 Oct 2020](https://archive.is/eZu88)
 
-Twitter took it to another level by classifying the material obtained by The
-Post as "hacked material", despite the fact that it was reported from the very
-beginning that this material was taken off of a hard drive by [a computer
-repairman](https://archive.is/JtZyH) who turned everything over to the FBI
-_and_, [after not hearing back from the FBI for some
+Twitter took it to another level by classifying the material
+obtained by The Post as "hacked material", despite the fact that it was
+reported from the very beginning that this material was taken off of a hard
+drive by [a computer repairman](https://archive.is/JtZyH) who turned everything
+over to the FBI _and_, [after not hearing back from the FBI for some
 time](https://archive.is/JtZyH#selection-1805.0-1805.343), to Rudy Giuliani’s
 attorney, Robert Costello.
 

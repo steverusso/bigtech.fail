@@ -3,7 +3,7 @@ title: Twitter Suppresses NY Post Follow-Up on Hunter's Corruption in China
 date: 2020-10-15
 image: /img/logos/nypost.png
 platforms: [ twitter ]
-tags: [ suspended, gov ]
+tags: [ suspended, gov, hunters-laptop ]
 sources:
  - [ 'twitter.com/SohrabAhmari/status/1316737095906590721', 'https://archive.is/cstkO' ]
  - [ 'twitter.com/tedcruz/status/1316738930348363776', 'https://archive.is/du8lv' ]
@@ -14,6 +14,7 @@ After [suppressing](/events/facebook-twitter-suppress-nypost-hunter-expose/)
 The New York Post's initial exposé on Hunter Biden, Twitter was at it again the
 following day suppressing The Post's follow-up article regarding Hunter's shady
 dealings in China:
+
 > Twitter is censoring us — again.
 >
 > This is what I — an editor at America’s oldest continuously published
