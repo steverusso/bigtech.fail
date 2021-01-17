@@ -3,6 +3,9 @@
 		width: 850px !important;
 	}
 }
+aside {
+	background: none;
+}
 section > header h1:after {
 	content: attr(data-date);
 	color: var(--caption);
