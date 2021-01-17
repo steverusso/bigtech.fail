@@ -79,7 +79,7 @@
 
 			<div class="timeline">
 				{{ range (site.GetPage "/events").Pages | first 6 }}
-					<div class="item">
+					<div>
 						<u><i></i></u>
 						<div>{{ partialCached "cards/event" . .RelPermalink }}</div>
 					</div>

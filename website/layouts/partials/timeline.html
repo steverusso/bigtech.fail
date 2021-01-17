@@ -2,7 +2,7 @@
 	{{ range . }}
 		{{ $id := substr (.RelPermalink | sha1) 0 5 }}
 
-		<div class="item" id="{{ $id }}">
+		<div id="{{ $id }}">
 			<!-- This is what forms the line with the anchor link in the circle. -->
 			<u><a href="#{{ $id }}"></a></u>
 
