@@ -40,7 +40,6 @@
 	.col.md-6, .grid.md-6 { --c: 6 }
 }
 @media (min-width: 1250px) {
-	.grid.lg-6 { --c: 6 }
 	.grid.lg-4 { --c: 4 }
 }
 
