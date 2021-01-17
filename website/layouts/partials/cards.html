@@ -64,7 +64,7 @@
 	{{ end }}
 {{ end }}
 
-{{ define "partials/bigtech-chip" }}
+{{ define "partials/cards/bigtech" }}
 	<a class="card" href="/{{ . }}/">
 		<img src="/img/logos/{{ . }}.png" loading="lazy">
 		{{ index site.Data.bigtechNames . | default (. | title) }}
