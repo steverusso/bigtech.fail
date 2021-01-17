@@ -35,7 +35,7 @@ summary {
 						{{ end }}
 					</div>
 				</details>
-				<hr>
+				{{ if ne "" $.Content }}<hr>{{ end }}
 			{{ end }}
 
 			{{ with .Content }}
