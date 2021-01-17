@@ -157,20 +157,20 @@
 	right: 0.75rem;
 }
 
-.corps .card {
+.corpos .card {
 	display: inline-flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 	font-size: 0.7rem;
-	margin: 0.38rem 0.25rem;
+	margin: 0.25rem;
 }
-.corps .card img {
+.corpos .card img {
 	display: block;
 	width: 24px !important;
 	height: 24px !important;
-	margin: 0.25rem auto;
+	margin: 0.2rem auto 0.25rem;
 }
-.corps > div {
+.corpos > div {
 	padding: 0.25rem !important;
 }

@@ -15,12 +15,12 @@
 	max-width: 475px;
 	text-align: right;
 }
-.jtron .corps {
+.jtron .corpos {
 	margin: 0 auto 3rem;
 	max-width: 710px;
 	text-align: center;
 }
-.jtron .corps a {
+.jtron .corpos a {
 	color: var(--para);
 	border: var(--border2);
 	border-radius: 7px;
@@ -29,7 +29,7 @@
 	width: 108px;
 	height: 108px;
 }
-.jtron .corps a img {
+.jtron .corpos a img {
 	margin-bottom: 0.75rem;
 	width: 40px !important;
 	height: 40px !important;
