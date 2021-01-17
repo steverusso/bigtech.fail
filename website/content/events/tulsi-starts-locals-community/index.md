@@ -1,5 +1,5 @@
 ---
-title: Tulsi Gabbard Starts Her Own Community on Locals!
+title: Tulsi Gabbard Starts a Community on Locals!
 date: 2021-01-11
 image: /img/people/tulsi-gabbard.jpg
 platforms: [ patreon ]
