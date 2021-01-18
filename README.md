@@ -5,7 +5,6 @@ BigTech.fail is an open-source research project aiming to highlight the dangers 
 * [Website](./website/)
 * [Documentation](./doc/)
 * [Graphics](./graphics/)
-* [Utils](./util/)
 
 ## Licensing
 
