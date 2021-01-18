@@ -3,11 +3,11 @@ title: "Project Veritas: #ExposeTwitter, Part 1"
 date: 2021-01-14
 image: /img/misc/dorsey.jpg
 platforms: [ twitter ]
-tags: [ exposed, policy, election2020 ]
+tags: [ exposed, policy, restricted, election2020 ]
 sources:
+ - [ '', 'https://www.projectveritas.com/news/exclusive-twitter-insider-records-ceo-jack-dorsey-laying-out-roadmap-for/' ]
  - [ 'twitter.com/JamesOKeefeIII/status/1349853804590579713', 'https://archive.is/kxoHk' ]
  - [ 'twitter.com/JamesOKeefeIII/status/1349881697966448643', 'https://archive.is/Y4IkK' ]
- - [ 'New York Post "Jack Dorsey warns Twitter crackdown will be ‘much bigger’ than Trump ban in leaked video" by Lia Eustachewich (15 Jan 2021)', 'https://archive.is/ikhX1' ]
  - [ 'Project Veritas "Round 2, Jack! 01.18.21 11AM" on BitChute (18 Jan 2021)', 'https://www.bitchute.com/video/vzbootPBRkM/?list=subscriptions' ]
 ---
 
@@ -35,3 +35,5 @@ sensitive content."
 > This further VALIDATES the release!
 >
 > -- James O'Keefe (@JamesOKeefeIII) [14 Jan 2021](https://archive.is/Y4IkK)
+
+**See also:** [Project Veritas #ExposeTwitter Part 2](/events/project-veritas-expose-twitter-pt2/)
