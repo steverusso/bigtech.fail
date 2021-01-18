@@ -35,6 +35,10 @@ also suspended any account that previously tweeted it out including the New
 York Post, which remained suspended for over two weeks because they refused to
 delete the tweet containing the link to their article.
 
-The very next day, [Twitter suppressed a follow-up
+The very next day, not only did [Twitter suppressed a follow-up
 article](/events/twitter-suppresses-nypost-followup-on-hunter-corruption-in-china/)
-published by the New York Post regarding Hunter Biden's corruption in China.
+published by the New York Post regarding Hunter Biden's corruption in
+[China](/tags/china/), but [YouTube](/youtube/) coincidentally [purged dozens
+of channels](/events/youtube-purges-harmful-conpsiracy-channels/) that they
+claimed were spreading "harmful conspiracy theories", most of which were about
+to cover this Hunter Biden laptop scandal.
