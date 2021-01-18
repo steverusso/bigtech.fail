@@ -1,6 +1,6 @@
 ---
 title: Patreon Bans JustInformed Talk
-date: 2020-10-22
+date: 2020-10-22T00:00:02.000Z
 image: /img/misc/justinformed-talk.jpg
 platforms: [ patreon ]
 tags: [ banned, defunded ]

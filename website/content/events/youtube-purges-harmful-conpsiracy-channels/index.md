@@ -22,7 +22,9 @@ purge of channels they deemed to be spreading "harmful conspiracy theories":
 > in  one of these harmful conspiracies, such as QAnon or Pizzagate.
 
 Below are just the channels we were able to identify as part of this purge,
-listed in order of subscriber count.
+listed in order of subscriber count. One week later, many of these same
+accounts were suddenly [banned from
+Patreon](/events/patreon-announces-qanon-purge/) as well.
 
 | <small>Channel</small> | <small>Subscriber Count</small> |
 |---|---|

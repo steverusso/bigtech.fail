@@ -1,6 +1,6 @@
 ---
 title: Patreon Bans SGTreport
-date: 2020-10-22
+date: 2020-10-22T00:00:02.000Z
 image: /img/people/sgtreport.jpg
 platforms: [ patreon ]
 tags: [ banned, defunded ]
@@ -15,6 +15,7 @@ sources:
 [Patreon](/patreon/) banned _SGTreport_ in an effort to purge QAnon-related
 accounts shortly after Media Matters published an article titled "Patreon is
 profiting from QAnon." The account had over **1k patrons**.
+
 > So here's how @Patreon @PatreonSupport does it: They CHANGED THEIR POLICY
 > TODAY concerning what THEY call "Qanon" accounts, and then TERMINATED
 > accounts they say violate their NEW policy. Patreon needs to be sued for
@@ -24,6 +25,7 @@ profiting from QAnon." The account had over **1k patrons**.
 
 _SGTreport_ jumped over to [AltTech](/alttech/) by creating a
 [SubscribeStar](/alttech/subscribestar/) account.
+
 > Friends, if you were a Patron, please support me now here instead. Thank YOU.
 > [subscribestar.com/REALsgtreport](https://www.subscribestar.com/REALsgtreport)
 >

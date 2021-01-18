@@ -1,6 +1,6 @@
 ---
 title: Patreon Bans Martin Geddes
-date: 2020-10-22
+date: 2020-10-22T00:00:02.000Z
 image: /img/people/martin-geddes.png
 platforms: [ patreon ]
 tags: [ banned, defunded ]
@@ -12,6 +12,8 @@ sources:
  - [ 'twitter.com/martingeddes/status/1319362173362196485', 'https://archive.is/KYUQE' ]
  - [ 'twitter.com/martingeddes/status/1319380132499492892', 'https://archive.is/BieF3' ]
  - [ 'twitter.com/martingeddes/status/1319398362110660609', 'https://archive.is/0gz0v' ]
+ - [ 'graphtreon.com/creator/martingeddes', 'https://archive.is/ju2OG' ]
+ - [ 'Archive of page removal notice', 'https://archive.is/cWlGa' ]
 ---
 
 Patreon banned Martin Geddes in an effort to purge QAnon-related material
@@ -19,6 +21,7 @@ shortly after Media Matters [published](https://archive.is/KYUQE) an article
 titled "Patreon is profiting from QAnon." He had **[not
 posted](https://archive.is/TCV0y) any QAnon content on Patreon**; they banned
 him for his content on other platforms.
+
 > And I have now been deplatformed by @Patreon too. This is full-on war folks —
 > freedom of expression is dead on all of these platforms. An attack on my
 > ability to fund myself and my family, too. How far will they go in this
@@ -28,6 +31,7 @@ him for his content on other platforms.
 
 He quickly jumped to [AltTech](/alttech/) and informed his followers about his
 [SubscribeStar](/alttech/subscribestar/) account.
+
 > If you wish to support me on a recurring basis, then my initial replacement
 > for @Patreon is @SubscribeStar
 > [subscribestar.com/martingeddes](https://subscribestar.com/martingeddes). I
