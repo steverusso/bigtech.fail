@@ -1,6 +1,6 @@
 ---
 title: Patreon Bans Patriots' Soapbox News Network
-date: 2020-10-22
+date: 2020-10-22T00:00:02.000Z
 image: /img/people/patriots-soapbox.jpg
 profiles: [ patriots-soapbox ]
 platforms: [ patreon ]
@@ -15,6 +15,7 @@ sources:
 [Patreon](/patreon/) banned _Patriots' Soapbox News_ in an effort to purge
 QAnon-related accounts shortly after Media Matters published an article titled
 "Patreon is profiting from QAnon." The account had **62 patrons**.
+
 > I'd also like to take this opportunity here to thank everyone that has
 > supported us, and all the other citizen journos on Patreon the past couple
 > years.

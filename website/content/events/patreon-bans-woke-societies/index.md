@@ -1,6 +1,6 @@
 ---
 title: Patreon Bans Woke Societies
-date: 2020-10-22
+date: 2020-10-22T00:00:02.000Z
 image: /img/people/woke-societies.jpg
 profiles: [ woke-societies ]
 platforms: [ patreon ]

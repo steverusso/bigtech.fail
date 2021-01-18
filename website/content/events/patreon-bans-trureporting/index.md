@@ -1,6 +1,6 @@
 ---
-title: Patreon Bans Trureporting
-date: 2020-10-22
+title: Patreon Bans TRUreporting
+date: 2020-10-22T00:00:02.000Z
 image: /img/people/trureporting.jpg
 profiles: [ trureporting ]
 platforms: [ patreon ]
@@ -18,6 +18,7 @@ sources:
 from YouTube](/events/youtube-bans-trureporting/)) in an effort to remove
 accounts containing QAnon content. The two and a half year old account had
 **334 patrons**.
+
 > 🚨 🚨 :BREAKING: 🚨 🚨
 >
 >
