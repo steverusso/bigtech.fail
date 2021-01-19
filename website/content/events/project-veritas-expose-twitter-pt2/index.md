@@ -1,5 +1,5 @@
 ---
-title: Project Veritas Expose Twitter Pt2
+title: "Project Veritas: #ExposeTwitter Part 2"
 date: 2021-01-18
 image: /img/misc/vijaya.jpg
 platforms: [ twitter ]
