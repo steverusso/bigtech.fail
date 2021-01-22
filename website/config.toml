@@ -19,6 +19,7 @@ summaryLength = 25
 [permalinks]
 	platforms = "/:slug/"
 	altfor = "/:slug/alts"
+	tags = "/t/:slug/"
 
 [markup.goldmark.renderer]
 	unsafe= true

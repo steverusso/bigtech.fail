@@ -1,4 +1,6 @@
 ---
+aliases: [ /tags/suspended/ ]
+title: Suspended
 image: /img/emoji/locked.png
 ---
 

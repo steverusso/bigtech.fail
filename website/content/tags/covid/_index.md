@@ -1,4 +1,5 @@
 ---
+aliases: [ /tags/covid/ ]
 title: COVID-19
 image: /img/icons/beaker.png
 ---

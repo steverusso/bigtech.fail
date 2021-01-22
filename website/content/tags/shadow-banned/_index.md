@@ -1,5 +1,6 @@
 ---
-title: Shadow Banning
+aliases: [ /tags/shadow-banned/ ]
+title: Shadow Banned
 image: /img/icons/shadow-banned.png
 ---
 

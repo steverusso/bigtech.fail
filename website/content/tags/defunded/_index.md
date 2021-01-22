@@ -1,4 +1,6 @@
 ---
+aliases: [ /tags/defunded/ ]
+title: Defunded
 image: /img/icons/money.png
 ---
 

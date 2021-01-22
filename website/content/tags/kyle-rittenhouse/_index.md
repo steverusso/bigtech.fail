@@ -1,5 +1,6 @@
 ---
-aliases: [ /kyle/ ]
+aliases: [ /kyle/, /tags/kyle-rittenhouse/ ]
+slug: kyle
 title: Kyle Rittenhouse
 image: /img/people/kyle-rittenhouse.jpg
 media:
