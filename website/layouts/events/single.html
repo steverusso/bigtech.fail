@@ -49,7 +49,7 @@
 				<h3>Tags:</h3>
 				<div class="tags">
 					{{ range .Params.tags }}
-						{{ partialCached "tag-card" . . }}
+						{{ partialCached "cards/tag" . . }}
 					{{ end }}
 				</div>
 

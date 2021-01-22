@@ -13,7 +13,7 @@
 			<label for="seeMore"></label>
 			<div>
 				{{ range site.Data.tagsMeta.general }}
-					{{ partialCached "tag-card-count" . . }}
+					{{ partialCached "cards/tag-count" . . }}
 				{{ end }}
 			</div>
 		</div>
@@ -21,7 +21,7 @@
 		<h3>Specifc Tags:</h3>
 		<div class="tags">
 			{{ range site.Data.tagsMeta.specific }}
-				{{ partialCached "tag-card-count" . . }}
+				{{ partialCached "cards/tag-count" . . }}
 			{{ end }}
 		</div>
 	</div>
