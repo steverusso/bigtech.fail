@@ -88,11 +88,6 @@ aside, [data-stuff] {
 aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 	width: 0 !important;
 }
-[data-stuff] > div:not(:last-child) {
-	border-bottom: var(--border1);
-	margin-bottom: 2rem;
-	padding-bottom: 2rem;
-}
 [data-stuff] > h3 {
 	display: flex;
 	align-items: center;
@@ -109,6 +104,12 @@ aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 }
 [data-stuff] > div {
 	padding: 0.4rem 0.75rem;
+	position: relative;
+}
+[data-stuff] > div:not(:last-child) {
+	border-bottom: var(--border1);
+	margin-bottom: 2rem;
+	padding-bottom: 2rem;
 }
 @media (max-width: 1249px) {
 	aside {
@@ -158,9 +159,6 @@ aside::-webkit-scrollbar, [data-stuff]::-webkit-scrollbar {
 	}
 }
 
-.tags {
-	position: relative;
-}
 .tags > #seeMore {
 	display: none;
 }

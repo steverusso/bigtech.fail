@@ -1,9 +1,6 @@
 * {
 	box-sizing: border-box;
 }
-summary:focus {
-	outline: none;
-}
 
 html {
 	scroll-behavior: smooth;
@@ -75,8 +72,11 @@ p, li, span, summary {
 	color: var(--para);
 }
 
-details summary {
+summary {
 	cursor: pointer;
+}
+summary:focus {
+	outline: none;
 }
 
 table {
