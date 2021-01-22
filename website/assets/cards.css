@@ -70,13 +70,6 @@
 	padding: 0.75rem;
 }
 
-.ev.card {
-	--imgSize: 80px;
-}
-.ev.card > div {
-	padding: 0.5rem;
-}
-
 .profile.card {
 	border-radius: var(--radius) var(--radius) 0 0;
 }

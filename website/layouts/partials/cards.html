@@ -3,7 +3,7 @@
  1) the header (image, title, meta) and 2) the text preview.
 -->
 {{ define "partials/cards/event" }}
-	<a class="ev card" href="{{ .RelPermalink }}">
+	<a class="card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="{{ .Params.image }}" loading="lazy">
 			<b title="{{ .Title }}">{{ .Date.Format `2 Jan 2006` }}</b>
