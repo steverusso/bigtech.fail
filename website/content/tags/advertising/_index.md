@@ -1,4 +1,6 @@
 ---
+aliases: [ /tags/advertising/ ]
+slug: advertising
 title: No Advertising
 image: /img/icons/ads.png
 ---

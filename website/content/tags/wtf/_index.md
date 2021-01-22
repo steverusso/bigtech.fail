@@ -1,5 +1,7 @@
 ---
-title: WTF...
+aliases: [ /tags/wtf/ ]
+slug: wtf
+title: Wtf...
 image: /img/emoji/face-monocle.png
 ---
 

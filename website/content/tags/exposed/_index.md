@@ -1,4 +1,6 @@
 ---
+aliases: [ /tags/exposed/ ]
+title: Exposed
 image: /img/emoji/face-shocked.png
 ---
 

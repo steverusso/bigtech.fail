@@ -1,5 +1,6 @@
 ---
-aliases: [ /hunter/ ]
+aliases: [ /hunter/, /tags/hunter/ ]
+slug: hunters-laptop
 title: Hunter Laptop Scandal
 image: /img/misc/hunter.jpg
 sources:

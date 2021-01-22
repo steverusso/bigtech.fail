@@ -1,4 +1,5 @@
 ---
+aliases: [ /tags/us-capitol-riot/ ]
 title: US Capitol Riot
 image: /img/emoji/flag-us.png
 sources:

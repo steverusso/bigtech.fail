@@ -1,4 +1,6 @@
 ---
+aliases: [ /tags/walked-away/ ]
+slug: leave
 title: Voluntarily Left
 image: /img/emoji/waving-hand.png
 ---

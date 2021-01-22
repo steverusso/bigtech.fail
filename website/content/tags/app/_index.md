@@ -1,4 +1,5 @@
 ---
+aliases: [ /tags/apps/ ]
 title: Apps
 image: /img/icons/apps.png
 extra:

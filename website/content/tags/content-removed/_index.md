@@ -1,4 +1,5 @@
 ---
+aliases: [ /tags/content-removed/ ]
 title: Content Removed
 image: /img/emoji/no-entry.png
 ---

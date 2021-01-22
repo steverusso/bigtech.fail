@@ -1,4 +1,6 @@
 ---
+aliases: [ /tags/china/ ]
+title: China
 image: /img/emoji/flag-china.png
 ---
 

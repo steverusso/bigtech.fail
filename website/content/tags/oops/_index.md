@@ -1,4 +1,6 @@
 ---
+aliases: [ /tags/oops/ ]
+title: Oops!
 image: /img/emoji/face-with-hand-over-mouth.png
 ---
 
