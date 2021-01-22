@@ -3,7 +3,7 @@ title: Dan Bongino Leaves Twitter
 date: 2021-01-08
 image: /img/people/dan-bongino.jpg
 platforms: [ twitter ]
-tags: [ walked-away, alttech-growth, election2020, capitol-riots ]
+tags: [ walked-away, alttech-growth, election2020, capitol-riot ]
 sources:
  - [ 'twitter.com/dbongino/status/1347246550355996675', 'https://archive.is/D5wAa' ]
  - [ 'twitter.com/dbongino/status/1347511086824747011', 'https://archive.is/3IQZw' ]

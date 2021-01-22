@@ -3,7 +3,7 @@ title: YouTube Bans Trump
 date: 2021-01-12
 image: /img/people/trump.jpg
 platforms: [ youtube ]
-tags: [ banned, content-removed, gov, election2020, capitol-riots ]
+tags: [ banned, content-removed, gov, election2020, capitol-riot ]
 sources:
  - [ 'twitter.com/YouTubeInsider/status/1349205688694812672', 'https://archive.is/9tYF4' ]
  - [ 'twitter.com/YouTubeInsider/status/1349205689395245056', 'https://archive.is/awDGL' ]

@@ -1,5 +1,5 @@
 ---
-title: US Capitol Riots
+title: US Capitol Riot
 image: /img/emoji/flag-us.png
 sources:
  - [ 'Reclaim The Net "Facebook bans videos and photos from protesters at the US Capitol" by Tom Parker (6 Jan 2021)', 'https://reclaimthenet.org/facebook-bans-capitol-protest-photos-videos/' ]

@@ -3,7 +3,7 @@ title: Twitch & Snapchat Suspend President Trump
 date: 2021-01-07
 image: /img/people/trump.jpg
 platforms: [ twitch, snapchat ]
-tags: [ suspended, gov, election2020, capitol-riots ]
+tags: [ suspended, gov, election2020, capitol-riot ]
 sources:
  - [ 'Reclaim The Net "Snapchat and Twitch disable President Trump’s accounts" by Christina Maas (7 Jan 2021)', 'https://reclaimthenet.org/snapchat-and-twitch-disable-president-trumps-accounts/' ]
  - [ 'The Federalist "Snapchat Joins Big Tech Censorship Campaign To Ban President Trump" by Jordan Davidson (7 Jan 2021)', 'https://thefederalist.com/2021/01/07/snapchat-joins-big-tech-censorship-campaign-to-ban-president-trump/' ]

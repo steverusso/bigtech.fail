@@ -3,7 +3,7 @@ title: Apple Removes Parler's App & Amazon Disables Parler's Servers
 date: 2021-01-09
 image: /img/logos/parler.png
 platforms: [ apple, amazon ]
-tags: [ banned, app, gov, election2020, capitol-riots ]
+tags: [ banned, app, gov, election2020, capitol-riot ]
 sources:
  - [ 'parler.com/post/009ba435b68c46d4955e1cd7737fa27c', 'https://archive.is/EmECm' ]
  - [ 'Breitbart "Apple Joins Google in Blacklisting Parler" by Alana Mastrangelo (9 Jan 2021)', 'https://www.breitbart.com/tech/2021/01/09/apple-joins-google-in-blacklisting-parler/' ]

@@ -3,7 +3,7 @@ title: Twitter Removes 70k Accounts; Right Wing Leaders Hemorrhage Followers
 date: 2021-01-13
 image: /img/misc/shadow-twitter.png
 platforms: [ twitter ]
-tags: [ election2020, capitol-riots ]
+tags: [ election2020, capitol-riot ]
 sources:
  - [ 'Twitter Blog "An update following the riots in Washington, DC" by Twitter Safety (12 Jan 2021)', 'https://archive.is/LC22Z' ]
  - [ 'New York Post "Twitter purge decimates GOP senators after Capitol riot, but Democrats gain" by Jon Levine (16 Jan 2021)', 'https://archive.is/t44pw' ]

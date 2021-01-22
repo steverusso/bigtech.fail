@@ -3,7 +3,7 @@ title: Twitter & Facebook Suspend President Trump
 date: 2021-01-06
 image: /img/people/trump.jpg
 platforms: [ twitter, facebook, instagram ]
-tags: [ suspended, content-removed, gov, election2020, capitol-riots ]
+tags: [ suspended, content-removed, gov, election2020, capitol-riot ]
 sources:
  - [ 'twitter.com/TwitterSafety/status/1346970430062485505', 'https://archive.is/lvlJh' ]
  - [ 'facebook.com/zuck/posts/10112681480907401', 'https://archive.is/8RtvW' ]
