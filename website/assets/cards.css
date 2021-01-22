@@ -151,13 +151,16 @@
 	right: 0.75rem;
 }
 
+.corpos {
+	padding-top: 0 !important;
+}
 .corpos .card {
 	display: inline-flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 	font-size: 0.7rem;
-	margin: 0.25rem;
+	padding: 0.25rem;
 }
 .corpos .card img {
 	display: block;
