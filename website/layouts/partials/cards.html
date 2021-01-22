@@ -45,7 +45,7 @@
 
 {{ define "partials/tag-card" }}
 	{{ with site.GetPage (printf "/tags/%s" .) }}
-		<a class="tag card" href="{{ .RelPermalink }}">
+		<a class="card" href="{{ .RelPermalink }}">
 			{{ with .Params.image }}
 				<img src="{{ . }}" loading="lazy">
 			{{ end }}
@@ -57,7 +57,7 @@
 
 {{ define "partials/tag-card-count" }}
 	{{ with site.GetPage (printf "/tags/%s" .) }}
-		<a class="tag card" href="{{ .RelPermalink }}">
+		<a class="card" href="{{ .RelPermalink }}">
 			<img src="{{ .Params.image }}" loading="lazy">
 			<div data-count="{{ len .Pages }}">{{ .LinkTitle | default ($ | title) }}</div>
 		</a>

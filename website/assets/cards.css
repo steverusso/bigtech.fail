@@ -64,7 +64,7 @@
 	font-weight: 400;
 }
 .card > p {
-	font-size: 0.95rem;
+	font-size: 0.98rem;
 	line-height: 1.75;
 	margin: 0;
 	padding: 0.75rem;
@@ -105,12 +105,13 @@
 	margin: 0 0 0.25rem 0;
 }
 
-.tag.card {
+.tags .card {
 	display: flex;
 	align-items: center;
 	font-size: 0.9rem;
+	margin-bottom: 0.6rem;
 }
-.tag.card > :first-child {
+.tags .card > :first-child {
 	background: var(--cardTitleBg);
 	border-right: var(--border1);
 	border-top-right-radius: 0;
@@ -120,26 +121,26 @@
 	width: 40px !important;
 	height: 40px !important;
 }
-.tag.card > :last-child:not([data-count]):after {
+.tags .card > :last-child:not([data-count]):after {
 	content: "\2794";
 	color: var(--caption);
 	position: absolute;
 	right: 0.75rem;
 }
-.tag.card > u {
+.tags .card > u {
 	display: flex;
 	align-items: center;
 	padding: 0;
 	text-decoration: none;
 }
-.tag.card div[data-count] {
+.tags .card div[data-count] {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 	padding: 0 0.75rem 0 0;
 	width: 100%;
 }
-.tag.card div[data-count]:after {
+.tags .card div[data-count]:after {
 	--h: 21px;
 	--fs: 15px;
 	background: var(--bodyBg);
