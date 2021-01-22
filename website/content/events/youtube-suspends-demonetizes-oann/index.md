@@ -9,6 +9,8 @@ sources:
  - [ 'Reclaim The Net "YouTube suspends and demonetizes OAN for “COVID-19 misinformation”" by Tom Parker (24 Nov 2020)', 'https://reclaimthenet.org/youtube-suspends-demonetizes-oann-covid-misinformation/' ]
  - [ 'The Epoch Times "OAN Responds After YouTube Temporarily Bans, Demonetizes Outlet Over ‘Unlisted’ COVID-19 Video" by Mimi Nguyenly (24 Nov 2020)', 'https://archive.is/qNZkF' ]
  - [ 'twitter.com/OANN/status/1334588260664786947', 'https://archive.is/oFjXA' ]
+extra:
+ - [ 'zerohedge.com/political/youtube-suspends-pro-trump-news-network-oann-completely-demonetizes-channel-over-covid-19', 'https://archive.is/Krbp5' ]
 ---
 
 [YouTube](/youtube/) demonetized _One America News_, a right wing media outlet,
