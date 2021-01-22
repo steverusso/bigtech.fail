@@ -70,10 +70,10 @@
 	padding: 0.75rem;
 }
 
-.profile.card {
+.profiles .card {
 	border-radius: var(--radius) var(--radius) 0 0;
 }
-.profile.card + div {
+.profiles .card + div {
 	background: var(--cardTitleBg);
 	border: var(--border1);
 	border-top: 1px solid transparent;
@@ -83,18 +83,18 @@
 	flex-flow: row wrap;
 	align-items: center;
 }
-.profile.card + div a {
+.profiles .card + div a {
 	padding: 0.5rem;
 	border-radius: 50%;
 }
-.profile.card + div a:hover {
+.profiles .card + div a:hover {
 	background: var(--shadowColor);
 }
-.profile.card + div a img {
+.profiles .card + div a img {
 	width: 24px !important;
 	height: 24px !important;
 }
-.profile.card b:before {
+.profiles .card b:before {
 	margin: 0 0 0.25rem 0;
 }
 
@@ -142,7 +142,7 @@
 }
 
 .alttech.card div:after,
-.profile.card div:after {
+.profiles .card div:after {
 	content: "\2794";
 	color: var(--caption);
 	font-size: 1.4rem;

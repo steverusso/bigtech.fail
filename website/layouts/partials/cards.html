@@ -20,7 +20,7 @@
  the card since it's illegal for `a` elements to contain other `a` elements.
 -->
 {{ define "partials/cards/profile" }}
-	<a class="profile card" href="{{ .RelPermalink }}">
+	<a class="card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="{{ partialCached `profile-pic.html` . .Title }}" loading="lazy">
 			<b title="{{ .Title }}">{{ .Params.aka | default "" }}</b>
@@ -46,10 +46,7 @@
 {{ define "partials/cards/tag" }}
 	{{ with site.GetPage (printf "/tags/%s" .) }}
 		<a class="card" href="{{ .RelPermalink }}">
-			{{ with .Params.image }}
-				<img src="{{ . }}" loading="lazy">
-			{{ end }}
-
+			<img src="{{ .Params.image }}" loading="lazy">
 			<u>{{ .LinkTitle | default ($ | title) }}</u>
 		</a>
 	{{ end }}
