@@ -13,7 +13,9 @@ sources:
  - [ 'Press For Truth - altCensored', 'https://altcensored.com/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
  - [ 'Press For Truth''s YouTube Stats (Summary Profile) - Social Blade Stats', 'https://socialblade.com/youtube/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
 extra:
- - 'https://lbry.tv/@PressForTruth:4/PFT-Terminated-VIDEO:a'
+ - [ '', 'https://lbry.tv/@PressForTruth:4/PFT-Terminated-VIDEO:a' ]
+ - [ 'twitter.com/TeamYouTube/status/1352679448831733762', 'https://archive.is/gb2Ay' ]
+ - [ '', 'https://www.bitchute.com/video/UTedM6e2t3ht/' ]
 ---
 
 YouTube "permanently disabled" _Press For Truth_, an independent media channel
