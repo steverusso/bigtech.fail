@@ -15,14 +15,15 @@ sources:
  - [ 'twitter.com/tsidpod/status/1347658911378272259', 'https://archive.is/iDsby' ]
 ---
 
-[Facebook](/facebook/) took drastic action against Dan Smotz, host of [_The
-System Is Down_](/profiles/tsid/) podcast. After publishing an episode of the
-podcast titled _204: Is Cue A-non Dead? Is Epstein Alive? Where's The Kraken?
-#TrustThePlan? w. Scott McElroy_, Facebook banned Smotz's personal account and
-any pages on which he was an admin **as well as** his wife's personal account
-and any pages on which _she_ was an admin. Speaking with BigTech.fail, Smotz
-confirmed that Facebook did all of this **without contacting him once**,
-meaning **no warning, no explanation, and no possibilty for appeal**.
+[Facebook](/facebook/) took drastic action against Dan Smotz, host of a podcast
+called [_The System Is Down_](/profiles/tsid/), after he published an episode
+titled _204: Is Cue A-non Dead? Is Epstein Alive? Where's The Kraken?
+#TrustThePlan? w. Scott McElroy_. Facebook not only banned Smotz's personal
+account **and all of his other separate business pages**, but also his wife's
+personal account and _her own_ separate business page. Speaking with
+BigTech.fail, Smotz confirmed that Facebook did all of this **without
+contacting him once**, meaning there was **no warning, no explanation, and no
+possibilty for appeal**.
 
 >  As many of you know, my podcast page The System is Down, got banned from
 >  Facebook this week... But it wasn’t just the podcast... It was my personal
@@ -39,7 +40,7 @@ meaning **no warning, no explanation, and no possibilty for appeal**.
 
 Therefore, Smotz and his wife had to infer from [recent
 events](/t/us-capitol-riot/) and news articles that they were banned due to the
-discussion of QAnon despite **Smotz not subscribing to this theory himself and
+discussion of QAnon despite **Smotz himself not subscribing to this theory and
 largely pushing back against it in the episode**. Ironically, in the opening of
 that episode, Smotz [explained](https://youtu.be/f1shf3h9474?t=468) the
 importance of exploring different avenues of thought and thinking for
