@@ -1,5 +1,5 @@
 ---
-title: Facebook and Instagram Suppress Tucker's Interview With Dr. Li-Meng Yan
+title: Facebook & Instagram Suppress Tucker's Interview With Li-Meng Yan
 date: 2020-09-16
 image: /img/people/tucker-carlson.jpg
 platforms: [ facebook, instagram ]
