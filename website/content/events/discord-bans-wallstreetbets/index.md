@@ -1,5 +1,4 @@
 ---
-url: /discord-wallstreetbets/
 title: Discord Bans WallStreetBets
 date: 2021-01-27
 image: /img/logos/wallstreetbets.png
