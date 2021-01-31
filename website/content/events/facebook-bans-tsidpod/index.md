@@ -54,6 +54,11 @@ ourselves:
 > you think that exploring different avenues of thought [...] [is] dangerous,
 > then that's just because you don't know how to think for yourself.
 
+A few weeks later, Facebook reinstated Smotz's personal account and most of his
+other business pages, as well as his wife's business page (but not her personal
+account). They also took down the second podcast page, _The System is Down 2_.
+This had all been done, still, without a single communication from Facebook.
+
 In a statement, Smotz pointed out that these technology corporations are
 essentially functioning as new branches of government, and that this is not so
 much about a particular set of political beliefs, but rather "if you question
