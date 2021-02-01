@@ -3,6 +3,8 @@ aliases: [ /gov/, /tags/gov/ ]
 slug: gov
 title: Government
 image: /img/emoji/poo.png
+extra:
+ - [ 'twitter.com/Policy/status/1293632898294259714', 'https://archive.is/OAyHm' ]
 ---
 
 BigTech and Government are deeply intertwined with one another, and [China is

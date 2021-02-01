@@ -2,6 +2,8 @@
 aliases: [ /tags/china/ ]
 title: China
 image: /img/emoji/flag-china.png
+extra:
+ - [ 'Reclaim The Net "China is jailing Twitter users for posts critical of the Chinese Communist Party" by Didi Rankovic (31 Jan 2021)', 'https://reclaimthenet.org/china-is-jailing-twitter-users-for-posts-critical-of-the-ccp/' ]
 ---
 
 A few events here or there where BigTech censorship happens to favor China
