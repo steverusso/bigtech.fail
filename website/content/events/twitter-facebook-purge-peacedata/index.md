@@ -3,7 +3,7 @@ title: Twitter & Facebook Purge Accounts Related to PeaceData
 date: 2020-09-01
 image: /img/misc/peacedata.png
 platforms: [ twitter, facebook ]
-tags: [ banned, gov ]
+tags: [ banned, gov, fbi ]
 sources:
  - [ 'twitter.com/TwitterSafety/status/1300848632120242181', 'https://archive.is/wyArd' ]
  - [ 'Facebook Newsroom "August 2020 Coordinated Inauthentic Behavior Report" (1 Sep 2020)', 'https://archive.is/CtCF9' ]
