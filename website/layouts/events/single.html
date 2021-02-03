@@ -27,14 +27,15 @@
 
 			<article>{{ .Content }}</article>
 
-			<h3>Sources:</h3>
-			<ol class="sources">
-				{{ range .Params.sources }}
-					{{ $href := index . 1 }}
-					{{ $text := index . 0 | default $href }}
-					<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
-				{{ end }}
-			</ol>
+			<details data-srcs open><summary></summary>
+				<ol>
+					{{ range .Params.sources }}
+						{{ $href := index . 1 }}
+						{{ $text := index . 0 | default $href }}
+						<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
+					{{ end }}
+				</ol>
+			</details>
 		</section>
 
 		<aside>

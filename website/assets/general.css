@@ -100,10 +100,14 @@ tr:nth-child(odd) {
 	background-color: var(--cardBg);
 }
 
-.sources {
+[data-srcs] summary:after {
+	content: "Sources / Relevant Material";
+	display: inline-block;
+}
+[data-srcs] ol {
 	overflow: hidden;
 }
-.sources li {
+[data-srcs] li {
 	font-size: 0.95rem;
 	margin-bottom: 0.5rem;
 	line-height: 1.75;

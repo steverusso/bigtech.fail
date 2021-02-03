@@ -15,7 +15,7 @@ section > header h1:after {
 }
 section > article {
 	border-bottom: var(--border1);
-	margin-bottom: 1.5rem;
+	margin-bottom: 2.5rem;
 }
 @media (max-width: 450px) {
 	section > header {

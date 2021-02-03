@@ -13,9 +13,8 @@
 				{{ .Content }}
 
 				{{ with .Params.sources }}
-					<details>
-						<summary>Sources / Relevant Material</summary>
-						<ol class="sources">
+					<details data-srcs><summary></summary>
+						<ol>
 							{{ range . }}
 								{{ $href := index . 1 }}
 								{{ $text := index . 0 | default $href }}
