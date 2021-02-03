@@ -18,8 +18,3 @@
 	{{ $css := $res.Content | safeCSS }}
 	<style>{{ $css }}</style>
 {{ end }}
-
-{{ define "partials/css/events" }}
-	{{ $css := resources.Get "event-page.css" | minify | fingerprint "sha512" }}
-	<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
-{{ end }}
