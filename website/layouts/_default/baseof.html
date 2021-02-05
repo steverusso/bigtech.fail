@@ -10,7 +10,10 @@
 		<!-- This allows a page to include CSS that's not global. -->
 		{{ block "style" . }} {{ end }}
 
-		<link rel="shortcut icon" href="/img/bigtechfail-short-96.png">
+		<link rel="icon" href="/favicon.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon-180.png">
 
 		<meta property="og:image" content="http://bigtech.fail/img/social-media-share.png">
 		<meta property="og:description" content="{{ block `ogdesc` . }}The censorship, propaganda, and mass surveillance from today's technology corporations and governments.{{ end }}">
@@ -20,10 +23,10 @@
 	</head>
 
 	<body>
-		{{ partialCached "nav.html" . .IsHome }}
+		{{ partialCached "nav" . .IsHome }}
 
 		{{ block "main" . }} {{ end }}
 
-		{{ partialCached "footer.html" . }}
+		{{ partialCached "footer" . }}
 	</body>
 </html>
