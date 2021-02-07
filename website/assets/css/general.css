@@ -155,7 +155,7 @@ h3[data-count] {
 	}
 }
 .evtpg aside {
-	background: none;
+	background: var(--bodyBg);
 }
 .evtpg section > header h1:after {
 	content: attr(data-date);
