@@ -162,6 +162,7 @@
 	font-size: 0.7rem;
 	padding: 0.25rem;
 }
+.corpos .card img,
 .corpos .card .img {
 	margin: 0.2rem auto 0.25rem;
 	position: relative;
