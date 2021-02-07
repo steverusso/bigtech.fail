@@ -3,7 +3,12 @@
 		<h3>Corporations:</h3>
 		<div class="corpos grid xs-3">
 			{{ range site.Data.orderCorps }}
-				<div>{{ partialCached "cards/bigtech" .k .k }}</div>
+				<div>
+					<a class="card" href="/{{ .k }}/">
+						<i class="img {{ .k }}"></i>
+						{{ index site.Data.bigtechNames .k | default (.k | title) }}
+					</a>
+				</div>
 			{{ end }}
 		</div>
 

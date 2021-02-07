@@ -1,0 +1,15 @@
+.img:after {
+	content: "";
+	background: no-repeat center/100% var(--url) !important;
+	width: 100%;
+	height: 100%;
+}
+
+{{ range site.Data.orderCorps }}
+	{{ $imgPath := printf "logos/%s.png" .k }}
+	{{ $imgRes := resources.Get $imgPath }}
+
+	.img.{{ .k }} {
+		--url: url('data:image/png;base64,{{ $imgRes.Content | base64Encode }}');
+	}
+{{ end }}

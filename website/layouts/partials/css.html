@@ -7,8 +7,12 @@
 		{{ $sheets = $sheets | append (printf "css/%s" . | resources.Get) }}
 	{{ end }}
 
+	<!-- Add the CSS that contains the base64 for various images. -->
+	{{ $images := resources.Get "css/images.css" }}
+	{{ $sheets = $sheets | append (resources.ExecuteAsTemplate "" . $images) }}
+
 	<!-- Bundle the stylesheet resources and fingerprint the bundle. -->
-	{{ $css := $sheets | resources.Concat "/css/main.css" | minify | fingerprint "sha512" }}
+	{{ $css := resources.Concat "/css/main.css" $sheets | minify | fingerprint "sha512" }}
 
 	<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ end }}
