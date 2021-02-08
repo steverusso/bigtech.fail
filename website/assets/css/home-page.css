@@ -29,7 +29,7 @@
 	width: 108px;
 	height: 108px;
 }
-.jtron .corpos a img {
+.jtron .corpos a .img {
 	margin-bottom: 0.75rem;
 	width: 40px !important;
 	height: 40px !important;
@@ -89,6 +89,12 @@
 	cursor: pointer;
 	display: inline-flex;
 	width: 160px;
+}
+.altfor-map label > :first-child {
+	display: inline-flex;
+	margin-right: 0.5rem;
+	width: 24px;
+	height: 24px;
 }
 @media (max-width: 420px) {
 	.altfor-map label { width: 80px; padding-right: 0 }
