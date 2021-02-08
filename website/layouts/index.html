@@ -2,7 +2,7 @@
 	{{ partial "css/inline" "home-page.css" }}
 {{ end }}
 
-{{ define "partials/home-usealttech" }}
+{{ define "partials/home/usealttech" }}
 	<div class="cntr use-alttech">
 		<div class="row align-center">
 
@@ -26,7 +26,7 @@
 							<input type="radio" name="platform" id="{{ $k }}"{{ if eq $i 0 }}checked{{ end }}>
 
 							<label for="{{ $k }}">
-								<img src="/img/logos/{{ $k }}.png" width="24" height="24" loading="lazy">
+								<div class="img {{ $k }}"></div>
 								<div>{{ $v }}</div>
 							</label>
 
@@ -48,9 +48,11 @@
 {{ end }}
 
 {{ define "main" }}
+	{{ $jtronImg := resources.Get "static/logo.png" }}
+
 	<div class="jtron">
 		<div class="cntr">
-			<img src="/logo.png" width="400" height="auto">
+			<img src="data:image/png;base64,{{ $jtronImg.Content | base64Encode }}" width="400" height="auto">
 			<hr>
 			<p class="blurb">
 				Shining a light on the censorship,&nbsp;<br>
@@ -62,14 +64,14 @@
 		<div class="corpos">
 			{{ range site.Data.orderCorps }}
 				<a class="card" href="/{{ .k }}/">
-					<img src="/img/logos/{{ .k }}.png" loading="lazy">
+					<i class="img {{ .k }}"></i>
 					{{ .v }}
 				</a>
 			{{ end }}
 		</div>
 	</div>
 
-	{{ partial "home-usealttech" . }}
+	{{ partial "home/usealttech" . }}
 
 	<!-- The short timeline of the six most recent events. -->
 	<div class="recent-events">
