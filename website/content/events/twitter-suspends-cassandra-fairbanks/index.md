@@ -4,6 +4,7 @@ date: 2020-08-30
 image: /img/people/cassandra-fairbanks.jpg
 platforms: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
+profiles: [ cassandra-fairbanks ]
 sources:
  - [ 'twitter.com/JackPosobiec/status/1300108564636278786', 'https://archive.is/hUXRp' ]
  - [ 'twitter.com/ElijahSchaffer/status/1300207189475446784', 'https://archive.is/Hkv3Q' ]

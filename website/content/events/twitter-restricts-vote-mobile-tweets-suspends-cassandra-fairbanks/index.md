@@ -4,7 +4,7 @@ date: 2021-02-05
 image: /img/misc/shadow-twitter.png
 platforms: [ twitter ]
 tags: [ restricted, suspended, gov, election2020 ]
-profiles: [ tim-pool ]
+profiles: [ cassandra-fairbanks, tim-pool ]
 sources:
  - [ 'twitter.com/CassandraRules/status/1357708988482269189', 'https://archive.is/TeegJ' ]
  - [ 'The Gateway Pundit "Exclusive: The TCF Center Election Fraud – Newly Discovered Video Shows Late Night Deliveries of Tens of Thousands of Illegal Ballots 8 Hours After Deadline" by Jim Hoft (5 Feb 2021)', 'https://archive.is/ehruB' ]
