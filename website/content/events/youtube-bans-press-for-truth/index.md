@@ -1,10 +1,10 @@
 ---
-title: YouTube Bans Press For Truth
+title: YouTube Bans Press For Truth (Reinstated)
 date: 2020-07-14
 image: /img/logos/press-for-truth.jpg
 profiles: [ dan-dicks ]
 platforms: [ youtube ]
-tags: [ banned ]
+tags: [ banned, oops ]
 sources:
  - [ 'twitter.com/DanDicksPFT/status/1283064872712863745', 'http://archive.is/nMKUk' ]
  - [ 'BitChute "DAN DICKS CENSORED - The Press For Truth YouTube Channel Has Been PERMANENTLY DELETED!!!" by Press For Truth (15 Jul 2020)', 'https://www.bitchute.com/video/oQiBNoHkFCHQ/' ]
@@ -12,16 +12,17 @@ sources:
  - [ 'BitChute "Dan Dicks Wiped Off YT, TDV Under Attack As The Great Reset Goes Into Hyperdrive" by Dollar_Vigilante (16 Jul 2020)', 'https://www.bitchute.com/video/1Xf2OqMTj2Mg/' ]
  - [ 'Press For Truth - altCensored', 'https://altcensored.com/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
  - [ 'Press For Truth''s YouTube Stats (Summary Profile) - Social Blade Stats', 'https://socialblade.com/youtube/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
+ - [ 'twitter.com/TeamYouTube/status/1352679448831733762', 'https://archive.is/gb2Ay' ]
+ - [ 'Press For Truth "The Press For Truth YouTube Channel HAS BEEN REINSTATED…SORT OF" on BitChute (22 Jan 2021)', 'https://www.bitchute.com/video/UTedM6e2t3ht/' ]
+ - [ 'Press For Truth "Wow Guess Who’s Back!!! What’s The Plan For This Channel?…" on BitChute (9 Feb 2021)', 'https://www.bitchute.com/video/Fc7IWyW3veQ/' ]
 extra:
  - [ '', 'https://lbry.tv/@PressForTruth:4/PFT-Terminated-VIDEO:a' ]
- - [ 'twitter.com/TeamYouTube/status/1352679448831733762', 'https://archive.is/gb2Ay' ]
- - [ '', 'https://www.bitchute.com/video/UTedM6e2t3ht/' ]
 ---
 
-YouTube "permanently disabled" _Press For Truth_, an independent media channel
-run by Dan Dicks. His **14 year old channel** had about **272k subscribers**
-and over **35 million lifetime views**, and it was removed without any warning,
-guidelines strike, or explanation.
+[YouTube](/youtube/) "permanently disabled" _Press For Truth_, an independent
+media channel run by Dan Dicks. His **14 year old channel** had about **272k
+subscribers** and over **35 million lifetime views**, and it was removed
+without any warning, guidelines strike, or explanation.
 
 > My life’s work, 14 years, 5 documentary films, over 270k subscribers, over
 > 35m views, all gone, no warning, no email, nothing!!! Please message
@@ -36,3 +37,18 @@ titled **The WAYFAIR CONSPIRACY Is A PSYOP RED HERRING Designed To DISTRACT YOU
 FROM THE TRUTH!!!** which can still be viewed [on
 BitChute](https://www.bitchute.com/video/93VJREXyewE/) and [on
 LBRY](https://lbry.tv/@PressForTruth:4/the-wayfair-conspiracy-is-a-psyop-red:8).
+
+**About six months later** (and less than two days after Biden's inauguration),
+YouTube reached out to Dan Dicks and said that this was a "mistake" and that
+his channel would be reinstated. YouTube "reinstated" the channel, but they
+gave it a strike for the last uploaded video without actually removing the
+video. Dicks had to appeal this strike, which he won a few weeks later, and
+then his channel was back to normal. In [a video
+update](https://www.bitchute.com/video/Fc7IWyW3veQ/) regarding this reversal,
+Dicks talked about how frustratingly unreliable YouTube has now become:
+
+> To bring me back now is almost kind of frustrating to think that after 14
+> years of putting so much effort into building up this platform, that I would
+> just come back now because they just said "Here you go. Oops! Our mistake."
+> and expect me to just build up this platform again, continue to bring in
+> users, and what? All for them to take it all away again in a year from now?
