@@ -1,0 +1,91 @@
+{{ define "style" }}
+<style>
+header {
+	border-bottom: none !important;
+}
+.cntr {
+	position: relative;
+	width: 1050px;
+}
+.tonedeaf > div h2 {
+	margin: 1rem auto 2.5rem;
+	text-align: center;
+}
+.tonedeaf > div h2 img {
+	margin: 0 auto 1rem;
+}
+.tonedeaf > div {
+	border-top: var(--border1);
+	padding-top: 3rem !important;
+	padding-bottom: 3rem !important;
+}
+.tonedeaf > div:nth-child(odd) {
+	background: var(--bodyBg2);
+}
+.tonedeaf .row {
+	display: flex;
+	align-items: center;
+}
+.tonedeaf .row > :first-child {
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+}
+.tonedeaf .row > :first-child > :first-child {
+	margin-top: 0;
+}
+.tonedeaf .row article {
+	text-align: center;
+}
+.tonedeaf .row > a {
+	margin: auto;
+}
+.tonedeaf .row > a > img {
+	border: var(--border1);
+	width: 450px;
+}
+@media (min-width: 750px) {
+	.tonedeaf > div:nth-child(even) .row {
+		flex-direction: row-reverse;
+	}
+	.tonedeaf .row > :first-child {
+		flex: 0 1 50%;
+	}
+	.tonedeaf .row > a {
+		flex: 0 1 50%;
+	}
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+	<div class="cntr">
+		<header>
+			<img src="/img/emoji/face-wtf.png" width="64" height="64">
+			<h1>{{ .Title }}</h1>
+		</header>
+
+		<article>{{ .Content }}</article>
+	</div>
+
+	<div class="tonedeaf">
+		{{ range .Pages.ByDate }}
+			{{ $img := printf "/%s%s" .File.Dir .Params.img }}
+
+				<div class="cntr">
+					<div class="row">
+						<div>
+							<h2>
+								<img loading="lazy" width="32" height="32" src="/img/logos/{{ .Params.corpo }}.png">
+								{{ .Title }}...
+							</h2>
+							<article>{{ .Content }}</article>
+						</div>
+
+						<a href="{{ $img }}">
+							<img src="{{ $img }}" loading="lazy">
+						</a>
+					</div>
+				</div>
+		{{ end }}
+	</div>
+{{ end }}
