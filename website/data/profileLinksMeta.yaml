@@ -13,6 +13,7 @@
 - { key: rumble,        text: Rumble,        prefix: rumble.com }
 - { key: flote,         text: Flote,         prefix: flote.app }
 - { key: gab,           text: Gab,           prefix: gab.com }
-- { key: parler,        text: Parler,        prefix: parler.com }
 - { key: telegram,      text: Telegram,      prefix: t.me }
 - { key: mewe,          text: MeWe,          prefix: mewe.com }
+
+#- { key: parler,        text: Parler,        prefix: parler.com }
