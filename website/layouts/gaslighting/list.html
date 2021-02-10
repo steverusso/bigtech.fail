@@ -7,50 +7,50 @@ header {
 	position: relative;
 	width: 1050px;
 }
-.tonedeaf > div h2 {
+.gasl > div h2 {
 	margin: 1rem auto 2.5rem;
 	text-align: center;
 }
-.tonedeaf > div h2 img {
+.gasl > div h2 img {
 	margin: 0 auto 1rem;
 }
-.tonedeaf > div {
+.gasl > div {
 	border-top: var(--border1);
 	padding-top: 3rem !important;
 	padding-bottom: 3rem !important;
 }
-.tonedeaf > div:nth-child(odd) {
+.gasl > div:nth-child(odd) {
 	background: var(--bodyBg2);
 }
-.tonedeaf .row {
+.gasl .row {
 	display: flex;
 	align-items: center;
 }
-.tonedeaf .row > :first-child {
+.gasl .row > :first-child {
 	padding-right: 1.5rem;
 	padding-left: 1.5rem;
 }
-.tonedeaf .row > :first-child > :first-child {
+.gasl .row > :first-child > :first-child {
 	margin-top: 0;
 }
-.tonedeaf .row article {
+.gasl .row article {
 	text-align: center;
 }
-.tonedeaf .row > a {
+.gasl .row > a {
 	margin: auto;
 }
-.tonedeaf .row > a > img {
+.gasl .row > a > img {
 	border: var(--border1);
 	width: 450px;
 }
 @media (min-width: 750px) {
-	.tonedeaf > div:nth-child(even) .row {
+	.gasl > div:nth-child(even) .row {
 		flex-direction: row-reverse;
 	}
-	.tonedeaf .row > :first-child {
+	.gasl .row > :first-child {
 		flex: 0 1 50%;
 	}
-	.tonedeaf .row > a {
+	.gasl .row > a {
 		flex: 0 1 50%;
 	}
 }
@@ -67,25 +67,25 @@ header {
 		<article>{{ .Content }}</article>
 	</div>
 
-	<div class="tonedeaf">
+	<div class="gasl">
 		{{ range .Pages.ByDate }}
 			{{ $img := printf "/%s%s" .File.Dir .Params.img }}
 
-				<div class="cntr">
-					<div class="row">
-						<div>
-							<h2>
-								<img loading="lazy" width="32" height="32" src="/img/logos/{{ .Params.corpo }}.png">
-								{{ .Title }}...
-							</h2>
-							<article>{{ .Content }}</article>
-						</div>
-
-						<a href="{{ $img }}">
-							<img src="{{ $img }}" loading="lazy">
-						</a>
+			<div class="cntr">
+				<div class="row">
+					<div>
+						<h2>
+							<img loading="lazy" width="32" height="32" src="/img/logos/{{ .Params.corpo }}.png">
+							{{ .Title }}...
+						</h2>
+						<article>{{ .Content }}</article>
 					</div>
+
+					<a href="{{ $img }}">
+						<img src="{{ $img }}" loading="lazy">
+					</a>
 				</div>
+			</div>
 		{{ end }}
 	</div>
 {{ end }}
