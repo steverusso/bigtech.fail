@@ -10,6 +10,7 @@ sources:
  - [ 'Reclaim The Net "President Trump responds to Twitter’s permanent suspension of his account" by Tom Parker (8 Jan 2021)', 'https://reclaimthenet.org/president-trump-twitter-censorship-response/' ]
  - [ 'ZeroHedge "Trump Tweets From POTUS Account, Twitter Then Immediately Deletes It" by Tyler Durden (8 Jan 2021)', 'https://archive.is/4O79S' ]
  - [ 'threadreaderapp.com/thread/1349510769268850690.html', 'https://archive.is/irQLm' ]
+ - [ 'twitter.com/therecount/status/1359505558814998531', 'https://archive.is/NAYTq' ]
 ---
 
 [Twitter](/twitter/) permanmently banned President Trump shortly after [his 12
