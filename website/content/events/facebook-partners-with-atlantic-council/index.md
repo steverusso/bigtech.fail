@@ -8,6 +8,8 @@ sources:
  - [ 'about.fb.com/news/2018/05/announcing-new-election-partnership-with-the-atlantic-council/', 'https://archive.is/TAMUM' ]
  - [ 'twitter.com/Facebook/status/997107024558264320', 'https://archive.is/d0pEW' ]
  - [ 'projectcensored.org/2-think-tank-partnerships-establish-facebook-as-tool-of-us-foreign-policy', 'https://www.projectcensored.org/2-think-tank-partnerships-establish-facebook-as-tool-of-us-foreign-policy/' ]
+extra:
+ - [ 'twitter.com/ValLisitsa/status/978559232508416000', 'https://archive.is/ePWh4' ]
 ---
 
 The Atlantic Council is a US "think tank" based in Washington, DC. The
