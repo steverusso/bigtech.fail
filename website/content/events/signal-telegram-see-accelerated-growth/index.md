@@ -13,6 +13,7 @@ sources:
  - [ 'https://t.me/durov/147', 'https://archive.is/XslYs' ]
  - [ 'https://t.me/durov/145', 'https://archive.is/XImPB' ]
  - [ 'Trusted Reviews "WhatsApp gives users ultimatum – share data with Facebook or lose access" by Chris Smith (7 Jan 2021)', 'https://archive.is/WgjdG' ]
+ - [ 'Sensor Tower "Top Apps Worldwide for January 2021 by Downloads" (4 Feb 2021)', 'https://archive.is/ep9cO' ]
 extra:
  - [ 'https://t.me/durov/148', 'https://archive.is/fX96k' ]
  - [ 'twitter.com/signalapp/status/1348079223701794819', 'https://archive.is/RPLW2' ]
@@ -49,3 +50,6 @@ talked about the record level growth in his Telegram channel:
 > from Asia, 27% from Europe, 21% from Latin America and 8% from MENA.
 >
 > -- Pavel Durov (@durov) [12 Jan 2021](https://archive.is/XslYs#selection-111.0-111.293)
+
+Telegram ended up being the number one downloaded mobile app (overall) for the
+month of January [according to Sensor Tower](https://archive.is/ep9cO).
