@@ -1,15 +1,11 @@
 {{ define "partials/css/global" }}
-	{{ $names := slice "config" "general" "layout" "button" "nav-and-footer" "sidebar" "cards" "article" "timeline" }}
-	{{ $names := apply $names "printf" "%s.css" "." }}
+	{{ $names := slice "config" "general" "layout" "button" "nav-and-footer" "sidebar" "cards" "article" "timeline" "images" }}
+	{{ $names := apply $names "printf" "css/%s.css" "." }}
 
 	<!-- Build a slice containing each stylesheet as a resource. -->
 	{{ $sheets := slice }}{{ range $names }}
-		{{ $sheets = $sheets | append (printf "css/%s" . | resources.Get) }}
+		{{ $sheets = $sheets | append (resources.Get . | resources.ExecuteAsTemplate "" $) }}
 	{{ end }}
-
-	<!-- Add the CSS that contains the base64 for various images. -->
-	{{ $images := resources.Get "css/images.css" }}
-	{{ $sheets = $sheets | append (resources.ExecuteAsTemplate "" . $images) }}
 
 	<!-- Bundle the stylesheet resources and fingerprint the bundle. -->
 	{{ $css := resources.Concat "/css/main.css" $sheets | minify | fingerprint "sha512" }}
