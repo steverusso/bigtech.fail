@@ -10,6 +10,8 @@ sources:
  - [ 'altCensored "America First with Nicholas J Fuentes"', 'https://altcensored.com/channel/UCsJ86N5n7fcEC_Ds8dYJKzA' ]
  - [ 'altCensored "America First with Nicholas J Fuentes" [ archived ]', 'http://archive.is/AIzuZ' ]
  - [ 'National File "BREAKING: YouTube BANS Nick Fuentes After ''Concerted Effort'' by Conservative Inc, Leftists, to Deplatform Him" by Jack Hadfield (14 Feb 2020)', 'http://archive.is/KOs9T' ]
+extra:
+ - [ 'Groyper Clips channel deleted 29 Jan 2021', 'https://altcensored.com/channel/UCVyr2tNZgXzdnU8X4rI_YXA' ]
 ---
 
 YouTube permanently banned _America First with Nicholas J Fuentes_ [due
