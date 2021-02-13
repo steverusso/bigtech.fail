@@ -1,7 +1,7 @@
 ---
 title: Project Veritas
 image: /img/logos/project-veritas.jpg
-socials:
+links:
   website: www.projectveritas.com
   support: www.projectveritas.com/donate/
   bitchute: profile/p7bjZBZTwgN5/

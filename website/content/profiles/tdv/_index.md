@@ -1,7 +1,7 @@
 ---
 title: The Dollar Vigilante
 image: /img/logos/tdv.jpg
-socials:
+links:
   website: dollarvigilante.tv
   bitchute: channel/DkNYbFJKDPpX/
   brighteon: channels/thedollarvigilante

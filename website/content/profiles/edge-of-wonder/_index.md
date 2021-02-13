@@ -1,6 +1,6 @@
 ---
 title: Edge of Wonder
-socials:
+links:
   website: edgeofwonder.tv
   support: edgeofwonder.tv/support
   merch: teespring.com/stores/edge-of-wonder

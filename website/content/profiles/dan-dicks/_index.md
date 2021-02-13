@@ -1,6 +1,6 @@
 ---
 title: Dan Dicks
-socials:
+links:
  website: pressfortruth.ca
  support: pressfortruth.ca/donate/
  subscribestar: pressfortruth

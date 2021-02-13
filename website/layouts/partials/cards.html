@@ -29,7 +29,7 @@
 		<p>{{ .Summary | truncate 80 }}</p>
 	</a>
 
-	{{ partialCached "profile-links.html" .Params.socials .Title }}
+	{{ partialCached "profile-links.html" .Params.links .Title }}
 {{ end }}
 
 {{ define "partials/cards/alttech" }}

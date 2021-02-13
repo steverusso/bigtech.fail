@@ -1,6 +1,6 @@
 ---
 title: Spaceshot76
-socials:
+links:
   bitchute: channel/lvstqvii0eal/
   parler: profile/Spaceshot76
   rumble: user/Spaceshot76

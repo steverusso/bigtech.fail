@@ -1,7 +1,7 @@
 ---
 title: Jordan Sather
 aka: Destroying the Illusion
-socials:
+links:
   website: www.jordansather.com
   merch: www.teepublic.com/user/jordansather
   subscribestar: jordansather

@@ -1,6 +1,6 @@
 ---
 title: X22report
-socials:
+links:
   website: x22report.com/
   rumble: c/X22Report
   bitchute: x22report

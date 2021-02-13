@@ -1,6 +1,6 @@
 ---
 title: Laura Loomer
-socials:
+links:
   website: loomered.com
   support: loomered.com/donate/
   merch: fruitoftheloomer.com

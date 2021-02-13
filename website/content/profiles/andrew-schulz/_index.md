@@ -1,6 +1,6 @@
 ---
 title: Andrew Schulz
-socials:
+links:
   website: theandrewschulz.com
 ---
 

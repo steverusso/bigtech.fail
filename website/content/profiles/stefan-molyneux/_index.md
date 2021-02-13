@@ -1,6 +1,6 @@
 ---
 title: Stefan Molyneux
-socials:
+links:
   website: www.freedomain.com
   support: www.freedomain.com/donate
   locals: freedomain

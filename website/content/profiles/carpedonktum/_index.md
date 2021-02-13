@@ -1,7 +1,7 @@
 ---
 title: CarpeDonktum
 aka: Logan Cook
-socials:
+links:
   website: www.memeworld.com/author/carpedonktum/
   minds: CarpeDonktum/
   locals: carpedonktum

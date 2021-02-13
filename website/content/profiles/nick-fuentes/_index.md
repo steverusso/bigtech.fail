@@ -1,6 +1,6 @@
 ---
 title: Nick Fuentes
-socials:
+links:
   website: nicholasjfuentes.com
   support: nicholasjfuentes.com/subscribe/
   merch: merch.nicholasjfuentes.com

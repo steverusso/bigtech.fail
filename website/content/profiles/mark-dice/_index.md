@@ -1,6 +1,6 @@
 ---
 title: Mark Dice
-socials:
+links:
   merch: teespring.com/stores/markdice
   bitchute: channel/u3QMwGD7bSW6/
   rumble: MarkDice

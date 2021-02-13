@@ -1,6 +1,6 @@
 ---
 title: Cassandra Fairbanks
-socials:
+links:
  website: www.thegatewaypundit.com/author/cassandraf/
  gab: CassandraRules
  telegram: CassandraFairbanks

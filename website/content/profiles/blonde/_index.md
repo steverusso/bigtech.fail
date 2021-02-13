@@ -1,7 +1,7 @@
 ---
 title: Blonde
 aka: Blonde in the Belly of the Beast
-socials:
+links:
   subscribestar: blonde-in-the-belly-of-the-beast
   gab: Blonde_Beast
   bitchute: profile/oVBA2s2p1oua/

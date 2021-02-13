@@ -1,6 +1,6 @@
 ---
 title: James O'Keefe
-socials:
+links:
   telegram: JamesOKeefeIII
   gab: jamesokeefeiii
 ---

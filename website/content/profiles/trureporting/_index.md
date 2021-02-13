@@ -1,6 +1,6 @@
 ---
 title: TRUreporting
-socials:
+links:
   bitchute: channel/aaTDlvuIAMBx/
   rumble: TRUreporting
   parler: profile/Trureporting1985

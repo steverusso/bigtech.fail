@@ -2,7 +2,7 @@
 title: World Alternative Media
 aka: WAM
 image: /img/people/wam.png
-socials:
+links:
   merch: teespring.com/stores/world-alternative-media
   subscribestar: world-alternative-media
   bitchute: channel/gzFCj8AuSWgp/

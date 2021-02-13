@@ -1,6 +1,6 @@
 ---
 title: Millie Weaver
-socials:
+links:
   website: www.millennialmillie.com
   subscribestar: millieweaver
 ---

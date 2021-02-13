@@ -1,6 +1,6 @@
 ---
 title: Ford Fischer
-socials:
+links:
   website: news2share.com/start/
   minds: fordfischer/
 ---

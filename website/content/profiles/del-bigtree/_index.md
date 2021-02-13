@@ -1,7 +1,7 @@
 ---
 title: The Highwire with Del Bigtree
 image: /img/people/del-bigtree.jpg
-socials:
+links:
   website: thehighwire.com
   bitchute: channel/okiFK5CwQrZS/
 ---

@@ -1,7 +1,7 @@
 ---
 title: The System Is Down
 image: /img/misc/tsid.png
-socials:
+links:
   website: www.tsidpod.com
   minds: thesystemisdown/
   gab: thesystemisdown/

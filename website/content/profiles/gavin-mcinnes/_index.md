@@ -1,6 +1,6 @@
 ---
 title: Gavin Mcinnes
-socials:
+links:
   website:  censored.tv
   support:  censored.tv/donate
   merch:    shop.censored.tv/

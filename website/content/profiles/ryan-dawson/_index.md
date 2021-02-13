@@ -1,6 +1,6 @@
 ---
 title: Ryan Dawson
-socials:
+links:
   website: www.ancreport.com
   support: www.ancreport.com/donate/
   merch: www.teezily.com/stores/anc

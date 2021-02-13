@@ -1,6 +1,6 @@
 ---
 title: Woke Societies
-socials:
+links:
   website: wokesocieties.com
   merch: wokesocieties.com/store-2/
   dlive: WokeSocieties

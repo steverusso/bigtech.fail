@@ -1,6 +1,6 @@
 ---
 title: Alex Jones
-socials:
+links:
   website: www.infowars.com
   support: www.infowarsstore.com
   subscribestar: alexjones

@@ -1,6 +1,6 @@
 ---
 title: Owen Benjamin
-socials:
+links:
   website: www.hugepianist.com
   merch: unbearablestore.com
   dlive: owenbenjamincomedy

@@ -1,6 +1,6 @@
 ---
 title: Tim Pool
-socials:
+links:
   website:  https://www.timcast.com/
   support:  https://www.timcast.com/donate
   merch:    https://teespring.com/stores/timcast

@@ -1,6 +1,6 @@
 ---
 title: Krisanne Hall
-socials:
+links:
   website: krisannehall.com
   support: krisannehall.com/index.php/donate
   merch: krisannehall.com/index.php/store

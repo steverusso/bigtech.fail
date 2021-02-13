@@ -1,6 +1,6 @@
 ---
 title: Carey Wedler
-socials:
+links:
   minds: careywedler/
   steemit: '@careywedler'
 ---

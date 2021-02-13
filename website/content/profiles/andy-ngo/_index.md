@@ -1,6 +1,6 @@
 ---
 title: Andy Ngo
-socials:
+links:
   locals: ngo
   subscribestar: AndyNgo
 ---

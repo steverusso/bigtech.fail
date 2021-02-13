@@ -1,6 +1,6 @@
 ---
 title: Max Igan
-socials:
+links:
   website: thecrowhouse.com
   support: thecrowhouse.com/contribute.html
   bitchute: channel/TheCrowhouse

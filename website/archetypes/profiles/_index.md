@@ -1,6 +1,6 @@
 ---
 title: {{ replace .Name "-" " " | title }}
-socials:
+links:
   website: www.
   support: www.
   merch: merch

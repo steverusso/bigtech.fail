@@ -1,6 +1,6 @@
 ---
 title: Matt Christiansen
-socials:
+links:
   website: www.mattchristiansenmedia.com
   support: www.mattchristiansenmedia.com/support
   subscribestar: matt-christiansen

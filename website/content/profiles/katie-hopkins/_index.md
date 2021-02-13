@@ -1,6 +1,6 @@
 ---
 title: Katie Hopkins
-socials:
+links:
   website: www.frontpagemag.com/author/katie-hopkins/
   parler:  profile/KTHopkins/posts
 ---

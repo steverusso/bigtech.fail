@@ -1,7 +1,7 @@
 ---
 title: Dave Cullen
 aka: Computing Forever
-socials:
+links:
   website: computingforever.com
   support: computingforever.com/donate/
   subscribestar: dave-cullen

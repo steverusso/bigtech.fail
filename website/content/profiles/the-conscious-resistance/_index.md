@@ -1,7 +1,7 @@
 ---
 title: The Conscious Resistance
 aka: TCRN
-socials:
+links:
   website: theconsciousresistance.com
   support: theconsciousresistance.com/invest/
   merch: theconsciousresistance.com/product-category/clothing/

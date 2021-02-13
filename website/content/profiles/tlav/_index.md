@@ -1,7 +1,7 @@
 ---
 title: The Last American Vagabond
 image: /img/people/tlav.jpg
-socials:
+links:
   website: www.thelastamericanvagabond.com
   support: www.thelastamericanvagabond.com/bitcoin-donation/
   merch: truthclothing.io/collections/tlav

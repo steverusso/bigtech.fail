@@ -1,7 +1,7 @@
 ---
 title: Luke Rudkowski
 aka: We Are Change
-socials:
+links:
   website: wearechange.org
   support: wearechange.org/donate/
   merch: teespring.com/stores/wearechange

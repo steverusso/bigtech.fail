@@ -1,6 +1,6 @@
 ---
 title: Free Thought Project
-socials:
+links:
   website: thefreethoughtproject.com
   minds: TheFreeThoughtProject.com/
   telegram: TheFreeThoughtProject_Official

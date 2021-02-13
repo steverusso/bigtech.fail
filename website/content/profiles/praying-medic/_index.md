@@ -1,6 +1,6 @@
 ---
 title: Praying Medic
-socials:
+links:
   website: prayingmedic.com
   subscribestar: prayingmedic
   bitchute: channel/FJLej1ou6JVe/

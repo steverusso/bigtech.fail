@@ -1,6 +1,6 @@
 ---
 title: Dave Rubin
-socials:
+links:
   website: rubinreport.com/
   support: rubinreport.com/support
   bitchute: profile/Tv9Vf9dVGlgE/

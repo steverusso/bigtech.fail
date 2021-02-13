@@ -1,6 +1,6 @@
 ---
 title: Jennifer Zeng
-socials:
+links:
   website: www.jenniferzengblog.com
   subscribestar: inconvenient-truths-by-jennifer-zeng
   parler: profile/JenniferZeng

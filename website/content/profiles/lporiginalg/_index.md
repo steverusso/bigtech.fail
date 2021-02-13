@@ -2,7 +2,7 @@
 title: Lyndon Perry
 image: /img/people/ihypocrite.jpg
 aka: lporiginalg
-socials:
+links:
   website: ihypocrite.net
   support: ihypocrite.net/donate/
   subscribestar: ihypocrite

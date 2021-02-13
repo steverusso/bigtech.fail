@@ -1,7 +1,7 @@
 ---
 title: Styxhexenhammer666
 aka: Styx
-socials:
+links:
   website: tarlwarwick.net/
   merch: tarlwarwick.net/collections/all
   subscribestar: styxhexenhammer

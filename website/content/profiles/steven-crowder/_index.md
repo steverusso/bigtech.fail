@@ -1,6 +1,6 @@
 ---
 title: Steven Crowder
-socials:
+links:
  website: www.louderwithcrowder.com
  support: www.louderwithcrowder.com/mug-club-promo/
  bitchute: profile/dHshqXITCX2v/

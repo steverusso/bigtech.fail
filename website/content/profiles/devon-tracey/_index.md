@@ -1,7 +1,7 @@
 ---
 title: Devon Tracey
 aka: Atheist Roo
-socials:
+links:
   website: www.atheismisunstoppable.com
   merch: www.atheismisunstoppable.com/t-shirt/
   subscribestar: atheism

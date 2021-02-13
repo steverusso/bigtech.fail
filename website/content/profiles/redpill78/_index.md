@@ -1,6 +1,6 @@
 ---
 title: RedPill78
-socials:
+links:
   merch: teespring.com/stores/redpill78
   subscribestar: redpill78
   lbry: '@RedPill78:e'

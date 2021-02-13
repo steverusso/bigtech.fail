@@ -1,6 +1,6 @@
 ---
 title: Dr. Jordan Peterson
-socials:
+links:
   website: www.jordanbpeterson.com/
   support: www.jordanbpeterson.com/donate/
 ---
