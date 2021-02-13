@@ -4,6 +4,7 @@ date: 2021-01-18
 image: /img/misc/vijaya.jpg
 platforms: [ twitter ]
 tags: [ exposed, policy, election2020, capitol-riot ]
+profiles: [ project-veritas ]
 sources:
  - [ '', 'https://www.projectveritas.com/news/twitter-senior-executive-details-plans-for-political-censorship-on-a-global/' ]
  - [ 'twitter.com/JamesOKeefeIII/status/1351197663878918155', 'https://archive.is/D7Rdz' ]

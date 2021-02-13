@@ -4,6 +4,7 @@ date: 2020-10-19
 image: /img/logos/project-veritas.jpg
 platforms: [ google ]
 tags: [ gov, election2020, exposed ]
+profiles: [ project-veritas ]
 sources:
  - [ '"Senior Google Manager On Search Engine’s Power: ‘You Are Just Plain And Simple Trying To Play God’… ‘The Power’s In The Search’ … ‘Trump Says Something, Misinformation, You’re Gonna Delete’ … ‘If A Democratic Leader Says That, Then, You’re Gonna Leave It’" on ProjectVeritas.com (19 Oct 2020)', 'https://www.projectveritas.com/video/senior-google-manager-on-search-engines-power-you-are-just-plain-and-simple/' ]
  - [ '"MORE GOOGLE SPEECH SUPPRESSION: Google Advertising Manager Boasts Company Can Censor ‘Right-Wing’ & Republicans … Reveals He Chose To Ignore Request For Pro-Brexit Ads On Search Engine" on ProjectVeritas.com (20 Oct 2020)', 'https://www.projectveritas.com/video/more-google-speech-suppression-google-advertising-manager-boasts-company-can/' ]

@@ -4,6 +4,7 @@ date: 2021-02-11
 image: /img/logos/project-veritas.jpg
 platforms: [ twitter ]
 tags: [ banned, suspended, content-removed ]
+profiles: [ project-veritas, james-okeefe ]
 sources:
  - [ 'gab.com/jamesokeefeiii/posts/105713676046905108', 'https://archive.is/eQdxM' ]
  - [ 'gab.com/jamesokeefeiii/posts/105714790018944711', 'https://archive.is/vaPMx' ]

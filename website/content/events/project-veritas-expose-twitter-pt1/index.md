@@ -4,6 +4,7 @@ date: 2021-01-14
 image: /img/misc/dorsey.jpg
 platforms: [ twitter ]
 tags: [ exposed, policy, restricted, election2020, capitol-riot ]
+profiles: [ project-veritas ]
 sources:
  - [ '', 'https://www.projectveritas.com/news/exclusive-twitter-insider-records-ceo-jack-dorsey-laying-out-roadmap-for/' ]
  - [ 'twitter.com/JamesOKeefeIII/status/1349853804590579713', 'https://archive.is/kxoHk' ]

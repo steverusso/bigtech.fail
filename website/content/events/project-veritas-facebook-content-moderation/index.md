@@ -4,6 +4,7 @@ date: 2020-06-23
 image: /img/logos/project-veritas.jpg
 platforms: [ facebook ]
 tags: [ exposed, gov, election2020 ]
+profiles: [ project-veritas ]
 sources:
  - [ 'Project Veritas "Facebook Content Moderator: ‘If Someone is Wearing a MAGA Hat, I Am Going to Delete Them for Terrorism’" (23 Jun 2020)', 'https://archive.is/y0TRY' ]
  - [ 'Project Veritas "ANOTHER Facebook Whistleblower: Interference ‘On a Global Level in Elections’" (25 Jun 2020)', 'https://archive.is/OdCao' ]
