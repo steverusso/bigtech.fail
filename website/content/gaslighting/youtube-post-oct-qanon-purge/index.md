@@ -4,6 +4,8 @@ date: 2020-10-22
 archive: https://archive.is/dxCj6
 img: screenshot.png
 corpo: youtube
+_build:
+  render: never
 ---
 
 One week after YouTube [purged dozens of

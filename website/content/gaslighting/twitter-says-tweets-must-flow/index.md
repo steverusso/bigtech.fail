@@ -4,6 +4,8 @@ date: 2021-02-09
 archive: https://archive.is/GAnNd
 img: screenshot.jpg
 corpo: twitter
+_build:
+  render: never
 ---
 
 Twitter partially enforced a block order from the Indian government and

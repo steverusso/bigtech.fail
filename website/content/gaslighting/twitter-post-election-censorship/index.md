@@ -4,6 +4,8 @@ date: 2021-01-12
 archive: https://archive.is/DjKk7
 img: screenshot.jpg
 corpo: twitter
+_build:
+  render: never
 ---
 
 Twitter threw a fit after the Ugandan government restricted access to Twitter
