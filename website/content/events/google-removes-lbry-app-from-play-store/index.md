@@ -2,7 +2,7 @@
 title: Google Removes LBRY App From Play Store
 date: 2020-09-25
 image: /img/logos/lbry.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ banned, app ]
 sources:
  - [ 'Odysee "Google Bans LBRY From Playstore" by LBRY (25 Sep 2020)', 'https://odysee.com/@lbry:3f/googlebanslbry:7' ]

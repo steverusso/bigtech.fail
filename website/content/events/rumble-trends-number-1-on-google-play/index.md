@@ -2,7 +2,7 @@
 title: "Rumble Trends #1 on Google Play"
 date: 2020-11-13
 image: /img/logos/rumble.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ app, alttech-growth ]
 sources:
  - [ 'twitter.com/chrispavlovski/status/1325935910844772353', 'https://archive.is/sy1Xt' ]

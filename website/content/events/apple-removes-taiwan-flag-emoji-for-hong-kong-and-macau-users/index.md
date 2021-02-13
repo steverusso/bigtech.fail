@@ -2,7 +2,7 @@
 date: 2019-10-03
 title: Apple Removes Taiwan Flag Emoji For Hong Kong and Macau Users
 image: /img/misc/taiwan-flag-emoji.png
-platforms: [ apple ]
+corpos: [ apple ]
 tags: [ content-removed ]
 sources:
  - [ 'Hiraku Dev "iOS 13.1.1 Banned Taiwan (ROC) Flag Emoji for HongKong and Macau Users"', 'https://hiraku.tw/2019/10/4877/' ]

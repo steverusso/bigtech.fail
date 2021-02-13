@@ -2,7 +2,7 @@
 title: Twitter Restricts Links to BitChute
 date: 2020-08-07
 image: /img/logos/bitchute.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ content-removed ]
 sources:
  - [ 'twitter.com/bitchute/status/1291717749517897728', 'http://archive.is/76MLV' ]

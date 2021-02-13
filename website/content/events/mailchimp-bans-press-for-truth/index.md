@@ -3,7 +3,7 @@ title: Mailchimp Bans Press For Truth
 date: 2020-10-21
 image: /img/logos/press-for-truth.jpg
 profiles: [ dan-dicks ]
-platforms: [ mailchimp ]
+corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
  - [ 'PressForTruth.ca "Press For Truth Under COORDINATED ATTACK AS MAILCHIMP TERMINATES ACCOUNT!!!" (21 Oct 2020)', 'https://pressfortruth.ca/press-for-truth-under-coordinated-attack-as-mailchimp-terminates-account/' ]

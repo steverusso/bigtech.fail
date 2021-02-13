@@ -2,7 +2,7 @@
 title: YouTube Pulls Video By Last American Vagabond About Vaccines
 date: 2020-12-09
 image: /img/people/tlav.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid ]
 profiles: [ tlav ]
 sources:

@@ -2,7 +2,7 @@
 title: Wikipedia Drops Newsmax As Source After US Election
 date: 2020-11-30
 image: /img/logos/newsmax.jpg
-platforms: [ wikipedia ]
+corpos: [ wikipedia ]
 tags: [ policy, gov, election2020 ]
 sources:
  - [ 'Breitbart "Wikipedia Blacklists Newsmax Following Post-Election Popularity Boost" by T.D. Adler (30 Nov 2020)', 'https://www.breitbart.com/tech/2020/11/30/wikipedia-blacklists-newsmax-following-post-election-popularity-boost/' ]

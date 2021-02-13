@@ -3,7 +3,7 @@ title: Twitter Bans Stefan Molyneux
 date: 2020-07-07
 image: /img/people/stefan-molyneux.jpg
 profiles: [ stefan-molyneux ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Twitter @Cernovich 1280675387781996545', 'http://archive.is/8HpwC' ]

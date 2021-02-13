@@ -2,7 +2,7 @@
 title: Twitter Suspends Scott Atlas
 date: 2020-10-18
 image: /img/people/dr-scott-atlas.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov, covid ]
 sources:
  - [ 'The Federalist "White House Expert Scott Atlas Censored By Twitter" by David Marcus (18 Oct 2020)', 'https://thefederalist.com/2020/10/18/white-house-expert-scott-atlas-censored-by-twitter/' ]

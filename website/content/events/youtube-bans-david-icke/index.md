@@ -2,7 +2,7 @@
 title: YouTube Bans David Icke
 date: 2020-05-02
 image: /img/people/david-icke.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned, covid ]
 sources:
  - [ 'Twitter @davidicke - 1256886341633179649', 'https://archive.vn/JfXXA' ]

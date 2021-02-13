@@ -2,7 +2,7 @@
 title: YouTube Gets Ratioed Promoting "Unthanksgiving" on Thanksgiving
 date: 2020-11-26
 image: /img/logos/youtube.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ wtf ]
 sources:
  - [ 'twitter.com/YouTube/status/1332021330074595328', 'https://archive.is/daDuY' ]

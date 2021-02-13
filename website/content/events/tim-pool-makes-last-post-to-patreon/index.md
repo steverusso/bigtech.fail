@@ -3,7 +3,7 @@ date: 2018-12-27
 title: Tim Pool Makes His Final Post to Patreon
 image: /img/people/tim-pool.jpg
 profiles: [ tim-pool ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
  - [ 'Tim Pool''s Last Patreon Post (archived) - https://www.patreon.com/posts/please-read-23584421', 'https://archive.vn/70pUr' ]

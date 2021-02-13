@@ -2,7 +2,7 @@
 title: "Facebook Bans #Walkaway Campaign"
 date: 2021-01-08
 image: /img/misc/walkaway-campaign.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned, gov, election2020, capitol-riot ]
 sources:
  - [ 'twitter.com/BrandonStraka/status/1347592064322719744', 'https://archive.is/GOn1o' ]

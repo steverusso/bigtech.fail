@@ -2,7 +2,7 @@
 title: Twitter Suspends Marina Medvin For Criticizing Biden
 date: 2020-08-17
 image: /img/people/marina-medvin.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
  - [ 'Townhall "Twitter Kicked Me Off for Saying This But I''m Going to Double Down" by Marina Medvin (19 Aug 2020)', 'https://archive.is/7X2U5' ]

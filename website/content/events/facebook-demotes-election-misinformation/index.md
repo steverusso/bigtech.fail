@@ -2,7 +2,7 @@
 title: Facebook Demotes What They "Predict May Be Misinformation" About Election
 date: 2020-11-06
 image: /img/logos/facebook.png
-platforms: [ facebook, instagram ]
+corpos: [ facebook, instagram ]
 tags: [ policy, gov, election2020 ]
 sources:
  - [ 'forbes.com/sites/rachelsandler/2020/11/05/facebook-will-temporarily-demote-posts-that-spread-election-misinformation/ (archived)', 'https://archive.is/9hBxU' ]

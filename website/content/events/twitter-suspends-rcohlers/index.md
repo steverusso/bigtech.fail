@@ -2,7 +2,7 @@
 title: Twitter Suspends R. Clinton Ohlers
 date: 2020-09-21
 image: /img/people/rcohlers.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:
  - [ 'World Tribune "Twitter suspends author of WorldTribune article on hydroxychloroquine" by R. Clinton Ohlers (24 Sep 2020)', 'https://archive.is/V00gO' ]

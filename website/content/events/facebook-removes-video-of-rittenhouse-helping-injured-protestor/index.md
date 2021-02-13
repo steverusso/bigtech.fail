@@ -3,7 +3,7 @@ title: Facebook Removes Video of Kyle Rittenhouse Helping Injured Protestor
 date: 2020-09-02
 image: /img/people/kyle-rittenhouse-2.jpg
 profiles: [ mark-dice ]
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ content-removed, restricted, kyle-rittenhouse ]
 sources:
  - [ 'twitter.com/MarkDice/status/1300970053307740160', 'https://archive.is/AOOOT' ]

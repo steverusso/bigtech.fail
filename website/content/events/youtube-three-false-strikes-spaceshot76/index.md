@@ -3,7 +3,7 @@ title: YouTube Issues Three False Strikes on a Single Video by Spaceshot76
 date: 2020-01-23
 image: /img/people/spaceshot76.jpg
 profiles: [ spaceshot76 ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed ]
 sources:
  - [ 'Screenshots of the false strikes', 'three-bogus-strikes.jpg' ]

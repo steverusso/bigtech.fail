@@ -2,7 +2,7 @@
 title: Facebook and Twitter Suppress NY Post Exposé on Hunter Biden
 date: 2020-10-14
 image: /img/logos/nypost.png
-platforms: [ facebook, twitter ]
+corpos: [ facebook, twitter ]
 tags: [ content-removed, gov, hunters-laptop ]
 sources:
  - [ 'New York Post "Twitter, Facebook censor Post over Hunter Biden exposé" by Noah Manskar (14 Oct 2020)', 'https://nypost.com/2020/10/14/facebook-twitter-block-the-post-from-posting/' ]

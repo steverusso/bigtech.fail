@@ -2,7 +2,7 @@
 title: Facebook Hires Atlantic Council Senior Fellow and Former NATO Press Officer
 date: 2021-02-05
 image: /img/misc/ben-nimmo.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ gov ]
 sources:
  - [ 'MintPress News "Facebook Hires NATO Press Officer Ben Nimmo as Intelligence Chief" by Alan Macleod (9 Feb 2021)', 'https://archive.is/hqPLW' ]

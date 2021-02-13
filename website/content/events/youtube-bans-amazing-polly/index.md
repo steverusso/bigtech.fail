@@ -2,7 +2,7 @@
 title: YouTube Bans Amazing Polly
 date: 2020-10-15
 image: /img/people/amazing-polly.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'altCensored - Amazing Polly', 'https://archive.is/x4hSN' ]

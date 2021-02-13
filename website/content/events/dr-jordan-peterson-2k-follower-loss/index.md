@@ -4,7 +4,7 @@ order: 1
 title: Jordan Peterson Loses 2,000 Patrons In Two Weeks Following Sargon Ban
 image: /img/people/dr-jordan-peterson.jpg
 profiles: [ dr-jordan-peterson ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 sources:
  - [ 'Jordan B Peterson - Tweet 1075842024669102080', 'https://archive.vn/QmFCJ' ]
 ---

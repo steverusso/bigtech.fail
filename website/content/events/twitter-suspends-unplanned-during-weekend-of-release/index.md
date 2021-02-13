@@ -2,7 +2,7 @@
 title: Twitter Suspends Unplanned During Weekend of Theatrical Release (Quickly Reinstates)
 date: 2019-03-30
 image: /img/logos/unplanned.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended ]
 sources:
  - [ 'Twitter @LilaGraceRose 1112040588906393602', 'https://archive.vn/3X7Dd' ]

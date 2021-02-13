@@ -2,7 +2,7 @@
 title: "Project Veritas: #ExposeTwitter, Part 1"
 date: 2021-01-14
 image: /img/misc/dorsey.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ exposed, policy, restricted, election2020, capitol-riot ]
 profiles: [ project-veritas ]
 sources:

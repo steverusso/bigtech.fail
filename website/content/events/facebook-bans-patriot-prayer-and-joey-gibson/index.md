@@ -2,7 +2,7 @@
 title: Facebook Bans Patriot Prayer After Member Is Murdered
 date: 2020-09-04
 image: /img/misc/patriot-prayer.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned, wtf ]
 sources:
  - [ 'The Gateway Pundit "Facebook Bans Patriot Prayer Six Days After One of Their Members Was Executed By Antifa" by Cassandra Fairbanks (4 Sep 2020)', 'https://archive.is/qRyIz' ]

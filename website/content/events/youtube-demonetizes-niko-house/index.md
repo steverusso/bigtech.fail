@@ -2,7 +2,7 @@
 title: YouTube Demonetizes Niko House
 date: 2021-02-04
 image: /img/misc/niko-house.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'twitter.com/nikoCSFB/status/1357386129092333572', 'https://archive.is/PoqZf' ]

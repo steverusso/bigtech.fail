@@ -2,7 +2,7 @@
 title: Twitter Suspends John Pierce
 date: 2020-09-03
 image: /img/people/john-pierce.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
  - [ 'twitter.com/LLinWood/status/1301411353425444865', 'https://archive.is/7zAF7' ]

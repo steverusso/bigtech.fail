@@ -3,7 +3,7 @@ date: 2017-11-28
 title: Twitter Bans Blonde
 image: /img/people/blonde.jpg
 profiles: [ blonde ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Beauty and the Beta Sunday Stream #79 @ 3m25s', 'https://youtu.be/6mq65f2Tpzk?t=205' ]

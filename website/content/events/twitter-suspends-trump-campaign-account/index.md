@@ -2,7 +2,7 @@
 title: Twitter Suspends the Trump Campaign Account (@TeamTrump)
 date: 2020-10-15
 image: /img/misc/team-trump.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
  - [ 'New York Post "Twitter locks Trump campaign’s account over video related to The Post’s Hunter Biden bombshell" by Lia Eustachewich (15 Oct 2020)', 'https://nypost.com/2020/10/15/twitter-blocks-trump-campaign-from-tweeting-posts-hunter-biden-story/' ]

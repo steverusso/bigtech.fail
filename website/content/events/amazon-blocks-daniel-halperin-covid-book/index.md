@@ -2,7 +2,7 @@
 title: Amazon Blocks Publication of Daniel Halperin's Book About COVID-19
 date: 2020-07-02
 image: /img/books/12-covid.png
-platforms: [ amazon ]
+corpos: [ amazon ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'twitter.com/AlexBerenson/status/1278876720217624576', 'https://archive.is/ERoKz' ]

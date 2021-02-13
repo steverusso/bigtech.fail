@@ -2,7 +2,7 @@
 title: Facebook Unpublishes The Yemini Report
 date: 2020-09-21
 image: /img/people/avi-yemini-censored.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/OzraeliAvi/status/1308229661760004096', 'https://archive.is/C1MEG' ]

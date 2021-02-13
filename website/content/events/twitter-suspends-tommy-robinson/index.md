@@ -2,7 +2,7 @@
 title: Twitter Suspends Tommy Robinson
 date: 2018-03-01
 image: /img/people/tommy-robinson.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended ]
 sources:
  - [ 'Voice of Europe "Tommy Robinson banned by Twitter for ‘telling the truth’ about grooming gangs" (1 Mar 2018)', 'https://archive.vn/4QPZI' ]

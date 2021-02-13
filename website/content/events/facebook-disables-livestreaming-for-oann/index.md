@@ -2,7 +2,7 @@
 title: Facebook Disables Fan Subscription Livestreaming for OANN
 date: 2020-12-11
 image: /img/logos/oann.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ restricted, defunded, election2020 ]
 sources:
  - [ 'twitter.com/OANN/status/1337508673464147968', 'https://archive.is/PV4qD' ]

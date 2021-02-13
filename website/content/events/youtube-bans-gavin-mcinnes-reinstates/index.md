@@ -3,7 +3,7 @@ title: YouTube Bans Gavin Mcinnes (Reinstated)
 date: 2018-12-10
 image: /img/people/gavin-mcinnes.jpg
 profiles: [ gavin-mcinnes ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'Breitbart "Gavin McInnes Blacklisted from YouTube for ''Copyright Infringement''" (10 Dec 2018)', 'http://archive.is/Z4csx' ]

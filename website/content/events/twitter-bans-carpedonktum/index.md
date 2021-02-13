@@ -3,7 +3,7 @@ title: Twitter Bans CarpeDonktum
 date: 2020-06-23
 image: /img/people/carpedonktum.jpg
 profiles: [ carpedonktum ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'CarpeDonktum Locals.com post (archived)', 'http://archive.is/F92fs' ]

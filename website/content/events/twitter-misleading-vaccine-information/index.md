@@ -2,7 +2,7 @@
 title: Twitter Announces Crackdown on "Misleading" Vaccine Information
 date: 2020-12-16
 image: /img/misc/ttas.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ policy, covid, gov ]
 sources:
  - [ 'Twitter Blog "COVID-19: Our approach to misleading vaccine information" by Twitter Safety (16 Dec 2020)', 'https://archive.is/wnYXB' ]

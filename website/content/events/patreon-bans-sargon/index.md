@@ -2,7 +2,7 @@
 date: 2018-12-07
 title: Patreon Bans Sargon of Akkad
 image: /img/people/sargon-of-akkad.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'Sargon - BitChute', 'https://www.bitchute.com/channel/sargonofakkad/' ]

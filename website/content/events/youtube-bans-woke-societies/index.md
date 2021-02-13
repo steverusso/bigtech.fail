@@ -3,7 +3,7 @@ title: YouTube Bans Woke Societies
 date: 2020-10-15
 image: /img/people/woke-societies.jpg
 profiles: [ woke-societies ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned, defunded ]
 sources:
  - [ 'twitter.com/wokesocieties/status/1316752255882866688', 'https://archive.is/A2nb0' ]

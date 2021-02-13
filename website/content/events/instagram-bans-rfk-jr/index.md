@@ -2,7 +2,7 @@
 title: Instagram Bans Robert F. Kennedy, Jr.
 date: 2021-02-10
 image: /img/people/rfk-jr.jpg
-platforms: [ instagram ]
+corpos: [ instagram ]
 tags: [ banned, gov, covid ]
 sources:
  - [ 'Children''s Health Defense "RFK, Jr. Responds to Instagram’s Removal of His Account" by Children''s Health Defense Team (11 Feb 2021)', 'https://archive.is/JRH9z' ]

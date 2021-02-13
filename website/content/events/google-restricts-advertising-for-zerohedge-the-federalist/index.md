@@ -2,7 +2,7 @@
 title: Google Restricts Advertising for Zerohedge and The Federalist
 date: 2020-06-16
 image: /img/logos/zerohedge-thefederalist.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ defunded ]
 sources:
  - [ 'National Review "Hands Off the Federalist" (16 Jun 2020)', 'https://archive.vn/lsGYK' ]

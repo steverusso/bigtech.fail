@@ -2,7 +2,7 @@
 title: Facebook Bans AmericanAF (Somewhat Reinstated)
 date: 2020-10-16
 image: /img/logos/americanaf.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned ]
 sources:
  - [ 'facebook.com/americanafshop/posts/1470511479825491', 'https://archive.is/pbTpr' ]

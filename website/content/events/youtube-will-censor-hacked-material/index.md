@@ -2,7 +2,7 @@
 title: YouTube Will Censor Hacked Material
 date: 2020-08-13
 image: /img/logos/youtube.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ policy, gov ]
 sources:
  - [ 'YouTube Official Blog "An update on how YouTube supports elections" by Leslie Miller (13 Aug 2020)', 'http://archive.is/Yfqg9' ]

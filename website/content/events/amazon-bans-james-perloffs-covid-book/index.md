@@ -2,7 +2,7 @@
 title: Amazon Bans "COVID-19 and the Agendas to Come, Red-Pilled" by James Perloff
 date: 2020-10-15
 image: /img/books/covid-19-and-the-agendas-to-come-red-pilled.png
-platforms: [ amazon ]
+corpos: [ amazon ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'twitter.com/jamesperloff/status/1316920232217350146', 'https://archive.is/eTsyl' ]

@@ -2,7 +2,7 @@
 title: Facebook & Instagram Ban Elijah Schaffer (Reinstated)
 date: 2021-01-08
 image: /img/people/elijah-schaffer.jpg
-platforms: [ facebook, instagram ]
+corpos: [ facebook, instagram ]
 tags: [ banned, election2020, capitol-riot ]
 sources:
  - [ 'twitter.com/ElijahSchaffer/status/1347611669078417412', 'https://archive.is/9T3G1' ]

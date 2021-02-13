@@ -2,7 +2,7 @@
 date: 2018-06-26
 title: Patreon Bans Brittany Pettibone
 image: /img/people/brittany-sellner.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'Archive.is - https://twitter.com/BrittPettibone/status/1011584813973868544', 'https://archive.is/PhHSW' ]

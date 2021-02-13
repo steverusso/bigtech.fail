@@ -2,7 +2,7 @@
 title: YouTube Says Contradicting the WHO Will Violate Community Guidelines
 date: 2020-04-19
 image: /img/misc/youwho.png
-platforms: [ youtube  ]
+corpos: [ youtube  ]
 tags: [ policy, china, covid, gov ]
 sources:
  - [ 'Reclaim The Net "YouTube CEO: Anything that goes against the WHO is a violation of YouTube policies" by Tom Parker (19 Apr 2020)', 'https://reclaimthenet.org/youtube-ceo-coronavirus-right-information-misinformation/' ]

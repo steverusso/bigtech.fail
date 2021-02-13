@@ -3,7 +3,7 @@ title: YouTube Bans The Highwire
 date: 2020-07-30
 image: /img/logos/the-highwire.jpg
 profiles: [ del-bigtree ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned, covid ]
 sources:
  - [ 'BitChute "THE CYBER ATTACK ON TRUTH" by The Highwire with Del Bigtree (30 Jul 2020)', 'https://www.bitchute.com/video/fUswQI1t1p3I/' ]

@@ -2,7 +2,7 @@
 date: 2018-12-05
 title: Patreon Bans Milo Yiannopoulos
 image: /img/people/milo.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'RT', 'https://www.rt.com/news/445803-milo-patreon-ban-proud-boys/' ]

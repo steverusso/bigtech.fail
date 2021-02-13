@@ -2,7 +2,7 @@
 title: Facebook Purges Marq Speck Due to False QAnon Association (Mostly Reinstated)
 date: 2020-10-19
 image: /img/misc/marq-andrew-speck.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned ]
 sources:
  - [ 'facebook.com/1745580792128857/posts/this-is-marq-speck-my-personal-page-has-been-disabled-from-facebook-and-i-do-not/3648574335162817/', 'https://archive.is/Fai7i' ]

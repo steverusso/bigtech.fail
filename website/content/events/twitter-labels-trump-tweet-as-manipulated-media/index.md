@@ -2,7 +2,7 @@
 title: Twitter Labels Trump Tweet as "Manipulated Media"
 date: 2020-06-18
 image: /img/people/trump.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ content-removed, gov, wtf ]
 sources:
  - [ 'Twitter @realDonaldTrump 1273770669214490626', 'https://archive.vn/skozQ' ]

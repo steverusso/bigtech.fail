@@ -3,7 +3,7 @@ title: Facebook and Twitter Ban The Free Thought Project
 date: 2018-10-11
 image: /img/people/free-thought-project.png
 profiles: [ free-thought-project ]
-platforms: [ facebook, twitter ]
+corpos: [ facebook, twitter ]
 tags: [ banned, gov ]
 sources:
  - [ 'The Free Thought Project "First They Came for Alex Jones — We Told You We Were Next — We Were" by Matt Agorist (12 Oct 2018)', 'https://archive.is/6jDpi' ]

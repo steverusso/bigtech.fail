@@ -2,7 +2,7 @@
 date: 2019-12-24
 title: YouTube Accidentally Removes Hundreds of CryptoCurrency Related Videos
 image: /img/logos/youtube.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed ]
 sources:
  - [ 'Reclaim The Net "YouTube deals a massive blow to cryptocurrency community, calls it "harmful or dangerous", mass deletes videos" by Didi Rankovic (24 Dec 2019)', 'https://reclaimthenet.org/youtube-cryptocurrency-censorship/' ]

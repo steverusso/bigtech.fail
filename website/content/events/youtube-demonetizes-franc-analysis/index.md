@@ -2,7 +2,7 @@
 title: YouTube Demonetizes Franc Analysis
 date: 2021-02-03
 image: /img/misc/franc-analysis.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'twitter.com/B43Franco/status/1357058385728966659', 'https://archive.is/wip/LdroC' ]

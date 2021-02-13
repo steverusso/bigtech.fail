@@ -2,7 +2,7 @@
 title: YouTube Demonetizes We Are Change
 date: 2020-04-06
 image: /img/people/we-are-change.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 profiles: [ luke-rudkowski ]
 sources:

@@ -2,7 +2,7 @@
 date: 2019-07-15
 title: Twitter Bans Lindsay Shepherd (Reinstated)
 image: /img/people/lindsay-shepherd.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'The Post Millennial "Twitter permanently silences Canadian free speech activist Lindsay Shepherd" by Barrett Wilson (15 Jul 2020)', 'https://www.thepostmillennial.com/breaking-twitter-silences-canadian-free-speech-activist-lindsay-shepherd/' ]

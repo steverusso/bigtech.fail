@@ -2,7 +2,7 @@
 title: Twitter Suspends Amul After Suggesting Boycott of Chinese Products (Reinstates)
 date: 2020-06-04
 image: /img/logos/amul.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, china ]
 sources:
  - [ 'Reclaim The Net "Indian dairy company locked out of Twitter after posting image about avoiding Chinese products" by Cindy Harper (6 Jun 2020)', 'https://archive.vn/sCpoV' ]

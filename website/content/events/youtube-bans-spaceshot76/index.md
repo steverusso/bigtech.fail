@@ -3,7 +3,7 @@ title: YouTube Bans Spaceshot76
 date: 2020-10-15
 image: /img/people/spaceshot76.jpg
 profiles: [ spaceshot76 ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'Ban notice email from YouTube to SpaceShot76', 'notice.jpg' ]

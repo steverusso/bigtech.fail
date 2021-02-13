@@ -3,7 +3,7 @@ date: 2017-08-01
 title: Google Disables Jordan Peterson's Account
 image: /img/people/dr-jordan-peterson.jpg
 profiles: [ dr-jordan-peterson ]
-platforms: [ google ]
+corpos: [ google ]
 tags: [ suspended ]
 sources:
  - [ '@jordanbpeterson - Tweet 892420717521850374', 'https://web.archive.org/web/20170801162416/https:/twitter.com/jordanbpeterson/status/892420717521850374' ]

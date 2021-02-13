@@ -2,7 +2,7 @@
 title: YouTube Bans The Patriot Hour
 date: 2020-10-15
 image: /img/misc/the-patriot-hour.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/ThePatriotHour/status/1316767376243855361', 'https://archive.is/JEp14' ]

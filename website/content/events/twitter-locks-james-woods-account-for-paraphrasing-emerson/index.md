@@ -2,7 +2,7 @@
 date: 2019-04-20
 title: Twitter Locks James Woods Out of His Account For Paraphrasing Ralph Waldo Emerson
 image: /img/people/james-woods.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended ]
 sources:
  - [ 'twitter.com/Millerita/status/1119655394899415040', 'https://archive.is/zqHPH' ]

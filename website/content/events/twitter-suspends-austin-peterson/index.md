@@ -2,7 +2,7 @@
 title: Twitter Suspends Senate Candidate Austin Peterson For Using One of Twitter's GIFs
 date: 2018-07-30
 image: /img/people/austin-peterson.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
  - [ 'Austin Peterson Facebook Post (30 Jul 2018)', 'https://archive.is/Y8bNh' ]

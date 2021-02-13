@@ -2,7 +2,7 @@
 title: Twitter Censors Tweets Related to US Election
 date: 2020-11-04
 image: /img/misc/ttas.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ policy, gov, election2020 ]
 sources:
  - [ 'twitter.com/TwitterSafety/status/1323868590047744000', 'https://archive.is/VINai' ]

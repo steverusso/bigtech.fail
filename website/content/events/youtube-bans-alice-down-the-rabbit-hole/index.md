@@ -2,7 +2,7 @@
 title: YouTube Bans Alice Down the Rabbit Hole
 date: 2020-10-15
 image: /img/misc/adtrh.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/AliceMasci/status/1316750317674016768', 'https://archive.is/R49d1' ]

@@ -2,7 +2,7 @@
 title: YouTube Removes Last American Vagabond Video on Vaccine Trust
 date: 2020-12-18
 image: /img/people/tlav.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid ]
 profiles: [ tlav ]
 sources:

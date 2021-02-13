@@ -2,7 +2,7 @@
 title: YouTube Removes Scott Adams Episode 1213
 date: 2020-12-11
 image: /img/people/scott-adams.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, gov ]
 sources:
  - [ 'twitter.com/ScottAdamsSays/status/1337452117934493696', 'https://archive.is/KCmQF' ]

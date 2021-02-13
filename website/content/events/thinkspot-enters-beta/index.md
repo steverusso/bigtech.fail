@@ -2,7 +2,7 @@
 date: 2019-06-12
 title: Patreon Alternative 'Thinkspot' Enters Public Beta Testing
 image: /img/logos/thinkspot.png
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ alttech-growth ]
 profiles: [ dr-jordan-peterson ]
 sources:

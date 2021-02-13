@@ -4,7 +4,7 @@ title: ShadowGate Censored
 date: 2020-08-16
 image: /img/misc/shadowgate.png
 profiles: [ millie-weaver ]
-platforms: [ facebook, twitter, youtube ]
+corpos: [ facebook, twitter, youtube ]
 tags: [ content-removed, gov ]
 sources:
  - [ 'twitter.com/MarkDice/status/1295214548371165184', 'http://archive.is/CMaxR' ]

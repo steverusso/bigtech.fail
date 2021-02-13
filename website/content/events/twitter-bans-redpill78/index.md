@@ -2,7 +2,7 @@
 title: Twitter Bans RedPill78
 date: 2020-10-23
 image: /img/people/redpill78.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 profiles: [ redpill78 ]
 sources:

@@ -2,7 +2,7 @@
 title: Twitter Suspends Pedro Gonzalez
 date: 2020-09-01
 image: /img/people/pedro-gonzalez.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
  - [ 'twitter.com/GavinWax/status/1300820240503316486', 'https://archive.is/AEMML' ]

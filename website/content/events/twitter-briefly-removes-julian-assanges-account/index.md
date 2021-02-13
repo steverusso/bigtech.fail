@@ -2,7 +2,7 @@
 title: Twitter Briefly Removes Julian Assange's Account
 date: 2017-12-25
 image: /img/people/julian-assange.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
  - [ 'New York Post "Julian Assange''s Twitter account mysteriously disappears" by Mark Moore (25 Dec 2017)', 'https://archive.vn/yUP7C' ]

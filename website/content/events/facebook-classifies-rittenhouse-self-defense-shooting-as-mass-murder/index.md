@@ -3,7 +3,7 @@ title: Facebook Classifies Rittenhouse Self-Defense Shooting as "Mass Murder"
 date: 2020-08-27
 image: /img/people/kyle-rittenhouse.jpg
 summary: And then banned Kyle Rittenhouse...
-platforms: [ facebook, instagram ]
+corpos: [ facebook, instagram ]
 tags: [ policy, banned, kyle-rittenhouse ]
 sources:
  - [ 'threadreaderapp.com/thread/1299083851596214272.html', 'https://threadreaderapp.com/thread/1299083851596214272.html' ]

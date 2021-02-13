@@ -2,7 +2,7 @@
 title: Twitter Bans Technofog (Reinstated)
 date: 2021-01-09
 image: /img/misc/technofog.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, oops, election2020, capitol-riot ]
 sources:
  - [ 'parler.com/post/704b65c30c6748689d776fdf125cb1a9', 'https://archive.is/4QByL' ]

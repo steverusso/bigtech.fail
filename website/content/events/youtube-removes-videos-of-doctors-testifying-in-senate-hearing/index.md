@@ -2,7 +2,7 @@
 title: YouTube Removes Videos of Doctors Testifying in Senate Hearing
 date: 2021-01-27
 image: /img/misc/youwho.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid, gov ]
 sources:
  - [ 'twitter.com/SenRonJohnson/status/1354580111849381888', 'https://archive.is/DoFWj' ]

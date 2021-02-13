@@ -5,7 +5,7 @@ title: Matt Christiansen Further Exposes Patreon In Call With Jacqueline Hart
 image: /img/people/matt-christiansen.jpg
 summary: In this phone call, Matt gives Patreon more than enough rope to metaphorically hang themselves
 profiles: [ matt-christiansen ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 sources:
  - [ '@MLChristiansen - Tweet 1075156361212616707', 'https://archive.is/6p4YL' ]
  - [ 'Matt Christiansen - BitChute Video - "My Call With Patreon''s Jacqueline Hart | Yes, It''s a Total Disaster (Transcript Included)"', 'https://www.bitchute.com/video/Hv7hvZee-PQ/' ]

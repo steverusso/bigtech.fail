@@ -2,7 +2,7 @@
 title: YouTube Bans Leafy
 date: 2020-08-21
 image: /img/people/leafy.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'Know Your Meme "YouTube Bans Leafy After Violating Anti-bullying Policy" by Adam Downer (24 Aug 2020)', 'https://news.knowyourmeme.com/news/youtube-bans-leafy-after-violating-anti-bullying-policy' ]

@@ -3,7 +3,7 @@ title: Mailchimp and LinkedIn Ban Infowars
 date: 2018-08-07
 image: /img/people/alex-jones.jpg
 profiles: [ alex-jones ]
-platforms: [ mailchimp, linkedin ]
+corpos: [ mailchimp, linkedin ]
 tags: [ banned ]
 sources:
  - [ 'Breitbart "LinkedIn and MailChimp Join Social Media Purge of Infowars" by Charlie Nash (7 Aug 2018)', 'https://archive.is/6f2bT' ]

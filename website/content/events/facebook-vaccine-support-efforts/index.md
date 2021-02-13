@@ -2,7 +2,7 @@
 title: Facebook Announces Support for Vaccine Efforts
 date: 2020-10-13
 image: /img/logos/facebook.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ policy, covid, gov ]
 sources:
  - [ 'Facebook Newsroom "Supporting Public Health Experts’ Vaccine Efforts" by Kang-Xing Jin and Rob Leathern (13 Oct 2020)', 'https://archive.is/4E3D7' ]

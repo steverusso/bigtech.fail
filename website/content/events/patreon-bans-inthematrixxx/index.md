@@ -2,7 +2,7 @@
 title: Patreon Bans InTheMatrixxx
 date: 2020-10-22T00:00:02.000Z
 image: /img/misc/inthematrixxx.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'twitter.com/intheMatrixxx/status/1319345449573228545', 'https://archive.is/fmRmC' ]

@@ -2,7 +2,7 @@
 title: Instagram Censors Support For Soleimani
 date: 2020-01-09
 image: /img/people/soleimani.jpg
-platforms: [ facebook, instagram ]
+corpos: [ facebook, instagram ]
 tags: [ content-removed, gov ]
 sources:
  - [ 'International Federation of Journalists "Iran: Journalists demand end to censorship of Iranian media on Instagram" (9 Jan 2020)', 'https://archive.vn/jeqyR' ]

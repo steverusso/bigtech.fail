@@ -2,7 +2,7 @@
 title: YouTube Bans InTheMatrixxx
 date: 2020-10-15
 image: /img/misc/inthematrixxx.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/intheMatrixxx/status/1316770108862156800', 'https://archive.is/mAb2b' ]

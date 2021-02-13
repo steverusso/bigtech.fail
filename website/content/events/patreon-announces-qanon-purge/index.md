@@ -2,7 +2,7 @@
 title: Patreon Announces QAnon Purge
 date: 2020-10-22T00:00:01.000Z
 image: /img/logos/patreon.png
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded, policy ]
 sources:
  - [ 'Patreon Blog "An Update to Patreon’s Policies on QAnon" by Patreon Team (22 Oct 2020)', 'https://archive.is/LAzfQ' ]

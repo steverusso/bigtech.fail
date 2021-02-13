@@ -4,7 +4,7 @@ order: 2
 title: YouTube Pulls Beauty and the Beta Stream For Saying "Not Erica Ciaramella"
 image: /img/people/beauty-and-the-beta.jpg
 profiles: [ blonde, matt-christiansen ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed ]
 sources:
  - [ 'BitChute - Beauty and the Beta #180: "Full Episode - YouTube Banned the First 36 Minutes"', 'https://www.bitchute.com/video/W5ifp4nPNJ63/' ]

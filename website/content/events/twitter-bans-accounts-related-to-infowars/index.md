@@ -3,7 +3,7 @@ date: 2018-10-22
 title: Twitter Confirms Removal of Remaining InfoWars Accounts
 image: /img/logos/infowars-censored.jpg
 profiles: [ alex-jones ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Newsweek', 'https://www.newsweek.com/twitter-purges-more-accounts-linked-alex-jones-infowars-1182658' ]

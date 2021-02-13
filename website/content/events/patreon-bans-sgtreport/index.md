@@ -2,7 +2,7 @@
 title: Patreon Bans SGTreport
 date: 2020-10-22T00:00:02.000Z
 image: /img/people/sgtreport.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'twitter.com/SGTreport/status/1319334165544914947', 'https://archive.is/7ugdV' ]

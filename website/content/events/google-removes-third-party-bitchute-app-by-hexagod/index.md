@@ -2,7 +2,7 @@
 title: Google Removes Hexagod Bitchute App From the Play Store
 date: 2020-10-29
 image: /img/people/hexagod.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ banned, app ]
 sources:
  - [ 'twitter.com/VybeyPantelonez/status/1321958272862162945', 'https://archive.is/rx5OC' ]

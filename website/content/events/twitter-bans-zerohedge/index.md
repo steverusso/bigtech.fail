@@ -2,7 +2,7 @@
 title: Twitter Bans ZeroHedge
 date: 2020-01-31
 image: /img/logos/zerohedge.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'ZeroHedge "Zerohedge Suspended On Twitter" by Tyler Durden (1 Feb 2020)', 'https://www.zerohedge.com/political/zerohedge-suspended-twitter' ]

@@ -2,7 +2,7 @@
 title: YouTube Demonetizes CyberDemon531
 date: 2021-02-03
 image: /img/misc/cyberdemon531.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'twitter.com/PAWGsForBernie/status/1357046979927412736', 'https://archive.is/NC7gl' ]

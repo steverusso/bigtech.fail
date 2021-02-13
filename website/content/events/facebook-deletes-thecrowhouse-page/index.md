@@ -3,7 +3,7 @@ title: Facebook Deletes Thecrowhouse Page
 date: 2020-05-05
 image: /img/logos/thecrowhouse.jpg
 profiles: [ max-igan ]
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned ]
 sources:
  - [ 'BitChute "Banned from Facebook While Corona Psychosis Continues" by TheCrowhouse (5 May 2020)', 'https://www.bitchute.com/video/HoPdmm73vdY/' ]

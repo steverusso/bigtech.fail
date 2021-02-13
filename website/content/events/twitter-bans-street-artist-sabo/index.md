@@ -2,7 +2,7 @@
 date: 2018-04-13
 title: Twitter Bans LA Street Artist Sabo Without Reason
 image: /img/logos/unsavory-agents.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Breitbard "Conservative Street Artist ''Sabo'' Banned from Twitter" by Charlie Nash', 'https://www.breitbart.com/tech/2018/04/13/conservative-street-artist-sabo-banned-from-twitter/' ]

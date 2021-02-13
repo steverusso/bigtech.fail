@@ -3,7 +3,7 @@ title: Patreon Bans Patriots' Soapbox News Network
 date: 2020-10-22T00:00:02.000Z
 image: /img/people/patriots-soapbox.jpg
 profiles: [ patriots-soapbox ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'twitter.com/NotPsb/status/1319344449546309632', 'https://archive.is/KOHjK' ]

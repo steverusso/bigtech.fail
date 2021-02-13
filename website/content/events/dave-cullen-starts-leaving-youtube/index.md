@@ -2,7 +2,7 @@
 title: Dave Cullen of Computing Forever Starts Leaving YouTube
 date: 2020-12-21
 image: /img/people/dave-cullen.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ alttech-growth, walked-away ]
 profiles: [ dave-cullen ]
 sources:

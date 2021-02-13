@@ -3,7 +3,7 @@ date: 2017-07-29
 title: Apple Removes VPN Apps From China App Store
 image: /img/misc/chipple.png
 summary: To say this isn't a good look for Apple would be a bit of an understatement
-platforms: [ apple ]
+corpos: [ apple ]
 tags: [ app ]
 sources:
  - [ 'ExpressVPN "Apple removes VPN Apps from China App Store"', 'https://www.expressvpn.com/blog/china-ios-app-store-removes-vpns/' ]

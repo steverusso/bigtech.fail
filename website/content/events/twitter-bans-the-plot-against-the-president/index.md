@@ -2,7 +2,7 @@
 title: Twitter Bans The Plot Against the President (Reinstated)
 date: 2020-11-26
 image: /img/misc/patp.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, election2020 ]
 sources:
  - [ 'The Epoch Times "Twitter ‘Indefinitely’ Suspends Account of ‘The Plot Against the President’" by Isabel van Brugen (26 Nov 2020)', 'https://archive.is/GarYR' ]

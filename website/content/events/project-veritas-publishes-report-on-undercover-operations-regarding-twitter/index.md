@@ -2,7 +2,7 @@
 title: Project Veritas Publishes Report on Undercover Operations Re. Twitter
 date: 2018-01-11
 image: /img/logos/project-veritas.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ exposed ]
 profiles: [ project-veritas ]
 sources:

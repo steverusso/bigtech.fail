@@ -2,7 +2,7 @@
 title: Discord Bans WallStreetBets
 date: 2021-01-27
 image: /img/logos/wallstreetbets.png
-platforms: [ discord ]
+corpos: [ discord ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/Slasher/status/1354570005686398979', 'https://archive.is/bE5rr' ]

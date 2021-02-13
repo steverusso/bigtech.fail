@@ -2,7 +2,7 @@
 title: Twitter Appoints Li Fei-Fei to Board of Directors
 date: 2020-05-11
 image: /img/misc/twitter-china.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ china ]
 sources:
  - [ 'PR Newswire "Twitter Appoints Dr. Fei-Fei Li to Board of Directors" by Twitter, Inc. (11 May 2020)', 'https://archive.vn/urbqO' ]

@@ -3,7 +3,7 @@ title: YouTube Bans Destroying the Illusion
 date: 2020-10-15
 image: /img/people/jordan-sather.jpg
 profiles: [ jordan-sather ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'altCensored - Destroying the Illusion', 'https://archive.is/Vv8kP' ]

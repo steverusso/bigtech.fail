@@ -3,7 +3,7 @@ date: 2019-11-10
 title: Facebook Suspends Tim Pool For Reporting On Alleged CIA Whistleblower
 image: /img/people/tim-pool.jpg
 profiles: [ tim-pool ]
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ suspended ]
 sources:
  - [ 'Tim Pool - BitChute Video', 'https://www.bitchute.com/video/5K5dmP4ph3A/' ]

@@ -2,7 +2,7 @@
 title: X22report Reaches 100,000 Subscribers on BitChute
 date: 2020-12-01
 image: /img/people/x22report.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ alttech-growth ]
 profiles: [ x22report ]
 sources:

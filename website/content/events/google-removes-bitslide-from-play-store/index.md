@@ -2,7 +2,7 @@
 title: Google Removes BitSlide App From the Play Store
 date: 2020-12-17
 image: /img/logos/bitslide.jpg
-platforms: [ google ]
+corpos: [ google ]
 tags: [ banned, app ]
 sources:
  - [ 'twitter.com/bitslide_app/status/1339500207936073728', 'https://archive.is/JNl7u' ]

@@ -2,7 +2,7 @@
 title: Twitter Suspends White House Press Secretary Kayleigh McEnany
 date: 2020-10-14
 image: /img/people/kayleigh-mcenany.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov, hunters-laptop ]
 sources:
  - [ 'twitter.com/MarkDice/status/1316522762148573184', 'https://archive.is/y9E0Y' ]

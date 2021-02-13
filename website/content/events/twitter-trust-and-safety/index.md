@@ -2,7 +2,7 @@
 date: 2016-02-09
 title: Twitter Establishes Their Trust and Safety Council
 image: /img/misc/ttas.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 sources:
  - [ 'Twitter Blog "Announcing the Twitter Trust & Safety Council" by Patricia Cartes (9 Feb 2016)', 'https://archive.vn/PJ34B' ]
  - [ 'Twitter Trust and Safety Council Members', 'https://archive.vn/iYwfd' ]

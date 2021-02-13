@@ -2,7 +2,7 @@
 date: 2019-08-26
 title: YouTube Bans James Allsup
 image: /img/people/james-allsup.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'https://gab.com/realjamesallsup/posts/102685172189236644', 'https://archive.is/mgNca' ]

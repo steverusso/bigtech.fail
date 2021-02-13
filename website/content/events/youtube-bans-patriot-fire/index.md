@@ -2,7 +2,7 @@
 date: 2019-10-29
 title: YouTube Bans Patriot Fire
 image: /img/logos/patriot-fire.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'The Gateway Pundit', 'https://www.thegatewaypundit.com/2019/10/google-leftists-strike-again-youtube-removes-channel-on-trump-border-wall-constrution-says-it-is-hate-speech-and-promotes-violence/' ]

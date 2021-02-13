@@ -2,7 +2,7 @@
 title: Twitter Severely Restricts Some of President Trump's Tweets
 date: 2020-12-12
 image: /img/people/trump.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ restricted, gov, election2020 ]
 sources:
  - [ 'ZeroHedge "Twitter Blocks Users From Liking, Replying-To Trump Tweets As President Rages Over SCOTUS, Barr, & ''RINO'' Governors" by Tyler Durden (12 Dec 2020)', 'https://archive.is/rhyhK' ]

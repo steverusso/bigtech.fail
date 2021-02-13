@@ -2,7 +2,7 @@
 title: YouTube Bans Mark Taylor
 date: 2020-10-15
 image: /img/people/mark-taylor.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'Social Blade (Mark Taylor OFFICIAL) socialblade.com/youtube/channel/UCOcxxWkbqDn6TiFcez9XUPQ/', 'https://archive.is/zuYm8' ]

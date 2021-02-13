@@ -3,7 +3,7 @@ title: Twitter Bans Carey Wedler
 date: 2018-10-11
 image: /img/people/carey-wedler.jpg
 profiles: [ carey-wedler ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'socialblade.com/twitter/user/careywedler (archived)', 'http://web.archive.org/web/20201113142127/https://socialblade.com/twitter/user/careywedler' ]

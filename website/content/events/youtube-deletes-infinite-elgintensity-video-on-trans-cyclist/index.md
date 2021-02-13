@@ -3,7 +3,7 @@ date: 2019-10-25
 title: YouTube Deletes InfiniteElgintensity Video About Trans Cyclist
 image: /img/people/infinite-elgintensity.jpg
 summary: Please go watch the video on BitChute. It's hilarious.
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, trans ]
 sources:
  - [ 'InfiniteElgintensity - YouTube Community Comment', 'https://www.youtube.com/channel/UCljYmI53HACHnVa3d3JfFlw/community?lb=UgzIA6uNwH2KCQHuR294AaABCQ' ]

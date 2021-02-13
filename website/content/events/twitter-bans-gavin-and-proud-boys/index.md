@@ -3,7 +3,7 @@ date: 2018-08-10
 title: Twitter Bans Gavin McInnes and Proud Boys' Accounts
 image: /img/people/gavin-mcinnes.jpg
 profiles: [ gavin-mcinnes ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Breitbart "Twitter Bans Conservative Commentator Gavin McInnes" by Allum Bokhari (10 Aug 2018)', 'http://archive.is/b7pRj' ]

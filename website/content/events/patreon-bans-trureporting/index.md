@@ -3,7 +3,7 @@ title: Patreon Bans TRUreporting
 date: 2020-10-22T00:00:02.000Z
 image: /img/people/trureporting.jpg
 profiles: [ trureporting ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'twitter.com/TRUreporting/status/1319329381173596161', 'https://archive.is/5s54O' ]

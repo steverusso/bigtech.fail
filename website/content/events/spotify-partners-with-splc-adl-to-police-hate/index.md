@@ -3,7 +3,7 @@ date: 2018-05-10
 title: Spotify Partners With the SPLC and ADL to Police Hate Content
 image: /img/logos/spotify.png
 summary: What could possibly go wrong
-platforms: [ spotify ]
+corpos: [ spotify ]
 sources:
  - [ "Spotify Blog Post", "https://newsroom.spotify.com/2018-05-10/spotify-announces-new-hate-content-and-hateful-conduct-public-policy/" ]
  - [ "Spotify Blog Post (2)", "https://newsroom.spotify.com/2018-06-01/spotify-policy-update/" ]

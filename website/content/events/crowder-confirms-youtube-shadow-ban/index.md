@@ -2,7 +2,7 @@
 date: 2019-09-30
 title: Crowder Confirms YouTube Is Shadow Banning His Channel ONLY in United States
 image: /img/people/steven-crowder.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ shadow-banned ]
 sources:
  - [ 'Steven Crowder - YouTube Video (9/25/2019)', 'https://www.youtube.com/watch?v=CTCZuy4gMho' ]

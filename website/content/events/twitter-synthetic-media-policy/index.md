@@ -2,7 +2,7 @@
 title: Twitter Announces Policy Against "Synthetic Media Likely to Cause Harm"
 date: 2020-02-04
 image: /img/misc/ttas.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ policy ]
 sources:
  - [ 'blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html', 'https://archive.is/USaDf' ]

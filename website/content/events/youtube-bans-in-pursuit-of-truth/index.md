@@ -2,7 +2,7 @@
 title: YouTube Bans In Pursuit of Truth (IPOT)
 date: 2020-10-15
 image: /img/misc/ipot.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/IPOT1776/status/1316758951908700161', 'https://archive.is/MtkrW' ]

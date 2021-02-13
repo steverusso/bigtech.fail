@@ -2,7 +2,7 @@
 date: 2018-09-20
 title: Twitter Suspends Actor James Woods For Tweeting a Meme
 image: /img/people/james-woods.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended ]
 sources:
  - [ 'ZeroHedge "James Woods Suspended From Twitter Over Satirical Meme That Could "Impact An Election"" (23 Sept 2018)', 'https://www.zerohedge.com/news/2018-09-22/james-woods-suspended-twitter-over-satirical-meme-could-impact-election' ]

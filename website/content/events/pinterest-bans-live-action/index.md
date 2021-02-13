@@ -3,7 +3,7 @@ date: 2019-06-11
 title: Pinterest Bans LiveAction
 image: /img/logos/live-action.jpg
 summary: ...right as it's revealed that Pinterest shadow bans their content
-platforms: [ pinterest ]
+corpos: [ pinterest ]
 tags: [ banned ]
 sources:
  - [ 'LiveAction.org', 'https://www.liveaction.org/news/pinterest-censors-live-action-labeling-content-porn/' ]

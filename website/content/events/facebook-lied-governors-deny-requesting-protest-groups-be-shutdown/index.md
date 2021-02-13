@@ -3,7 +3,7 @@ title: 'Facebook Lied: Governors Deny Requesting Protest Groups Be Shutdown'
 date: 2020-04-20
 image: /img/logos/facebook.png
 summary: They say Facebook actually reached out to them ...
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ covid, gov, policy ]
 sources:
  - [ 'Breitbart "Governors: Facebook Contacted Us About Protests, Not Other Way Around" by Joel B. Pollak (20 Apr 2020)', 'https://www.breitbart.com/the-media/2020/04/20/governors-facebook-contacted-us-about-protests-not-other-way-around/' ]

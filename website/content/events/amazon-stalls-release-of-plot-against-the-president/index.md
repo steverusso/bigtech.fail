@@ -2,7 +2,7 @@
 title: Amazon Stalls Release of The Plot Against the President
 date: 2020-10-22
 image: /img/misc/patp.jpg
-platforms: [ amazon ]
+corpos: [ amazon ]
 tags: [ restricted, gov, election2020 ]
 sources:
  - [ 'Breitbart "Amazon Held Back Release of ‘Plot Against the President,’ Said Documentary Needed ‘Content Review’" by David Ng (22 Oct 2020)', 'https://archive.is/H8Fdw' ]

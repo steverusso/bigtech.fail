@@ -2,7 +2,7 @@
 title: Twitter Suspends Jack Posobiec
 date: 2020-10-14
 image: /img/misc/ukrainian-gas-expert-poso.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov, hunters-laptop ]
 sources:
  - [ 'twitter.com/LibertarianBlue/status/1316528162638049280', 'https://archive.is/EdSoz' ]

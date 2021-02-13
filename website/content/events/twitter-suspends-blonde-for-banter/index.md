@@ -3,7 +3,7 @@ date: 2017-11-02
 title: Twitter Suspends Blonde For Banter
 image: /img/people/blonde.jpg
 profiles: [ blonde ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended ]
 sources:
  - [ 'Beauty and the Beta Sunday Stream #76 @ 19m22s', 'https://youtu.be/_G4HN7xm1GA?t=1162' ]

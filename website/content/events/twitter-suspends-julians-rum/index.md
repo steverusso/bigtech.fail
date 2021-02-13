@@ -2,7 +2,7 @@
 title: Twitter Suspends Julians Rum
 date: 2020-10-14
 image: /img/people/julians-rum.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov, hunters-laptop ]
 sources:
  - [ 'share.par.pw/post/c05c2a7bfe3344b9a5e7c47801c5aee4', 'https://archive.is/aTyo7' ]

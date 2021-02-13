@@ -3,7 +3,7 @@ title: YouTube Bans PrayingMedic
 date: 2020-10-15
 image: /img/people/praying-medic.png
 profiles: [ praying-medic ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'altCensored - prayingmedic', 'https://archive.is/ROxQB' ]

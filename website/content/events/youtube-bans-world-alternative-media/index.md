@@ -3,7 +3,7 @@ title: YouTube Bans World Alternative Media
 date: 2020-10-15
 image: /img/people/wam.png
 profiles: [ wam ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'flote.app/post/a88e8421-220e-4922-a176-272ab684b8f9', 'https://archive.is/Ay2kX' ]

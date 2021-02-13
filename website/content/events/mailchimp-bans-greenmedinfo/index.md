@@ -2,7 +2,7 @@
 title: Mailchimp Bans GreenMedInfo
 date: 2019-06-19
 image: /img/misc/greenmedinfo.jpg
-platforms: [ mailchimp ]
+corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
  - [ 'GreenMedInfo "Mailchimp Shuts Down GreenMedInfo''s Newsletter for "Anti-Vaccine" Content" by GMI Reporter (19 Jun 2020)', 'https://archive.is/6dhyS' ]

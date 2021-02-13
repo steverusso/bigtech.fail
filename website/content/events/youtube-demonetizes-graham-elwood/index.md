@@ -2,7 +2,7 @@
 title: YouTube Demonetizes Graham Elwood
 date: 2021-02-02
 image: /img/people/graham-elwood.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'twitter.com/grahamelwood/status/1356503535353950209', 'https://archive.is/vJ4e8' ]

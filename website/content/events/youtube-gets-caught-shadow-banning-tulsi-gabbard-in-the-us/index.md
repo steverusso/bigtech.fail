@@ -2,7 +2,7 @@
 date: 2019-10-22
 title: YouTube Shadow Bans Presidential Candidate Tulsi Gabbard in US *ONLY*
 image: /img/people/tulsi-gabbard.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ shadow-banned ]
 sources:
  - [ 'LouderWithCrowder - BitChute Video (10/22/2019)' , 'https://www.bitchute.com/video/-T0RyYMSNWc/' ]

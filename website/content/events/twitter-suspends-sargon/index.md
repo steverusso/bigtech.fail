@@ -2,7 +2,7 @@
 date: 2017-01-27
 title: Twitter Suspends Sargon of Akkad
 image: /img/people/sargon-of-akkad.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended ]
 sources:
  - [ 'YouTube "I Have Been Suspended From Twitter #FreeSargon" by Sargon of Akkad (27 Jan 2020)', 'https://www.youtube.com/watch?v=uBt0YNbrXWQ' ]

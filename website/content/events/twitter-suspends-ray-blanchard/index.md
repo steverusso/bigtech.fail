@@ -2,7 +2,7 @@
 title: Twitter Suspends Ray Blanchard (Reverses Decision and Apologizes)
 date: 2019-05-12
 image: /img/people/ray-blanchard.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, trans ]
 sources:
  - [ 'Twitter @BlanchardPhD 1127286054858502152', 'https://archive.vn/YrWS3' ]

@@ -2,7 +2,7 @@
 title: YouTube Removes Video of Dr. Erickson and Dr. Massihi
 date: 2020-04-27
 image: /img/people/drs-erickson-massihi.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
   - [ 'Twitter.com - @RMConservative 1254954619555524615', 'https://archive.vn/yPFfS' ]

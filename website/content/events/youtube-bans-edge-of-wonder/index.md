@@ -3,7 +3,7 @@ title: YouTube Bans Edge of Wonder
 date: 2020-10-15
 image: /img/people/edge-of-wonder.jpg
 profiles: [ edge-of-wonder ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/OnEdgeOfWonder/status/1316761200118714372', 'https://archive.is/cqpvn' ]

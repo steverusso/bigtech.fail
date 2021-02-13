@@ -3,7 +3,7 @@ title: Twitter Bans Katie Hopkins
 date: 2020-06-19
 image: /img/people/katie-hopkins.jpg
 profiles: [ katie-hopkins ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Heavy "''Apprentice'' Star Katie Hopkins Permanently Banned on Twitter for Abusive Conduct" by Emily Bicks (19 Jun 2020)', 'https://archive.vn/6csNY' ]

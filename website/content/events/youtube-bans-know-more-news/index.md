@@ -2,7 +2,7 @@
 title: YouTube Bans Know More News
 date: 2020-10-20
 image: /img/misc/know-more-news.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/Know_More_News/status/1318704558273482755', 'https://archive.is/J8I4V' ]

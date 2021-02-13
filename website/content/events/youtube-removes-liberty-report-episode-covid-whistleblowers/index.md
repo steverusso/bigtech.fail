@@ -2,7 +2,7 @@
 title: YouTube Removes Ron Paul Liberty Report Episode Questioning COVID-19 Narrative
 date: 2020-09-23
 image: /img/people/dr-ron-paul.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'twitter.com/RonPaul/status/1308849979730071554', 'https://archive.is/2koHJ' ]

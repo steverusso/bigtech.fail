@@ -2,7 +2,7 @@
 title: Twitter Suspends Dan Lyman
 date: 2020-09-04
 image: /img/people/dan-lyman.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
  - [ 'twitter.com/Harrison_of_TX/status/1301601592089759748', 'https://archive.is/kIKqf' ]

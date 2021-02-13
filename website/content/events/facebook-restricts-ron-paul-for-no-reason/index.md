@@ -2,7 +2,7 @@
 title: Facebook Restricts Ron Paul For No Discernable Reason (Reversed)
 date: 2021-01-11
 image: /img/people/dr-ron-paul.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ restricted, oops ]
 sources:
  - [ 'twitter.com/RonPaul/status/1348694943905308672', 'https://archive.is/G1xF5' ]

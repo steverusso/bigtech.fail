@@ -2,7 +2,7 @@
 title: YouTube Bans SGTreport
 date: 2020-10-15
 image: /img/people/sgtreport.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/SGTreport/status/1316797719005007873', 'https://archive.is/zZo3g' ]

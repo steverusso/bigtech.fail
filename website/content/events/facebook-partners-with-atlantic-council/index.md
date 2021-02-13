@@ -2,7 +2,7 @@
 title: Facebook Partners With The Atlantic Council
 date: 2018-05-17
 image: /img/misc/atlantic-council.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ policy, gov ]
 sources:
  - [ 'about.fb.com/news/2018/05/announcing-new-election-partnership-with-the-atlantic-council/', 'https://archive.is/TAMUM' ]

@@ -2,7 +2,7 @@
 title: YouTube Removes Interview With Dr. Scott Atlas
 date: 2020-09-13
 image: /img/people/dr-scott-atlas.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid, gov ]
 sources:
  - [ 'twitter.com/Avik/status/1305223760023375873', 'https://archive.is/bBOML' ]

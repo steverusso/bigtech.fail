@@ -2,7 +2,7 @@
 title: Facebook Blocks Hashtags About Election Fraud
 date: 2020-11-05
 image: /img/logos/facebook.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ restricted, gov, election2020 ]
 sources:
  - [ 'Reclaim The Net "Facebook blocks hashtags alleging voting corruption" by Cindy Harper (6 Nov 2020)', 'https://archive.is/rarkw' ]

@@ -2,7 +2,7 @@
 title: Styx Becomes First to Reach 100,000 Subscribers on BitChute!
 date: 2020-10-16
 image: /img/people/styxhexenhammer666.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ alttech-growth ]
 profiles: [ styxhexenhammer666 ]
 sources:

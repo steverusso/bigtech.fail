@@ -3,7 +3,7 @@ title: YouTube Demonetizes and Suspends Nick Fuentes
 date: 2020-01-10
 image: /img/people/nick-fuentes.jpg
 profiles: [ nick-fuentes ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ suspended, defunded, content-removed ]
 sources:
  - [ 'Twitter @NickJFuentes 1215611326992723968', 'http://archive.is/fdoPM' ]

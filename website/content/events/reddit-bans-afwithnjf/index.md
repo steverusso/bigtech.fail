@@ -3,7 +3,7 @@ title: Reddit Shuts Down r/AFwithNJF (America First with Nicholas J Fuentes)
 date: 2019-11-08
 image: /img/logos/afwnjf.png
 profiles: [ nick-fuentes ]
-platforms: [ reddit ]
+corpos: [ reddit ]
 tags: [ banned ]
 sources:
  - [ 'Twitter @AFwNJF 1192610765653471232', 'http://web.archive.org/web/20191108012914/https:/twitter.com/AFwNJF/status/1192610765653471232' ]

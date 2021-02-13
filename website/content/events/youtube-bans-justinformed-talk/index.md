@@ -2,7 +2,7 @@
 title: YouTube Bans JustInformed Talk
 date: 2020-10-15
 image: /img/misc/justinformed-talk.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/JustInformU/status/1316779121016414208', 'https://archive.is/WeXtY' ]

@@ -3,7 +3,7 @@ date: 2019-01-15
 title: Jordan Peterson Leaves Patreon
 image: /img/people/dr-jordan-peterson.jpg
 profiles: [ dr-jordan-peterson ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
  - [ 'Jordan Peterson - Tweet 1085344351780261888', 'https://web.archive.org/web/20190117020647/https:/twitter.com/jordanbpeterson/status/1085344351780261888' ]

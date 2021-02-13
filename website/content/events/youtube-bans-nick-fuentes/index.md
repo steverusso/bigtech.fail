@@ -3,7 +3,7 @@ title: YouTube Bans Nick Fuentes
 date: 2020-02-14
 image: /img/people/nick-fuentes.jpg
 profiles: [ nick-fuentes ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'Twitter @NickJFuentes 1228390570986483713', 'http://archive.is/iumAr' ]

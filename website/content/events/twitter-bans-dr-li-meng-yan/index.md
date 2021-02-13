@@ -3,7 +3,7 @@ aliases: [ /yan/ ]
 title: Twitter Bans Dr. Li-Meng Yan
 date: 2020-09-15
 image: /img/people/dr-li-meng-yan.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, china, covid ]
 sources:
  - [ 'Fox News "EXCLUSIVE: Chinese virologist accuses Beijing of coronavirus cover-up, flees Hong Kong: ''I know how they treat whistleblowers''" by Barnini Chakraborty, Alex Diaz (10 Jul 2020)', 'https://archive.is/leHOp' ]

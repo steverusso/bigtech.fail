@@ -3,7 +3,7 @@ date: 2019-11-07
 title: Facebook and YouTube Purge Any Mention of Eric Ciaramella As Alleged Whistleblower
 image: /img/misc/ciar.jpg
 summary: ...basically confirming that he is in fact the alleged whistleblower, right?
-platforms: [ facebook, youtube ]
+corpos: [ facebook, youtube ]
 tags: [ content-removed ]
 sources:
  - [ 'Breitbart "Facebook Removes News Reporting, Mention of Alleged ''Whistleblower''s'' Identity" by Allum Bokhari', 'https://www.breitbart.com/tech/2019/11/08/facebook-removes-any-news-reporting-on-or-even-mention-of-who-the-whistleblower-is-alleged-to-be/#' ]

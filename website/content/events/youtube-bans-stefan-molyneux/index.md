@@ -3,7 +3,7 @@ title: YouTube Bans Stefan Molyneux
 date: 2020-06-29
 image: /img/people/stefan-molyneux.jpg
 profiles: [ stefan-molyneux ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'BitChute "BANNED FROM YOUTUBE! I REGRET NOTHING!" by Stefan Molyneux (30 Jun 2020)', 'https://www.bitchute.com/video/ttWAc3XmzAMl/' ]

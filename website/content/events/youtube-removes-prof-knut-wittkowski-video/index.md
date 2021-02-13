@@ -2,7 +2,7 @@
 title: YouTube Removes Prof Knut Wittkowski Video
 date: 2020-05-16
 image: /img/people/prof-knut-wittkowski.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'New York Post "YouTube censors epidemiologist Knut Wittkowski for opposing lockdown" by Jon Levine (16 May 2020)', 'https://archive.vn/byHS2' ]

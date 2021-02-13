@@ -2,7 +2,7 @@
 title: Facebook Agrees to Censor Anti-State Content in Vietnam
 date: 2020-04-21
 image: /img/logos/facebook.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ gov ]
 sources:
  - [ 'Reuters "Exclusive: Facebook agreed to censor posts after Vietnam slowed traffic - sources" by James Pearson (21 Apr 2020)', 'https://archive.vn/fwUxl' ]

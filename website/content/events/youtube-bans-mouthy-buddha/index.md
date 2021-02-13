@@ -2,7 +2,7 @@
 title: YouTube Bans Mouthy Buddha
 date: 2020-10-15
 image: /img/misc/mouthy-buddha.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/MouthyBuddha/status/1316767591126519810', 'https://archive.is/KMnr3' ]

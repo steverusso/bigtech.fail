@@ -2,7 +2,7 @@
 title: Apple and Google Remove Fortnite
 date: 2020-08-13
 image: /img/logos/epic-games.png
-platforms: [ apple ]
+corpos: [ apple ]
 tags: [ content-removed, app ]
 sources:
  - [ 'Fortnite "The Fortnite Mega Drop - Permanent Discounts Up to 20%" by The Fortnite Team (13 Aug 2020)', 'http://archive.is/38rCU' ]

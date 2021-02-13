@@ -2,7 +2,7 @@
 title: Twitter Bans Tommy Gelati
 date: 2020-07-24
 image: /img/people/tommy-gelati.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'share.par.pw/post/b83e09037e4547d7993ad23ec20ceb8c', 'https://archive.is/K0hvB' ]

@@ -2,7 +2,7 @@
 title: YouTube Will Remove Content Critical of 2020 U.S. Election
 date: 2020-12-09
 image: /img/logos/youtube.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ policy, gov, election2020 ]
 sources:
  - [ 'YouTube Official Blog "Supporting the 2020 U.S. election" by The YouTube Team (9 Dec 2020)', 'https://archive.is/LppDR' ]

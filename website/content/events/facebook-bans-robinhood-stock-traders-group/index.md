@@ -2,7 +2,7 @@
 title: Facebook Bans Robinhood Stock Traders Group (Reinstated)
 date: 2021-01-27
 image: /img/misc/robinhood-stock-traders-group.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned, oops ]
 sources:
  - [ 'Reuters "Facebook temporarily shuts stock trading group after GameStop frenzy" by Paresh Dave (28 Jan 2021)', 'https://archive.is/ql5PB' ]

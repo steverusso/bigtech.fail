@@ -3,7 +3,7 @@ title: Facebook and Instagram Remove Andrew Schulz Video About Epstein Connectio
 date: 2020-07-15
 image: /img/people/andrew-schulz.jpg
 profiles: [ andrew-schulz ]
-platforms: [ facebook, instagram ]
+corpos: [ facebook, instagram ]
 tags: [ content-removed ]
 sources:
  - [ 'twitter.com/andrewschulz/status/1283595725088215051 (archived)', 'http://archive.is/ovlQL' ]

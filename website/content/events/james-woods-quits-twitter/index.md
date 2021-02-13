@@ -2,7 +2,7 @@
 date: 2019-05-09
 title: James Woods Quits Twitter
 image: /img/people/james-woods.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ walked-away ]
 sources:
  - [ 'The Daily Wire "James Woods Releases New Statement About Twitter Suspending Him" by Ryan Saavedra (10 May 2019)', 'https://www.dailywire.com/news/james-woods-releases-new-statement-about-twitter-ryan-saavedra' ]

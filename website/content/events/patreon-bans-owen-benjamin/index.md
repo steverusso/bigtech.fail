@@ -3,7 +3,7 @@ title: Patreon Bans Owen Benjamin
 date: 2019-10-09
 image: /img/people/owen-benjamin.jpg
 profiles: [ owen-benjamin ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'YouTube "Owen Benjamin BANNED from Patreon Instagram Livestream 9/10/2019" by  Owen Benjamin Instagram Streams (10 Oct 2019)', 'https://www.youtube.com/watch?v=-RPGsyJ4iGI' ]

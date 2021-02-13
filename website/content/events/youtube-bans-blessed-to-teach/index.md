@@ -2,7 +2,7 @@
 title: YouTube Bans Blessed To Teach
 date: 2020-10-15
 image: /img/misc/blessed2teach.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'facebook.com/BlessedToTeach/posts/986755651831552/', 'https://archive.is/MOW7B' ]

@@ -2,7 +2,7 @@
 date: 2019-06-27
 title: Google Suspends Tulsi Gabbard's Ad Campaign at the Time When She's Most Searched
 image: /img/people/tulsi-gabbard.jpg
-platforms: [ google ]
+corpos: [ google ]
 tags: [ suspended ]
 sources:
  - [ 'The Daily Caller', 'https://dailycaller.com/2019/07/25/tulsi-gabbard-sues-google/' ]

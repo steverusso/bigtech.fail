@@ -2,7 +2,7 @@
 title: Dan Bongino Exceeds YouTube Subscriber Count on Rumble
 date: 2020-12-08
 image: /img/people/dan-bongino.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:
  - [ 'twitter.com/dbongino/status/1336449459778150405', 'https://archive.is/nBe1E' ]

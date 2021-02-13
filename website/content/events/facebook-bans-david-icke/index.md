@@ -2,7 +2,7 @@
 title: Facebook Bans David Icke
 date: 2020-05-01
 image: /img/people/david-icke.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned, covid ]
 sources:
  - [ 'Twitter @davidicke - 1256123065051893765 (1 May 2020)', 'https://archive.vn/okspC' ]

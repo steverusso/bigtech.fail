@@ -2,7 +2,7 @@
 title: Twitter Removes Several Far Left Accounts
 date: 2021-01-21
 image: /img/misc/antifa.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, election2020 ]
 sources:
  - [ 'twitter.com/MrAndyNgo/status/1352399672594345985', 'https://archive.is/AaKu1' ]

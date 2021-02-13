@@ -2,7 +2,7 @@
 title: Apple Removes Unofficial WikiLeaks App
 date: 2010-12-20
 image: /img/logos/wikileaks.png
-platforms: [ apple ]
+corpos: [ apple ]
 tags: [ app, gov ]
 sources:
  - [ 'TechCrunch "Apple Removes WikiLeaks App From App Store" by Alexia Tsotsis (20 Dec 2010)', 'https://archive.vn/llUTb' ]

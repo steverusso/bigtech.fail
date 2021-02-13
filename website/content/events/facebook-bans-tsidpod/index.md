@@ -3,7 +3,7 @@ url: /facebook-bans-tsidpod/
 title: Facebook Bans The System Is Down (And Related Accounts!)
 date: 2021-01-06
 image: /img/misc/tsid.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned, election2020, capitol-riot ]
 profiles: [ tsid ]
 sources:

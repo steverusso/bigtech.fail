@@ -2,7 +2,7 @@
 title: YouTube Removes Tom Woods COVID Cult Video
 date: 2020-11-24
 image: /img/people/tom-woods.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'twitter.com/mises/status/1331451565438283776', 'https://archive.is/d4btP' ]

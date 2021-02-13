@@ -2,7 +2,7 @@
 date: 2019-11-20
 title: Twitter Bans BNL After Tweeting Link to Biden-Ukraine Article
 image: /img/logos/breakingnlive.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Styxhexenhammer666 - BitChute Video "Hunter Biden Baby, Burisma Bombshell, Twitter Bans BNL For Reporting"', 'https://www.bitchute.com/video/A9UI-AAeOmA/' ]

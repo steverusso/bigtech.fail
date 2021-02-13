@@ -2,7 +2,7 @@
 title: YouTube Demonetizes the Progressive Soapbox
 date: 2021-02-03
 image: /img/misc/progressive-soapbox.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'twitter.com/theProgSoapbox/status/1357059115999252482', 'https://archive.is/BjkyX' ]

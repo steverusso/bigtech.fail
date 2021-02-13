@@ -2,7 +2,7 @@
 title: Google Voice Typing Censors Words Related to Falun Gong
 date: 2020-05-31
 image: /img/misc/goina.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ china, wtf ]
 sources:
  - [ 'twitter.com/jenniferatntd/status/1267204660051443719', 'https://archive.is/Up0Zf' ]

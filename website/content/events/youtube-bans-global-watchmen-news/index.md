@@ -2,7 +2,7 @@
 title: YouTube Bans Global Watchmen News
 date: 2020-10-15
 image: /img/misc/global-watchmen-news.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/GlobalWatchmen/status/1316814421105278977', 'https://archive.is/sKiUB' ]

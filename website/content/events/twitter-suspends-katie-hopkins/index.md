@@ -3,7 +3,7 @@ title: Twitter Suspends Katie Hopkins After Pressure From Activists
 date: 2020-01-30
 image: /img/people/katie-hopkins.jpg
 profiles: [ katie-hopkins ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended ]
 sources:
  - [ 'Independent "Katie Hopkins'' Twitter account suspended" by Lizzie Dearden (30 Jan 2020)', 'https://archive.vn/KRwYL' ]

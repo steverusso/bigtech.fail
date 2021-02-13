@@ -2,7 +2,7 @@
 title: Twitter Suspends Cassandra Fairbanks
 date: 2020-08-30
 image: /img/people/cassandra-fairbanks.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 profiles: [ cassandra-fairbanks ]
 sources:

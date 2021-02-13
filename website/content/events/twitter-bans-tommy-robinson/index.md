@@ -2,7 +2,7 @@
 date: 2018-03-28
 title: Twitter Bans Tommy Robinson
 image: /img/people/tommy-robinson.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Independent "Tommy Robinson permanently banned from Twitter" by Jon Sharman (28 Mar 2018)', 'https://archive.vn/7pOOP' ]

@@ -2,7 +2,7 @@
 date: 2019-08-12
 title: Facebook and Instagram Ban James Allsup
 image: /img/people/james-allsup.jpg
-platforms: [ facebook, instagram ]
+corpos: [ facebook, instagram ]
 tags: [ banned ]
 sources:
  - [ 'James Allsup - BitChute Video', 'https://www.bitchute.com/video/QIbKDUYtHDj4/' ]

@@ -2,7 +2,7 @@
 title: Apple Removes Song That References Tiananmen Massacre From Services in China
 date: 2019-04-09
 image: /img/misc/chipple.png
-platforms: [ apple ]
+corpos: [ apple ]
 tags: [ content-removed, china ]
 sources:
  - [ 'Hong Kong Free Press "Apple Music in China removes Jacky Cheung song with reference to Tiananmen massacre" by Holmes Chan (9 Apr 2019)', 'https://hongkongfp.com/2019/04/09/apple-music-china-removes-jacky-cheung-song-reference-tiananmen-massacre/' ]

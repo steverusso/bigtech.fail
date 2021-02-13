@@ -3,7 +3,7 @@ title: Twitter Bans Jordan Sather
 date: 2020-10-01
 image: /img/people/jordan-sather.jpg
 profiles: [ jordan-sather ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov ]
 sources:
  - [ 'share.par.pw/post/686d9e54c0114715bd64ea225dfff0e9', 'https://archive.is/E8Z3C' ]

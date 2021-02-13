@@ -2,7 +2,7 @@
 title: Mailchimp Polices Anti-Vaccine Content
 date: 2019-06-13
 image: /img/logos/mailchimp.png
-platforms: [ mailchimp ]
+corpos: [ mailchimp ]
 tags: [ policy ]
 sources:
  - [ 'Reclaim The Net "MailChimp has banned anti-vax newsletters" by Didi Rankovic (17 Jun 2019)', 'https://reclaimthenet.org/newsletter-mailchimp-banned-anti-vax-content/' ]

@@ -2,7 +2,7 @@
 title: Twitter Suspends Donald Trump Jr.
 date: 2020-07-28
 image: /img/people/donald-trump-jr.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:
  - [ 'YouTube "Don Jr. speaks out about temporary Twitter ban on ''Tucker Carlson Tonight''" by Fox News (28 Jul 2020)', 'https://www.youtube.com/watch?v=ZrU2_WvVVm0' ]

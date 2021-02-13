@@ -2,7 +2,7 @@
 title: YouTube Announces Efforts to Be More Inclusive
 date: 2020-12-03
 image: /img/logos/youtube.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ policy, wtf ]
 sources:
  - [ 'YouTube Official Blog "Updates on our efforts to make YouTube a more inclusive platform" by Johanna Wright (3 Dec 2020)', 'https://archive.is/adrP5' ]

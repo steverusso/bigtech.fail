@@ -2,7 +2,7 @@
 title: Facebook Bans Shane Trejo Without Reason
 date: 2020-08-20
 image: /img/people/shane-trejo.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned ]
 sources:
  - [ 'National File "EXCLUSIVE: Facebook Permanently Bans Reporter Retweeted By Trump In Mass Purge Of Conservative Accounts" by Eduardo Rivero (20 Aug 2020)', 'http://archive.is/t6SPO' ]

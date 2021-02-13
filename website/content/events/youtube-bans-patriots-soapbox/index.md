@@ -3,7 +3,7 @@ title: YouTube Bans Patriots' Soapbox News Network
 date: 2020-10-15
 image: /img/people/patriots-soapbox.jpg
 profiles: [ patriots-soapbox ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'altCensored - Patriots'' Soapbox News Network LIVE', 'https://archive.is/yaYtv' ]

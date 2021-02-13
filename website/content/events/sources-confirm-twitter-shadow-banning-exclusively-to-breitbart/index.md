@@ -2,7 +2,7 @@
 title: Inside Sources Confirm Twitter Shadow Banning Exclusively to Breitbart
 date: 2016-02-16
 image: /img/misc/shadow-twitter.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ exposed ]
 sources:
  - [ 'Breitbart "EXCLUSIVE: Twitter Shadowbanning ''Real and Happening Every Day'' Says Inside Source" by Milo Yiannopoulos (16 Feb 2016)', 'https://archive.vn/Ae9VU' ]

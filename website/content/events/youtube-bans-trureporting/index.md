@@ -3,7 +3,7 @@ title: YouTube Bans TRUreporting
 date: 2020-10-15
 image: /img/people/trureporting.jpg
 profiles: [ trureporting ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'altCensored - TRUreporting altcensored.com/channel/UCpwXjOAwWDuWlmA2gTjjBwg', 'https://archive.is/yFCoe' ]

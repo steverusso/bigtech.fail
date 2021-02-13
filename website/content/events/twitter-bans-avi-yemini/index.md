@@ -2,7 +2,7 @@
 date: 2019-09-23
 title: Twitter Bans Avi Yemini For Criticizing Greta Thunberg's Parents (Later Unbanned)
 image: /img/people/avi-yemini-censored.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Avi Yemini - The "Offending" Tweet', 'https://web.archive.org/web/20190923205443/https:/twitter.com/OzraeliAvi/status/1176234521399676928' ]

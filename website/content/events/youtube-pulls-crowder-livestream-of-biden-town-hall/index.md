@@ -3,7 +3,7 @@ title: YouTube Pulls Louder With Crowder Livestream of Biden Town Hall
 date: 2020-09-18
 image: /img/people/steven-crowder.jpg
 profiles: [ steven-crowder ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, copyright ]
 sources:
  - [ 'BitChute "YouTube STRIKES Biden Stream, Crowder Fires Back! | Louder with Crowder" by Steven Crowder (18 Sep 2020)', 'https://www.bitchute.com/video/i3QZlZFclJE/' ]

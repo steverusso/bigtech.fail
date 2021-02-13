@@ -2,7 +2,7 @@
 title: Amazon Removes the Documentary "Hoaxed"
 date: 2020-04-09
 image: /img/misc/hoaxed.png
-platforms: [ amazon ]
+corpos: [ amazon ]
 tags: [ content-removed ]
 sources:
  - [ 'twitter.com/Cernovich/status/1248396405594411008', 'https://archive.is/0UBhs' ]

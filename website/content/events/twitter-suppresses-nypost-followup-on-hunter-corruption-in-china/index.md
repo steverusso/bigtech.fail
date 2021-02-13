@@ -2,7 +2,7 @@
 title: Twitter Suppresses NY Post Follow-Up on Hunter's Corruption in China
 date: 2020-10-15
 image: /img/logos/nypost.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov, hunters-laptop ]
 sources:
  - [ 'twitter.com/SohrabAhmari/status/1316737095906590721', 'https://archive.is/cstkO' ]

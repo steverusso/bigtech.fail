@@ -2,7 +2,7 @@
 title: Twitter Suspends Kevin Brennan Over Self-Harm Joke
 date: 2020-08-24
 image: /img/people/kevin-brennan.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, humor ]
 sources:
  - [ 'twitter.com/kevinbrennan666/status/1298443357350486016', 'https://archive.is/czl1v' ]

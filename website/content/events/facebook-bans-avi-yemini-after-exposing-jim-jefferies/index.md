@@ -2,7 +2,7 @@
 date: 2019-03-25
 title: Facebook Bans Avi Yemini's Page After He Defended Himself From Defamation
 image: /img/people/avi-yemini-censored.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned ]
 sources:
  - [ 'Avi Yemini - YouTube Video "Hidden Camera: Jim Jefferies EXPOSED"', 'https://www.youtube.com/watch?v=odCQhAezB_Q' ]

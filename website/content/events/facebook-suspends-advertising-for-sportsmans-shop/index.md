@@ -2,7 +2,7 @@
 title: Facebook Suspends Advertising For The Sportsman's Shop
 date: 2017-11-24
 image: /img/logos/the-sportsmans-shop.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ advertising, firearms ]
 sources:
  - [ 'The Daily Caller "Facebook Removed This Small Town Business''s Ads For American Flags Because It Sell Guns" by Eric Lieberman (24 Nov 2017)', 'https://archive.vn/ERG21' ]

@@ -2,7 +2,7 @@
 title: Facebook, Twitter Ban The Anti-Media
 date: 2018-10-11
 image: /img/people/anti-media.jpg
-platforms: [ facebook, twitter ]
+corpos: [ facebook, twitter ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/AntiMedia/status/1050476321191669760', 'https://archive.is/LDBuo' ]

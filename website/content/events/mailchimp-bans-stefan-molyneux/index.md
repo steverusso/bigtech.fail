@@ -3,7 +3,7 @@ title: Mailchimp Bans Stefan Molyneux
 date: 2020-01-14
 image: /img/people/stefan-molyneux.jpg
 profiles: [ stefan-molyneux ]
-platforms: [ mailchimp ]
+corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/StefanMolyneux/status/1217168228117622785', 'https://archive.is/P4OcG' ]

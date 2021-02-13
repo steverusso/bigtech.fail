@@ -3,7 +3,7 @@ date: 2017-11-13
 title: Twitter Suspends Blonde For Saying Muslims Perpetuate a Rape Culture
 image: /img/people/blonde.jpg
 profiles: [ blonde ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended ]
 sources:
  - [ 'Beauty and the Beta Sunday Stream #78 @ 14m13s', 'https://youtu.be/ErYLKC-jSHg?t=853' ]

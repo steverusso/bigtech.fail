@@ -2,7 +2,7 @@
 date: 2017-12-25
 title: Twitter Bans James Allsup
 image: /img/people/james-allsup.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ "Seattle Times", "https://www.seattletimes.com/seattle-news/twitter-suspends-james-allsup-wsu-student-and-far-right-provocateur/" ]

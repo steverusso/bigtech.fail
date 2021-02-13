@@ -3,7 +3,7 @@ title: Patreon Bans Ryan Dawson of Anti Neocon Report
 date: 2020-07-02
 image: /img/people/ryan-dawson.jpg
 profiles: [ ryan-dawson ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'twitter.com/AncReport/status/1278792021314908160 (archived)', 'http://archive.vn/l9y84' ]

@@ -2,7 +2,7 @@
 title: Project Veritas Reports on Facebook's Politically Biased Content Moderation
 date: 2020-06-23
 image: /img/logos/project-veritas.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ exposed, gov, election2020 ]
 profiles: [ project-veritas ]
 sources:

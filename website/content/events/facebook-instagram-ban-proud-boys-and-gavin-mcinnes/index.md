@@ -3,7 +3,7 @@ title: Facebook and Instagram Ban the Proud Boys and Gavin Mcinnes
 date: 2018-10-20
 image: /img/people/gavin-mcinnes.jpg
 profiles: [ gavin-mcinnes ]
-platforms: [ facebook, instagram ]
+corpos: [ facebook, instagram ]
 tags: [ banned ]
 sources:
  - [ 'Breitbart "Facebook Blacklists Conservative Commentator Gavin McInnes and Proud Boys Organization" by Lucas Nolan (30 Oct 2018)', 'http://archive.is/jtiub' ]

@@ -2,7 +2,7 @@
 title: YouTube Purges Channels Spreading "Harmful Conpsiracy Theories"
 date: 2020-10-15
 image: /img/logos/youtube.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned, policy ]
 sources:
  - [ 'YouTube Official Blog "Managing harmful conspiracy theories on YouTube" by The YouTube Team (15 Oct 2020)', 'https://archive.is/XAtuq' ]

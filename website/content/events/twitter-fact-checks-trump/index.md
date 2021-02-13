@@ -2,7 +2,7 @@
 title: Twitter Fact-Checks Pres. Trump Using Opposite Opinion
 date: 2020-05-26
 image: /img/people/trump.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ gov ]
 sources:
  - [ 'Twitter @realDonaldTrump 1265255835124539392', 'https://archive.vn/NtbND' ]

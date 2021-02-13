@@ -2,7 +2,7 @@
 title: YouTube Demonetizes Jennifer Zeng
 date: 2020-05-07
 image: /img/people/jennifer-zeng.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded, china ]
 profiles: [ jennifer-zeng ]
 sources:

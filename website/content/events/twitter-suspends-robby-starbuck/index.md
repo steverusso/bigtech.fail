@@ -2,7 +2,7 @@
 title: Twitter Suspends Robby Starbuck For... Making An Observation?
 date: 2020-07-29
 image: /img/people/robby-starbuck.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, covid, wtf ]
 sources:
  - [ 'twitter.com/KamVTV/status/1288503226401267714', 'http://archive.is/U9hr3' ]

@@ -3,7 +3,7 @@ date: 2018-09-06
 title: Twitter Bans Alex Jones and InfoWars
 image: /img/people/alex-jones.jpg
 profiles: [ alex-jones ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'Joe Rogan Podcast Clip (with Jack Dorsey, Vijaya Gadde, and Tim Pool)', 'https://www.youtube.com/watch?v=K-6n46X__WQ' ]

@@ -2,7 +2,7 @@
 title: Twitter Bans President Trump
 date: 2021-01-08
 image: /img/people/trump.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, election2020, capitol-riot ]
 sources:
  - [ 'blog.twitter.com/en_us/topics/company/2020/suspension.html', 'https://archive.is/e8WIO' ]

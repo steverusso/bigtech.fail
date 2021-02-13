@@ -2,7 +2,7 @@
 title: YouTube Removes Rose/Icke II
 date: 2020-04-06
 image: /img/misc/rose-icke-ii.jpg
-platforms: [ youtube, vimeo ]
+corpos: [ youtube, vimeo ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'BitChute "David Icke''s Explosive Interview With London Real - The Video That Youtube Doesn''t Want You To See" by DavidIcke (6 Apr 2020)', 'https://www.bitchute.com/video/H4W7FwBy0Ukh/' ]

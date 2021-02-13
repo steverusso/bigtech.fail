@@ -2,7 +2,7 @@
 title: Faceboook Bans Stop the Steal
 date: 2020-11-05
 image: /img/misc/stopthesteal.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned, gov, election2020 ]
 sources:
  - [ 'twitter.com/AmyKremer/status/1324422857041084417', 'https://archive.is/hb4I8' ]

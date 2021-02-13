@@ -2,7 +2,7 @@
 title: Dave Rubin Launches Locals
 date: 2019-12-04
 image: /img/logos/locals.png
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ alttech-growth ]
 profiles: [ dave-rubin ]
 sources:

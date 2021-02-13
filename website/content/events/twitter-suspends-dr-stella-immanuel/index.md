@@ -2,7 +2,7 @@
 title: Twitter Suspends Dr. Stella Immanuel
 date: 2020-07-29
 image: /img/people/dr-stella-immanuel.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:
  - [ 'twitter.com/ProcterMd/status/1288652277931180033', 'http://archive.is/CJBwi' ]

@@ -2,7 +2,7 @@
 title: Twitter Suspends Steve Bannons War Room
 date: 2020-11-03
 image: /img/people/steve-bannons-war-room.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov, election2020 ]
 sources:
  - [ 'twitter.com/RaheemKassam/status/1323767600963342344', 'https://archive.is/JcQ1Y' ]

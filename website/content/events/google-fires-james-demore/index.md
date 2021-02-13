@@ -2,7 +2,7 @@
 date: 2017-08-07
 title: James Demore Fired After Criticizing Google's PC Culture
 image: /img/people/james-demore.jpg
-platforms: [ google ]
+corpos: [ google ]
 tags: [ fired ]
 sources:
  - [ "Breitbart", "https://www.breitbart.com/tech/2017/08/07/google-fires-viewpoint-diversity-manifesto-author-james-damore/" ]

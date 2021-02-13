@@ -2,7 +2,7 @@
 title: Discord Bans Ice Age Farmer
 date: 2020-10-15
 image: /img/people/ice-age-farmer.jpg
-platforms: [ discord ]
+corpos: [ discord ]
 tags: [ banned ]
 sources:
  - [ 'gab.com/IceAgeFarmer/posts/105070959297536531', 'https://archive.is/5m0zG' ]

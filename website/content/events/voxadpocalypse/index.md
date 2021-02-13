@@ -6,7 +6,7 @@ image: /img/misc/demonetized.png
 profiles:
 - steven-crowder
 - ford-fischer
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'YouTube Official Blog "Our ongoing work to tackle hate" by The YouTube Team (5 Jun 2019)', 'https://archive.is/18VHt' ]

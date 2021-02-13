@@ -2,7 +2,7 @@
 title: Twitter Bans The Babylon Bee (Reinstated)
 date: 2020-08-17
 image: /img/logos/the-babylon-bee.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, oops ]
 sources:
  - [ 'Disrn "Twitter suspends The Babylon Bee, then reinstates with 0 followers" by Adam Ford (17 Aug 2020)', 'https://disrn.com/news/twitter-suspends-the-babylon-bee' ]

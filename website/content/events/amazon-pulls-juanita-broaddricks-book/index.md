@@ -2,7 +2,7 @@
 date: 2018-06-12
 title: Amazon Pulls Juanita Broaddrick's Book About Alleged Bill Clinton Rape
 image: /img/books/youd-better-put-some-ice-on-that.png
-platforms: [ amazon ]
+corpos: [ amazon ]
 tags: [ content-removed, gov ]
 sources:
  - [ 'PJ Media "EXCLUSIVE: Juanita Broaddrick''s Book about Alleged Clinton Rape Disappears from Amazon" by Jeff Reynolds (12 Jun 2018)', 'https://archive.is/3B01E' ]

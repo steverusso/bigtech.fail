@@ -2,7 +2,7 @@
 title: Wikipedia Censors Any Mention of Eric Ciaramella
 date: 2019-11-09
 image: /img/misc/ciar.jpg
-platforms: [ wikipedia ]
+corpos: [ wikipedia ]
 tags: [ content-removed, gov, policy ]
 sources:
  - [ 'Breitbart "Wikipedia Admins Censor Name of Alleged Ukraine ‘Whistleblower’" by T.D. Adler (10 Nov 2019)', 'https://www.breitbart.com/tech/2019/11/10/wikipedia-admins-censor-name-of-alleged-ukraine-whistleblower/' ]

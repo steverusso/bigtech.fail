@@ -2,7 +2,7 @@
 title: Facebook Apologizes for Rejecting Commemorative Tiananmen Massacre Frame
 date: 2017-05-30
 image: /img/people/fung-ka-keung.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ china, gov ]
 sources:
  - [ 'Hong Kong Free Press "Facebook apologises after ''mistakenly'' banning 1989 Tiananmen massacre profile tribute" by Ellie Ng (30 May 2017)', 'https://www.hongkongfp.com/2017/05/30/facebook-apologises-mistakenly-banning-1989-tiananmen-massacre-profile-tribute/' ]

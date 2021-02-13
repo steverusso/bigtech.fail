@@ -2,7 +2,7 @@
 title: YouTube Bans Jason Liosatos
 date: 2021-01-24
 image: /img/people/jason-liosatos.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned, covid ]
 sources:
  - [ 'twitter.com/JasonLiosatos/status/1353459145517658119', 'https://archive.is/LuEgq' ]

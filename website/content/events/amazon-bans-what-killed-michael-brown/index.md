@@ -2,7 +2,7 @@
 title: Amazon Removes "What Killed Michael Brown?" Documentary
 date: 2020-10-14
 image: /img/misc/whatkilledmb.jpg
-platforms: [ amazon ]
+corpos: [ amazon ]
 tags: [ content-removed ]
 sources:
  - [ 'whatkilledmichaelbrown.com/amazon', 'https://whatkilledmichaelbrown.com/amazon' ]

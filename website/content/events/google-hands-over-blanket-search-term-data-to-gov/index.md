@@ -2,7 +2,7 @@
 title: Court Docs Show Google Hands Over Blanket Search Data to Gov't
 date: 2020-10-08
 image: /img/logos/google.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ gov, policy ]
 sources:
  - [ 'Reclaim The Net "Google handed over to police data on everyone who searched for certain terms" by Carl Sinclair (9 Oct 2020)', 'https://reclaimthenet.org/google-keyword-warrants/' ]

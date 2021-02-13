@@ -2,7 +2,7 @@
 date: 2017-08-09
 title: Twitter Bans Sargon of Akkad
 image: /img/people/sargon-of-akkad.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'YouTube "Twitter Ban Update" by The Thinkery (10 Aug 2017)', 'https://www.youtube.com/watch?v=gwi6Yl6p2Ek' ]

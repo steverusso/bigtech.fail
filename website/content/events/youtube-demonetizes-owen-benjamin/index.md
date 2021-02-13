@@ -3,7 +3,7 @@ title: YouTube Demonetizes Owen Benjamin
 date: 2019-03-15
 image: /img/people/owen-benjamin.jpg
 profiles: [ owen-benjamin ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'altCensored "My Channel Has Been Demonetized" by Owen Benjamin (15 Mar 2019)', 'https://altcensored.com/watch?v=hjsWHwcaj5g' ]

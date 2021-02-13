@@ -2,7 +2,7 @@
 title: Tulsi Gabbard Starts a Community on Locals!
 date: 2021-01-11
 image: /img/people/tulsi-gabbard.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ alttech-growth ]
 sources:
  - [ 'twitter.com/OnLocals/status/1348753546934587392', 'https://archive.is/z0zic' ]

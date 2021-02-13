@@ -2,7 +2,7 @@
 title: LinkedIn Bans London Real
 date: 2020-04-12
 image: /img/logos/london-real.jpg
-platforms: [ linkedin ]
+corpos: [ linkedin ]
 tags: [ banned, covid ]
 sources:
  - [ 'BitChute "BANNED ON LINKEDIN - Now I Need You #LondonRealArmy 👊🙏🏼♥️🌍💪" by London Real (12 Apr 2020)', 'https://www.bitchute.com/video/zcJg-gHj6Q8/' ]

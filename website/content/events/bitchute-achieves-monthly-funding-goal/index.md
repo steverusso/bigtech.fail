@@ -2,7 +2,7 @@
 title: BitChute Achieves On-Going Monthly Funding Goal!
 date: 2020-11-30
 image: /img/logos/bitchute.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:
  - [ 'Archive of BitChute crossing funding goal', 'https://archive.vn/72j6B#selection-787.0-795.9' ]

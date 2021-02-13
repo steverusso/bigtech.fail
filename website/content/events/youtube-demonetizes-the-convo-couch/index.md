@@ -2,7 +2,7 @@
 title: YouTube Demonetizes The Convo Couch
 date: 2021-02-03
 image: /img/misc/the-convo-couch.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'twitter.com/Fiorella_im/status/1357061435600244736', 'https://archive.is/cTx25' ]

@@ -3,7 +3,7 @@ title: YouTube Bans The Conscious Resistance
 date: 2020-10-24
 image: /img/people/the-conscious-resistance.jpg
 profiles: [ the-conscious-resistance ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/DBrozeLiveFree/status/1319986226066198529', 'https://archive.is/fgRRC' ]

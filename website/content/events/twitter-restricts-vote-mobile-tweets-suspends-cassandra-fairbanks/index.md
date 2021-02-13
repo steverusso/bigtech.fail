@@ -2,7 +2,7 @@
 title: Twitter Restricts "Vote Mobile" Tweets, Suspends Cassandra Fairbanks
 date: 2021-02-05
 image: /img/misc/shadow-twitter.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ restricted, suspended, gov, election2020 ]
 profiles: [ cassandra-fairbanks, tim-pool ]
 sources:

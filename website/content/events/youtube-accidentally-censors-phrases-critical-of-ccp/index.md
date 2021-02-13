@@ -2,7 +2,7 @@
 title: YouTube Accidentally Censors Phrases Critical of Chinese Communist Party
 date: 2020-05-13
 image: /img/misc/youtube-china.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ china, oops ]
 sources:
  - [ 'Twitter Jennifer Zeng (@jenniferatntd) 1260557177711968257', 'https://archive.vn/E6zcI' ]

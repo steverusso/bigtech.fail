@@ -2,7 +2,7 @@
 title: Mailchimp Bans SGTreport
 date: 2020-10-19
 image: /img/people/sgtreport.jpg
-platforms: [ mailchimp ]
+corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/SGTreport/status/1318310899766145024', 'https://archive.is/Vnv7g' ]

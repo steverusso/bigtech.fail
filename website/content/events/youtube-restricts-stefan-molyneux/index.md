@@ -3,7 +3,7 @@ title: YouTube Restricts Stefan Molyneux
 date: 2018-08-15
 image: /img/people/stefan-molyneux.jpg
 profiles: [ stefan-molyneux ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ suspended ]
 sources:
  - [ 'BitChute "I''m About To Be Banned From YouTube" by Stefan Molyneux (15 Aug 2018)', 'https://www.bitchute.com/video/DUpBbS8tfSkb/' ]

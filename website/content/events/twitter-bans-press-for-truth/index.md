@@ -2,7 +2,7 @@
 title: Twitter Bans Press For Truth
 date: 2020-10-23
 image: /img/logos/press-for-truth.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 profiles: [ dan-dicks ]
 sources:

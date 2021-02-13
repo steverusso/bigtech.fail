@@ -3,7 +3,7 @@ aliases: [ /the-good-censor/ ]
 title: '"The Good Censor" Leak to Breitbart'
 date: 2018-10-09
 image: /img/logos/breitbart.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ exposed ]
 sources:
  - [ 'Breitbart "THE GOOD CENSOR: Leaked Briefing Says Google Must Move Away from ''American Tradition'' of Free Speech to Expand Globally, Attract Advertiser $$$s" by Allum Bokhari (9 Oct 2018)', 'https://www.breitbart.com/tech/2018/10/09/the-good-censor-leaked-briefing-says-google-must-move-away-from-american-tradition-of-free-speech-to-expand-globally-attract-advertiser-s/' ]

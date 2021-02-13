@@ -2,7 +2,7 @@
 title: Twitter Starts Releasing Ability to Stifle Conversation
 date: 2020-05-20
 image: /img/misc/no-twitter-replies.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 sources:
  - [ 'twitter.com/Twitter/status/1263203262968344576', 'https://archive.vn/XgWUs' ]
  - [ 'BitChute "Twitter to Allow People to Stifle All Dissent With Comment Controls" by Styxhexenhammer666 (22 May 2020)', 'https://www.bitchute.com/video/VPDZGVtyeu0/' ]

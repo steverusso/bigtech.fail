@@ -3,7 +3,7 @@ title: Facebook Bans Lyndon Perry (I,Hypocrite)
 date: 2020-10-22
 image: /img/people/ihypocrite.jpg
 profiles: [ lporiginalg ]
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/lporiginalg/status/1319294896906252288', 'https://archive.is/xDqyF' ]

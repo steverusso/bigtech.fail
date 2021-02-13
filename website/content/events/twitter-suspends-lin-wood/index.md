@@ -2,7 +2,7 @@
 title: Twitter Suspends Lin Wood
 date: 2020-09-01
 image: /img/people/lin-wood.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
  - [ 'share.par.pw/post/2f44c960beb74d3f9eaa6129baf7414d', 'https://archive.is/wPOUf' ]

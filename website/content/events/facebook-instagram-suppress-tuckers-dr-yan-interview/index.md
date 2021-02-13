@@ -2,7 +2,7 @@
 title: Facebook & Instagram Suppress Tucker's Interview With Li-Meng Yan
 date: 2020-09-16
 image: /img/people/tucker-carlson.jpg
-platforms: [ facebook, instagram ]
+corpos: [ facebook, instagram ]
 tags: [ gov, china, covid ]
 sources:
  - [ 'Reclaim The Net "Tucker Carlson slams Facebook and Instagram for censoring his Dr. Li-Meng Yan interview" by Tom Parker (17 Sep 2020)', 'https://reclaimthenet.org/facebook-censors-tucker-dr-yan/' ]

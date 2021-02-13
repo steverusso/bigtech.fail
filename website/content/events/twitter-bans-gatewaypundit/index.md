@@ -2,7 +2,7 @@
 title: Twitter Bans The Gateway Pundit
 date: 2021-02-06
 image: /img/misc/jim-hoft.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, election2020 ]
 sources:
  - [ 'The Gateway Pundit "Breaking: Twitter Indefinitely Suspends Gateway Pundit Account After We Announce More Video of TCF Center Fraud Will Be Released in Coming Days" by Jim Hoft (6 Feb 2021)', 'https://archive.is/SOgS3' ]

@@ -2,7 +2,7 @@
 title: YouTube Bans Dave Cullen
 date: 2021-01-10
 image: /img/people/dave-cullen.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned, content-removed ]
 profiles: [ dave-cullen ]
 sources:

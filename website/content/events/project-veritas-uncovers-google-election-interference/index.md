@@ -2,7 +2,7 @@
 title: Project Veritas Uncovers Google Election Interference
 date: 2020-10-19
 image: /img/logos/project-veritas.jpg
-platforms: [ google ]
+corpos: [ google ]
 tags: [ gov, election2020, exposed ]
 profiles: [ project-veritas ]
 sources:

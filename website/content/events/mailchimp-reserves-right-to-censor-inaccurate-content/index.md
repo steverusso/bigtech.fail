@@ -2,7 +2,7 @@
 title: Mailchimp Reserves Right to Censor "Inaccurate" Content In ToS Update
 date: 2020-10-28
 image: /img/logos/mailchimp.png
-platforms: [ mailchimp ]
+corpos: [ mailchimp ]
 tags: [ policy ]
 sources:
  - [ 'https://mailchimp.com/legal/terms/ (effective: 28 Oct 2020) (archived)', 'https://archive.is/spOEk' ]

@@ -3,7 +3,7 @@ date: 2018-08-14
 title: Patreon Bans Robert Spencer
 image: /img/people/robert-spencer.jpg
 summary: Turns out Patreon is actually Mastercard's bitch, believe it or not
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'Jihad Watch "Patreon and Mastercard ban Robert Spencer without explanation" by Robert Spencer (15 Aug 2018)', 'https://www.jihadwatch.org/2018/08/patreon-and-mastercard-ban-robert-spencer-without-explanation' ]

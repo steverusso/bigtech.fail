@@ -3,7 +3,7 @@ title: Twitch Bans Nick Fuentes
 date: 2019-04-05
 image: /img/people/nick-fuentes.jpg
 profiles: [ nick-fuentes ]
-platforms: [ twitch ]
+corpos: [ twitch ]
 tags: [ banned ]
 sources:
  - [ 'Twitter @NickJFuentes 1114356726126579714', 'http://archive.is/oLKzQ' ]

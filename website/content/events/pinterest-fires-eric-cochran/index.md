@@ -2,7 +2,7 @@
 date: 2019-06-19
 title: Pinterest Fires Whistleblower Eric Cochran
 image: /img/people/eric-cochran.jpg
-platforms: [ pinterest ]
+corpos: [ pinterest ]
 tags: [ fired ]
 sources:
  - [ 'Project Veritas', 'https://www.projectveritas.com/2019/06/19/its-official-pinterest-insider-terminated/' ]

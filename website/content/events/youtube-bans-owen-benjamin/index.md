@@ -3,7 +3,7 @@ title: YouTube Bans Owen Benjamin
 date: 2019-12-03
 image: /img/people/owen-benjamin.jpg
 profiles: [ owen-benjamin ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/Cernovich/status/1202050252695429121', 'http://archive.vn/1iYwi' ]

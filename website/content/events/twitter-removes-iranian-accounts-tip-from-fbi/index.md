@@ -2,7 +2,7 @@
 title: Twitter Removes 130 "Iranian" Accounts Based On Tip From the FBI
 date: 2020-10-01
 image: /img/misc/shadow-twitter.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, election2020, fbi ]
 sources:
  - [ 'twitter.com/TwitterSafety/status/1311462538056544258', 'https://archive.is/qEfRh' ]

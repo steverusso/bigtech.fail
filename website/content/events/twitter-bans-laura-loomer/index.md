@@ -2,7 +2,7 @@
 date: 2018-11-22
 title: Twitter Bans Laura Loomer
 image: /img/people/laura-loomer.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov ]
 profiles: [ laura-loomer ]
 sources:

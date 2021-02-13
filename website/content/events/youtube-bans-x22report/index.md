@@ -3,7 +3,7 @@ title: YouTube Bans X22 Report
 date: 2020-10-15
 image: /img/people/x22report.jpg
 profiles: [ x22report ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'minds.com/newsfeed/1163499925731196928', 'https://archive.is/OrN7F' ]

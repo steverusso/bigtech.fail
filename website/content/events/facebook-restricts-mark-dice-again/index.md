@@ -2,7 +2,7 @@
 title: Facebook Restricts Mark Dice, Again
 date: 2021-01-24
 image: /img/people/mark-dice.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ content-removed, restricted, gov, election2020 ]
 profiles: [ mark-dice ]
 sources:

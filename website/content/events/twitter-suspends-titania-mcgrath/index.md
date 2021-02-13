@@ -2,7 +2,7 @@
 title: Twitter Suspends Titania Mcgrath
 date: 2019-09-15
 image: /img/misc/titania-mcgrath.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, humor ]
 sources:
  - [ 'twitter.com/andrewdoyle_com/status/1173377996968878080', 'https://archive.is/xSlvX' ]

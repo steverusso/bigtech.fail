@@ -3,7 +3,7 @@ date: 2019-06-11
 order: 1
 title: Pinterest Caught Shadow Banning Conservative Content
 image: /img/logos/pinterest.png
-platforms: [ pinterest ]
+corpos: [ pinterest ]
 tags: [ shadow-banned, exposed ]
 sources:
  - [ 'Project Veritas', 'https://www.projectveritas.com/2019/06/11/tech-insider-blows-whistle-on-how-pinterest-listed-top-pro-life-site-as-porn-bible-verses-censored/' ]

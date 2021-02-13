@@ -2,7 +2,7 @@
 title: Twitter Limits Tweet From Pres. Trump for "Abusive Behavior"
 date: 2020-06-23
 image: /img/people/trump.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ content-removed ]
 sources:
  - [ 'twitter.com/realDonaldTrump/status/1275409656488382465', 'http://archive.is/umTws' ]

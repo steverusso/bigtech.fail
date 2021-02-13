@@ -2,7 +2,7 @@
 title: Facebook Botches Launch of Redirect Initiative for QAnon
 date: 2020-10-21
 image: /img/logos/facebook.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ wtf, oops, election2020 ]
 sources:
  - [ 'about.fb.com/news/2020/08/addressing-movements-and-organizations-tied-to-violence/ (Update from 21 Oct 2020)', 'https://archive.is/NYpoa#selection-1779.0-1817.273' ]

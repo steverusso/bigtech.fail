@@ -2,7 +2,7 @@
 title: Facebook Blocks Image Previews on Links to altCensored
 date: 2020-05-29
 image: /img/logos/altcensored.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'Reclaim The Net "Facebook blocks image previews on links to altCensored, archive that hosts censored videos such as Plandemic" by Tom Parker (29 May 2020)', 'https://archive.vn/T0REy' ]

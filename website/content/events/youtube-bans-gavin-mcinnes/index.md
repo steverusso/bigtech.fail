@@ -3,7 +3,7 @@ title: YouTube Bans Gavin Mcinnes
 date: 2020-06-22
 image: /img/people/gavin-mcinnes.jpg
 profiles: [ gavin-mcinnes ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'Censored.TV "EXCLUSIVE: GAVIN MCINNES BANNED ON YOUTUBE"', 'http://archive.is/f9iUG' ]

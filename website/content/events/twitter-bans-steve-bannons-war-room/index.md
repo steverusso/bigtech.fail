@@ -2,7 +2,7 @@
 title: Twitter Bans Steve Bannons War Room
 date: 2020-11-05
 image: /img/people/steve-bannons-war-room.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, election2020 ]
 sources:
  - [ 'twitter.com/RaheemKassam/status/1324494295030730760', 'https://archive.is/wWtDv' ]

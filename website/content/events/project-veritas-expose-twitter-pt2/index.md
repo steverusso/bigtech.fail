@@ -2,7 +2,7 @@
 title: "Project Veritas: #ExposeTwitter, Part 2"
 date: 2021-01-18
 image: /img/misc/vijaya.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ exposed, policy, election2020, capitol-riot ]
 profiles: [ project-veritas ]
 sources:

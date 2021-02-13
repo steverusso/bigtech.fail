@@ -3,7 +3,7 @@ title: Twitter Suspends Styxhexenhammer666
 date: 2020-09-08
 image: /img/people/styxhexenhammer666.jpg
 profiles: [ styxhexenhammer666 ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
  - [ 'BitChute "Twitter Thinks Supporting Kyle Rittenhouse and Self Defense "Glorifies Violence"" by Styxhexenhammer666 (9 Sep 2020)', 'https://www.bitchute.com/video/Uck1Xd2WVxU/' ]

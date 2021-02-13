@@ -2,7 +2,7 @@
 title: Twitter Suspends Breitbart News
 date: 2020-07-28
 image: /img/logos/breitbart.png
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:
  - [ 'Breitbart "Twitter Censors Videos of Doctors’ Capitol Hill Coronavirus Press Conference, Locks Breitbart Account" by Lucas Nolan (28 Jul 2020)', 'https://www.breitbart.com/tech/2020/07/28/twitter-censors-videos-of-doctors-capitol-hill-coronavirus-press-conference-locks-breitbart-account/' ]

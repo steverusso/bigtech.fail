@@ -2,7 +2,7 @@
 date: 2018-12-17
 title: Sam Harris Leaves Patreon
 image: /img/people/sam-harris.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
  - [ '@SamHarrisOrg - Tweet 1074504882210562048', 'https://web.archive.org/web/20181217053016/https:/twitter.com/SamHarrisOrg/status/1074504882210562048' ]

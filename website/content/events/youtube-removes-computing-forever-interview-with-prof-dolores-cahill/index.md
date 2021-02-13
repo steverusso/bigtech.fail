@@ -3,7 +3,7 @@ title: YouTube Removes Computing Forever Interview With Prof Dolores Cahill
 date: 2020-05-19
 image: /img/people/dave-cullen.png
 profiles: [ dave-cullen ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'BitChute "Prof Dolores Cahill Interview Video Censored" by Computing Forever (19 May 2020)', 'https://www.bitchute.com/video/CLnWahgtfBA/' ]

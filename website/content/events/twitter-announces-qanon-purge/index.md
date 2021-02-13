@@ -2,7 +2,7 @@
 title: Twitter Bans 7k Accounts In Attempt to Purge QAnon Content
 date: 2020-07-21
 image: /img/misc/qanon.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, content-removed ]
 sources:
  - [ 'The Hill "Twitter bans thousands of QAnon accounts in crackdown" by Chris Mills Rodrigo (21 Jul 2020)', 'http://archive.vn/PzbDx' ]

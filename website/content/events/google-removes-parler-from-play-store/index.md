@@ -2,7 +2,7 @@
 title: Google Removes Parler From Play Store
 date: 2021-01-08
 image: /img/logos/parler.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ banned, app, gov, election2020, capitol-riot ]
 sources:
  - [ 'Reclaim The Net "Google bans Parler app after users flock to it to avoid censorship" by Christina Maas  (8 Jan 2021)', 'https://reclaimthenet.org/google-bans-parler-app-after-users-flock-to-it-to-avoid-censorship/' ]

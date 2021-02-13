@@ -3,7 +3,7 @@ date: 2018-08-06
 title: Alex Jones Is Banned From Itunes, Facebook, YouTube and Spotify
 image: /img/people/alex-jones.jpg
 profiles: [ alex-jones ]
-platforms: [ apple, facebook, youtube, spotify ]
+corpos: [ apple, facebook, youtube, spotify ]
 tags: [ banned ]
 sources:
  - [ 'ZeroHedge "Alex Jones And Infowars Banned From iTunes, "Unpublished" By FaceBook" by Tyler Durden (6 Aug 2018)', 'https://archive.is/4MCzZ' ]

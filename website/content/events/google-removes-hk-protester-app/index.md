@@ -2,7 +2,7 @@
 date: 2019-10-10
 title: Google Removes Hong Kong Protester App From Play Store
 image: /img/misc/goina.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ app ]
 sources:
  - [ 'Hong Kong Free Press', 'https://www.hongkongfp.com/2019/10/10/revolution-times-hong-kong-protester-role-playing-game-suspended-google-play-store' ]

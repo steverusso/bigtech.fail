@@ -3,7 +3,7 @@ title: YouTube Bans Atheism-is-Unstoppable
 date: 2020-07-01
 image: /img/people/devon-tracey.jpg
 profiles: [ devon-tracey ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'Twitter @HeWasntJogging 1278429651682156545', 'http://archive.vn/dRIAN' ]

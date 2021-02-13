@@ -3,7 +3,7 @@ title: YouTube Removes Already-Censored Video by Matt Christiansen
 date: 2020-07-29
 image: /img/misc/mlc-no-2nd-opinions.jpg
 profiles: [ matt-christiansen ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, wtf, covid ]
 sources:
  - [ 'twitter.com/MLChristiansen/status/1288499049541206016', 'http://archive.is/ywfl2' ]

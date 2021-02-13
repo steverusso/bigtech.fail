@@ -2,7 +2,7 @@
 title: Twitter Suspends Jeremy Boring for "Promoting Self-Harm"
 date: 2019-01-03
 image: /img/people/jeremy-boreing.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, wtf ]
 sources:
  - [ 'Twitter @benshapiro 1080845675946901505', 'http://archive.vn/PmoZl' ]

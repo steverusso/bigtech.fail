@@ -2,7 +2,7 @@
 title: Patreon Bans The Quartering
 date: 2018-02-07
 image: /img/people/the-quartering.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ 'TheQuartering - YouTube Video - "@Patreon Banned Me For Exposing Monsters" (7 Feb 2018)', 'https://www.youtube.com/watch?v=rOrGmJNkmx8' ]

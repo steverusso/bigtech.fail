@@ -2,7 +2,7 @@
 title: YouTube Bans Anna Brees
 date: 2020-12-25
 image: /img/people/anna-brees.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned, covid ]
 sources:
  - [ 'twitter.com/BreesAnna/status/1342574042193256448', 'https://archive.is/WcB2X' ]

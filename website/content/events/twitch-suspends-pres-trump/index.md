@@ -2,7 +2,7 @@
 title: Twitch Suspends Trump Campaign Account
 date: 2020-06-29
 image: /img/people/trump.jpg
-platforms: [ twitch ]
+corpos: [ twitch ]
 tags: [ suspended ]
 sources:
  - [ 'The Hill "Twitch temporarily suspends Trump account over ''hateful conduct''" by Justin Wise (29 Jun 2020)', 'http://archive.is/yMx0d' ]

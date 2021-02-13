@@ -2,7 +2,7 @@
 title: Twitter Suspends Nicholas Fondacaro for "Harassment"
 date: 2019-01-03
 image: /img/people/nicholas-fondacaro.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, wtf ]
 sources:
  - [ 'NewsBusters "NewsBusters Staffer Locked from Twitter for Mocking Drunk Don Lemon [UPDATED]" by Corinne Weaver (3 Jan 2019)', 'http://archive.vn/C7qsh' ]

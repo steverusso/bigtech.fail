@@ -2,7 +2,7 @@
 title: YouTube Bans Titus Frost
 date: 2020-10-15
 image: /img/misc/titus-frost.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/ImperatorTruth/status/1316761539752460290', 'https://archive.is/Bs6SR' ]

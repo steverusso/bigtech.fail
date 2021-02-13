@@ -2,7 +2,7 @@
 title: Twitter Suspends Chrissie Mayr For... Flagging Child Porn On Twitter?
 date: 2020-08-10
 image: /img/people/chrissie-mayr.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, wtf ]
 sources:
  - [ 'twitter.com/FrankP614/status/1292860436308807683', 'https://archive.is/AWxhs' ]

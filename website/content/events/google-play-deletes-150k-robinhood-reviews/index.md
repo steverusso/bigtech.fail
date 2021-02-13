@@ -2,7 +2,7 @@
 title: Google Play Purges Over 150k 1-Star Reviews For Robinhood
 date: 2021-01-28
 image: /img/misc/robinhood.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ app ]
 sources:
  - [ 'Reclaim The Net "Google Play deletes over 150,000 Robinhood app reviews after frustrated users leave one-star ratings" by Tom Parker (28 Jan 2021)', 'https://reclaimthenet.org/google-play-removes-robinhood-reviews/' ]

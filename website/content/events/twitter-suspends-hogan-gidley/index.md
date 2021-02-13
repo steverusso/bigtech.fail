@@ -2,7 +2,7 @@
 title: Twitter Suspends Hogan Gidley
 date: 2020-10-22
 image: /img/misc/hogan-gidley.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov, election2020 ]
 sources:
  - [ 'Fox News "Trump campaign press secretary temporarily suspended on Twitter over mail-in voting tweet" by Adam Shaw (22 Oct 2020)', 'https://archive.is/KCEP6' ]

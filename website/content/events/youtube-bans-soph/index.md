@@ -2,7 +2,7 @@
 date: 2019-08-01
 title: YouTube Bans Soph
 image: /img/people/soph.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'InfoWars "YouTube Bans 14-year-old Commentator "Soph"" by Adan Salazar', 'https://www.infowars.com/youtube-bans-14-year-old-commentator-soph/' ]

@@ -2,7 +2,7 @@
 title: Twitter Suspends PragerU
 date: 2020-07-29
 image: /img/logos/prageru.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:
  - [ 'Breitbart "Twitter Suspends PragerU, Prominent Conservatives, and Doctors for Commenting on HCQ" by Alana Mastrangelo (29 Jul 2020)', 'https://www.breitbart.com/tech/2020/07/29/twitter-suspends-prageru-prominent-conservatives-and-doctors-for-commenting-on-hcq/' ]

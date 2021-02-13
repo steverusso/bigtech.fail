@@ -2,7 +2,7 @@
 title: Twitter Suspends Lauren Witzke
 date: 2020-10-10
 image: /img/people/lauren-witzke.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
  - [ 'twitter.com/LaurenWitzkeDE/status/1313570575693033474', 'https://archive.is/sRPSo' ]

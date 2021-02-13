@@ -3,7 +3,7 @@ title: YouTube Removes Timcast IRL Episode With Alex Jones and Michael Malice
 date: 2020-11-13
 image: /img/people/tim-pool.jpg
 profiles: [ tim-pool ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed ]
 sources:
  - [ 'twitter.com/Timcast/status/1327373117812056064', 'https://archive.is/MBKFf' ]

@@ -2,7 +2,7 @@
 title: Facebook Suppresses Mark Levin
 date: 2020-10-05
 image: /img/people/mark-levin.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ restricted ]
 sources:
  - [ 'share.par.pw/post/87ab02a4b5d14f4f9b1d8a063a4e0418', 'https://archive.is/zb3N0' ]

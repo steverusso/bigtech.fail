@@ -3,7 +3,7 @@ title: YouTube Bans RedPill78
 date: 2020-10-15
 image: /img/people/redpill78.png
 profiles: [ redpill78 ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'altCensored - RedPill78', 'https://archive.is/Eozck' ]

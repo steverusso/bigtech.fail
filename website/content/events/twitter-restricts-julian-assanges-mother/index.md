@@ -2,7 +2,7 @@
 title: Twitter Restricts Christine Assange (Mother of Wikileaks Founder Julian Assange)
 date: 2019-03-19
 image: /img/people/christine-assange.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
  - [ 'Consortium News "Twitter Restricts Account of Julian Assange''s Mother" by Joe Lauria (19 Mar 2019)', 'https://archive.vn/nOkSC' ]

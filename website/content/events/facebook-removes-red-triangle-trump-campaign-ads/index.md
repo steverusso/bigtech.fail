@@ -2,7 +2,7 @@
 title: Facebook Removes Red Triangle Trump Campaign Ads
 date: 2020-06-18
 image: /img/misc/inverted-red-triangle.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ advertising, gov, content-removed ]
 sources:
  - [ 'twitter.com/TrumpWarRoom/status/1273638710022680576', 'https://archive.is/2ug7u' ]

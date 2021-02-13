@@ -2,7 +2,7 @@
 title: Twitter Bans Mike Lindell After Locking Him Out For Two Weeks
 date: 2021-01-25
 image: /img/people/mike-lindell.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov, election2020, capitol-riot ]
 sources:
  - [ 'StarTribune "Lindell says Twitter ban won''t stop his effort to claim election fraud" by Kristen Leigh Painter, Stephen Montemayor, Kristen Leigh Painter and Stephen Montemayor (26 Jan 2021)', 'https://archive.is/py6Ob' ]

@@ -2,7 +2,7 @@
 date: 2017-07-20
 title: Patreon Bans Lauren Southern
 image: /img/people/lauren-southern.jpg
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ '@Lauren_Southern - Tweet 888143158042873857', 'https://twitter.com/Lauren_Southern/status/888143158042873857' ]

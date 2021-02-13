@@ -3,7 +3,7 @@ title: Facebook Bans Ford Fischer (Reinstated)
 date: 2020-09-05
 image: /img/people/ford-fischer.jpg
 profiles: [ ford-fischer ]
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/FordFischer/status/1302391363456176128', 'https://archive.is/SFBr3' ]

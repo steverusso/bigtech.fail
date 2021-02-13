@@ -2,7 +2,7 @@
 title: Patreon Bans Martin Geddes
 date: 2020-10-22T00:00:02.000Z
 image: /img/people/martin-geddes.png
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
  - [ '"War on free speech: I have been deplatformed by Patreon" by Martin Geddes (22 Oct 2020)', 'https://archive.is/l5wnD' ]

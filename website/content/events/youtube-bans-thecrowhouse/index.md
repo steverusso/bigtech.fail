@@ -3,7 +3,7 @@ title: YouTube Bans TheCrowhouse
 date: 2020-07-08
 image: /img/logos/thecrowhouse.jpg
 profiles: [ max-igan ]
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, banned ]
 sources:
  - [ 'twitter.com/maxigan/status/1280687788900249600', 'http://archive.is/XtAby' ]

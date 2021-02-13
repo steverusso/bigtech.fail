@@ -2,7 +2,7 @@
 title: RSBN Gets Back-to-Back-to-BACK Twitter Suspensions For No Reason
 date: 2021-01-19
 image: /img/logos/rsbn.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ suspended, wtf, election2020 ]
 sources:
  - [ 'twitter.com/JoeSeales/status/1351621049956360196', 'https://archive.is/i67Cl' ]

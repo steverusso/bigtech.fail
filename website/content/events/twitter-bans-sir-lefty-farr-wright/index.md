@@ -2,7 +2,7 @@
 title: Twitter Bans Sir Lefty Farr-Wright (@SupportOurLefty)
 date: 2020-08-18
 image: /img/misc/sir-lefty-farr-wright.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, humor ]
 sources:
  - [ 'share.par.pw/post/634fa5d73ed64780a1116d8fbe1d4e30', 'https://archive.is/L5KCX' ]

@@ -2,7 +2,7 @@
 title: Facebook Bans Bret Weinstein (Quickly Reinstated)
 date: 2020-10-22
 image: /img/people/bret-weinstein.jpg
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ banned, oops ]
 sources:
  - [ 'twitter.com/BretWeinstein/status/1319355932388675584', 'https://archive.is/RWJz1' ]

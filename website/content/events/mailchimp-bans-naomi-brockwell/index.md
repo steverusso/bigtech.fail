@@ -2,7 +2,7 @@
 title: Mailchimp Bans Naomi Brockwell
 date: 2020-11-13
 image: /img/people/naomi-brockwell.jpg
-platforms: [ mailchimp ]
+corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/naomibrockwell/status/1327261725255733249', 'https://archive.is/ICtKe' ]

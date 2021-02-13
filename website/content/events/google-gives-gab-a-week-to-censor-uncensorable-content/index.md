@@ -2,7 +2,7 @@
 date: 2019-07-12
 title: Google Gives Gab One Week to Censor Uncensorable Content
 image: /img/misc/gab-ai-wut.png
-platforms: [ google ]
+corpos: [ google ]
 tags: [ app, alttech-growth ]
 sources:
  - [ 'Archive.is - https://twitter.com/getongab/status/1149824743098339328', 'https://archive.is/zZcXf' ]

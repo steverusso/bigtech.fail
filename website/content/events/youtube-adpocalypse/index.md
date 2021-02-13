@@ -2,7 +2,7 @@
 title: The YouTube Adpocalypse
 date: 2017-04-06
 image: /img/misc/demonetized.png
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ defunded ]
 sources:
  - [ 'YouTube Creator Blog "Introducing Expanded YouTube Partner Program Safeguards to Protect Creators" (6 Apr 2017)', 'http://archive.is/q7TB2' ]

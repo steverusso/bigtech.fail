@@ -2,7 +2,7 @@
 title: Twitter Bans UKIP Accounts for Carl Benjamin and Tommy Robinson
 date: 2019-04-26
 image: /img/misc/benjamin-tommy-ukip.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov ]
 sources:
  - [ 'The Hill "Twitter suspends EU election campaign accounts for two candidates who were previously banned" by Emily Birnbaum (26 Apr 2019)', 'https://archive.vn/4cbPB' ]

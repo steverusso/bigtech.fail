@@ -2,7 +2,7 @@
 title: YouTube Removes Another Episode of the Ron Paul Liberty Report
 date: 2020-12-22
 image: /img/people/dr-ron-paul.jpg
-platforms: [ youtube ]
+corpos: [ youtube ]
 tags: [ content-removed, covid, gov ]
 sources:
  - [ 'twitter.com/RonPaul/status/1341385036961116160', 'https://archive.is/nR1BI' ]

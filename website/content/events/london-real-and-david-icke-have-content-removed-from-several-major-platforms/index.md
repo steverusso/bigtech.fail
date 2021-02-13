@@ -2,7 +2,7 @@
 title: London Real and David Icke Have Content Removed From Several Major Platforms
 date: 2020-04-07
 image: /img/logos/london-real.jpg
-platforms: [ instagram, facebook, vimeo, dropbox ]
+corpos: [ instagram, facebook, vimeo, dropbox ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'London Real "Digital Freedom of Speech Open Letter" by Brian Rose (13 May 2020)', 'https://londonreal.tv/digital-freedom-of-speech-open-letter/' ]

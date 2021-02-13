@@ -2,7 +2,7 @@
 date: 2019-06-26
 title: Reddit Quarantines r/The_Donald
 image: /img/logos/reddit-the-donald.png
-platforms: [ reddit ]
+corpos: [ reddit ]
 tags: [ restricted ]
 sources:
  - [ 'The Verge "Reddit quarantines Trump subreddit r/The_Donald for violent comments" by Adi Robertson (26 Jun 2019)', 'http://archive.is/tlgBU' ]

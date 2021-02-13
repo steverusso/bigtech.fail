@@ -3,7 +3,7 @@ date: 2019-01-15
 title: Dave Rubin Leaves Patreon
 image: /img/people/dave-rubin.jpg
 profiles: [ dave-rubin ]
-platforms: [ patreon ]
+corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
  - [ 'Dave Rubin & Jordan Peterson YouTube Livestream (1 Jan 2019)', 'https://www.youtube.com/watch?v=Zp9ZJiFFBnU' ]

@@ -3,7 +3,7 @@ aliases: [ /white-coat-summit/ ]
 title: Facebook, YouTube, Twitter Censor America's Frontline Doctors Press Conference
 date: 2020-07-27
 image: /img/misc/white-coat-summit.jpg
-platforms: [ facebook, youtube, twitter ]
+corpos: [ facebook, youtube, twitter ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'Breitbart "Facebook, Google/YouTube, Twitter Censor Viral Video of Doctors'' Capitol Hill Coronavirus Press Conference" by Allum Bokhari (27 Jul 2020)', 'http://archive.is/hAXb1' ]

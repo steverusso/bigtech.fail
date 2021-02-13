@@ -2,7 +2,7 @@
 title: Facebook Expands COVID "Misinformation" Policy
 date: 2021-02-08
 image: /img/logos/facebook.png
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ policy, covid, china ]
 sources:
  - [ 'Facebook Newsroom "An Update on Our Work to Keep People Informed and Limit Misinformation About COVID-19" (Update on February 8, 2021 at 10:00AM PT)', 'https://archive.is/DQC5w' ]

@@ -2,7 +2,7 @@
 title: Mailchimp Bans TorrentFreak
 date: 2019-10-20
 image: /img/logos/torrent-freak.png
-platforms: [ mailchimp ]
+corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
  - [ 'TorrentFreak "Mailchimp Kicks Out TorrentFreak Because We’re ‘Too Risky’" by Ernesto Van der Sar (20 Oct 2019)', 'https://torrentfreak.com/mailchimp-kicks-out-torrentfreak-because-too-risky-191020/' ]

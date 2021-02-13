@@ -3,7 +3,7 @@ title: Facebook Removes "Joe and the Hoe" Meme
 date: 2020-08-18
 image: /img/misc/joe-and-the-hoe.png
 profiles: [ mark-dice ]
-platforms: [ facebook ]
+corpos: [ facebook ]
 tags: [ content-removed, humor, gov ]
 sources:
  - [ 'twitter.com/MarkDice/status/1295884941125853184', 'http://archive.is/3JILq' ]

@@ -3,7 +3,7 @@ title: Facebook and Discord Ban Destroying the Illusion
 date: 2020-10-17
 image: /img/people/jordan-sather.jpg
 profiles: [ jordan-sather ]
-platforms: [ facebook, discord ]
+corpos: [ facebook, discord ]
 tags: [ banned ]
 sources:
  - [ 'gab.com/destroyingtheillusion/posts/105051265957360746', 'https://archive.is/d7rIJ' ]

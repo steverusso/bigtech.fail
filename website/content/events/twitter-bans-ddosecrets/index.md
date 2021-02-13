@@ -2,7 +2,7 @@
 title: Twitter Bans DDoSecrets
 date: 2020-06-23
 image: /img/misc/ddosecrets.jpg
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned, gov ]
 sources:
  - [ 'ZDNet "Twitter bans DDoSecrets account over ''BlueLeaks'' police data dump" by Catalin Cimpanu (23 Jun 2020)', 'https://archive.is/r5RLF' ]

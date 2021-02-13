@@ -3,7 +3,7 @@ title: Twitter Bans Krisanne Hall
 date: 2020-09-01
 image: /img/people/krisanne-hall.jpg
 profiles: [ krisanne-hall ]
-platforms: [ twitter ]
+corpos: [ twitter ]
 tags: [ banned ]
 sources:
  - [ 'facebook.com/krisanne.hall/posts/3423545554363103', 'https://archive.is/HFSp4' ]

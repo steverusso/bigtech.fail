@@ -2,7 +2,7 @@
 title: YouTube and Facebook Remove Plandemic - Part 1
 date: 2020-05-06
 image: /img/people/dr-judy-mikovits.jpg
-platforms: [ youtube, facebook ]
+corpos: [ youtube, facebook ]
 tags: [ content-removed, covid, gov ]
 sources:
  - [ 'RT "Censors crack down on ''Plandemic'' conspiracy documentary. What''s so dangerous about it?" (9 May 2020)', 'https://www.rt.com/usa/488215-plandemic-conspiracy-documentary-censorship/' ]

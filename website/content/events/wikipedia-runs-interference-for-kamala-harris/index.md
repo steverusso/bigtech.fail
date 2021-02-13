@@ -2,7 +2,7 @@
 title: Wikipedia Runs Interference for Kamala Harris
 date: 2020-07-02
 image: /img/people/kamala-harris.jpg
-platforms: [ wikipedia ]
+corpos: [ wikipedia ]
 tags: [ content-removed, gov ]
 sources:
  - [ 'reddit.com/r/neoliberal/comments/gni8t5/using_wikipedia_edits_to_predict_the_vp_pick/', 'http://archive.is/2QVD3' ]

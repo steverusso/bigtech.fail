@@ -2,7 +2,7 @@
 title: Facebook & Twitter Suppress Trump Post Comparing COVID to Flu
 date: 2020-10-06
 image: /img/people/trump.jpg
-platforms: [ facebook, twitter ]
+corpos: [ facebook, twitter ]
 tags: [ content-removed, restricted, covid, gov, election2020 ]
 sources:
  - [ 'Reclaim The Net "Facebook and Twitter censor President Trump’s post comparing COVID-19 to flu" by Naga Pramod (6 Oct 2020)', 'https://reclaimthenet.org/facebook-and-twitter-censor-trump-comparing-covid-19-to-flu/' ]
