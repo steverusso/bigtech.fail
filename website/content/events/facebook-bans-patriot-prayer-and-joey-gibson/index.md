@@ -1,5 +1,5 @@
 ---
-title: Facebook Bans Patriot Prayer After Member Is Murdered
+title: Facebook Bans Patriot Prayer a Week After One of Their Members Is Murdered
 date: 2020-09-04
 image: /img/misc/patriot-prayer.jpg
 corpos: [ facebook ]
@@ -15,16 +15,17 @@ sources:
  - [ 'twitter.com/daveyalba/status/1301982946115678208', 'https://archive.vn/6Qx5Y' ]
  - [ 'share.par.pw/post/b1d7c97919dd4a23bff4c9b96d2d4e9e', 'https://archive.is/c3mvC' ]
  - [ 'share.par.pw/post/23ea7740914b4001ac7f299596951424', 'https://archive.is/CGGUY' ]
+ - [ 'Breitbart "Joe Biden Claims, Without Evidence, Portland Victim Incited His Own Death" by Joel B. Pollak (2 Sep 2020)', 'https://archive.is/QlKWw' ]
 ---
 
 On August 29, 2020, Patriot Prayer member Aaron Danielson (also known as "Jay
-Bishop") was murdered in Portland, OR by Michael Reinoehl, who described
-himself as 100% Antifa. On September 3, Reinoehl was killed by U.S. Marshals
-when they attempted to apprehend him.
+Bishop") was stalked and murdered in Portland, Oregon by a man named Michael
+Reinoehl, who described himself as 100% Antifa. On September 3, Reinoehl was
+killed by U.S. Marshals when they attempted to apprehend him. The next day,
+Facebook not only deleted the Patriot Prayer page, but also banned its founder,
+Joey Gibson, along with several of the page's admins. Joey Gibson issued the
+following statement:
 
-The next day, Facebook not only deleted the Patriot Prayer page, but also
-banned its founder, Joey Gibson, along with several of the page's admins.
-Joey Gibson issued the following statement:
 > Official statement: Antifa groups murdered my friend while he was walking
 > home, and instead of the multibillion dollar company (FACEBOOK) banning
 > Portland antifa pages they ban Patriot Prayer, Joey Gibson, and several other
