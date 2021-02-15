@@ -17,6 +17,7 @@ extra:
  - [ 't.me/project_veritas/233', 'https://archive.is/gCOuO' ]
  - [ 't.me/project_veritas/227', 'https://archive.is/S4N6Q/image' ]
  - [ 'We Are Change "They’re Taking Out EVERYONE Now!" on BitChute (11 Feb 2021)', 'https://www.bitchute.com/video/WMBaXj0N-sY/' ]
+ - [ 'Styxhexenhammer666 "Twitter Deplatforms Project Veritas, Because They Are Afraid of Them (Bitchute Exclusive)" on BitChute (14 Feb 2021)', 'https://www.bitchute.com/video/MLKWVPTmeaXl/' ]
 ---
 
 [Twitter](/twitter/) permanently banned Project Veritas and temporarily
