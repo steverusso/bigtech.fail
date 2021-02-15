@@ -11,6 +11,8 @@ sources:
  - [ 'Mark Dice "A Closer Look at What Happened Last Week" on BitChute (13 Jan 2021)', 'https://www.bitchute.com/video/8k-BvJ8D7m8/' ]
  - [ 'Matt Christiansen "Apple CEO Tim Cook Explains the Banning of Parler | Or Doesn’t, Actually" on BitChute (20 Jan 2021)', 'https://www.bitchute.com/video/uE60M80W8qk/' ]
  - [ 'twitter.com/ggreenwald/status/1352347643255644162', 'https://archive.is/UXADU' ]
+ - [ 'Glenn Greenwald "How Silicon Valley, in a Show of Monopolistic Force, Destroyed Parler" on Substack (12 Jan 2021)', 'https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic' ]
+ - [ 'Glenn Greenwald "The New Domestic War on Terror is Coming" on Substack (19 Jan 2021)', 'https://greenwald.substack.com/p/the-new-domestic-war-on-terror-is' ]
 quotes:
  - person: Glenn Greenwald (@ggreenwald)
    date: '7 Jan 2020'
