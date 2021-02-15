@@ -14,10 +14,10 @@ summaryLength = 25
 	tag = "tags"
 	profile = "profiles"
 	altfor = "altfor"
-	platform = "platforms"
+	corpos = "corpos"
 
 [permalinks]
-	platforms = "/:slug/"
+	corpos = "/:slug/"
 	altfor = "/:slug/alts"
 	tags = "/t/:slug/"
 
