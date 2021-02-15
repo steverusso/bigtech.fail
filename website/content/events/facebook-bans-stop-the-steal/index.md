@@ -1,5 +1,5 @@
 ---
-title: Faceboook Bans Stop the Steal
+title: Facebook Bans Stop the Steal
 date: 2020-11-05
 image: /img/misc/stopthesteal.jpg
 corpos: [ facebook ]
