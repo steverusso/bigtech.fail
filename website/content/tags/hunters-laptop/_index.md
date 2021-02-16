@@ -1,11 +1,11 @@
 ---
 aliases: [ /hunter/, /tags/hunter/ ]
 slug: hunters-laptop
-title: Hunter Laptop Scandal
+title: Hunter Biden Laptop Scandal
 image: /img/misc/hunter.jpg
 sources:
+ - [ 'New York Post "Twitter, Facebook censor Post over Hunter Biden exposé" by Noah Manskar (14 Oct 2020)', 'https://nypost.com/2020/10/14/facebook-twitter-block-the-post-from-posting/' ]
  - [ 'YouTube "Why Twitter Censored the NY Post Article on Biden" by AwakenWithJP (20 Oct 2020)', 'https://www.youtube.com/watch?v=jrjI2X9TIZA' ]
-extra:
  - [ 'twitter.com/Timcast/status/1316474154233860096', 'https://archive.is/dBc3Y' ]
  - [ 'BitChute "The Hunter Biden Email Bombshell has the Legacy Media and Big Tech in a Damage Control Meltdown" by Styxhexenhammer666 (15 Oct 2020)', 'https://www.bitchute.com/video/FRIRzmpbddU/' ]
  - [ 'BitChute "Twitter CENSORS Government Website EXPOSING Joe Biden Corruption, The LIES About It, Total INSANIT.." by Tim Pool (15 Oct 2020)', 'https://www.bitchute.com/video/UgNWKIXvHp8/' ]
@@ -16,6 +16,7 @@ extra:
  - [ 'Breitbart "Facebook ‘Content Regulation Manager’ Anna Makanju Advised Joe Biden on Ukraine" by Allum Bokhari (18 Oct 2020)', 'https://archive.is/qsTBU' ]
  - [ 'twitter.com/TwitterSafety/status/1322298208236830720', 'https://archive.is/kbVNz' ]
  - [ 'twitter.com/VinceCoglianese/status/1316535862264561664', 'https://archive.is/5BeeR' ]
+ - [ 'twitter.com/MZHemingway/status/1319352247562678276', 'https://archive.is/Ui1cF' ]
 ---
 
 The New York Post triggered a flurry of BigTech censorship after dropping an

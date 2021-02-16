@@ -2,6 +2,8 @@
 aliases: [ /tags/shadow-banned/ ]
 title: Shadow Banned
 image: /img/icons/shadow-banned.png
+extra:
+ - [ 'twitter.com/jack/status/1316537705023578115', 'https://archive.is/Z6eKB' ]
 ---
 
 Shadow banning is when a platform limits a user's reach without that user

@@ -3,6 +3,8 @@ aliases: [ /tags/advertising/ ]
 slug: advertising
 title: No Advertising
 image: /img/icons/ads.png
+extra:
+ - [ 'RT "Google & Facebook to team up in fight against govt accusations of secret pact to rig online ad market – report" (22 Dec 2020)', 'https://archive.is/2JgZ8' ]
 ---
 
 Most if not all of the BigTech corporations make a lot of money by selling
