@@ -165,7 +165,6 @@
 .corpos .card img,
 .corpos .card .img {
 	margin: 0.2rem auto 0.25rem;
-	position: relative;
 	width: 24px !important;
 	height: 24px !important;
 }

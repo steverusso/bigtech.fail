@@ -1,3 +1,6 @@
+.img {
+	position: relative;
+}
 .img:after {
 	content: "";
 	background: no-repeat center/100% var(--url) !important;

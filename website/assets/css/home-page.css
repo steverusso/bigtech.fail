@@ -18,7 +18,7 @@
 }
 .jtron .corpos {
 	margin: 0 auto 3rem;
-	max-width: 710px;
+	max-width: 600px;
 	text-align: center;
 }
 .jtron .corpos a {
@@ -27,13 +27,13 @@
 	border-radius: 7px;
 	font-size: 0.9rem;
 	margin: 0.38rem 0.25rem;
-	width: 108px;
-	height: 108px;
+	width: 100px;
+	height: 100px;
 }
 .jtron .corpos a .img {
 	margin-bottom: 0.75rem;
-	width: 40px !important;
-	height: 40px !important;
+	width: 32px !important;
+	height: 32px !important;
 }
 @media (max-width: 500px) {
 	.jtron .blurb {
