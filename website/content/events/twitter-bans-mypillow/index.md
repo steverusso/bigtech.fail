@@ -1,6 +1,6 @@
 ---
 title: Twitter Bans MyPillow Corporate Account
-date: 2021-02-15
+date: 2021-02-02
 image: /img/people/mike-lindell.jpg
 corpos: [ twitter ]
 tags: [ banned, election2020 ]
