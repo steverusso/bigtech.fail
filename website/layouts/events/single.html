@@ -23,7 +23,7 @@
 
 			<article>{{ .Content }}</article>
 
-			<details data-srcs open><summary></summary>
+			<details data-srcs><summary></summary>
 				<ol>
 					{{ range .Params.sources }}
 						{{ $href := index . 1 }}

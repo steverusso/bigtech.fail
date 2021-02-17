@@ -241,7 +241,7 @@ h3[data-count] {
 }
 .evtpg section > article {
 	border-bottom: var(--border1);
-	margin-bottom: 2.5rem;
+	margin-bottom: 2rem;
 }
 @media (max-width: 450px) {
 	.evtpg section > header {
