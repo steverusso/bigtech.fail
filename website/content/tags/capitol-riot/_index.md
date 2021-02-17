@@ -6,13 +6,15 @@ sources:
  - [ 'Reclaim The Net "Facebook bans videos and photos from protesters at the US Capitol" by Tom Parker (6 Jan 2021)', 'https://reclaimthenet.org/facebook-bans-capitol-protest-photos-videos/' ]
  - [ 'ZeroHedge "As Protest Images Spread, Twitter "Restricts Engagement" With Tweets That "Risk Violence"" by Tyler Durden (6 Jan 2021)', 'https://archive.is/KkPYq' ]
  - [ 'Breitbart "Watch: Protesters Break Into U.S. Capitol Building amid Electoral College Vote" by John Binder (6 Jan 2021)', 'https://archive.is/Nm1LZ' ]
- - [ 'New York Post "Who are the five people who died in the DC protest at the Capitol?" by Gabrielle Fonrouge, Laura Italiano, Aaron Feis, Lia Eustachewich, Natalie O’Neill (7 Jan 2021)', 'https://archive.is/m6tKP' ]
  - [ 'Mark Dice "The Purge Continues" on BitChute (12 Jan 2021)', 'https://www.bitchute.com/video/puChi7vRCLM/' ]
  - [ 'Mark Dice "A Closer Look at What Happened Last Week" on BitChute (13 Jan 2021)', 'https://www.bitchute.com/video/8k-BvJ8D7m8/' ]
  - [ 'Matt Christiansen "Apple CEO Tim Cook Explains the Banning of Parler | Or Doesn’t, Actually" on BitChute (20 Jan 2021)', 'https://www.bitchute.com/video/uE60M80W8qk/' ]
  - [ 'twitter.com/ggreenwald/status/1352347643255644162', 'https://archive.is/UXADU' ]
  - [ 'Glenn Greenwald "How Silicon Valley, in a Show of Monopolistic Force, Destroyed Parler" on Substack (12 Jan 2021)', 'https://greenwald.substack.com/p/how-silicon-valley-in-a-show-of-monopolistic' ]
  - [ 'Glenn Greenwald "The New Domestic War on Terror is Coming" on Substack (19 Jan 2021)', 'https://greenwald.substack.com/p/the-new-domestic-war-on-terror-is' ]
+ - [ 'Glenn Greenwald "The False and Exaggerated Claims Still Being Spread About the Capitol Riot" on Substack (16 Feb 2021)', 'https://greenwald.substack.com/p/the-false-and-exaggerated-claims' ]
+extra:
+ - [ 'New York Post "Who are the five people who died in the DC protest at the Capitol?" by Gabrielle Fonrouge, Laura Italiano, Aaron Feis, Lia Eustachewich, Natalie O’Neill (7 Jan 2021)', 'https://archive.is/m6tKP' ]
 quotes:
  - person: Glenn Greenwald (@ggreenwald)
    date: '7 Jan 2020'
@@ -37,8 +39,9 @@ the 2020 Presidential election, tens of thousands of people showed up in the
 nation's capitol to protest what they believed was a fraudulent election. As
 the day went on, the protestors (now rioters) clashed with police, broke
 through barriers and eventually stormed the capitol building, which immediately
-went into lockdown. These escalations [tragically led to the
-deaths](https://archive.is/m6tKP) of four protestors and one police officer.
+went into lockdown. These escalations [led to the deaths of four
+protestors](https://archive.is/He8Fp#selection-375.0-379.114), both directly
+and indirectly.
 
 Politicians and other establishment figures immediately started calling this an
 insurrection incited by President Trump despite him explicitly advocating for
