@@ -17,7 +17,7 @@ summaryLength = 25
 	corpos = "corpos"
 
 [permalinks]
-	events = "/e/:slug/"
+	events = "/e/:filename/"
 	corpos = "/:slug/"
 	altfor = "/:slug/alts"
 	tags = "/t/:slug/"
