@@ -27,7 +27,18 @@ func main() {
 		log.Fatalf("couldn't get 'public' subdir of embedded fs: %v", err)
 	}
 
-	h := http.FileServer(http.FS(webFiles))
+	fs := http.FileServer(http.FS(webFiles))
+
+	h := http.NewServeMux()
+	h.HandleFunc("/events/", func(w http.ResponseWriter, r *http.Request) {
+		switch uri := r.RequestURI; uri {
+		case "/events", "/events/":
+			fs.ServeHTTP(w, r)
+		default:
+			http.Redirect(w, r, "/e/"+uri[8:], http.StatusMovedPermanently)
+		}
+	})
+	h.Handle("/", fs)
 
 	if *port == 0 {
 		if err := serveTLS(h); err != nil {
