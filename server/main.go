@@ -15,19 +15,19 @@ import (
 )
 
 //go:embed public
-var public embed.FS
+var website embed.FS
 
 func main() {
 	host := flag.String("host", "localhost", "The web host.")
 	port := flag.Int("p", 0, "The web port. If specified, TLS will not be used.")
 	flag.Parse()
 
-	webFiles, err := fs.Sub(public, "public")
+	website, err := fs.Sub(website, "public")
 	if err != nil {
 		log.Fatalf("couldn't get 'public' subdir of embedded fs: %v", err)
 	}
 
-	fs := http.FileServer(http.FS(webFiles))
+	fs := http.FileServer(http.FS(website))
 
 	h := http.NewServeMux()
 	h.HandleFunc("/events/", func(w http.ResponseWriter, r *http.Request) {
