@@ -57,16 +57,19 @@
 	padding-top: 5rem;
 	padding-bottom: 5rem;
 }
+.use-alttech > div {
+	align-items: center;
+}
 @media (max-width: 949px) {
-	.use-alttech > .row {
+	.use-alttech > div {
 		max-width: 600px;
 		margin: auto;
 	}
-	.use-alttech > .row > .col:first-child {
+	.use-alttech > div > div:first-child {
 		text-align: center;
 	}
 }
-.use-alttech > .row > .col:nth-child(2) {
+.use-alttech > div > div:nth-child(2) {
 	display: flex;
 	justify-content: center;
 }

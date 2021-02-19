@@ -64,6 +64,8 @@ label:before {
 	z-index: 5;
 }
 #sbToggle ~ main {
+	display: flex;
+	flex-flow: row wrap;
 	width: 1400px;
 }
 section > header {

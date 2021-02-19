@@ -164,14 +164,12 @@ h3[data-count] {
 	width: 900px;
 }
 
-.row, .grid, #sbToggle ~ main {
+.grid {
+	--c: 12; /* columns */
 	display: flex;
 	flex-flow: row wrap;
 }
-.col, .grid {
-	--c: 12 /* columns */
-}
-.col, .grid > div, section, aside {
+.grid > div, section, aside {
 	flex: 0 1 auto;
 	padding: 0.75rem;
 	width: calc(100% / calc(12 / var(--c)));
@@ -179,7 +177,7 @@ h3[data-count] {
 }
 .grid.xs-3 { --c: 3 }
 @media (max-width: 599px) {
-	.col, .grid > div {
+	.grid > div {
 		padding: 0.75rem 0.25rem;
 	}
 }
@@ -188,13 +186,11 @@ h3[data-count] {
 }
 @media (min-width: 950px) {
 	.grid.md-4 { --c: 4 }
-	.col.md-6, .grid.md-6 { --c: 6 }
+	.grid.md-6 { --c: 6 }
 }
 @media (min-width: 1250px) {
 	.grid.lg-4 { --c: 4 }
 }
-
-.align-center { align-items: center !important }
 
 .btn {
 	--clr: var(--bodyColor);
