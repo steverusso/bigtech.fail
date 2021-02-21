@@ -13,14 +13,14 @@ summaryLength = 25
 [taxonomies]
 	tag = "tags"
 	profile = "profiles"
-	altfor = "altfor"
 	corpos = "corpos"
+	alttr = "alttrs"
 
 [permalinks]
 	events = "/e/:filename/"
 	corpos = "/:slug/"
-	altfor = "/:slug/alts"
 	tags = "/t/:slug/"
+	alttr = "/alt/:slug/"
 
 [markup.goldmark.renderer]
 	unsafe= true
