@@ -1,11 +1,5 @@
 {{ define "style" }}
 <style>
-aside:empty {
-	display: none;
-}
-main {
-	justify-content: center;
-}
 summary {
 	margin-bottom: 1rem;
 }
@@ -25,18 +19,6 @@ summary {
 				<img src="{{ $img }}" width="64" height="64" loading="lazy">
 				<h1>{{ .Title | title }}</h1>
 			</header>
-
-			{{ with (index .Site.Taxonomies.altfor $slug) }}
-				<details open>
-					<summary>Some Alternatives:</summary>
-					<div class="grid sm-6 md-4">
-						{{ range . }}
-							<div>{{ partialCached "cards/alttech" . .RelPermalink }}</div>
-						{{ end }}
-					</div>
-				</details>
-				{{ if ne "" $.Content }}<hr>{{ end }}
-			{{ end }}
 
 			{{ with .Content }}
 				<article>{{ . }}</article>
