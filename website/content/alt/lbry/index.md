@@ -1,6 +1,5 @@
 ---
 title: LBRY
-logo: /img/logos/lbry.png
 site: lbry.com
 alttrs: [ video-hosting, monetization ]
 weight: 1
