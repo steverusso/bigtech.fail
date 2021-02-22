@@ -1,7 +1,7 @@
 ---
 title: BitChute
 site: www.bitchute.com
-altfor: [ youtube ]
+alttrs: [ video-hosting ]
 summary: BitChute is a free speech video hosting platform.
 weight: 2
 ---

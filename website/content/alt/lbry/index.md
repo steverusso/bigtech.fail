@@ -2,7 +2,7 @@
 title: LBRY
 logo: /img/logos/lbry.png
 site: lbry.com
-altfor: [ youtube, amazon ]
+alttrs: [ video-hosting, monetization ]
 weight: 1
 summary: LBRY is a protocol for managing digital content in a decentralized marketplace.
 ---

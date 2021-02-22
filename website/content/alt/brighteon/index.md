@@ -1,7 +1,7 @@
 ---
 title: Brighteon
-site: www.brighteon.com
-altfor: [ youtube ]
+site: brighteon.com
+alttrs: [ video-hosting ]
 summary: Brighteon is a free speech video hosting platform.
 ---
 

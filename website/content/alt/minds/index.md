@@ -2,7 +2,7 @@
 title: Minds
 site: www.minds.com
 summary: Minds is a somewhat decentralized social media platform that supports free speech.
-altfor: [ facebook, instagram, twitter ]
+alttrs: [ posting, paid-subscriptions, monetization ]
 weight: 1
 ---
 

@@ -3,7 +3,7 @@ weight: 2
 title: Locals
 site: locals.com
 summary: Locals is a subscription-based community solution that gives power to creators.
-altfor: [ patreon ]
+alttrs: [ paid-subscriptions ]
 ---
 
 Locals is _"a subscription-based community solution that gives power to creators, not platforms."_

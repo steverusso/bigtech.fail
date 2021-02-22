@@ -1,8 +1,8 @@
 ---
 weight: 1
 title: SubscribeStar
-site: www.subscribestar.com
-altfor: [ patreon ]
+site: subscribestar.com
+alttrs: [ paid-subscriptions ]
 ---
 
 SubscribeStar is perhaps the most popular alternative for Patreon.

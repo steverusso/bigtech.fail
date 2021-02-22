@@ -1,8 +1,8 @@
 ---
 weight: 3
 title: Thinkspot
-site: www.thinkspot.com
-altfor: [ patreon ]
+site: thinkspot.com
+alttrs: [ posting ]
 summary: Thinkspot describes itself as an intellectual playground for censorship-free discourse.
 ---
 

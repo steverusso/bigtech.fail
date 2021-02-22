@@ -1,7 +1,7 @@
 ---
 title: Flote
 site: flote.app
-altfor: [ facebook, instagram, twitter ]
+alttrs: [ posting ]
 summary: Flote is free speech social media with cryptocurrency support.
 ---
 

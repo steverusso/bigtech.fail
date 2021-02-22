@@ -2,7 +2,7 @@
 title: DuckDuckGo
 logo: /img/logos/duckduckgo.png
 site: duckduckgo.com
-altfor: [ google ]
+alttrs: [ search-engine ]
 summary: DuckDuckGo is an Internet privacy company that does not collect any personal information.
 ---
 
