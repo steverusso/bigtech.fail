@@ -17,10 +17,10 @@ summaryLength = 25
 	alttr = "alttrs"
 
 [permalinks]
-	events = "/e/:filename/"
 	corpos = "/:slug/"
+	alttrs = "/alt/:slug/"
+	events = "/e/:filename/"
 	tags = "/t/:slug/"
-	alttr = "/alt/:slug/"
 
 [markup.goldmark.renderer]
 	unsafe= true
