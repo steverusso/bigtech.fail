@@ -2,7 +2,7 @@
 title: Parler
 site: www.parler.com
 summary: Parler is a social networking and microblogging service.
-alttrs: [ posting ]
+alttrs: [ public-posting ]
 weight: 2
 draft: true
 ---

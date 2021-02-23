@@ -2,7 +2,7 @@
 weight: 3
 title: Thinkspot
 site: thinkspot.com
-alttrs: [ posting ]
+alttrs: [ public-posting ]
 summary: Thinkspot describes itself as an intellectual playground for censorship-free discourse.
 ---
 
