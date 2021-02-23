@@ -18,9 +18,10 @@ summaryLength = 25
 
 [permalinks]
 	corpos = "/:slug/"
-	alttrs = "/alt/:slug/"
 	events = "/e/:filename/"
 	tags = "/t/:slug/"
+	alttrs = "/alt/:slug/"
+	alts = "/alt/:slug"
 
 [markup.goldmark.renderer]
 	unsafe= true
