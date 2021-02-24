@@ -32,7 +32,7 @@
 	{{ partialCached "profile-links.html" .Params.links .Title }}
 {{ end }}
 
-{{ define "partials/cards/alttech" }}
+{{ define "partials/cards/alt" }}
 	<a class="alttech card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
