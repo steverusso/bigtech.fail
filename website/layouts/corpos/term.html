@@ -1,11 +1,3 @@
-{{ define "style" }}
-<style>
-summary {
-	margin-bottom: 1rem;
-}
-</style>
-{{ end }}
-
 {{ define "main" }}
 	{{ $slug := .Title | anchorize }}
 	{{ $img := $slug | printf "/img/logos/%s.png" }}
