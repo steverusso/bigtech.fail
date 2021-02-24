@@ -67,16 +67,15 @@
 .alttrs .grid > div {
 	padding: 0.5rem;
 }
+@media (min-width: 500px) {
+	.alttrs .grid { --c: 6 }
+}
 @media (max-width: 949px) {
 	.use-alts {
 		padding-top: 1.5rem;
 		padding-bottom: 5rem;
 		width: 600px;
 	}
-}
-@media (min-width: 950px) and (max-width: 1000px) {
-	.use-alts > div:first-child { --c: 5.5 }
-	.use-alts > div:nth-child(2) { --c: 6.5 }
 }
 @media (min-width: 950px) {
 	.use-alts > div:first-child {
@@ -87,8 +86,9 @@
 		padding-left: 2.5rem;
 	}
 }
-@media (min-width: 500px) {
-	.alttrs .grid { --c: 6 }
+@media (min-width: 950px) and (max-width: 1000px) {
+	.use-alts > div:first-child { --c: 5.5 }
+	.use-alts > div:nth-child(2) { --c: 6.5 }
 }
 
 .recent-events {
