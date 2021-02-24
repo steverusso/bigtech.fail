@@ -3,11 +3,8 @@
 .cntr > header h1 {
 	margin-bottom: 0.75rem;
 }
-.corpos > div {
-	display: inline-block;
-}
-.corpos > div > a {
-	padding: 0.2rem;
+.cntr > article {
+	margin-top: 2rem;
 }
 </style>
 {{ end }}
@@ -25,13 +22,6 @@
 				<a href="{{ $href }}" target="_blank">{{ $site }}</a>
 			</div>
 		</header>
-
-		<div class="corpos">
-			<b>Similar to:</b><br>
-			{{ range .Params.altfor }}
-				<div>{{ partialCached "cards/bigtech" . . }}</div>
-			{{ end }}
-		</div>
 
 		<article>{{ .Content }}</article>
 	</div>
