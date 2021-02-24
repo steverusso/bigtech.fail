@@ -3,38 +3,35 @@
 {{ end }}
 
 {{ define "partials/home/usealttech" }}
-	<div class="cntr use-alttech">
-		<div class="grid md-6">
-			<div>
-				<h1>Use AltTech!</h1>
-				<article>
-					<p>
-						Change starts with the content creators.
-						As a content creator, using AltTech not only protects your own voice from <b><u>censorship</u></b>, but it also helps to nullify the <b><u>propaganda</u></b> that inevitably follows.
-						<a href="/creators/">Read here</a> for more on why and how to go about trying AltTech.
-					</p>
-				</article>
-			</div>
+	<div class="cntr grid md-6 use-alts">
+		<div>
+			<h1>Use Better Tech!</h1>
+			<article>
+				<p>
+					Change starts with the content creators.
+					As a content creator, using alternative platforms and services ("AltTech") not only protects your own voice from <b><i>censorship</i></b>, but it also helps to nullify the <b><i>propaganda</i></b> that inevitably follows.
+					<a href="/creators/">Read here</a> for more on why and how to go about trying AltTech.
+				</p>
+			</article>
+		</div>
 
-			<div>
-				<div class="altfor-map">
-					{{ range $i, $v := slice "Twitter" "Patreon" "YouTube" "Facebook" }}
-						{{ $k := $v | anchorize }}
+		<div class="alttrs">
+			<b>Alt Categories / Features:</b>
 
+			<div class="grid">
+				{{ range site.Taxonomies.alttrs.ByCount | first 6 }}
+					{{ with .Page }}
 						<div>
-							<input type="radio" name="platform" id="{{ $k }}"{{ if eq $i 0 }}checked{{ end }}>
-
-							<label for="{{ $k }}">
-								<div class="img {{ $k }}"></div>
-								<div>{{ $v }}</div>
-							</label>
-
-							<div class="alts">
-							</div>
+							<a class="card" href="{{ .RelPermalink }}">
+								<img loading="lazy" width="24" height="24" src="/img/{{ .Params.image }}.png">
+								<u>{{ .Title }}</u>
+							</a>
 						</div>
 					{{ end }}
-				</div>
+				{{ end }}
 			</div>
+
+			<a href="/alts/" class="btn light-blue">View All &nbsp;&#x2794;</a>
 		</div>
 	</div>
 {{ end }}
@@ -42,20 +39,19 @@
 {{ define "main" }}
 	<div class="jtron">
 		<div class="cntr">
-			<img src="data:image/png;base64,{{ (resources.Get `static/logo.png`).Content | base64Encode }}" width="400" height="auto">
+			<img width="400" height="auto" src="data:image/png;base64,{{ (resources.Get `static/logo.png`).Content | base64Encode }}">
 			<hr>
 			<p class="blurb">
 				Shining a light on the censorship,&nbsp;<br>
-				propaganda, and mass surveillance from&nbsp;<br>
-				today's technology companies and governments.
+				propaganda and mass surveillance from&nbsp;<br>
+				today's tech corporations and governments.
 			</p>
 		</div>
 
 		<div class="corpos">
 			{{ range site.Data.orderCorps }}
 				<a class="card" href="/{{ .k }}/">
-					<i class="img {{ .k }}"></i>
-					{{ .v }}
+					<i class="img {{ .k }}"></i>{{ .v }}
 				</a>
 			{{ end }}
 		</div>
