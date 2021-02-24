@@ -43,6 +43,13 @@
 	</a>
 {{ end }}
 
+{{ define "partials/cards/alttr" }}
+	<a class="card" href="{{ .RelPermalink }}">
+		<img loading="lazy" src="/img/{{ .Params.image }}.png">
+		<u>{{ .Title }}</u>
+	</a>
+{{ end }}
+
 {{ define "partials/cards/tag" }}
 	{{ with site.GetPage (printf "/tags/%s" .) }}
 		<a class="card" href="{{ .RelPermalink }}">

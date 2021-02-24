@@ -184,6 +184,8 @@
 }
 .alttrs .card img {
 	margin: 0.5rem;
+	width: 24px;
+	height: 24px;
 }
 .alttrs .card u {
 	display: block;

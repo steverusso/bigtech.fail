@@ -20,14 +20,7 @@
 
 			<div class="grid">
 				{{ range site.Taxonomies.alttrs.ByCount | first 6 }}
-					{{ with .Page }}
-						<div>
-							<a class="card" href="{{ .RelPermalink }}">
-								<img loading="lazy" width="24" height="24" src="/img/{{ .Params.image }}.png">
-								<u>{{ .Title }}</u>
-							</a>
-						</div>
-					{{ end }}
+					<div>{{ partial "cards/alttr" .Page }}</div>
 				{{ end }}
 			</div>
 

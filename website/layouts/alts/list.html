@@ -19,15 +19,8 @@
 
 		<div class="alttrs">
 			<h3>By Category / Feature:</h3>
-			{{ range $taxo := site.Taxonomies.alttrs.ByCount }}
-				{{ with .Page }}
-					<div>
-						<a class="card" href="{{ .RelPermalink }}">
-							<img loading="lazy" width="20" height="20" src="/img/{{ .Params.image }}.png">
-							<u>{{ .Title }}</u>
-						</a>
-					</div>
-				{{ end }}
+			{{ range site.Taxonomies.alttrs.ByCount }}
+				<div>{{ partial "cards/alttr" .Page }}</div>
 			{{ end }}
 		</div>
 		<hr>
