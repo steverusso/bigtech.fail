@@ -1,0 +1,29 @@
+{{ define "style" }}
+<style>
+.grid {
+	margin-bottom: 12rem;
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+	<div class="cntr">
+		<header>
+			<img loading="lazy" width="40" height="40" src="/img/{{ .Params.image }}.png">
+			<h1>{{ .Title }}</h1>
+		</header>
+
+		{{ with .Content }}
+			<article>{{ . }}</article>
+			<hr>
+		{{ end }}
+
+		<div class="grid md-6 lg-4">
+			{{ range .Pages }}
+				<div>
+					{{ partialCached "cards/alttech" . .RelPermalink }}
+				</div>
+			{{ end }}
+		</div>
+	</div>
+{{ end }}
