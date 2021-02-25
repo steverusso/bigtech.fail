@@ -1,4 +1,7 @@
-{{ $links := site.Data.navLinks }}
+{{ $links := slice
+	(slice "Alternatives" "/alts/")
+	(slice "Events" "/events/")
+}}
 
 <nav>
 	<a href="/">
@@ -11,7 +14,7 @@
 	</a>
 
 	{{ range $links }}
-		<a href="{{ .href }}">{{ .text }}</a>
+		<a href="{{ index . 1 }}">{{ index . 0 }}</a>
 	{{ end }}
 </nav>
 
@@ -20,6 +23,6 @@
 
 <div>
 	{{ range $links }}
-		<a href="{{ .href }}">{{ .text }}</a>
+		<a href="{{ index . 1 }}">{{ index . 0 }}</a>
 	{{ end }}
 </div>
