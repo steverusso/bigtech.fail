@@ -1,0 +1,36 @@
+{{ define "style" }}
+<style>
+.alttrs > div {
+	display: inline-flex;
+	margin: 0.4rem;
+}
+@media (max-width: 450px) {
+	.alttrs > div {
+		display: flex;
+	}
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+	<div class="cntr">
+		<h1>{{ .Title }}</h1>
+		<hr>
+
+		<div class="alttrs">
+			<h3>By Category / Feature:</h3>
+			{{ range site.Taxonomies.alttrs.ByCount }}
+				<div>{{ partial "cards/alttr" .Page }}</div>
+			{{ end }}
+		</div>
+		<hr>
+
+		<div class="grid md-6 lg-4">
+			{{ range .Pages }}
+				<div>
+					{{ partialCached "cards/alt" . .RelPermalink }}
+				</div>
+			{{ end }}
+		</div>
+	</div>
+{{ end }}

@@ -32,14 +32,21 @@
 	{{ partialCached "profile-links.html" .Params.links .Title }}
 {{ end }}
 
-{{ define "partials/cards/alttech" }}
+{{ define "partials/cards/alt" }}
 	<a class="alttech card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="/img/logos/{{ .Title | anchorize }}.png" loading="lazy">
 			<h2>{{ .Title }}</h2>
 		</div>
 
-		<p>{{ .Summary | truncate 95 | plainify }}</p>
+		<p>{{ .Summary | truncate 82 | plainify }}</p>
+	</a>
+{{ end }}
+
+{{ define "partials/cards/alttr" }}
+	<a class="card" href="{{ .RelPermalink }}">
+		<img loading="lazy" src="/img/{{ .Params.image }}.png">
+		<u>{{ .Title }}</u>
 	</a>
 {{ end }}
 

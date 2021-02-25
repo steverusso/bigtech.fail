@@ -141,12 +141,13 @@
 	margin: 0;
 }
 
-.alttech.card div:after,
-.profiles .card div:after {
+.alttech.card div:after, .profiles .card div:after, .alttrs .card u:after {
 	content: "\2794";
 	color: var(--caption);
-	font-size: 1.4rem;
 	position: absolute;
+}
+.alttech.card div:after, .profiles .card div:after {
+	font-size: 1.4rem;
 	top: 0.5rem;
 	right: 0.75rem;
 }
@@ -162,8 +163,7 @@
 	font-size: 0.7rem;
 	padding: 0.25rem;
 }
-.corpos .card img,
-.corpos .card .img {
+.corpos .card img, .corpos .card .img {
 	margin: 0.2rem auto 0.25rem;
 	width: 24px !important;
 	height: 24px !important;
@@ -175,4 +175,28 @@
 }
 .corpos > div {
 	padding: 0.25rem !important;
+}
+
+.alttrs .card, .alttrs .card u {
+	display: flex;
+	align-items: center;
+	padding: 0 0.25rem;
+}
+.alttrs .card img {
+	margin: 0.5rem;
+	width: 24px;
+	height: 24px;
+}
+.alttrs .card u {
+	display: block;
+	font-size: 0.87rem;
+	padding-right: 1.5rem;
+	text-decoration: none;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.alttrs .card u:after {
+	right: 0.5rem;
+	font-size: 0.8rem;
 }

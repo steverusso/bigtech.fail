@@ -1,5 +1,0 @@
----
-title: AltTech
-url: /alttech/
----
-
