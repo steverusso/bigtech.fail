@@ -2,7 +2,7 @@
 	--navHeight: 64px;
 
 	--bodyBg: #1f1f1f;
-	--bodyBg2: #262626;
+	--bodyBg2: #242424;
 	--bodyColor: #f8f8f8;
 
 	--navBg: #111;
@@ -26,7 +26,8 @@
 	--articleHeadings: #fafafa;
 	--articleBold: #fff;
 
-	--jtronBg: linear-gradient(#222, #404040);
+	--jtronBg: linear-gradient(#272727, #404040);
+	--jtronCardBg: #2d2d2d;
 }
 
 @media (prefers-color-scheme: light) {
@@ -53,5 +54,6 @@
 		--articleBold: #555;
 
 		--jtronBg: linear-gradient(#ccc, #fff);
+		--jtronCardBg: #fff;
 	}
 }

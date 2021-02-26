@@ -1,7 +1,6 @@
 .jtron {
 	background: var(--jtronBg);
 	border-bottom: var(--border1);
-	padding-bottom: 2.5rem;
 }
 .jtron > .cntr {
 	padding: 5rem 1.25rem;
@@ -18,14 +17,14 @@
 	text-align: right;
 }
 .jtron .corpos {
-	margin: 0 auto 3rem;
+	margin: 0 auto 5rem;
 	max-width: 600px;
 	text-align: center;
 }
 .jtron .corpos a {
-	color: var(--para);
+	background: var(--jtronCardBg);
 	border: var(--border2);
-	border-radius: 7px;
+	color: var(--para);
 	font-size: 0.9rem;
 	margin: 0.38rem 0.25rem;
 	width: 100px;
