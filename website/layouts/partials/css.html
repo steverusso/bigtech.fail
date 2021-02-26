@@ -1,20 +1,12 @@
-{{ define "partials/css/global" }}
-	{{ $names := slice "config" "general" "nav-and-footer" "sidebar" "cards" "article" "timeline" "images" }}
+{{ $names := slice "config" "general" "nav-and-footer" "sidebar" "cards" "article" "timeline" "images" }}
 
-	<!-- Build a slice containing each stylesheet as a resource. -->
-	{{ $sheets := slice }}{{ range $names }}
-		{{ $path := printf "css/%s.css" . }}
-		{{ $sheets = $sheets | append (resources.Get $path | resources.ExecuteAsTemplate "" $) }}
-	{{ end }}
-
-	<!-- Bundle the stylesheet resources and fingerprint the bundle. -->
-	{{ $css := resources.Concat "main.css" $sheets | minify | fingerprint "sha512" }}
-
-	<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+<!-- Build a slice containing each stylesheet as a resource. -->
+{{ $sheets := slice }}{{ range $names }}
+	{{ $path := printf "css/%s.css" . }}
+	{{ $sheets = $sheets | append (resources.Get $path | resources.ExecuteAsTemplate "" $) }}
 {{ end }}
 
-{{ define "partials/css/inline" }}
-	{{ $res := printf "css/%s" . | resources.Get }}
-	{{ $css := $res.Content | safeCSS }}
-	<style>{{ $css }}</style>
-{{ end }}
+<!-- Bundle the stylesheet resources and fingerprint the bundle. -->
+{{ $css := resources.Concat "main.css" $sheets | minify | fingerprint "sha512" }}
+
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
