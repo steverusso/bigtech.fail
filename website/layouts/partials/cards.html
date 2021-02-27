@@ -22,14 +22,14 @@
 {{ define "partials/cards/profile" }}
 	<a class="card" href="{{ .RelPermalink }}">
 		<div>
-			<img src="{{ partialCached `profile-pic.html` . .Title }}" loading="lazy">
+			<img src="{{ partialCached `profile/pic` . .Title }}" loading="lazy">
 			<b title="{{ .Title }}">{{ .Params.aka | default "" }}</b>
 		</div>
 
 		<p>{{ .Summary | truncate 80 }}</p>
 	</a>
 
-	{{ partialCached "profile-links.html" .Params.links .Title }}
+	{{ partialCached "profile/links" .Params.links .Title }}
 {{ end }}
 
 {{ define "partials/cards/alt" }}

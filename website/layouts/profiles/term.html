@@ -25,7 +25,7 @@
 
 {{ define "main" }}
 	{{ $name := .Title }}
-	{{ $img := partialCached "profile-pic.html" . $name }}
+	{{ $img := partialCached "profile/pic" . $name }}
 
 	<div class="cntr prof w900">
 		<header>
@@ -34,7 +34,7 @@
 		</header>
 
 		<div class="links">
-			{{ partialCached "profile-links.html" .Params.links $name }}
+			{{ partialCached "profile/links" .Params.links $name }}
 		</div>
 
 		<article>{{ .Content }}</article>
