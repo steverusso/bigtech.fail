@@ -30,7 +30,7 @@
 {{ define "main" }}
 	<div class="cntr w900">
 		<header>
-			<img src="{{ partialCached `profile/pic` . .Title }}" loading="lazy">
+			{{ partialCached `profile/pic` . .Title }}
 			<h1 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ .Title }}</h1>
 		</header>
 

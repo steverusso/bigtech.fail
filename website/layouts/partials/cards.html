@@ -22,7 +22,7 @@
 {{ define "partials/cards/profile" }}
 	<a class="card" href="{{ .RelPermalink }}">
 		<div>
-			<img src="{{ partialCached `profile/pic` . .Title }}" loading="lazy">
+			{{ partialCached `profile/pic` . .Title }}
 			<b title="{{ .Title }}">{{ .Params.aka | default "" }}</b>
 		</div>
 
