@@ -30,7 +30,7 @@
 						{{ range . }}
 							<blockquote>
 								{{ range split .q "\n" }}<p>{{ . }}</p>{{ end }}
-								<p>-- {{ .person }}, <a href="{{ .src }}">{{ .date }}</a></p>
+								<p>– {{ .person }}, <a href="{{ .src }}">{{ .date }}</a></p>
 							</blockquote>
 						{{ end }}
 					</details>
