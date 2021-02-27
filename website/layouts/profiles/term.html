@@ -1,40 +1,33 @@
 {{ define "style" }}
 <style>
-.prof.cntr [data-aka]:after {
-	font-size: 0.95rem;
-	margin: 0.75rem 0 0 0;
-}
 .links > div {
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;
-	margin-bottom: 3rem;
+	margin-bottom: 2rem;
 }
-.links > div a {
+.links a {
 	margin: 0.5rem 1.5rem 0.5rem 0;
 }
 [data-aka]:after {
 	content: attr(data-aka) " ";
 	color: var(--caption);
 	display: block;
-	font-size: 0.85rem;
-	margin: 0.33rem 0 0 0;
+	font-size: 0.95rem;
+	margin: 0.75rem 0 0 0;
 }
 </style>
 {{ end }}
 
 {{ define "main" }}
-	{{ $name := .Title }}
-	{{ $img := partialCached "profile/pic" . $name }}
-
-	<div class="cntr prof w900">
+	<div class="cntr w900">
 		<header>
-			<img src="{{ $img }}" width="120" height="120" loading="lazy">
-			<h1 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ $name }}</h1>
+			<img src="{{ partialCached `profile/pic` . .Title }}" width="120" height="120" loading="lazy">
+			<h1 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ .Title }}</h1>
 		</header>
 
 		<div class="links">
-			{{ partialCached "profile/links" .Params.links $name }}
+			{{ partialCached "profile/links" .Params.links .Title }}
 		</div>
 
 		<article>{{ .Content }}</article>
