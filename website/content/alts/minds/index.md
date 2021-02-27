@@ -14,6 +14,9 @@ ToS](https://www.minds.com/p/terms):
 > just swipe on by. Minds is an open, free and public commons where users
 > respect the right to use free speech.
 
+(For a deeper dive into Minds and all of its features, checkout
+[minds.guide](http://minds.guide/))
+
 ## Jury System
 
 Minds uses [a Jury
