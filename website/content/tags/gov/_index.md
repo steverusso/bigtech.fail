@@ -16,6 +16,11 @@ quotes:
 	     Google, whether we''re talking about the government of any country, they
 			 know everything about us, or much about us, rather, and we know very
 			 little about them.'
+ - person: LBRY (@LBRYcom)
+   date: '9 Dec 2020'
+   src: https://archive.is/pF24f
+   q: 'when governments and the most dominant international corporations are on
+	     the same side, it usually isn''t your side'
 ---
 
 BigTech and Government are deeply intertwined with one another, and [China is
