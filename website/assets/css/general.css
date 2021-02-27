@@ -220,10 +220,9 @@ h3[data-count] {
 .btn.blue { --clr: #2196f3 }
 .btn.light-blue { --clr: #03a9f4 }
 
-@media (min-width: 850px) and (max-width:1249px) {
-	.evtpg {
-		width: 850px !important;
-	}
+.evtpg > section > header > img {
+	width: 128px !important;
+	height: 128px !important;
 }
 .evtpg aside {
 	background: var(--bodyBg);
@@ -239,6 +238,9 @@ h3[data-count] {
 	border-bottom: var(--border1);
 	margin-bottom: 2rem;
 }
+.profiles > a:not(:first-child) {
+	margin-top: 1rem;
+}
 @media (max-width: 450px) {
 	.evtpg section > header {
 		flex-direction: column;
@@ -248,8 +250,10 @@ h3[data-count] {
 		margin-top: 2rem;
 	}
 }
-.profiles > a:not(:first-child) {
-	margin-top: 1rem;
+@media (min-width: 850px) and (max-width:1249px) {
+	.evtpg {
+		width: 850px !important;
+	}
 }
 @media (max-width: 1249px) {
 	.evtpg aside:before {

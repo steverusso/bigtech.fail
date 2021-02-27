@@ -17,7 +17,7 @@
 	<main class="evtpg">
 		<section>
 			<header>
-				<img src="{{ .Params.image }}" width="128" height="128" loading="lazy">
+				<img src="{{ .Params.image }}" loading="lazy">
 				<h1 data-date="{{ .Date.Format `2 Jan 2006` }}">{{ .Title }}</h1>
 			</header>
 
@@ -26,9 +26,8 @@
 			<details data-srcs><summary></summary>
 				<ol>
 					{{ range .Params.sources }}
-						{{ $href := index . 1 }}
-						{{ $text := index . 0 | default $href }}
-						<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
+						{{ $url := index . 1 }}
+						<li><a href="{{ $url }}" target="_blank">{{ index . 0 | default $url }}</a></li>
 					{{ end }}
 				</ol>
 			</details>
