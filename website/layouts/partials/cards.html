@@ -25,8 +25,6 @@
 			{{ partialCached `profile/pic` . .Title }}
 			<b title="{{ .Title }}">{{ .Params.aka | default "" }}</b>
 		</div>
-
-		<p>{{ .Summary | truncate 70 }}</p>
 	</a>
 
 	{{ partialCached "profile/links" .Params.links .Title }}

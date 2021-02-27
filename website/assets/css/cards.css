@@ -73,10 +73,13 @@
 .profiles .card {
 	border-radius: var(--radius) var(--radius) 0 0;
 }
+.profiles .card > :first-child {
+	border-bottom: none;
+}
 .profiles .card + div {
-	background: var(--cardTitleBg);
+	background: var(--cardBg);
 	border: var(--border1);
-	border-top: 1px solid transparent;
+	border-top: none;
 	border-radius: 0 0 4px 4px;
 	padding: 0.25rem;
 	display: flex;
