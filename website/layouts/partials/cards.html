@@ -26,7 +26,7 @@
 			<b title="{{ .Title }}">{{ .Params.aka | default "" }}</b>
 		</div>
 
-		<p>{{ .Summary | truncate 80 }}</p>
+		<p>{{ .Summary | truncate 70 }}</p>
 	</a>
 
 	{{ partialCached "profile/links" .Params.links .Title }}
@@ -45,7 +45,7 @@
 
 {{ define "partials/cards/alttr" }}
 	<a class="card" href="{{ .RelPermalink }}">
-		<img loading="lazy" src="/img/{{ .Params.image }}.png">
+		<img src="/img/{{ .Params.image }}.png" loading="lazy">
 		<u>{{ .Title }}</u>
 	</a>
 {{ end }}
