@@ -9,5 +9,5 @@ links:
 ---
 
 Blonde is a conservative content creator (mainly on YouTube for now) and
-co-host of _Beauty and the Beta_, a Sunday night livestream with [Matt
+co-host of _The Matt and Blonde Show_, a Sunday night podcast with [Matt
 Christiansen](/profiles/matt-christiansen/).
