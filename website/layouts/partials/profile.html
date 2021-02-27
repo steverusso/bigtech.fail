@@ -1,24 +1,27 @@
 <!--
-	This partial returns the URL for the profile picture of the given Profile,
-	using the specified image param first, then the PNG if it exists, and finally
-	defaulting to the JPG.
+	The profile image HTML for the given Profile, using image param if specified,
+	defaulting to the implicit JPG or PNG, respectively.
 -->
 {{ define "partials/profile/pic" }}
-	{{ $pic := "" }}
+	{{ $p := "" }}
 
 	{{ with .Param "image" }}
-		{{ $pic = . }}
+		{{ $p = . }}
 	{{ else }}
-		{{ $key := anchorize .Title }}
-		{{ range $ext := slice "jpg" "png" }}
-			{{ $imgSrc := printf "/img/people/%s.%s" $key $ext }}
-			{{ $exists := printf "/static%s" $imgSrc | fileExists }}
+		{{ $k := anchorize .Title }}
 
-			{{ $pic = $pic | cond $exists $imgSrc }}
+		{{ range slice "jpg" "png" }}
+			{{ if eq "" $p }}
+				{{ $src := printf "/img/people/%s.%s" $k . }}
+
+				{{ if fileExists (printf "/static%s" $src) }}
+					{{ $p = $src }}
+				{{ end }}
+			{{ end }}
 		{{ end }}
 	{{ end }}
 
-	<img src="{{ $pic }}" loading="lazy">
+	<img src="{{ $p }}" loading="lazy">
 {{ end }}
 
 <!--
