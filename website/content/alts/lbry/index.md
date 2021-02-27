@@ -60,3 +60,13 @@ LBRY network.
 
 The LBRY project is [open source](https://github.com/lbryio). To learn more in
 general, check out LBRY's [FAQ](https://lbry.com/faq).
+
+> The notion that humans should be free to express things to one another isn't
+> radical.
+>
+> It's the idea that a small number of people should control who gets to
+> express things that is radical.
+>
+> Don't let them flip the script.
+>
+> -- LBRY (@LBRYcom) [16 Feb 2021](https://archive.is/c6uyU)
