@@ -6,20 +6,18 @@ SRVBIN = $(SRVDIR)/bigtechfaild
 
 .PHONY: website server
 
-default: build
-
-build: website server
+default: server
 
 website:
 	cd $(WEBDIR) && hugo -d ../$(WEBDST)
 
-server:
+server: website
 	cd $(SRVDIR) && go build
 
-run: build
+run: server
 	$(SRVBIN) -p 8080
 
-install: build
+install: server
 	sudo sysrc bigtechfaild_enable="YES"
 	sudo cp -f $(SRVBIN) /usr/local/bin/
 	sudo cp -f $(SRVDIR)/contrib/bigtechfaild.rc.d /usr/local/etc/rc.d/bigtechfaild
