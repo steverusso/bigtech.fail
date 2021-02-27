@@ -1,5 +1,9 @@
 {{ define "style" }}
 <style>
+.cntr > header > img {
+	width: 120px !important;
+	height: 120px !important;
+}
 .links > div {
 	display: flex;
 	flex-flow: row wrap;
@@ -8,6 +12,10 @@
 }
 .links a {
 	margin: 0.5rem 1.5rem 0.5rem 0;
+}
+.links a img {
+	width: 32px !important;
+	height: 32px !important;
 }
 [data-aka]:after {
 	content: attr(data-aka) " ";
@@ -22,7 +30,7 @@
 {{ define "main" }}
 	<div class="cntr w900">
 		<header>
-			<img src="{{ partialCached `profile/pic` . .Title }}" width="120" height="120" loading="lazy">
+			<img src="{{ partialCached `profile/pic` . .Title }}" loading="lazy">
 			<h1 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ .Title }}</h1>
 		</header>
 

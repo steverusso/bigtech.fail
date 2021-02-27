@@ -38,7 +38,7 @@
 
 				<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">
 					{{ $type := cond (isset $v "icon") "icons" "logos" }}
-					<img src="/img/{{ $type }}/{{ $v.key }}.png" width="32" height="32" loading="lazy">
+					<img src="/img/{{ $type }}/{{ $v.key }}.png" loading="lazy">
 				</a>
 			{{ end }}
 		{{ end }}
