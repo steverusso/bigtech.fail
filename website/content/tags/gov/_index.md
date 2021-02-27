@@ -1,6 +1,5 @@
 ---
-aliases: [ /gov/, /tags/gov/ ]
-slug: gov
+url: /gov/
 title: Government
 image: /img/emoji/poo.png
 sources:
