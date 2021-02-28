@@ -29,6 +29,7 @@ nav a:first-child {
 }
 #tn + label:before {
 	background-color: rgba(34,34,34,0.6);
+	width: 100% !important;
 }
 #tn:checked + label:before {
 	opacity: 1;
