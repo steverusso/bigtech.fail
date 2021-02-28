@@ -34,22 +34,17 @@ label {
 }
 #sbToggle + label:after {
 	content: "";
-	display: block;
-	border-top: 8px solid white;
-	border-left: 8px solid white;
-	color: white;
-	transform: rotate(-45deg);
-	width: 18px;
-	height: 18px;
-	margin-left: 5px;
+	background: no-repeat center/100% url('data:image/png;base64,{{ (resources.Get "sidebar-toggle.png").Content | base64Encode }}');
+	width: 66%;
+	height: 66%;
+	transition: transform 0.25s;
 }
 #sbToggle:checked + label:before {
 	visibility: visible;
 	z-index: 5;
 }
 #sbToggle:checked + label:after {
-	transform: rotate(135deg);
-	margin-left: -5px;
+	transform: rotateY(180deg);
 }
 #sbToggle:checked ~ main > aside {
 	transform: translateX(0);
