@@ -28,3 +28,7 @@ intelligence team:
 Nimmo's pro-war career is riddled with falsely labeling anti-establishment
 groups and individuals as "Russian bots", particularly when they speak out
 against the interests of government intelligence agencies.
+
+Totally unrelated, Facebook announced their [partnership with the Atlantic
+Council](/e/facebook-partners-with-atlantic-council/) about three years prior
+in May of 2018.

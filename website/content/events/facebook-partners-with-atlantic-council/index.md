@@ -33,5 +33,6 @@ foreign interference):
 > citizens as well as civil society.
 
 According to [Project Censored](https://archive.is/iPYCZ), this was the [#2
-censored story](https://www.projectcensored.org/2-think-tank-partnerships-establish-facebook-as-tool-of-us-foreign-policy/)
+most censored
+story](https://www.projectcensored.org/2-think-tank-partnerships-establish-facebook-as-tool-of-us-foreign-policy/)
 of 2018 - 2019.
