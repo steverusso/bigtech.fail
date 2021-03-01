@@ -150,9 +150,9 @@
 	position: absolute;
 }
 .alttech.card div:after, .profiles .card div:after {
-	font-size: 1.4rem;
-	top: 0.5rem;
-	right: 0.75rem;
+	font-size: 1.1rem;
+	top: 0.25rem;
+	right: 0.5rem;
 }
 
 .corpos {
