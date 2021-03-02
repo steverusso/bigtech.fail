@@ -1,8 +1,7 @@
 ---
-title: Twitter Suspends @Hammer_Of_Glass
+title: Twitter Suspends User For saying "Only females get cervical cancer."
 date: 2020-07-11
 image: /img/misc/hammer-of-glass.jpg
-summary: For saying "Only females get cervical cancer."
 corpos: [ twitter ]
 tags: [ suspended, trans ]
 sources:
@@ -15,8 +14,8 @@ sources:
 ---
 
 Twitter temporarily suspended a user by the name of _@Hammer_Of_Glass_ for
-saying "Only females get cervical cancer", building upon [Twitter's
-pattern](/tags/trans/) of suppressing transgenderism-related discourse.
+saying "Only females get cervical cancer", building upon BigTech's pattern of
+suppressing [transgenderism-related](/t/trans/) discourse.
 
 > Hammer_Of_Glass has been banned from twitter.
 >
