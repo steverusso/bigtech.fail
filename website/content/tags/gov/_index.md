@@ -23,7 +23,7 @@ quotes:
 ---
 
 BigTech and Government are deeply intertwined with one another, and [China is
-balls-deep in both](/tags/china/). We define government related events to be
+balls-deep in both](/china/). We define government related events to be
 **anytime government and BigTech cross paths**. For example, this could be a
 BigTech corporation censoring at the request of a government or even censoring
 a current politician or political figure.
