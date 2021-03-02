@@ -1,5 +1,5 @@
 ---
-aliases: [ /tags/china/ ]
+url: /china/
 title: China
 image: /img/emoji/flag-china.png
 sources:
