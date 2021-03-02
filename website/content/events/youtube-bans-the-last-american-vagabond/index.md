@@ -6,8 +6,8 @@ corpos: [ youtube ]
 tags: [ banned ]
 profiles: [ tlav ]
 sources:
- - [ 'altCensored - The Last American Vagabond', 'https://archive.is/ayrZq' ]
- - [ 'Social Blade (The Last American Vagabond) socialblade.com/youtube/channel/UC_ClYrAtDNAGy5J0N-AwBNw', 'https://archive.is/4qXIT' ]
+ - [ 'altcensored.com/channel/UC_ClYrAtDNAGy5J0N-AwBNw', 'https://archive.is/ayrZq' ]
+ - [ 'socialblade.com/youtube/channel/UC_ClYrAtDNAGy5J0N-AwBNw', 'https://archive.is/4qXIT' ]
  - [ 'twitter.com/TLAVagabond/status/1318360651929145344', 'https://archive.is/O2Aev' ]
  - [ 'twitter.com/TLAVagabond/status/1318954513986965504', 'https://archive.is/rRUet' ]
  - [ 'twitter.com/TLAVagabond/status/1318916041368633344', 'https://archive.is/FJerQ' ]
@@ -22,10 +22,9 @@ youtube:
  videos: 2040
 ---
 
-[YouTube](/youtube/) permanently [banned](/tags/banned/) _The Last American
-Vagabond_ during a live stream.  The seven and a half year old channel had
-nearly **103k subscribers** and over **14.5 million total views** across more
-than 2,000 videos.
+[YouTube](/youtube/) banned _The Last American Vagabond_ during a live stream.
+The seven and a half year old channel had nearly **103k subscribers** and over
+**14.5 million total views** across more than 2,000 videos.
 
 > @YouTube Just proved me right, by deleting TLAV. This happened because I am
 > asking questions they don't like. Facts are fake news on YouTube. But don't

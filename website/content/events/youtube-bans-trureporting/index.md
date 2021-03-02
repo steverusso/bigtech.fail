@@ -6,8 +6,8 @@ profiles: [ trureporting ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'altCensored - TRUreporting altcensored.com/channel/UCpwXjOAwWDuWlmA2gTjjBwg', 'https://archive.is/yFCoe' ]
- - [ 'Social Blade (TRUreporting) socialblade.com/youtube/channel/UCpwXjOAwWDuWlmA2gTjjBwg', 'https://archive.is/Pxd9e' ]
+ - [ 'altcensored.com/channel/UCpwXjOAwWDuWlmA2gTjjBwg', 'https://archive.is/yFCoe' ]
+ - [ 'socialblade.com/youtube/channel/UCpwXjOAwWDuWlmA2gTjjBwg', 'https://archive.is/Pxd9e' ]
  - [ 'twitter.com/TRUreporting/status/1316755491184422912', 'https://archive.is/mMTRI' ]
  - [ 'twitter.com/TRUreporting/status/1316790363919654912', 'https://archive.is/W9zsm' ]
  - [ 'twitter.com/TRUreporting/status/1316803404732207104', 'https://archive.is/aIaBn' ]
@@ -22,10 +22,10 @@ youtube:
  videos: 864
 ---
 
-[YouTube](/youtube/) permanently [banned](/tags/banned/) _TRUreporting_ in an
-attempt to purge channels that the platform claimed were spreading "harmful
-conspiracy theories." The 15 year old channel had nearly **217k subscribers**
-and over **23.5 million total views** across almost 900 videos.
+[YouTube](/youtube/) banned _TRUreporting_ in an attempt to purge channels that
+the platform claimed were spreading "harmful conspiracy theories." The 15 year
+old channel had nearly **217k subscribers** and over **23.5 million total
+views** across almost 900 videos.
 
 > YouTube just deleted my account without warning.
 > It’s all gone. Everything I’ve worked for. Completely gone.

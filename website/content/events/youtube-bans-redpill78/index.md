@@ -21,10 +21,10 @@ youtube:
  videos: 797
 ---
 
-[YouTube](/youtube/) permanently [banned](/tags/banned/) _RedPill78_ in an
-attempt to purge channels that the platform claimed were spreading "harmful
-conspiracy theories." The 14 year old channel had over **270k subscribers** and
-nearly **49 million total views** across almost 800 videos.
+[YouTube](/youtube/) banned _RedPill78_ in an attempt to purge channels that
+the platform claimed were spreading "harmful conspiracy theories." The 14 year
+old channel had over **270k subscribers** and nearly **49 million total views**
+across almost 800 videos.
 
 > Everyone please tweet @TeamYouTube for an explanation & to have me
 > reinstated, BE RESPECTFUL. I have no strikes, copyright or community
