@@ -5,6 +5,7 @@ links:
   website: www.thelastamericanvagabond.com
   support: www.thelastamericanvagabond.com/bitcoin-donation/
   merch: truthclothing.io/collections/tlav
+  subscribestar: the-last-american-vagabond
   bitchute: thelastamericanvagabond/
   odysee: '@TLAVagabond:5'
   dlive: TLAVagabond
