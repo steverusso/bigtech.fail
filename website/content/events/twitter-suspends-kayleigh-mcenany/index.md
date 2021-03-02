@@ -20,7 +20,7 @@ sources:
 
 Twitter suspended White House Press Secretary Kayleigh McEnany
 (@kayleighmcenany) for tweeting out a link to the New York Post's [exposé on
-Hunter Biden](/events/facebook-twitter-suppress-nypost-hunter-expose/) which
+Hunter Biden](/e/facebook-twitter-suppress-nypost-hunter-expose/) which
 [violated](notice.jpg) the Twitter rules against "distribution of hacked
 material":
 > Twitter locked White House Press Secretary Kayleigh Mcenany out of her

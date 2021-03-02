@@ -14,7 +14,7 @@ sources:
 ---
 
 [Twitter](/twitter/) permanmently banned President Trump shortly after [his 12
-hour suspension](/events/twitter-facebook-suspend-trump/) was lifted. Right
+hour suspension](/e/twitter-facebook-suspend-trump/) was lifted. Right
 after his personal account was banned, he issued the following statement from
 the @POTUS account, causing that account to be removed as well.
 

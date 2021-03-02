@@ -33,6 +33,6 @@ almost 1500 uploads.
 >
 > -- SGTreport (@SGTreport) [15 Oct 2020](https://archive.is/zZo3g)
 
-SGTreport was [banned from Mailchimp](/events/mailchimp-bans-sgtreport/) four
-days later and [banned from Patreon](/events/patreon-bans-sgtreport/) one week
+SGTreport was [banned from Mailchimp](/e/mailchimp-bans-sgtreport/) four
+days later and [banned from Patreon](/e/patreon-bans-sgtreport/) one week
 later.

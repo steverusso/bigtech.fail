@@ -9,7 +9,7 @@ sources:
  - [ 'Project Veritas - Eric Cochran Joining Veritas', 'https://www.projectveritas.com/2019/07/02/pinterest-insider-joins-project-veritas/' ]
 ---
 
-Whistleblower Eric Cochran was escorted out of Pinterest and placed on administrative leave on June 11th, the same day that [Project Veritas published their report](/events/pinterest-caught-shadow-banning-conservative-content/) containing the documents Cochran leaked to them.
+Whistleblower Eric Cochran was escorted out of Pinterest and placed on administrative leave on June 11th, the same day that [Project Veritas published their report](/e/pinterest-caught-shadow-banning-conservative-content/) containing the documents Cochran leaked to them.
 
 He was later fired on June 19th. Below is the letter he received from Pinterest regarding his termination:
 

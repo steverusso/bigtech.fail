@@ -23,5 +23,5 @@ His girlfriend posted a screenshot of the notice he received from Twitter:
 ![](Millerita@1119655394899415040.png)
 
 Woods refused to delete the tweet, so Twitter did it on their own. A few weeks
-later, Woods [announced](/events/james-woods-quits-twitter/) that he was
+later, Woods [announced](/e/james-woods-quits-twitter/) that he was
 quiting Twitter.

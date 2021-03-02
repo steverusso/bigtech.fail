@@ -23,7 +23,7 @@ His account [was reinstated](https://web.archive.org/web/20170801181701/https://
 >
 > -- Jordan B Peterson (@jordanbpeterson) [1 Aug 2017](https://web.archive.org/web/20191102065112/https:/twitter.com/jordanbpeterson/status/892432199303213056)
 
-This suspension coincided with Jordan Peterson releasing his extremely popular Biblical lectures as well as the ["diversity memo" controversy](/events/google-fires-james-demore/) with james Demore.
+This suspension coincided with Jordan Peterson releasing his extremely popular Biblical lectures as well as the ["diversity memo" controversy](/e/google-fires-james-demore/) with james Demore.
 
 A couple years later, this event achieved a new level of significance after Google whisleblower Zach Vorhies suggested that Peterson's account could have been suspended due to bad actors exploiting one of Google's spam prevention algorithms.
-He said this was possibly the same mechanism that caused [Tulsi Gabbard's sudden suspension from Google Ads](/events/google-suspends-tulsi-gabbards-campaign-ads-after-debate/) after the first Democratic debate.
+He said this was possibly the same mechanism that caused [Tulsi Gabbard's sudden suspension from Google Ads](/e/google-suspends-tulsi-gabbards-campaign-ads-after-debate/) after the first Democratic debate.

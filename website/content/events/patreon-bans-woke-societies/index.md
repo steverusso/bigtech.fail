@@ -28,4 +28,4 @@ patrons**.
 >
 > -- Woke Societies (@wokesocieties) [22 Oct 2020](https://archive.is/k5REm)
 
-_Woke Societies_ was [banned from YouTube](/events/youtube-bans-woke-societies/) one week prior.
+_Woke Societies_ was [banned from YouTube](/e/youtube-bans-woke-societies/) one week prior.

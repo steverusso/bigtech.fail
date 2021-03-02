@@ -39,7 +39,7 @@ The platform [published](http://archive.is/wfch8#selection-9.145-9.454) the top
 | thenewright | 6,844 |
 
 r/The_Donald was [quarantined by
-Reddit](/events/reddit-quarantines-the-donald-subreddit/) a year prior, and the
+Reddit](/e/reddit-quarantines-the-donald-subreddit/) a year prior, and the
 subreddit's mods placed it into "restricted mode" four months before this
 removal.
 

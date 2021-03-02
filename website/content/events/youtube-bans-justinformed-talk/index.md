@@ -31,4 +31,4 @@ across 890 videos.
 >
 > -- JustInformed Talk (@JustInformU) [15 Oct 2020](https://archive.is/pAEGJ)
 
-_JustInformed Talk_ was [banned by Patreon](/events/patreon-bans-justinformed-talk/) one week later.
+_JustInformed Talk_ was [banned by Patreon](/e/patreon-bans-justinformed-talk/) one week later.

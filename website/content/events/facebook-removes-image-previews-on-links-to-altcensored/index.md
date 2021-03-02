@@ -9,7 +9,7 @@ sources:
 ---
 
 Facebook removed the image previews for all links to [altCensored.com](https://altcensored.com/), a community catalog of removed or limited-state videos on YouTube.
-This came about a week after the company [prevented users from sharing links to Brighteon.com](/events/facebook-blocks-links-to-brighteon/) and NaturalNews.
+This came about a week after the company [prevented users from sharing links to Brighteon.com](/e/facebook-blocks-links-to-brighteon/) and NaturalNews.
 These moves to prevent or restrict link-sharing are likely due to the fact that these sites host content that Facebook works overtime to bury.
 
 From [Reclaim The Net](https://archive.vn/T0REy#selection-355.0-417.121):

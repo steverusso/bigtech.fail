@@ -22,6 +22,6 @@ specific reason for the account termination outside of a "deactivation"
 >
 > -- SGTreport (@SGTreport) [19 Oct 2020](https://archive.is/Vnv7g)
 
-_SGTreport_ was [banned from YouTube](/events/youtube-bans-sgtreport/) four
-days prior and [banned from Patreon](/events/patreon-bans-sgtreport/) three
+_SGTreport_ was [banned from YouTube](/e/youtube-bans-sgtreport/) four
+days prior and [banned from Patreon](/e/patreon-bans-sgtreport/) three
 days later.

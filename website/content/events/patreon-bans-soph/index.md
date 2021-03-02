@@ -12,7 +12,7 @@ sources:
  - [ '', 'https://archive.is/TqSq9' ]
 ---
 
-Patreon removed Soph's account, which had about 600 Patrons, the day after [YouTube deleted her channel](/events/youtube-bans-soph/).
+Patreon removed Soph's account, which had about 600 Patrons, the day after [YouTube deleted her channel](/e/youtube-bans-soph/).
 Her Bonfire account was also shutdown.
 
 > patreon page got taken down, if you were donating there switch to [newproject2.com/soph](http://newproject2.com/soph) , ill set up a subscribestar page soon as well

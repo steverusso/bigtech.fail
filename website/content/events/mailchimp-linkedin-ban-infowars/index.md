@@ -13,7 +13,7 @@ sources:
 ---
 
 Mailchimp and LinkedIn banned _Infowars_ the day after [they were
-banned](/events/alex-jones-mass-banned/) by Facebook, YouTube, Apple and
+banned](/e/alex-jones-mass-banned/) by Facebook, YouTube, Apple and
 Spotify. Mailchimp said [the
 following](https://archive.is/hr0ZS#selection-1639.165-1639.368) in a
 statement:

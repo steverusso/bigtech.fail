@@ -11,7 +11,7 @@ sources:
  - [ 'Reclaim The Net "Ford Fischer highlights YouTube’s unfair treatment of independent journalists" by Carl Sinclair (24 Dec 2019)', 'https://reclaimthenet.org/ford-fischer-youtube-demonetized/' ]
 ---
 
-Six months after [demonetizing](/events/youtube-demonetizes-news2share/)
+Six months after [demonetizing](/e/youtube-demonetizes-news2share/)
 _News2Share_ as part of the [Vox Adpocalypse](/vox-adpocalypse/), YouTube
 allowed the channel to be monetized again, but demonetized each and every video
 on the channel:

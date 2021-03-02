@@ -17,7 +17,7 @@ Notably, Mailchimp said they would removing information that is [contrary to
 what the "leading health authorities"
 decree](https://archive.is/9l0YP#selection-1089.1-1089.158), a policy decision
 which is essentially identical to the one [YouTube
-enacted](/events/youtube-says-contradicting-who-will-violate-guidelines/)
+enacted](/e/youtube-says-contradicting-who-will-violate-guidelines/)
 nearly a year later during the COVID-19 pandemic:
 
 > We trust the world’s leading health authorities, like the CDC, WHO, and the

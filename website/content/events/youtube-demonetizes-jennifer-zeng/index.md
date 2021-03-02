@@ -20,7 +20,7 @@ not give Zeng a specifc reason or explanation (rather just [a one sentence
 notification](screenshot.jpg) on her channel's dashboard that said the channel
 is no longer eligible for monetization), she probably violated [YouTube's
 COVID-19
-policies](/events/youtube-says-contradicting-who-will-violate-guidelines/) of
+policies](/e/youtube-says-contradicting-who-will-violate-guidelines/) of
 not disagreeing with the WHO.
 
 > No reason was given. Just a sentence suddendly appearing on the backend of my

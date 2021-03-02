@@ -12,7 +12,7 @@ sources:
 
 Twitter was caught shadow banning Lin Wood, an attorney representing [Kyle
 Rittenhouse](/context/kyle-rittenhouse/), less than a week after he was
-["mistakenly" suspended](/events/twitter-suspends-lin-wood/). Reclaim The Net
+["mistakenly" suspended](/e/twitter-suspends-lin-wood/). Reclaim The Net
 [reported](https://archive.is/goYXM#selection-365.0-395.46) and confirmed that
 his Twitter handle was removed from search results:
 

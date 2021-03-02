@@ -37,4 +37,4 @@ sensitive content."
 >
 > -- James O'Keefe (@JamesOKeefeIII) [14 Jan 2021](https://archive.is/Y4IkK)
 
-**See also:** [Project Veritas #ExposeTwitter Part 2](/events/project-veritas-expose-twitter-pt2/)
+**See also:** [Project Veritas #ExposeTwitter Part 2](/e/project-veritas-expose-twitter-pt2/)

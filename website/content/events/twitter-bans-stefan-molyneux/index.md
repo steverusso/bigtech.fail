@@ -14,7 +14,7 @@ sources:
 ---
 
 Twitter banned Stefan Molyneux (@StefanMolyneux) without warning just over a
-week after he was [permanently banned](/events/youtube-bans-stefan-molyneux/)
+week after he was [permanently banned](/e/youtube-bans-stefan-molyneux/)
 from YouTube. His **9 year old account** had **483k followers** and **42.5k
 tweets**.
 

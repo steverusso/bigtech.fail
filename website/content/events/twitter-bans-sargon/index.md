@@ -15,4 +15,4 @@ Twitter Rules", specifically for "participating in targeted abuse", except...
 they didn't even name a "target" or the "abuse."
 
 This happened about seven months after Twitter [temporarily suspended Sargon's
-account](/events/twitter-suspends-sargon/).
+account](/e/twitter-suspends-sargon/).

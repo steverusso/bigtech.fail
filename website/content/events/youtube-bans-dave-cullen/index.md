@@ -42,7 +42,7 @@ total views** across more than 1,800 videos.
 > -- Dave Cullen (@DaveCullen) [10 Jan 2021](https://archive.is/S1tr5)
 
 This happened about three weeks after [Cullen
-announced](/events/dave-cullen-starts-leaving-youtube/) that he would no longer
+announced](/e/dave-cullen-starts-leaving-youtube/) that he would no longer
 be posting new content on YouTube. A couple days later, the _Computing Forever_
 was reinstated. In [a video](https://www.bitchute.com/video/H6Ag0s28P43i/),
 Cullen said it doesn't matter; he's focusing on AltTech:

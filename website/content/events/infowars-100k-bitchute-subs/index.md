@@ -20,5 +20,5 @@ speech video hosting platform.
 >
 > -- BitChute (@bitchute) [19 Nov 2020](https://archive.is/RC0y5)
 
-Infowars [was banned](/events/alex-jones-mass-banned/) from
+Infowars [was banned](/e/alex-jones-mass-banned/) from
 [YouTube](/youtube/) over two years prior in August of 2018.

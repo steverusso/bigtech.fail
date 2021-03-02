@@ -27,4 +27,4 @@ subscribers** and over **3 million lifetime views**.
 > -- Nicholas J. Fuentes (@NickJFuentes) [10 Jan 2020](http://archive.is/iumAr)
 
 Fuentes had seen his channel be completely
-[demonetized](/events/youtube-demonetizes-nick-fuentes/) about a month prior.
+[demonetized](/e/youtube-demonetizes-nick-fuentes/) about a month prior.

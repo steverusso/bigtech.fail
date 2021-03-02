@@ -27,5 +27,5 @@ QAnon-related accounts shortly after Media Matters published an article titled
 >
 > -- NotPSB (@NotPsb) [22 Oct 2020](https://archive.is/vzQgy)
 
-_Patriots' Soapbox_ [was banned](/events/youtube-bans-patriots-soapbox/) from
+_Patriots' Soapbox_ [was banned](/e/youtube-bans-patriots-soapbox/) from
 [YouTube](/youtube/) one week prior.

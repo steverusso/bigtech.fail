@@ -27,4 +27,4 @@ Following this action, Nick tweeted:
 > -- Nicholas J. Fuentes (@NickJFuentes) [10 Jan 2020](http://archive.is/fdoPM)
 
 Unfortunately, he was right because he was [permanently
-banned](/events/youtube-bans-nick-fuentes/) from YouTube about a month later.
+banned](/e/youtube-bans-nick-fuentes/) from YouTube about a month later.

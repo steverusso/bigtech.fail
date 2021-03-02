@@ -32,5 +32,5 @@ explanation.
 The account [was reinstated](https://archive.vn/79BLV) about a week later.
 
 Twitter had [restricted the account of Julian Assange's mother, Christine
-Assange](/events/twitter-restricts-julian-assanges-mother/), several months
+Assange](/e/twitter-restricts-julian-assanges-mother/), several months
 prior.

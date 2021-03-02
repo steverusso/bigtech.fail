@@ -11,7 +11,7 @@ sources:
  - [ 'Archive.is - https://twitter.com/getongab/status/1152391601810919424', 'https://archive.is/bxOln' ]
 ---
 
-Google removed the Gab Android app from the Play Store one week after they [demanded that Gab censor content](/events/google-gives-gab-a-week-to-censor-uncensorable-content/) that Gab couldn't even censor if they wanted to.
+Google removed the Gab Android app from the Play Store one week after they [demanded that Gab censor content](/e/google-gives-gab-a-week-to-censor-uncensorable-content/) that Gab couldn't even censor if they wanted to.
 
 > Google just banned the Gab app. 
 >
@@ -32,5 +32,5 @@ In a [statement given to Breitbart](https://www.breitbart.com/tech/2019/07/20/go
 > So by Google's own standards, the Google Chrome web browser is also violating their user-generated content policy.
 
 This is the second time Gab has had their Android app removed from the Google Play Store.
-The first time this happened was [back in August 2017](/events/google-removes-gab-from-play-store/) when Gab refused to comply with demands for censorship that were at least _possible_ to comply with.
+The first time this happened was [back in August 2017](/e/google-removes-gab-from-play-store/) when Gab refused to comply with demands for censorship that were at least _possible_ to comply with.
 This time, however, they could not have complied with the censorship demands from Google _even if they wanted to_ since Gab doesn't control the so-called "objectionable" content in question.

@@ -38,4 +38,4 @@ However, in his [September 25th video](https://www.youtube.com/watch?v=CTCZuy4gM
 > So right now we're really talking about the search algorithms, the organic traffic, and them trying to sway the election results for 2020.
 > It's not just about our channel, but if they can do what they've been doing to our channel, ... they're going to do it with anyone they deem to be a threat.
 
-Those are some words that would prove shockingly foretelling [about three weeks later...](/events/youtube-gets-caught-shadow-banning-tulsi-gabbard-in-the-us/)
+Those are some words that would prove shockingly foretelling [about three weeks later...](/e/youtube-gets-caught-shadow-banning-tulsi-gabbard-in-the-us/)

@@ -13,7 +13,7 @@ sources:
 
 [Apple](/apple/) removed the Parler app (a Twitter alternative) from the App
 Store the day after the app was [removed from the Google Play
-Store](/events/google-removes-parler-from-play-store/). This move from Apple
+Store](/e/google-removes-parler-from-play-store/). This move from Apple
 came a few days after the rioting in the US capitol, and after Parler saw
 record traffic due to Twitter and Facebook banning President Trump. An Apple
 spokesperson gave a statement that included the following:

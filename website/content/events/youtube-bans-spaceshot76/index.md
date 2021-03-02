@@ -37,5 +37,5 @@ _Spaceshot76_ was banned from both Twitter and Instagram about a week later
 without any possibility for appeal.
 
 About ten months prior in January, [YouTube issued three false strikes against
-_Spaceshot76_](/events/youtube-three-false-strikes-on-single-spaceshot76-video/),
+_Spaceshot76_](/e/youtube-three-false-strikes-on-single-spaceshot76-video/),
 all within a month on a single video.

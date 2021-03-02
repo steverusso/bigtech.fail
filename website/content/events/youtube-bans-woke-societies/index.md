@@ -29,4 +29,4 @@ subscribers** and over **4.5 million total views** across 192 videos.
 >
 > -- Woke Societies (@wokesocieties) [15 Oct 2020](https://archive.is/1pMeO)
 
-_Woke Societies_ was [banned from Patreon](/events/patreon-bans-woke-societies/) one week later.
+_Woke Societies_ was [banned from Patreon](/e/patreon-bans-woke-societies/) one week later.

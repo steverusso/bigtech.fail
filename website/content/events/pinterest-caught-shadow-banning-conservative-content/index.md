@@ -23,4 +23,4 @@ The main takeaways from [the Project Veritas article](https://www.projectveritas
 
 Definitely [check out the Project Veritas report](https://www.projectveritas.com/2019/06/11/tech-insider-blows-whistle-on-how-pinterest-listed-top-pro-life-site-as-porn-bible-verses-censored/) to see the documents, screenshots, and more.
 
-In later developments, Pinterest [banned LiveAction](/events/pinterest-bans-live-action/) on the same day, June 11th, and [fired the whistleblower](/events/pinterest-fires-eric-cochran/) on June 19th.
+In later developments, Pinterest [banned LiveAction](/e/pinterest-bans-live-action/) on the same day, June 11th, and [fired the whistleblower](/e/pinterest-fires-eric-cochran/) on June 19th.

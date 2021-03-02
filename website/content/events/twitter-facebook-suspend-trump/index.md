@@ -47,6 +47,6 @@ Facebook additionally [started removing all media from the US capitol
 riots](https://reclaimthenet.org/facebook-bans-capitol-protest-photos-videos/).
 
 The following day, [Twitch and Snapchat disabled Trump's
-accounts](/events/twitch-snapchat-suspend-trump/). Two days later, [Twitter
-permamently banned](/events/twitter-bans-trump/) Trump and suspended the @POTUS
+accounts](/e/twitch-snapchat-suspend-trump/). Two days later, [Twitter
+permamently banned](/e/twitter-bans-trump/) Trump and suspended the @POTUS
 account right after he used it.

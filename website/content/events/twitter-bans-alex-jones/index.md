@@ -20,7 +20,7 @@ sources:
 The day after confronting CNN activist Oliver Darcy and several others in Washington D.C., Twitter decided to ban Alex Jones for violating their "abusive behavior policy."
 Oliver Darcy had [tried to get Jones banned](https://money.cnn.com/2018/08/09/media/twitter-infowars-alex-jones/index.html) in the past.
 
-This ban from Twitter came one month after [Jones was banned from several major platforms](/events/alex-jones-mass-banned/) over the course of a couple days, and three weeks after [his temporary suspension from Twitter](/events/twitter-suspends-alex-jones/).
+This ban from Twitter came one month after [Jones was banned from several major platforms](/e/alex-jones-mass-banned/) over the course of a couple days, and three weeks after [his temporary suspension from Twitter](/e/twitter-suspends-alex-jones/).
 
 The accounts that were banned were **@realalexjones**, which had about 900k followers, and **@infowars**, which had about 430k followers.
 

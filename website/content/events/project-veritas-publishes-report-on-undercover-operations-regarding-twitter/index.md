@@ -13,7 +13,7 @@ sources:
 Project Veritas released a report on their undercover operations regarding
 Twitter which revealed, among other things, the extent to which Twitter engages
 in shadow banning. This came just under two years after sources [confirmed to
-Breitbart](/events/sources-confirm-twitter-shadow-banning-exclusively-to-breitbart/)
+Breitbart](/e/sources-confirm-twitter-shadow-banning-exclusively-to-breitbart/)
 that Twitter frequently shadow bans.
 
 In the video report, former Twitter software engineer [Abhinav Vadrevu explains
@@ -37,7 +37,7 @@ In another part of the video when [talking with Pranay
 Singh](https://youtu.be/64gTjdUrDFQ?t=364) (a Twitter engineer who works on
 Direct Messaging), the Project Veritas journalists ask about why Twitter won't
 verify Julian Assange and why his account was [briefly taken down a couple
-weeks prior](/events/twitter-briefly-removes-julian-assanges-account/). Singh
+weeks prior](/e/twitter-briefly-removes-julian-assanges-account/). Singh
 says that he didn't know the account was taken down, but that those types of
 actions are likely due to pressure from the US government, which casued the
 following exchange:

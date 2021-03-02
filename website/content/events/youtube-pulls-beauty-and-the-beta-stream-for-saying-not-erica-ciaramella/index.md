@@ -13,7 +13,7 @@ sources:
 ---
 
 During the past week, YouTube and Facebook [started to purge any
-content](/events/facebook-youtube-purge-mentions-of-eric-ciaramella-as-alleged-whistleblower/)
+content](/e/facebook-youtube-purge-mentions-of-eric-ciaramella-as-alleged-whistleblower/)
 that mentions Eric Ciaramella as the alleged Trump-Ukraine whistleblower.
 Among the content that was removed was Beauty and the Beta Sunday stream from
 November 3rd.

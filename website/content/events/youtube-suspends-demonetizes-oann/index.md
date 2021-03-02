@@ -32,5 +32,5 @@ which _One America News_ claimed was not even publicly listed on YouTube.
 > -- Alex Salvi (@alexsalvinews) [25 Nov 2020](https://archive.is/KILna)
 
 About three weeks later, Facebook [removed the
-ability](/events/facebook-disables-livestreaming-for-oann/) for _One America
+ability](/e/facebook-disables-livestreaming-for-oann/) for _One America
 News_ to livestream to the network's paid supporters.

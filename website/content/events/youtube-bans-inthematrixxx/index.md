@@ -24,5 +24,5 @@ across 464 videos.
 >
 > -- \]intheMatrixxx\[ (@intheMatrixxx) [15 Oct 2020](https://archive.is/mAb2b)
 
-_InTheMatrixxx_ was [banned by Patreon](/events/patreon-bans-inthematrixxx/)
+_InTheMatrixxx_ was [banned by Patreon](/e/patreon-bans-inthematrixxx/)
 one week later.

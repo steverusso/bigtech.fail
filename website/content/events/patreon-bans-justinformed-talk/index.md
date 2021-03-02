@@ -23,4 +23,4 @@ from QAnon." The account had **520 patrons**.
 >
 > -- JustInformed Talk ™️  (@JustInformU) [22 Oct 2020](https://archive.is/QYbe8#selection-871.0-871.115)
 
-_JustInformed Talk_ was [banned by YouTube](/events/youtube-bans-justinformed-talk/) one week prior.
+_JustInformed Talk_ was [banned by YouTube](/e/youtube-bans-justinformed-talk/) one week prior.

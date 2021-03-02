@@ -11,7 +11,7 @@ sources:
 
 Twitter temporarily suspended the PragerU account because it "violated the
 Twitter Rules" by tweeting a link to the
-[highly-censored](/events/white-coat-summit/) "White Coat Summit." Breitbart
+[highly-censored](/e/white-coat-summit/) "White Coat Summit." Breitbart
 [reported](http://archive.is/uiQAw#selection-553.0-553.232):
 > Conservative non-profit group PragerU had its account restricted on Wednesday
 > for allegedly violating the platform’s rules regarding posts about

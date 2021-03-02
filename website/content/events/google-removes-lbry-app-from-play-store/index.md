@@ -32,7 +32,7 @@ Content and Profanity policy."
 > -- LBRY (@LBRYcom) [25 Sep 2020](https://archive.is/oVF6m)
 
 This situation is very similar to when Google [removed the Gab
-app](/events/google-bans-gab-from-play-store-again/) in the sense that these
+app](/e/google-bans-gab-from-play-store-again/) in the sense that these
 apps are not able to censor the content that they allow you to access.
 > LBRY allows anyone to have a voice
 >

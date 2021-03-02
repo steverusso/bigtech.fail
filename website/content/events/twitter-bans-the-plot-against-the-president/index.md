@@ -25,5 +25,5 @@ trailer](https://archive.is/wpYUA) a few months prior.
 
 The account was shortly reinstated after significant backlash. This happened
 about a month after [Amazon stalled the documentary's
-release](/events/amazon-stalls-release-of-plot-against-the-president/) by over
+release](/e/amazon-stalls-release-of-plot-against-the-president/) by over
 a week (just a few weeks before the election).

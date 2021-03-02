@@ -12,7 +12,7 @@ sources:
 Report_ [due to "medical misinformation."](removal-screenshot.jpg) The video had been published for
 nearly two months. It was removed about three months after [YouTube removed a
 different
-episode](/events/youtube-removes-liberty-report-episode-covid-whistleblowers/)
+episode](/e/youtube-removes-liberty-report-episode-covid-whistleblowers/)
 which discussed COVID data uncovered by two whistleblowers.
 
 > Very disturbing news: YouTube has pulled an episode of the Ron Paul Liberty

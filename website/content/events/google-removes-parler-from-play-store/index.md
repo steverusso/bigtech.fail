@@ -30,6 +30,6 @@ spokesperson for Google gave the following statement:
 > public safety threat, we are suspending the app’s listings from the Play
 > Store until it addresses these issues.
 
-The [very next day](/events/apple-removes-parler-from-app-store/), Apple
+The [very next day](/e/apple-removes-parler-from-app-store/), Apple
 followed suit by removing Parler from Apple's App Store, and Amazon disabled
 Parler's servers on Amazon Web Services (AWS).

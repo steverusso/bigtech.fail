@@ -33,5 +33,5 @@ free expression is being undermined by social media censorship:
 > blackballed on social media, too.
 
 YouTube [removed another
-episode](/events/youtube-removes-another-liberty-report-for-medical-misinfo/),
+episode](/e/youtube-removes-another-liberty-report-for-medical-misinfo/),
 which among other things was critical of Fauci, about three months later.

@@ -9,7 +9,7 @@ sources:
 ---
 
 A week after [Twitter established their Trust and Safety
-Council](/events/twitter-trust-and-safety/), inside sources confirmed
+Council](/e/twitter-trust-and-safety/), inside sources confirmed
 exclusively to Breitbart Tech that the platform actively practices shadow
 banning.
 

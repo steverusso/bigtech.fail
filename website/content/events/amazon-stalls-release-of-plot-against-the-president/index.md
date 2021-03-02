@@ -23,5 +23,5 @@ reported](https://www.breitbart.com/entertainment/2020/10/22/amazon-held-back-re
 > president and CEO of Turn Key Films, which is distributing the documentary.
 
 The documentary's official Twitter account was
-[banned](/events/twitter-bans-the-plot-against-the-president/) about a month
+[banned](/e/twitter-bans-the-plot-against-the-president/) about a month
 later along with the accounts of several of its crew members.

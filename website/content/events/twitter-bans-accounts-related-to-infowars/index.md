@@ -13,4 +13,4 @@ sources:
 
 Twitter confirmed to CNN activist Oliver Darcy that they had in fact removed 18 accounts that were related to InfoWars or Alex Jones in any way whatsoever.
 
-Twitter said they consider these accounts to be attempts by Jones and/or InfoWars to circumvent [the permanent bans from Twitter](/events/twitter-bans-alex-jones/) that happened about a month and a half prior.
+Twitter said they consider these accounts to be attempts by Jones and/or InfoWars to circumvent [the permanent bans from Twitter](/e/twitter-bans-alex-jones/) that happened about a month and a half prior.

@@ -27,5 +27,5 @@ QAnon." The account had **369 patrons**.
 >
 > -- \]intheMatrixxx\[ (@intheMatrixxx) [22 Oct 2020](https://archive.is/eF6OC)
 
-_InTheMatrixxx_ was [banned by YouTube](/events/youtube-bans-inthematrixxx/)
+_InTheMatrixxx_ was [banned by YouTube](/e/youtube-bans-inthematrixxx/)
 one week prior.

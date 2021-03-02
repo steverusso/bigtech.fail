@@ -28,10 +28,10 @@ part of this purge, listed by patron count:
 
 | <small>Account</small> | <small>Patron Count</small> |
 |---|---|
-| [SGTreport](/events/patreon-bans-sgtreport/) | 1,000+ |
-| [JustInformed Talk](/events/patreon-bans-justinformed-talk/) | 520 |
-| [InTheMatrixxx](/events/patreon-bans-inthematrixxx/) | 369 |
-| [TRUreporting](/events/patreon-bans-trureporting/) | 334 |
-| [Woke Societies](/events/patreon-bans-woke-societies/) | 236 |
-| [Martin Geddes](/events/patreon-bans-martin-geddes/) | 236 |
-| [Patriots' Soapbox News](/events/patreon-bans-patriots-soapbox/) | 62 |
+| [SGTreport](/e/patreon-bans-sgtreport/) | 1,000+ |
+| [JustInformed Talk](/e/patreon-bans-justinformed-talk/) | 520 |
+| [InTheMatrixxx](/e/patreon-bans-inthematrixxx/) | 369 |
+| [TRUreporting](/e/patreon-bans-trureporting/) | 334 |
+| [Woke Societies](/e/patreon-bans-woke-societies/) | 236 |
+| [Martin Geddes](/e/patreon-bans-martin-geddes/) | 236 |
+| [Patriots' Soapbox News](/e/patreon-bans-patriots-soapbox/) | 62 |

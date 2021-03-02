@@ -21,4 +21,4 @@ livestream to the network's paid supporters and canceled all payments.
 > -- One America News (@OANN) [11 Dec 2020](https://archive.is/PV4qD)
 
 _One America News_ was [demonetized and temporarily suspended from
-YouTube](/events/youtube-suspends-demonetizes-oann/) about three weeks prior.
+YouTube](/e/youtube-suspends-demonetizes-oann/) about three weeks prior.

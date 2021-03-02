@@ -15,7 +15,7 @@ sources:
 ---
 
 Facebook and Instagram suppressed Tucker Carlson's interview with [Dr. Li-Meng
-Yan](/events/twitter-bans-dr-li-meng-yan/) by forcing users to navigate around
+Yan](/e/twitter-bans-dr-li-meng-yan/) by forcing users to navigate around
 a warning overlayed on the video stating that it was "false information." In
 Tucker's
 [monologue](https://www.facebook.com/TuckerCarlsonTonight/videos/652543642048920/)

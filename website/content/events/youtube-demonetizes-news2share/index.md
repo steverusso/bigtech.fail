@@ -27,5 +27,5 @@ Adpocalypse](/vox-adpocalypse/).
 > -- Ford Fischer (@FordFischer) [5 Jun 2019](https://archive.is/xU3eD)
 
 News2Share wasn't eligible for monetization again for over six months, [at
-which point](/events/youtube-re-demonetizes-news2share/) YouTube allowed the
+which point](/e/youtube-re-demonetizes-news2share/) YouTube allowed the
 channel to be monetized but demonetized every single video on the channel.

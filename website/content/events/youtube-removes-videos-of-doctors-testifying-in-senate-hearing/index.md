@@ -15,7 +15,7 @@ sources:
 
 [YouTube](/youtube/) removed two videos from Senator Ron Johnson's channel for
 violating [YouTube's COVID-19
-policies](/events/youtube-says-contradicting-who-will-violate-guidelines/). The
+policies](/e/youtube-says-contradicting-who-will-violate-guidelines/). The
 videos were of doctors testifying at a US Senate hearing about different
 COVID-19 treatments. However, the content is still allowed to remain [on
 Bloomberg's channel](https://www.youtube.com/watch?v=k8RyV3VEDKI).

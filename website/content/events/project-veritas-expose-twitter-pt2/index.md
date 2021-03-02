@@ -27,4 +27,4 @@ global scale:
 >
 > -- James O'Keefe (@JamesOKeefeIII) [18 Jan 2021](https://archive.is/D7Rdz)
 
-**See also:** [Project Veritas #ExposeTwitter Part 1](/events/project-veritas-expose-twitter-pt1/)
+**See also:** [Project Veritas #ExposeTwitter Part 1](/e/project-veritas-expose-twitter-pt1/)

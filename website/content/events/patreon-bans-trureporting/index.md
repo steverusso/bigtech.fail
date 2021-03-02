@@ -15,7 +15,7 @@ sources:
 ---
 
 [Patreon](/patreon/) banned _TRUreporting_ (one week after they were [banned
-from YouTube](/events/youtube-bans-trureporting/)) in an effort to remove
+from YouTube](/e/youtube-bans-trureporting/)) in an effort to remove
 accounts containing QAnon content. The two and a half year old account had
 **334 patrons**.
 

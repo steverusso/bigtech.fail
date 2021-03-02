@@ -10,7 +10,7 @@ sources:
 ---
 
 Twitter released [an update](https://archive.is/t44pw) four days after they
-[banned President Trump](/events/twitter-bans-trump/) which mentioned how
+[banned President Trump](/e/twitter-bans-trump/) which mentioned how
 **more than 70,000 accounts** [that
 were](https://archive.is/LC22Z#selection-619.317-619.381) "were engaged in
 sharing harmful QAnon-associated content at scale" had been removed.

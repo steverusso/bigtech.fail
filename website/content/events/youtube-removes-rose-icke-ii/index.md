@@ -29,4 +29,4 @@ From [Reclaim The Net](https://reclaimthenet.org/youtube-censors-david-icke-lond
 >
 > "You tell the BBC you're going to take my video off and why but you don't tell me," Rose said. "I still don't know why."
 
-For Brian Rose and David Icke, this was just the beginning, as starting the very next day, they would see [content being removed](/events/london-real-gets-content-removed-from-several-major-platforms/) from several major platforms.
+For Brian Rose and David Icke, this was just the beginning, as starting the very next day, they would see [content being removed](/e/london-real-gets-content-removed-from-several-major-platforms/) from several major platforms.

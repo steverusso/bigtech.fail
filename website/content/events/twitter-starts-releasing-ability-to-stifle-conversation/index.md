@@ -9,7 +9,7 @@ sources:
 ---
 
 Twitter starting rolling out the new feature of stifling conversation, which
-[they had announced](/events/twitter-unveils-plans-to-limit-replies/) in the
+[they had announced](/e/twitter-unveils-plans-to-limit-replies/) in the
 beginning of the year, to certain users for initial testing.
 
 ![](no-replies.png)

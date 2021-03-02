@@ -12,5 +12,5 @@ sources:
 Twitter temporarily suspended Dr. Stella Immanuel [for six days](notice.jpg)
 claiming she "violated the Twitter Rules" without giving further explanation or
 even citing a specific tweet. She was one of the doctors who spoke at the
-[highly-censored](/events/white-coat-summit/) "White Coat Summit", a press
+[highly-censored](/e/white-coat-summit/) "White Coat Summit", a press
 conference held by _America's Frontline Doctors_.

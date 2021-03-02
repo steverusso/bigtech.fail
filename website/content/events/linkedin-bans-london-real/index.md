@@ -10,7 +10,7 @@ sources:
  - [ 'Reclaim The Net "London Real website suffers attack, suspended from LinkedIn after David Icke interview" by Didi Rankovic (13 Apr 2020)', 'https://reclaimthenet.org/london-real-banned-linkedin/' ]
 ---
 
-Less than a week after [the Rose/Icke II](/events/youtube-removes-rose-icke-ii/) controversy and [the attacks that followed](/events/london-real-gets-content-removed-from-several-major-platforms/), London Real was suspended from LinkedIn.
+Less than a week after [the Rose/Icke II](/e/youtube-removes-rose-icke-ii/) controversy and [the attacks that followed](/e/london-real-gets-content-removed-from-several-major-platforms/), London Real was suspended from LinkedIn.
 
 Brian Rose released [a short vlog](https://www.bitchute.com/video/zcJg-gHj6Q8/) on the matter, with two key highlights.
 The first is how important it is to not think like a victim:

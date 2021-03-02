@@ -10,7 +10,7 @@ sources:
  - [ 'The Resurgent', 'https://theresurgent.com/2019/06/11/pinterest-bans-live-action/' ]
 ---
 
-Pinterest banned pro-life group LiveAction on the same day that [Project Veritas revealed](/events/pinterest-caught-shadow-banning-conservative-content/) that the platform shadow bans conservative content, in particular Christian and pro-life content.
+Pinterest banned pro-life group LiveAction on the same day that [Project Veritas revealed](/e/pinterest-caught-shadow-banning-conservative-content/) that the platform shadow bans conservative content, in particular Christian and pro-life content.
 
 Below is the message LiveAction received from Pinterest regarding their ban:
 

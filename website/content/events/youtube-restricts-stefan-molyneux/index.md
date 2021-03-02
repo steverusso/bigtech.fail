@@ -23,5 +23,5 @@ video](https://www.bitchute.com/video/DUpBbS8tfSkb/), he states:
 
 > As it stands, I am unable to publish to YouTube for two weeks.
 
-Molyneux would be [permanently banned](/events/youtube-bans-stefan-molyneux)
+Molyneux would be [permanently banned](/e/youtube-bans-stefan-molyneux)
 from YouTube on June 29, 2020.

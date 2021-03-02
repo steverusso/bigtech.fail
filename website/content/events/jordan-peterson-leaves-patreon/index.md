@@ -10,7 +10,7 @@ sources:
  - [ 'Jordan Peterson - YouTube Video', 'https://www.youtube.com/watch?v=WrZDcEix7uk' ]
 ---
 
-After [suffering huge Patreon losses](/events/dr-jordan-peterson-2k-follower-loss/) due to the [Sargon ban](/events/patreon-bans-sargon/), Jordan Peterson (and Dave Rubin) decided to delete their Patreon accounts, setting the date as January 15 in their [joint YouTube video announcement](https://www.youtube.com/watch?v=Zp9ZJiFFBnU).
+After [suffering huge Patreon losses](/e/dr-jordan-peterson-2k-follower-loss/) due to the [Sargon ban](/e/patreon-bans-sargon/), Jordan Peterson (and Dave Rubin) decided to delete their Patreon accounts, setting the date as January 15 in their [joint YouTube video announcement](https://www.youtube.com/watch?v=Zp9ZJiFFBnU).
 
 > I deleted my Patreon account today, as promised: http://j.mp/2DbMNPB
 >

@@ -15,7 +15,7 @@ On July 31st, satirical content creator Soph uploaded a controversial "anti-LGBT
 The following day, YouTube deleted her channel citing the "third strike" rule (she had three strikes against her channel within 90 days).
 
 She had built her channel up to nearly one million subscribers over the course of only a few years, thanks partially to BuzzFeed who tried relentlessly to get her deplatformed.
-_**Extremely important to note**_ are the tweets she published in response, as both her Patreon and Bonfire accounts would _very coincidentally_ [be shutdown the following day](/events/patreon-bans-soph/)...
+_**Extremely important to note**_ are the tweets she published in response, as both her Patreon and Bonfire accounts would _very coincidentally_ [be shutdown the following day](/e/patreon-bans-soph/)...
 
 > PRESS F TO PAY RESPECTS
 >

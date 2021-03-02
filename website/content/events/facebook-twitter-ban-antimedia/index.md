@@ -31,5 +31,5 @@ followers**.
 > -- Ford Fischer (@FordFischer) [11 Oct 2018](https://archive.is/OKatE#selection-1389.0-1389.182)
 
 On this same day, Twitter also [banned Carey
-Wedler](/events/twitter-bans-carey-wedler/), the editor-in-chief of _The
+Wedler](/e/twitter-bans-carey-wedler/), the editor-in-chief of _The
 Anti-Media_.

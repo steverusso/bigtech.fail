@@ -34,6 +34,6 @@ behavior" are not enforced equally or fairly:
 Luckily, r/The_Donald has relocated to its own site:
 [TheDonald.win](https://thedonald.win)
 
-Reddit would [completely remove](/events/reddit-purges-2k-subreddits/)
+Reddit would [completely remove](/e/reddit-purges-2k-subreddits/)
 r/The_Donald on June 29, 2020, four months after the mods placed the subreddit
 into "restricted mode."
