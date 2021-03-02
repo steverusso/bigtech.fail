@@ -1,8 +1,5 @@
-#sbToggle {
+#sbToggle, #tn {
 	display: none;
-}
-label {
-	cursor: pointer;
 }
 #sbToggle + label:before, #tn + label:before {
 	content: "";
@@ -16,8 +13,7 @@ label {
 	visibility: hidden;
 	z-index: -1;
 }
-/* This is the toggle for opening / closing a side drawer. It's a label;
- * we want it to appear as a button. */
+/* The sidebar's toggle is a label that appears as a button. */
 #sbToggle + label {
 	background: #03A9F4;
 	border-radius: 50%;

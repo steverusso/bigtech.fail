@@ -72,7 +72,7 @@ p, li, span, summary {
 	color: var(--para);
 }
 
-summary {
+label, summary {
 	cursor: pointer;
 }
 summary:focus {
@@ -198,7 +198,6 @@ h3[data-count] {
 	border: 1px solid var(--clr);
 	border-radius: 4px;
 	color: var(--clr);
-	cursor: pointer;
 	font-size: 1rem;
 	padding: 0.75rem;
 	position: relative;

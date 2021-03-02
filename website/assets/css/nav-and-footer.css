@@ -7,9 +7,6 @@ nav a:hover, footer a:hover {
 	color: #888;
 }
 
-#tn {
-	display: none;
-}
 nav, #tn + label + div:before {
 	background: var(--navBg);
 	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
