@@ -4,6 +4,8 @@ title: Locals
 site: locals.com
 summary: Locals is a subscription-based community solution that gives power to creators.
 alttrs: [ paid-subscriptions ]
+extra:
+ - [ 'upperechelon.locals.com/post/104865/welcome-to-the-upper-echelon-locals-community', 'https://archive.is/ewcE2' ]
 ---
 
 Locals is _"a subscription-based community solution that gives power to creators, not platforms."_
