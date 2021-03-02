@@ -10,7 +10,7 @@ sources:
  - [ 'Dave Rubin - Tweet 1085206222788165639', 'https://web.archive.org/web/20190115172654/https://twitter.com/RubinReport/status/1085206222788165639' ]
 ---
 
-Like many other creators, Dave Rubin experienced severe Patreon losses due to the [Sargon ban](/events/patreon-bans-sargon/).
+Like many other creators, Dave Rubin experienced severe Patreon losses due to the [Sargon ban](/e/patreon-bans-sargon/).
 On January 1, 2019, he and Jordan Peterson decided they would both delete their Patreon accounts on January 15.
 
 Below is Rubin's tweet announcing his Patreon account deletion:

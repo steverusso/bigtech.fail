@@ -53,5 +53,5 @@ History of the Shadow Campaign That Saved the 2020 Election_:
 
 A few hours later, Twitter suspended Fairbanks for 12 hours for no specific
 reason other than "violating the Twitter Rules." Later in the day, Twitter
-[banned Jim Hoft](/events/twitter-bans-gatewaypundit/) for violating their
+[banned Jim Hoft](/e/twitter-bans-gatewaypundit/) for violating their
 "Civic Integrity Policy."

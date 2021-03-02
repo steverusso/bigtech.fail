@@ -36,4 +36,4 @@ Gab had a thread on Twitter detailing this situation:
 >
 > -- Gab.com (@getongab) [12 Jul 2019](https://archive.is/OAcGQ)
 
-Unsurprisingly, Google followed through on on their threat and [removed Gab's app from the Play Store](/events/google-bans-gab-from-play-store-again/) about one week later.
+Unsurprisingly, Google followed through on on their threat and [removed Gab's app from the Play Store](/e/google-bans-gab-from-play-store-again/) about one week later.

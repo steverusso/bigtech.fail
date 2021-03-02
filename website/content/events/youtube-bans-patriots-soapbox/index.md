@@ -31,5 +31,5 @@ subscribers** and nearly **22 million total views**.
 >
 > -- NotPSB (@NotPsb) [15 Oct 2020](https://archive.is/XNBM9)
 
-_Patriots' Soapbox_ [was banned](/events/patreon-bans-patriots-soapbox/) from
+_Patriots' Soapbox_ [was banned](/e/patreon-bans-patriots-soapbox/) from
 [Patreon](/patreon/) one week later.

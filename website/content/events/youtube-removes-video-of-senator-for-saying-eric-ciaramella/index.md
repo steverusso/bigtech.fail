@@ -12,7 +12,7 @@ sources:
 ---
 
 YouTube continued its policy of [purging any mention of Eric
-Ciaramella](/events/facebook-youtube-purge-mentions-of-eric-ciaramella-as-alleged-whistleblower/)
+Ciaramella](/e/facebook-youtube-purge-mentions-of-eric-ciaramella-as-alleged-whistleblower/)
 by removing a video of Sen. Rand Paul saying the name in a speech on the Senate
 floor. In the video, Sen. Paul reads the following question of his which was
 blocked during the impeachment trial:

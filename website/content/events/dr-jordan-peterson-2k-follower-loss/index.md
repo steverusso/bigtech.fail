@@ -9,7 +9,7 @@ sources:
  - [ 'Jordan B Peterson - Tweet 1075842024669102080', 'https://archive.vn/QmFCJ' ]
 ---
 
-Less than two weeks later, content creators have started to feel the effects of Patreon [banning Sargon of Akkad](/events/patreon-bans-sargon/).
+Less than two weeks later, content creators have started to feel the effects of Patreon [banning Sargon of Akkad](/e/patreon-bans-sargon/).
 Jordan Peterson tweeted out that he's lost about 2,000 followers on Patreon and asked if other content creators are experiencing something similar.
 
 > I have lost about 2000 Patreons @Patreon since the debacle with Sargon of Akkad.

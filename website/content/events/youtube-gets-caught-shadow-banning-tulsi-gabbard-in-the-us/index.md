@@ -12,7 +12,7 @@ sources:
  - [ 'SGT Report' , 'https://www.sgtreport.com/2019/10/tulsis-youtube-suppressed/' ]
 ---
 
-On September 30, Steven Crowder [released evidence](/events/crowder-confirms-youtube-shadow-ban/) that YouTube was shadow banning his channel exclusively in the US.
+On September 30, Steven Crowder [released evidence](/e/crowder-confirms-youtube-shadow-ban/) that YouTube was shadow banning his channel exclusively in the US.
 He warned that if this was being done to his channel, then this could easily be done to other channels.
 
 Only two and a half weeks later, Presidential candidate [Tulsi Gabbard](https://www.tulsi2020.com/) was smeared by Hillary Clinton when she said that Tulsi is being groomed by the Russians to be a third party candidate.

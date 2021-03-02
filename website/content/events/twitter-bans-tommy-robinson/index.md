@@ -14,4 +14,4 @@ Twitter permanently banned Tommy Robinson, **@TRobinsonNewEra**, who had about
 hateful conduct policy.
 
 This happened less than a month after Robinson was [temporarily
-suspended](/events/twitter-suspends-tommy-robinson/) from Twitter for a week.
+suspended](/e/twitter-suspends-tommy-robinson/) from Twitter for a week.

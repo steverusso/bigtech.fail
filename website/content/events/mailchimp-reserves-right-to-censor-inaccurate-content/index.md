@@ -22,10 +22,10 @@ accounts:
 
 | <small>User</small> | <small>Date</small> | <small>Reason</small>
 |---|---|---|
-| [NicheFacts](/events/mailchimp-bans-niche-facts/) | 11 Oct 2017 | "significant risk" |
-| [Infowars](/events/mailchimp-linkedin-ban-infowars/) | 7 Aug 2018 | "hateful content" |
-| [GreenMedInfo](/events/mailchimp-bans-greenmedinfo/) | 19 Jun 2019 | "anti-vaccine content" |
-| [TorrentFreak](/events/mailchimp-bans-torrent-freak/) | 20 Oct 2019 | "too risky" |
-| [Stefan Molyneux](/events/mailchimp-bans-stefan-molyneux/) | 14 Jan 2020 | an activist [told them to](https://archive.is/GE3n3) |
-| [SGTreport](/events/mailchimp-bans-sgtreport/) | 19 Oct 2020 | (specific reason unclear) |
-| [Press For Truth](/events/mailchimp-bans-press-for-truth/) | 21 Oct 2020 | (specific reason unclear) |
+| [NicheFacts](/e/mailchimp-bans-niche-facts/) | 11 Oct 2017 | "significant risk" |
+| [Infowars](/e/mailchimp-linkedin-ban-infowars/) | 7 Aug 2018 | "hateful content" |
+| [GreenMedInfo](/e/mailchimp-bans-greenmedinfo/) | 19 Jun 2019 | "anti-vaccine content" |
+| [TorrentFreak](/e/mailchimp-bans-torrent-freak/) | 20 Oct 2019 | "too risky" |
+| [Stefan Molyneux](/e/mailchimp-bans-stefan-molyneux/) | 14 Jan 2020 | an activist [told them to](https://archive.is/GE3n3) |
+| [SGTreport](/e/mailchimp-bans-sgtreport/) | 19 Oct 2020 | (specific reason unclear) |
+| [Press For Truth](/e/mailchimp-bans-press-for-truth/) | 21 Oct 2020 | (specific reason unclear) |

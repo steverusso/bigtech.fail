@@ -26,5 +26,5 @@ The video can still be viewed [here on
 BitChute](https://www.bitchute.com/video/jq9r5Rrz1Fq6/) and [here on
 Odysee](https://odysee.com/@TLAVagabond:5/2020-12-08-16-48-58:5). _The Last
 American Vagabond's_ main YouTube channel [was
-banned](/events/youtube-bans-the-last-american-vagabond/) about a month and
+banned](/e/youtube-bans-the-last-american-vagabond/) about a month and
 half prior.

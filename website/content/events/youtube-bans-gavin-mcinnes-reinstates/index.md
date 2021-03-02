@@ -20,5 +20,5 @@ TheWrap](http://archive.is/HQxqb#selection-597.1-597.252):
 > YouTube to drop the charges and now I'm back. It won't last.
 
 It lasted about a year and half until he was [permanently
-banned](/events/youtube-bans-gavin-mcinnes/) on June 22, 2020 for no specific
+banned](/e/youtube-bans-gavin-mcinnes/) on June 22, 2020 for no specific
 reason.

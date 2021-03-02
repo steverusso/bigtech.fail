@@ -19,5 +19,5 @@ similar to [YouTube](/youtube/).
 >
 > -- BitChute (@bitchute) [2 Dec 2020](https://archive.is/1hTCu)
 
-_X22report_ was [banned from YouTube](/events/youtube-bans-x22report/) a month
+_X22report_ was [banned from YouTube](/e/youtube-bans-x22report/) a month
 and a half prior.

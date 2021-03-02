@@ -19,7 +19,7 @@ infringement notifications" which CarpeDonktum decided not to contest.
 The copyright complaints, likely all frivolous since the content is clearly
 fair use, were coincidentally filed after Trump tweeted one of CarpeDonktum's
 videos. The video in the tweet got nearly 20 million views and the tweet itself
-[was labeled](/events/twitter-labels-trump-tweet-as-manipulated-media/) as
+[was labeled](/e/twitter-labels-trump-tweet-as-manipulated-media/) as
 "maninpulated media" by Twitter. Carpe Donktum [compiled all of the
 videos](https://www.minds.com/newsfeed/1122612088517787648) that had violations
 filed against them.

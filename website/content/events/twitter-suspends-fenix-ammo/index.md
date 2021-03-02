@@ -12,7 +12,7 @@ sources:
 
 Twitter briefly suspended the official account for Fenix Ammunition amidst the
 fallout from the [Hunter Biden
-exposé](/events/facebook-twitter-suppress-nypost-hunter-expose/) for tweeting
+exposé](/e/facebook-twitter-suppress-nypost-hunter-expose/) for tweeting
 the picture of Hunter laying in bed with what appears to be some type of drug
 paraphernalia:
 > Twitter just locked our account for posting the picture of Hunter Biden

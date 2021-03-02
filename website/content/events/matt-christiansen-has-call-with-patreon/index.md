@@ -15,7 +15,7 @@ sources:
  - [ 'Call Transcript on Google Docs - https://docs.google.com/document/d/1U0mQjUA0T5INc_GDkwPJ2mfhO7tbaIogisSqqxHw0hc/edit', 'https://docs.google.com/document/d/1U0mQjUA0T5INc_GDkwPJ2mfhO7tbaIogisSqqxHw0hc/edit' ]
 ---
 
-Patreon's [banning of Sargon on December 7th](/events/patreon-bans-sargon/) caused immediate and significant losses for other creators on the platform.
+Patreon's [banning of Sargon on December 7th](/e/patreon-bans-sargon/) caused immediate and significant losses for other creators on the platform.
 
 Matt Christiansen, in particular (as of December 20th), had lost 39% of his total Patrons, equating to a 42% loss of his total monthly income via Patreon.
 That's nearly half of his support that vanished in less than two weeks time.

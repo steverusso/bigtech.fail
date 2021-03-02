@@ -24,7 +24,7 @@ on the decision in a statement:
 >
 > -- Twitter Safety (@TwitterSafety) [23 Jun 2020](http://archive.is/EgAgM)
 
-As Twitter [previously stated](/events/twitter-announces-rules-for-world-leaders/)
+As Twitter [previously stated](/e/twitter-announces-rules-for-world-leaders/)
 in their rules for world leaders, regarding [public interest](http://archive.is/FNXCZ#selection-733.0-739.2):
 > However, if a Tweet from a world leader does violate the Twitter Rules but
 > there is a clear public interest value to keeping the Tweet on the service,

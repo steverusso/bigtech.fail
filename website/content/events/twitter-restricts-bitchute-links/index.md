@@ -30,4 +30,4 @@ the link, starts with:
 > URL Policy.
 
 BitChute reached 75% of it's on-going monthly funding goal
-[less than a week prior](/events/bitchute-reaches-75p-of-funding-goal/).
+[less than a week prior](/e/bitchute-reaches-75p-of-funding-goal/).

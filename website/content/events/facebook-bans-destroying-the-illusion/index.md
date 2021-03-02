@@ -14,7 +14,7 @@ sources:
 Facebook deleted Jordan Sather's personal Facebook account as well his
 _Destroying the Illusion_ page and _Destroying the Illusion_ group two days
 after his YouTube channel [was
-deleted](/events/youtube-bans-destroying-the-illusion/):
+deleted](/e/youtube-bans-destroying-the-illusion/):
 > Discord removed my account and my server last night, then this morning
 > Facebook suspended my account I had on there. I had 45K followers on my
 > personal page and 50K on my Destroying the Illusion page, plus a group for

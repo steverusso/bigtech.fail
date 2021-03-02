@@ -11,7 +11,7 @@ sources:
 ---
 
 Breitbart News was one of the first accounts to get suspended by Twitter amid
-the fallout from the [highly-censored](/events/white-coat-summit/) "White Coat
+the fallout from the [highly-censored](/e/white-coat-summit/) "White Coat
 Summit." Twitter did not even respond to Breitbart's appeal for over two days.
 According [to Breitbart](http://archive.is/3dVKn#selection-571.0-571.267):
 > Breitbart News lodged an appeal with Twitter on Tuesday afternoon. Nearly 48

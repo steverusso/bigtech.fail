@@ -19,8 +19,8 @@ sentence](http://archive.is/7AmDl#selection-963.330-963.541) reads:
 
 It was suspected that Twitter was doing exactly this as early as February of
 2016 when [Breitbart receieved
-reports](/events/sources-confirm-twitter-shadow-banning-exclusively-to-breitbart/)
+reports](/e/sources-confirm-twitter-shadow-banning-exclusively-to-breitbart/)
 from two different sources. Two years after that in January of 2018, Project
 Veritas [released an undercover
-report](/events/project-veritas-publishes-report-on-undercover-operations-regarding-twitter/)
+report](/e/project-veritas-publishes-report-on-undercover-operations-regarding-twitter/)
 on Twitter which revealed even more about the shadow banning practices.

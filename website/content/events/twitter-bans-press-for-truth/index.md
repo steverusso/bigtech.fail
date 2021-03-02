@@ -25,6 +25,6 @@ account had over **20k followers**.
 > -- Dan Dicks (@DanDicksPFT) [23 Oct 2020](https://archive.is/Gn39E)
 
 Press For Truth had been [banned from
-Facebook](/events/facebook-bans-press-for-truth/) two years prior, [banned from
-YouTube](/events/youtube-bans-press-for-truth/) a few months prior, and [banned
-from Mailchimp](/events/mailchimp-bans-press-for-truth/) just _two days_ prior.
+Facebook](/e/facebook-bans-press-for-truth/) two years prior, [banned from
+YouTube](/e/youtube-bans-press-for-truth/) a few months prior, and [banned
+from Mailchimp](/e/mailchimp-bans-press-for-truth/) just _two days_ prior.

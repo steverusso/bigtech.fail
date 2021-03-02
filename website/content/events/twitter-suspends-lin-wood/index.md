@@ -29,4 +29,4 @@ voiced support for his client, [Kyle Rittenhouse](/context/kyle-rittenhouse/):
 A Twitter spokesperson [told
 Breitbart](https://archive.is/CUZi5#selection-565.0-565.169) that this
 suspension was a mistake. Less than a week later, Twitter was caught [shadow
-banning](/events/twitter-shadow-bans-lin-wood/) this account.
+banning](/e/twitter-shadow-bans-lin-wood/) this account.

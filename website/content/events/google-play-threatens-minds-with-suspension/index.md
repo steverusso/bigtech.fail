@@ -26,6 +26,6 @@ Ottman explained:
 > -- Bill Ottman (@ottman) [15 Jan 2021](https://www.minds.com/newsfeed/1196949029506060288)
 
 This happened about a week after
-[Google](/events/google-removes-parler-from-play-store/), [Apple and
-Amazon](/events/apple-removes-parler-from-app-store/) deplatformed the
+[Google](/e/google-removes-parler-from-play-store/), [Apple and
+Amazon](/e/apple-removes-parler-from-app-store/) deplatformed the
 alternative social media site Parler for similar reasons.

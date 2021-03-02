@@ -16,7 +16,7 @@ co-owners of Accelerated Urgent Care in Bakersfield, CA, arguing against the
 government measures meant to fight COVID-19. The video received more than 5
 million views before being removed, happening about a week after YouTube's CEO
 said the platform would be [removing any content that contradicts the World Health
-Organization](/events/youtube-says-contradicting-who-will-violate-guidelines/).
+Organization](/e/youtube-says-contradicting-who-will-violate-guidelines/).
 
 In the video, Dr. Erickson mentions anecdotally how doctors are being pressured
 to add COVID to death certificates:

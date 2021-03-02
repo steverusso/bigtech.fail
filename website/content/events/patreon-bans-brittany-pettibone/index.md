@@ -19,4 +19,4 @@ Patreon banned author and journalist Brittany Pettibone due to her association w
 >
 > -- Brittany Pettibone (@BrittPettibone) [26 Jun 2018](https://archive.is/PhHSW)
 
-This ban from Patreon is even slightly worse than [the Lauren Southern ban](/events/patreon-bans-lauren-southern/) since here the claim is simply that she "supports" Defend Europe, not that she did anything.
+This ban from Patreon is even slightly worse than [the Lauren Southern ban](/e/patreon-bans-lauren-southern/) since here the claim is simply that she "supports" Defend Europe, not that she did anything.

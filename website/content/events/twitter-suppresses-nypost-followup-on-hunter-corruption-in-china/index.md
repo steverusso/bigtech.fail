@@ -10,7 +10,7 @@ sources:
  - [ 'twitter.com/tedcruz/status/1316738930348363776', 'https://archive.is/1I79w' ]
 ---
 
-After [suppressing](/events/facebook-twitter-suppress-nypost-hunter-expose/)
+After [suppressing](/e/facebook-twitter-suppress-nypost-hunter-expose/)
 The New York Post's initial exposé on Hunter Biden, Twitter was at it again the
 following day suppressing The Post's follow-up article regarding Hunter's shady
 dealings in China:

@@ -15,4 +15,4 @@ a week after he tweeted:
 Shortly after being suspended, Robinson
 [said](https://archive.vn/4QPZI#selection-439.0-443.230) this was the start of
 being completely deplatformed from Twitter. Less than a month later, Twitter
-[permanently banned him](/events/twitter-bans-tommy-robinson/).
+[permanently banned him](/e/twitter-bans-tommy-robinson/).

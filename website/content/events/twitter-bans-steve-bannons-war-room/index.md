@@ -26,6 +26,6 @@ the following comments during one of the War Room's podcasts:
 > today, as the interim head of the FBI. That'll light 'em up, right?
 
 Bannon's War Room account was temporarily suspended [a few days prior on
-election night](/events/twitter-suspends-steve-bannons-war-room/) as well as
+election night](/e/twitter-suspends-steve-bannons-war-room/) as well as
 [seven months prior](https://reclaimthenet.org/twitter-suspends-war-room-pandemic/)
 in April, both (as far as can be discerned) for no specific reason.

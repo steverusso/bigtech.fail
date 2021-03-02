@@ -24,7 +24,7 @@ From [RT's report](https://www.rt.com/usa/488215-plandemic-conspiracy-documentar
 > research).
 
 Facebook [told Reuters](https://archive.vn/NGmeZ#selection-549.0-549.123) that "Suggesting that wearing a mask can make you sick could lead to imminent harm, so we're removing the video",
-and YouTube was obviously just following through on [the policy](/events/youtube-says-contradicting-who-will-violate-guidelines/) of removing any content that contradicts the WHO or is medically unsubstantiated.
+and YouTube was obviously just following through on [the policy](/e/youtube-says-contradicting-who-will-violate-guidelines/) of removing any content that contradicts the WHO or is medically unsubstantiated.
 
 As usual, the video is available on AltTech for free-thinking adults to digest and make their own decisions:
 * [BitChute](https://www.bitchute.com/video/IB3ijQuLkkUr/)

@@ -21,10 +21,10 @@ Clinton and John Bolton, two very shady government figures.
 
 Julian Assange [was arrested](https://archive.vn/9bTuW) about three weeks after
 this happened. A major Twitter account centered around organizing support for
-Assange [was suspended](/events/twitter-suspends-julian-assange-defense-account/)
+Assange [was suspended](/e/twitter-suspends-julian-assange-defense-account/)
 several months after his arrest, only to be reinstated following enough public
 outcry.
 
-As [Project Veritas revealed](/events/project-veritas-publishes-report-on-undercover-operations-regarding-twitter/)
+As [Project Veritas revealed](/e/project-veritas-publishes-report-on-undercover-operations-regarding-twitter/)
 in the beginning of 2018, Twitter is sometimes pressured by the government to
 take certain actions.

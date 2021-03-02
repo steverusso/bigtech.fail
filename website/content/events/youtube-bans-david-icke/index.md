@@ -16,7 +16,7 @@ sources:
 YouTube banned David Icke _only one day before_ Rose/Icke III was set to air.
 Icke's 14 year old channel had about 900k subscribers, more than 1k videos, and **NO STRIKES** against it.
 
-This YouTube ban came about a day after [Facebook banned him](/events/facebook-bans-david-icke/) and less than a month after the whole [Rose/Icke II](/events/youtube-removes-rose-icke-ii/) controversy.
+This YouTube ban came about a day after [Facebook banned him](/e/facebook-bans-david-icke/) and less than a month after the whole [Rose/Icke II](/e/youtube-removes-rose-icke-ii/) controversy.
 
 Brian Rose from London Real released [a short vlog](https://www.bitchute.com/video/Fdot9l3yi98/) regarding Icke's YouTube ban in which he described the dystopian path we are on:
 > And your phone's going to be tracking you everywhere.

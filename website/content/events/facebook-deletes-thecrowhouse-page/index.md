@@ -22,5 +22,5 @@ against COVID-19 misinformation. In a video following the deletion, Max said:
 > Facebook page, and of David Icke's YouTube channel and I suspect my YouTube
 > channel is not far away from deleted as well, ...
 
-YouTube did in fact [delete](/events/youtube-bans-thecrowhouse) Max Igan's
+YouTube did in fact [delete](/e/youtube-bans-thecrowhouse) Max Igan's
 channel _TheCrowhouse_ just over two months later.

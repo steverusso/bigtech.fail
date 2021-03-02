@@ -18,8 +18,8 @@ Twitter did not comment or give explanation as to why Robinson was banned, but
 the platform did [inform Benjamin](carl-benjamin-mep-ban-notice.jpg) that the
 account was removed for violating their "rules against evading permanent
 suspension," presumably since Twitter had permanently banned both [Carl
-Benjamin](/events/twitter-bans-sargon/) and [Tommy
-Robinson](/events/twitter-bans-tommy-robinson/).
+Benjamin](/e/twitter-bans-sargon/) and [Tommy
+Robinson](/e/twitter-bans-tommy-robinson/).
 
 However, the accounts were being operated solely by campaign staff members. A
 member of Benjamin's staff tweeted the following:

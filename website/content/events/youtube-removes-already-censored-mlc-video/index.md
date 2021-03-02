@@ -13,7 +13,7 @@ sources:
 ---
 
 Matt Christiansen released a video covering the
-[highly-censored](/events/white-coat-summit/) "White Coat Summit." YouTube
+[highly-censored](/e/white-coat-summit/) "White Coat Summit." YouTube
 promptly removed this video because it contained information and opinions that
 contradicted the WHO. So Matt re-uploaded the video with all potential
 violations blurred and bleeped out.

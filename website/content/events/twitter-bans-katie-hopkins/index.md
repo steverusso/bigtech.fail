@@ -19,7 +19,7 @@ issue the following statement:
 > rules are broken. In this case, the account has been permanently suspended
 > for violations of our Hateful Conduct policy.
 
-Hopkins was [temporarily suspended](/events/twitter-suspends-katie-hopkins/)
+Hopkins was [temporarily suspended](/e/twitter-suspends-katie-hopkins/)
 about six months prior after activists demanded Twitter take action against her
 account. Her blue check verification was removed several hours before being
 permanently banned.

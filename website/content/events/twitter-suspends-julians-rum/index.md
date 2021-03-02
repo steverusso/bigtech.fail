@@ -16,7 +16,7 @@ sources:
 Twitter temporarily suspended Julian's Rum (@JuliansRum) for seven days for
 violating the Twitter Rules against "distributing hacked material" after he
 tweeted a link to the [censored NY Post
-exposé](/events/facebook-twitter-suppress-nypost-hunter-expose/) on Hunter
+exposé](/e/facebook-twitter-suppress-nypost-hunter-expose/) on Hunter
 Biden:
 
 > I was locked out for a week because I shared “hacked materials”

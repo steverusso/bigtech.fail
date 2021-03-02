@@ -14,7 +14,7 @@ sources:
 
 Shortly after deleting some of President Trump's tweets, Twitter
 [suspended](notice.jpg) Donald Trump Jr. for "spreading misinformation" after
-he tweeted a link to the [highly-censored](/events/white-coat-summit/) "White
+he tweeted a link to the [highly-censored](/e/white-coat-summit/) "White
 Coat Summit", a press conference held by _America's Frontline Doctors_. He
 highlighted the double standard that exists around social media censorship in
 an [interview with Fox News](https://youtu.be/7mpO2KAVtwo?t=73) following his

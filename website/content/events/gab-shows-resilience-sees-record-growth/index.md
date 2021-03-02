@@ -16,16 +16,16 @@ Amid the increased censorship that followed the [US capitol
 riot](/t/us-capitol-riot/), many users began the migration to alternative
 platforms (AltTech). Parler, a Twitter / Facebook alternative, saw so much
 increased traffic that
-[Google](/events/google-removes-parler-from-play-store/), [Apple and
-Amazon](/events/apple-removes-parler-from-app-store/) all deplatformed Parler,
+[Google](/e/google-removes-parler-from-play-store/), [Apple and
+Amazon](/e/apple-removes-parler-from-app-store/) all deplatformed Parler,
 which temporarily took the entire platform completely offline.
 
 On the other hand, **Gab** (another Twitter / Facebook alternative), had
 already been targeted and mass deplatformed a few years prior. Their Android
 app was first [removed from the Google Play
-Store](/events/google-removes-gab-from-play-store/) in August of 2017 and then
+Store](/e/google-removes-gab-from-play-store/) in August of 2017 and then
 (after rebranding, reengineering, and gaining reentrance into the Google Play
-Store) was [once again removed](/events/google-bans-gab-from-play-store-again/)
+Store) was [once again removed](/e/google-bans-gab-from-play-store-again/)
 in July of 2019 shortly after trending as the #1 app. Not only that, but Gab's
 CEO Andrew Torba, _as well as his family_, have been [financially
 blacklisted](https://archive.is/YTQNV) by major payment platforms and

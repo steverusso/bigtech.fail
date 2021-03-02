@@ -17,7 +17,7 @@ extra:
 [Twitter](/twitter/) permanently banned Carey Wedler (@CareyWedler) for no
 reason on the same day that _The Anti-Media_ (the outlet where she served as
 editor-in-chief) was [banned by both Facebook and
-Twitter](/events/facebook-twitter-ban-antimedia/). Her nine year old account
+Twitter](/e/facebook-twitter-ban-antimedia/). Her nine year old account
 had over **4k followers**. In a video she released the same day, Wedler [said
 the following](https://youtu.be/q4zu_QS6hK4?t=49):
 

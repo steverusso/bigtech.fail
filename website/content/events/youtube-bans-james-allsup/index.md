@@ -11,7 +11,7 @@ sources:
 ---
 
 YouTube deleted James Allsup's channel, which had about 450k+ subscribers and no violations or strikes.
-This comes exactly two weeks after he was [banned from Facebook and Instagram](/events/facebook-and-instagram-ban-james-allsup/).
+This comes exactly two weeks after he was [banned from Facebook and Instagram](/e/facebook-and-instagram-ban-james-allsup/).
 
 > It's gone.
 >

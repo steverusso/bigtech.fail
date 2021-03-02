@@ -13,7 +13,7 @@ sources:
 ---
 
 About a week after Jones was [banned from several major
-platforms](/events/alex-jones-mass-banned/), Twitter temporarily suspended him.
+platforms](/e/alex-jones-mass-banned/), Twitter temporarily suspended him.
 
 [According to Vijaya Gadde](https://youtu.be/K-6n46X__WQ?t=298) (lead of Trust
 and Safety, Legal, and Public Policy at Twitter), the violation was the

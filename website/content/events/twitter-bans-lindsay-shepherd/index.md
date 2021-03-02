@@ -14,7 +14,7 @@ sources:
 
 Twitter banned Lindsay Shepherd for "misgendering" during an argument with
 transwoman Jessica Yaniv, the same person that was involved around [Meghan
-Murphy's banning](/events/twitter-bans-meghan-murphy/).
+Murphy's banning](/e/twitter-bans-meghan-murphy/).
 
 Shepherd summed up the situtation very well in an [interview with the National
 Post](http://archive.is/RY95T#selection-1889.0-1889.340):

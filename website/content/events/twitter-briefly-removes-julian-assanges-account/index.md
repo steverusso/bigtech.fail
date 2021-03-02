@@ -24,7 +24,7 @@ later, and issued the following statement:
 > -- U.S. Navy (@USNavy) [25 Dec 2017](https://archive.vn/HrI15)
 
 Project Veritas [published a report a few weeks
-later](/events/project-veritas-reveals-twitter-shadow-banning-in-undercover-video/)
+later](/e/project-veritas-reveals-twitter-shadow-banning-in-undercover-video/)
 primarily about Twitter's shadow banning practices and political bias. However,
 within the investigative report, a Twitter engineer suggests to Project Veritas
 journalists that Assange's account could have been removed due to pressure from

@@ -19,7 +19,7 @@ article](https://archive.is/ehruB) titled _Exclusive: The TCF Center Election
 Fraud – Newly Discovered Video Shows Late Night Deliveries of Tens of Thousands
 of Illegal Ballots 8 Hours After Deadline_ with fellow journalist Cassandra
 Fairbanks (who was [temporarily
-suspended](/events/twitter-restricts-tim-pool-tweet-ref-time-magazine/) on the
+suspended](/e/twitter-restricts-tim-pool-tweet-ref-time-magazine/) on the
 same day for no specific reason). Hoft [reported](https://archive.is/SOgS3):
 
 > In our Saturday tweet we announced that we have more video coming from the

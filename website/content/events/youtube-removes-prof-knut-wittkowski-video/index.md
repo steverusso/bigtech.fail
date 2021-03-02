@@ -18,7 +18,7 @@ Wittkowski [told the NY Post](https://archive.vn/byHS2#selection-1227.1-1227.154
 > They don't tell you. They just say it violates our community standards.
 > There's no explanation for what those standards are or what standards it violated.
 
-The video was likely removed because Wittkowski voiced opinions that [contradict the recommendations of the World Health Organization](/events/youtube-says-contradicting-who-will-violate-guidelines/).
+The video was likely removed because Wittkowski voiced opinions that [contradict the recommendations of the World Health Organization](/e/youtube-says-contradicting-who-will-violate-guidelines/).
 About two minutes into the video, he says:
 > With all respiratory diseases, the only thing that stops the disease is herd
 > immunity.  About 80% of the people need to have had contact with the virus,

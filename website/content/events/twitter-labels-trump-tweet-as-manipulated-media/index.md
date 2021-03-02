@@ -28,5 +28,5 @@ available to view as the first video in [this
 compilation](https://www.minds.com/newsfeed/1122612088517787648) that
 CarpeDonktum uploaded to Minds.
 
-Twitter [permanently banned](/events/twitter-bans-carpedonktum/) the video
+Twitter [permanently banned](/e/twitter-bans-carpedonktum/) the video
 creater a week later.

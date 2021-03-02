@@ -11,7 +11,7 @@ sources:
 ---
 
 Twitch and Snapchat disabled President Trump's accounts one day after [Facebook
-and Twitter suspended him](/events/twitter-facebook-suspend-trump/). A
+and Twitter suspended him](/e/twitter-facebook-suspend-trump/). A
 spokesperson for Snapchat confirmed that the corporation locked President
 Trump's account. A spokesperson for Twitch gave the following statement:
 

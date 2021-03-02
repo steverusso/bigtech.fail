@@ -30,14 +30,14 @@ short while later, YouTube and Twitter censored the video as well.
 
 The attempts to suppress this information didn't end with just removing the
 video itself. Twitter in particular went berserk. Within less than two days, the platform:
-1. [suspended Breitbart News](/events/twitter-suspends-breitbart-news/) for "spreading misleading and potentially harmful information."
-2. [suspended Donald Trump Jr.](/events/twitter-suspends-don-jr/) for 12 hours after he tweeted a link to the video.
-3. [suspended PragerU](/events/twitter-suspends-prager-u/) along with other leading conservatives such as [Robby Starbuck](/events/twitter-suspends-robby-starbuck/).
+1. [suspended Breitbart News](/e/twitter-suspends-breitbart-news/) for "spreading misleading and potentially harmful information."
+2. [suspended Donald Trump Jr.](/e/twitter-suspends-don-jr/) for 12 hours after he tweeted a link to the video.
+3. [suspended PragerU](/e/twitter-suspends-prager-u/) along with other leading conservatives such as [Robby Starbuck](/e/twitter-suspends-robby-starbuck/).
 
 ...and that's just to name a few cases for Twitter alone. YouTube removed many
 reuploads and even coverage of the censorship itself, going so far as to
 [remove videos that were themselves
-censored](/events/youtube-removes-already-censored-mlc-video/). SquareSpace
+censored](/e/youtube-removes-already-censored-mlc-video/). SquareSpace
 even jumped in by [shutting down](http://archive.is/Ob07h) the
 [americasfrontlinedoctors.com](http://archive.is/806An) website.
 

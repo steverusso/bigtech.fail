@@ -24,29 +24,29 @@ purge of channels they deemed to be spreading "harmful conspiracy theories":
 Below are just the channels we were able to identify as part of this purge,
 listed in order of subscriber count. One week later, many of these same
 accounts were suddenly [banned from
-Patreon](/events/patreon-announces-qanon-purge/) as well.
+Patreon](/e/patreon-announces-qanon-purge/) as well.
 
 | <small>Channel</small> | <small>Subscriber Count</small> |
 |---|---|
-| [X22Report](/events/youtube-bans-x22report/) | 952k |
-| [SGTreport](/events/youtube-bans-sgtreport/) | 630k |
-| [Edge of Wonder](/events/youtube-bans-edge-of-wonder/) | 467k |
-| [PrayingMedic](/events/youtube-bans-praying-medic/) | 391k |
-| [Amazing Polly](/events/youtube-bans-amazing-polly/) | 376k |
-| [Mouthy Buddha](/events/youtube-bans-mouthy-buddha/) | 297k |
-| [JustInformed Talk](/events/youtube-bans-justinformed-talk/) | 281k |
-| [RedPill78](/events/youtube-bans-redpill78/) | 270k |
-| [The Patriot Hour](/events/youtube-bans-the-patriot-hour/) | 249k |
-| [In Pursuit of Truth (IPOT)](/events/youtube-bans-in-pursuit-of-truth/) | 243k |
-| [Destroying the Illusion](/events/youtube-bans-destroying-the-illusion/) | 238k |
-| [TRUreporting](/events/youtube-bans-trureporting/) | 217k |
-| [Alice Down the Rabbit Hole](/events/youtube-bans-alice-down-the-rabbit-hole/) | 174k |
-| [Spaceshot76](/events/youtube-bans-spaceshot76/) | 160k |
-| [World Alternative Media](/events/youtube-bans-world-alternative-media/) | 154k |
-| [Mark Taylor](/events/youtube-bans-mark-taylor/) | 109k |
-| [BlessedToTeach](/events/youtube-bans-blessed-to-teach/) | 109k |
-| [WokeSocieties](/events/youtube-bans-woke-societies/) | 108k |
-| [Patriot's Soapbox](/events/youtube-bans-patriots-soapbox/) | 80k |
-| [InTheMatrixxx](/events/youtube-bans-inthematrixxx/) | 77k |
-| [Titus Frost](/events/youtube-bans-titus-frost/) | 44k |
-| [Global Watchmen News](/events/youtube-bans-global-watchmen-news/) | 30k |
+| [X22Report](/e/youtube-bans-x22report/) | 952k |
+| [SGTreport](/e/youtube-bans-sgtreport/) | 630k |
+| [Edge of Wonder](/e/youtube-bans-edge-of-wonder/) | 467k |
+| [PrayingMedic](/e/youtube-bans-praying-medic/) | 391k |
+| [Amazing Polly](/e/youtube-bans-amazing-polly/) | 376k |
+| [Mouthy Buddha](/e/youtube-bans-mouthy-buddha/) | 297k |
+| [JustInformed Talk](/e/youtube-bans-justinformed-talk/) | 281k |
+| [RedPill78](/e/youtube-bans-redpill78/) | 270k |
+| [The Patriot Hour](/e/youtube-bans-the-patriot-hour/) | 249k |
+| [In Pursuit of Truth (IPOT)](/e/youtube-bans-in-pursuit-of-truth/) | 243k |
+| [Destroying the Illusion](/e/youtube-bans-destroying-the-illusion/) | 238k |
+| [TRUreporting](/e/youtube-bans-trureporting/) | 217k |
+| [Alice Down the Rabbit Hole](/e/youtube-bans-alice-down-the-rabbit-hole/) | 174k |
+| [Spaceshot76](/e/youtube-bans-spaceshot76/) | 160k |
+| [World Alternative Media](/e/youtube-bans-world-alternative-media/) | 154k |
+| [Mark Taylor](/e/youtube-bans-mark-taylor/) | 109k |
+| [BlessedToTeach](/e/youtube-bans-blessed-to-teach/) | 109k |
+| [WokeSocieties](/e/youtube-bans-woke-societies/) | 108k |
+| [Patriot's Soapbox](/e/youtube-bans-patriots-soapbox/) | 80k |
+| [InTheMatrixxx](/e/youtube-bans-inthematrixxx/) | 77k |
+| [Titus Frost](/e/youtube-bans-titus-frost/) | 44k |
+| [Global Watchmen News](/e/youtube-bans-global-watchmen-news/) | 30k |

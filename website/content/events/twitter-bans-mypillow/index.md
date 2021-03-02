@@ -11,7 +11,7 @@ sources:
 ---
 
 Twitter banned the corporate account for MyPillow three weeks after [banning
-the CEO, Mike Lindell](/events/twitter-bans-mike-lindell/), claiming that
+the CEO, Mike Lindell](/e/twitter-bans-mike-lindell/), claiming that
 Lindell operating this account violated their policies against evading
 permanent bans. [Breitbart
 reported](https://archive.is/ks6Hf#selection-625.149-629.134):

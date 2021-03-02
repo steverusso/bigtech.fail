@@ -15,7 +15,7 @@ sources:
 Apple removed Quartz's news app from the App Store in China at the request of the Chinese government.
 Quartz claimed this happened because of their coverage of the Hong Kong protests.
 Of course, the timing makes this perfectly clear. The removal from the App Store happened:
-1. the same day that [Apple removed HKmap.live](/events/apple-removes-hkmap-live-app/), an app that helped the Hong Kong protesters.
+1. the same day that [Apple removed HKmap.live](/e/apple-removes-hkmap-live-app/), an app that helped the Hong Kong protesters.
 1. the day after Apple received heavy criticism from the Chinese Communist Party's official news outlet, the People's Daily.
 
 Quartz's website was also blocked for mainland China.

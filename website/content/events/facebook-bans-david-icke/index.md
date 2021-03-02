@@ -12,9 +12,9 @@ sources:
 
 Just two days before Rose/Icke III was scheduled to air, Facebook banned David Icke.
 
-Additionally, this came just three days after Facebook [completely suspended London Real's advertising capabilities](/events/facebook-suspends-london-real-ad-capabilities/) (likely a consequence of airing [Rose/Icke II](/events/youtube-removes-rose-icke-ii/)).
+Additionally, this came just three days after Facebook [completely suspended London Real's advertising capabilities](/e/facebook-suspends-london-real-ad-capabilities/) (likely a consequence of airing [Rose/Icke II](/e/youtube-removes-rose-icke-ii/)).
 
 The ban notice on Icke's Facebook page contained the following:
 > Your Page has been unpublished for going against the Facebook Community Standards on health misinformation that could cause physical harm.
 
-Less than a month prior, both David Icke and London Real had [content scrubbed by several major platforms](/events/london-real-and-david-icke-have-content-removed-from-several-major-platforms/), including Facebook.
+Less than a month prior, both David Icke and London Real had [content scrubbed by several major platforms](/e/london-real-and-david-icke-have-content-removed-from-several-major-platforms/), including Facebook.

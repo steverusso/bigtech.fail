@@ -21,7 +21,7 @@ tweet](notice.jpg) which was deemed to be "glorifying violence":
 
 When he was unsuspended, he noted that he was the second attorney representing
 Kyle Rittenhouse to be suspended by Twitter after advocating for their client,
-the first being [Lin Wood](/events/twitter-suspends-lin-wood/) a couple of days
+the first being [Lin Wood](/e/twitter-suspends-lin-wood/) a couple of days
 prior:
 
 > I am back from the Twitter penalty box. Twitter has now censored TWO of Kyle

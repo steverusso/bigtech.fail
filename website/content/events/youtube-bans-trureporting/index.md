@@ -34,6 +34,6 @@ and over **23.5 million total views** across almost 900 videos.
 >
 > -- TRUreporting (@TRUreporting) [15 Oct 2020](https://archive.is/mMTRI)
 
-[Patreon banned _TRUreporting_](/events/patreon-bans-trureporting/) one week
+[Patreon banned _TRUreporting_](/e/patreon-bans-trureporting/) one week
 later after they started using it as a primary platform following the sudden
 YouTube ban.

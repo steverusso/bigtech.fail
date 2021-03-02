@@ -10,7 +10,7 @@ sources:
  - [ 'It''s Going Down "Patreon Caves To Tim Pool And The Alt-Right, Bans IGD" (31 July 2017)', 'https://itsgoingdown.org/patreon-caves-to-tim-pool-alt-right-bans-igd/' ]
 ---
 
-Shortly after [Patreon banned Lauren Southern](/events/patreon-bans-lauren-southern/), several journalists pointed out the hypocrisy in how the platform enforces it's policies.
+Shortly after [Patreon banned Lauren Southern](/e/patreon-bans-lauren-southern/), several journalists pointed out the hypocrisy in how the platform enforces it's policies.
 One of those examples was that IGD (_It's Going Down_) had no action against it's Patreon account despite having committed several violations of Patreon's policies.
 
 In what was presumably an effort to lighten the controversy around Lauren Southern's ban, Patreon banned IGD for violations in content it _republished_.

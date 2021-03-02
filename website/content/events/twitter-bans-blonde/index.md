@@ -13,7 +13,7 @@ sources:
  - [ 'Blonde''s Twitter Profile Snapshot Before Ban - web.archive.org', 'https://web.archive.org/web/20171124222513/https://twitter.com/Blondes_tweets' ]
 ---
 
-Shortly after being temporarily suspended twice within two weeks (first [on Nov 2nd](/events/twitter-suspends-blonde-for-banter/) and then again [on Nov 13th](/events/twitter-suspends-blonde-for-tweeting-about-statistics/)), Blonde was permanently banned from Twitter.
+Shortly after being temporarily suspended twice within two weeks (first [on Nov 2nd](/e/twitter-suspends-blonde-for-banter/) and then again [on Nov 13th](/e/twitter-suspends-blonde-for-tweeting-about-statistics/)), Blonde was permanently banned from Twitter.
 No reason or possibility for appeal was given by Twitter.
 Her account **@blonde_tweets** had about 20k followers when she was banned.
 

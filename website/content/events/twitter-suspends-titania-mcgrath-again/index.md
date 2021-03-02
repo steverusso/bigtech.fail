@@ -35,5 +35,5 @@ run by comedian Andrew Doyle.
 >
 > -- Titania McGrath (@TitaniaMcGrath) [19 Aug 2020](https://archive.is/JIRN3)
 
-The account was also [suspended](/events/twitter-suspends-titania-mcgrath/) in
+The account was also [suspended](/e/twitter-suspends-titania-mcgrath/) in
 September of 2019.

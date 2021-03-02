@@ -15,7 +15,7 @@ sources:
 Twitter temporarily suspended James Woods for [violating the Twitter
 Rules](notice.jpg) against "distribution of hacked material" after he tweeted
 screenshots of the [New York Post's exposé on Hunter
-Biden](/events/facebook-twitter-suppress-nypost-hunter-expose/):
+Biden](/e/facebook-twitter-suppress-nypost-hunter-expose/):
 
 > Please let people know @RealJamesWoods is presently locked out for sharing
 > screen grabs of the @nypost article about #HunterBiden.
