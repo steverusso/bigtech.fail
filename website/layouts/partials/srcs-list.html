@@ -1,0 +1,8 @@
+<ol>
+	{{ range $ }}
+		{{ $p := index . 1 }}
+		{{ $isLocal := hasPrefix $p "./" }}
+		{{ $url := cond $isLocal (substr $p 2) (printf "https://%s" $p) }}
+		<li><a href="{{ $url }}"{{ if not $isLocal }} target="_blank"{{ end }}>{{ index . 0 | default $p }}</a></li>
+	{{ end }}
+</ol>
