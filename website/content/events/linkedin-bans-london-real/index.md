@@ -5,9 +5,9 @@ image: /img/logos/london-real.jpg
 corpos: [ linkedin ]
 tags: [ banned, covid ]
 sources:
- - [ 'BitChute "BANNED ON LINKEDIN - Now I Need You #LondonRealArmy 👊🙏🏼♥️🌍💪" by London Real (12 Apr 2020)', 'https://www.bitchute.com/video/zcJg-gHj6Q8/' ]
- - [ 'BitChute "WE FOUGHT BACK AND WE WON!!! 👊👊👊 LINKEDIN REVERSES THEIR DECISION AND ALLOWS FREEDOM OF SPEECH" by London Real (16 Apr 2020)', 'https://www.bitchute.com/video/VbeFSEJ19QE/' ]
- - [ 'Reclaim The Net "London Real website suffers attack, suspended from LinkedIn after David Icke interview" by Didi Rankovic (13 Apr 2020)', 'https://reclaimthenet.org/london-real-banned-linkedin/' ]
+ - [ 'BitChute "BANNED ON LINKEDIN - Now I Need You #LondonRealArmy 👊🙏🏼♥️🌍💪" by London Real (12 Apr 2020)', 'www.bitchute.com/video/zcJg-gHj6Q8/' ]
+ - [ 'BitChute "WE FOUGHT BACK AND WE WON!!! 👊👊👊 LINKEDIN REVERSES THEIR DECISION AND ALLOWS FREEDOM OF SPEECH" by London Real (16 Apr 2020)', 'www.bitchute.com/video/VbeFSEJ19QE/' ]
+ - [ 'Reclaim The Net "London Real website suffers attack, suspended from LinkedIn after David Icke interview" by Didi Rankovic (13 Apr 2020)', 'reclaimthenet.org/london-real-banned-linkedin/' ]
 ---
 
 Less than a week after [the Rose/Icke II](/e/youtube-removes-rose-icke-ii/) controversy and [the attacks that followed](/e/london-real-gets-content-removed-from-several-major-platforms/), London Real was suspended from LinkedIn.

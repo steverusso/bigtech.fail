@@ -5,12 +5,12 @@ image: /img/people/david-icke.jpg
 corpos: [ youtube ]
 tags: [ banned, covid ]
 sources:
- - [ 'Twitter @davidicke - 1256886341633179649', 'https://archive.vn/JfXXA' ]
- - [ 'Twitter @davidicke - 1256676872664027138', 'https://archive.vn/ZFw3M' ]
- - [ 'altCensored "David Icke"', 'https://www.altcensored.com/channel/UCAhmDfQ1LfOYECmNNWgXJ7Q' ]
- - [ 'Archive of Icke''s YouTube channel showing termination notice', 'https://archive.vn/LzihV/image' ]
- - [ 'BitChute "DAVID ICKE BANNED FROM YOUTUBE, FREEDOM OF SPEECH IS DYING WILL YOU STEP UP & FIGHT FOR YOUR RIGHTS?" by London Real (2 May 2020)', 'https://www.bitchute.com/video/Fdot9l3yi98/' ]
- - [ 'BitChute "David Icke Gets Banned By Youtube For, Well, Who Knows Anymore? (Bitchute Exclusive)" by Styxhexenhammer666 (4 May 2020)', 'https://www.bitchute.com/video/eNc0N1C8Vo54/' ]
+ - [ 'Twitter @davidicke - 1256886341633179649', 'archive.vn/JfXXA' ]
+ - [ 'Twitter @davidicke - 1256676872664027138', 'archive.vn/ZFw3M' ]
+ - [ 'altCensored "David Icke"', 'www.altcensored.com/channel/UCAhmDfQ1LfOYECmNNWgXJ7Q' ]
+ - [ 'Archive of Icke''s YouTube channel showing termination notice', 'archive.vn/LzihV/image' ]
+ - [ 'BitChute "DAVID ICKE BANNED FROM YOUTUBE, FREEDOM OF SPEECH IS DYING WILL YOU STEP UP & FIGHT FOR YOUR RIGHTS?" by London Real (2 May 2020)', 'www.bitchute.com/video/Fdot9l3yi98/' ]
+ - [ 'BitChute "David Icke Gets Banned By Youtube For, Well, Who Knows Anymore? (Bitchute Exclusive)" by Styxhexenhammer666 (4 May 2020)', 'www.bitchute.com/video/eNc0N1C8Vo54/' ]
 ---
 
 YouTube banned David Icke _only one day before_ Rose/Icke III was set to air.

@@ -5,10 +5,10 @@ image: /img/misc/coindesk.png
 corpos: [ youtube ]
 tags: [ banned, wtf ]
 sources:
- - [ 'twitter.com/CoinDesk/status/1365128706918928386', 'https://archive.is/O9PQW' ]
- - [ 'CoinDesk "YouTube Suspends CoinDesk’s Channel (UPDATED)" by Danny Nelson (27 Feb 2021)', 'https://archive.is/7VjX5' ]
- - [ 'twitter.com/naomibrockwell/status/1365384880914395153', 'https://archive.is/wvhA3' ]
- - [ 'cryptobeat.substack.com/p/youtube-deletes-coindesks-entire', 'https://archive.is/c7VfR' ]
+ - [ 'twitter.com/CoinDesk/status/1365128706918928386', 'archive.is/O9PQW' ]
+ - [ 'CoinDesk "YouTube Suspends CoinDesk’s Channel (UPDATED)" by Danny Nelson (27 Feb 2021)', 'archive.is/7VjX5' ]
+ - [ 'twitter.com/naomibrockwell/status/1365384880914395153', 'archive.is/wvhA3' ]
+ - [ 'cryptobeat.substack.com/p/youtube-deletes-coindesks-entire', 'archive.is/c7VfR' ]
 ---
 
 YouTube banned [_CoinDesk_](https://www.coindesk.com/), an independent news

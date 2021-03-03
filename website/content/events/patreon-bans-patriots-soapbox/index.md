@@ -6,10 +6,10 @@ profiles: [ patriots-soapbox ]
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'twitter.com/NotPsb/status/1319344449546309632', 'https://archive.is/KOHjK' ]
- - [ 'twitter.com/NotPsb/status/1319383709305495563', 'https://archive.is/IJnim' ]
- - [ 'twitter.com/verum29/status/1319350765434130433', 'https://archive.is/vzQgy' ]
- - [ 'graphtreon.com/creator/PatriotsSoapbox', 'https://archive.is/QIpnm' ]
+ - [ 'twitter.com/NotPsb/status/1319344449546309632', 'archive.is/KOHjK' ]
+ - [ 'twitter.com/NotPsb/status/1319383709305495563', 'archive.is/IJnim' ]
+ - [ 'twitter.com/verum29/status/1319350765434130433', 'archive.is/vzQgy' ]
+ - [ 'graphtreon.com/creator/PatriotsSoapbox', 'archive.is/QIpnm' ]
 ---
 
 [Patreon](/patreon/) banned _Patriots' Soapbox News_ in an effort to purge

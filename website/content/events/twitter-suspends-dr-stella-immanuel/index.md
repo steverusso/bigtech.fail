@@ -5,8 +5,8 @@ image: /img/people/dr-stella-immanuel.jpg
 corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:
- - [ 'twitter.com/ProcterMd/status/1288652277931180033', 'http://archive.is/CJBwi' ]
- - [ 'Reclaim The Net "Twitter locks Dr. Stella Immanuel out of her account for six days" by Tom Parker (29 Jul 2020)', 'https://reclaimthenet.org/twitter-locks-dr-stella-immanuel-account/' ]
+ - [ 'twitter.com/ProcterMd/status/1288652277931180033', 'archive.is/CJBwi' ]
+ - [ 'Reclaim The Net "Twitter locks Dr. Stella Immanuel out of her account for six days" by Tom Parker (29 Jul 2020)', 'reclaimthenet.org/twitter-locks-dr-stella-immanuel-account/' ]
 ---
 
 Twitter temporarily suspended Dr. Stella Immanuel [for six days](notice.jpg)

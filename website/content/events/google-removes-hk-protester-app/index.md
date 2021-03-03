@@ -5,9 +5,9 @@ image: /img/misc/goina.png
 corpos: [ google ]
 tags: [ app ]
 sources:
- - [ 'Hong Kong Free Press', 'https://www.hongkongfp.com/2019/10/10/revolution-times-hong-kong-protester-role-playing-game-suspended-google-play-store' ]
- - [ 'ZeroHedge', 'https://www.zerohedge.com/political/google-caves-china-pulls-revolution-our-times-hong-kong-game-app-store' ]
- - [ 'Independent', 'https://www.independent.co.uk/life-style/gadgets-and-tech/news/google-hong-kong-protests-game-app-android-revolution-of-our-times-a9151911.html' ]
+ - [ 'Hong Kong Free Press', 'www.hongkongfp.com/2019/10/10/revolution-times-hong-kong-protester-role-playing-game-suspended-google-play-store' ]
+ - [ 'ZeroHedge', 'www.zerohedge.com/political/google-caves-china-pulls-revolution-our-times-hong-kong-game-app-store' ]
+ - [ 'Independent', 'www.independent.co.uk/life-style/gadgets-and-tech/news/google-hong-kong-protests-game-app-android-revolution-of-our-times-a9151911.html' ]
 ---
 
 Google removed 'The Revolution of Our Times' app from the Play Store.

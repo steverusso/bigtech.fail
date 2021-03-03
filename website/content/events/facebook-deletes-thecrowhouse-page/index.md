@@ -6,8 +6,8 @@ profiles: [ max-igan ]
 corpos: [ facebook ]
 tags: [ banned ]
 sources:
- - [ 'BitChute "Banned from Facebook While Corona Psychosis Continues" by TheCrowhouse (5 May 2020)', 'https://www.bitchute.com/video/HoPdmm73vdY/' ]
- - [ 'Archive of the page via web.archive.org', 'http://web.archive.org/web/20190806124104if_/https://www.facebook.com/Max-Igan-TheCrowhouse-116627925059345/' ]
+ - [ 'BitChute "Banned from Facebook While Corona Psychosis Continues" by TheCrowhouse (5 May 2020)', 'www.bitchute.com/video/HoPdmm73vdY/' ]
+ - [ 'Archive of the page via web.archive.org', 'web.archive.org/web/20190806124104if_/https://www.facebook.com/Max-Igan-TheCrowhouse-116627925059345/' ]
 ---
 
 Facebook deleted the page for Max Igan's _TheCrowhouse_, likely for speaking out

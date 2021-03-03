@@ -5,12 +5,12 @@ image: /img/misc/jim-hoft.jpg
 corpos: [ twitter ]
 tags: [ banned, gov, election2020 ]
 sources:
- - [ 'The Gateway Pundit "Breaking: Twitter Indefinitely Suspends Gateway Pundit Account After We Announce More Video of TCF Center Fraud Will Be Released in Coming Days" by Jim Hoft (6 Feb 2021)', 'https://archive.is/SOgS3' ]
- - [ 'Archive of ban notice on profile page', 'https://archive.is/Vl8uc' ]
- - [ 'socialblade.com/twitter/user/gatewaypundit', 'https://socialblade.com/twitter/user/gatewaypundit' ]
- - [ 'ZeroHedge "Twitter Permanently Bans Gateway Pundit For Violating "Civic Integrity Policy"" by Tyler Durden (6 Feb 2021)', 'https://archive.is/NUkv0' ]
- - [ 'twitter.com/CassandraRules/status/1358201374836723717', 'https://archive.is/z7PwN' ]
- - [ 'twitter.com/joshdcaplan/status/1358196234897530881', 'https://archive.is/qvsBz' ]
+ - [ 'The Gateway Pundit "Breaking: Twitter Indefinitely Suspends Gateway Pundit Account After We Announce More Video of TCF Center Fraud Will Be Released in Coming Days" by Jim Hoft (6 Feb 2021)', 'archive.is/SOgS3' ]
+ - [ 'Archive of ban notice on profile page', 'archive.is/Vl8uc' ]
+ - [ 'socialblade.com/twitter/user/gatewaypundit', 'socialblade.com/twitter/user/gatewaypundit' ]
+ - [ 'ZeroHedge "Twitter Permanently Bans Gateway Pundit For Violating "Civic Integrity Policy"" by Tyler Durden (6 Feb 2021)', 'archive.is/NUkv0' ]
+ - [ 'twitter.com/CassandraRules/status/1358201374836723717', 'archive.is/z7PwN' ]
+ - [ 'twitter.com/joshdcaplan/status/1358196234897530881', 'archive.is/qvsBz' ]
 ---
 
 [Twitter](/twitter/) banned Jim Hoft, founder of the Gateway Pundit, for

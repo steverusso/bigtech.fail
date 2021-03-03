@@ -5,12 +5,12 @@ image: /img/misc/ipot.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/IPOT1776/status/1316758951908700161', 'https://archive.is/MtkrW' ]
- - [ 'twitter.com/IPOT1776/status/1316764736445243392', 'https://archive.is/oVj3Y' ]
- - [ 'twitter.com/IPOT1776/status/1316922156786307072', 'https://archive.is/OyEtk' ]
- - [ 'altcensored.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ', 'https://altcensored.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ' ]
- - [ 'socialblade.com/youtube/channel/UCAyrKoW31y5UcsRjh2ItvxQ (archived)', 'https://archive.is/TMi4E' ]
- - [ 'youtube.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ (archived channel removal notice)', 'https://archive.is/0omjC/image' ]
+ - [ 'twitter.com/IPOT1776/status/1316758951908700161', 'archive.is/MtkrW' ]
+ - [ 'twitter.com/IPOT1776/status/1316764736445243392', 'archive.is/oVj3Y' ]
+ - [ 'twitter.com/IPOT1776/status/1316922156786307072', 'archive.is/OyEtk' ]
+ - [ 'altcensored.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ', 'altcensored.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ' ]
+ - [ 'socialblade.com/youtube/channel/UCAyrKoW31y5UcsRjh2ItvxQ (archived)', 'archive.is/TMi4E' ]
+ - [ 'youtube.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ (archived channel removal notice)', 'archive.is/0omjC/image' ]
 youtube:
  subs: 242952
  views: 43434858

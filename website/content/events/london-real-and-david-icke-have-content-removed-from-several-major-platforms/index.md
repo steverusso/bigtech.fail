@@ -5,8 +5,8 @@ image: /img/logos/london-real.jpg
 corpos: [ instagram, facebook, vimeo, dropbox ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'London Real "Digital Freedom of Speech Open Letter" by Brian Rose (13 May 2020)', 'https://londonreal.tv/digital-freedom-of-speech-open-letter/' ]
- - [ 'BitChute "DI3" by London Real (10 May 2020)', 'https://www.bitchute.com/video/BFA8mH7wxjE1/' ]
+ - [ 'London Real "Digital Freedom of Speech Open Letter" by Brian Rose (13 May 2020)', 'londonreal.tv/digital-freedom-of-speech-open-letter/' ]
+ - [ 'BitChute "DI3" by London Real (10 May 2020)', 'www.bitchute.com/video/BFA8mH7wxjE1/' ]
 ---
 
 London Real came under attack as a result of airing Rose/Icke II, an interview Brian Rose had with David Icke which [was taken down](/e/youtube-removes-rose-icke-ii/) a half hour after being released.

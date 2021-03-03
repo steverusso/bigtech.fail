@@ -6,8 +6,8 @@ profiles: [ dan-dicks ]
 corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
- - [ 'PressForTruth.ca "Press For Truth Under COORDINATED ATTACK AS MAILCHIMP TERMINATES ACCOUNT!!!" (21 Oct 2020)', 'https://pressfortruth.ca/press-for-truth-under-coordinated-attack-as-mailchimp-terminates-account/' ]
- - [ 'Reclaim The Net "Mailchimp terminates independent news outlets SGTreport and Press for Truth" by Tom Parker (22 Oct 2020)', 'https://reclaimthenet.org/mailchimp-bans-sgtreport-press-for-truth/' ]
+ - [ 'PressForTruth.ca "Press For Truth Under COORDINATED ATTACK AS MAILCHIMP TERMINATES ACCOUNT!!!" (21 Oct 2020)', 'pressfortruth.ca/press-for-truth-under-coordinated-attack-as-mailchimp-terminates-account/' ]
+ - [ 'Reclaim The Net "Mailchimp terminates independent news outlets SGTreport and Press for Truth" by Tom Parker (22 Oct 2020)', 'reclaimthenet.org/mailchimp-bans-sgtreport-press-for-truth/' ]
 ---
 
 Mailchimp banned _Press For Truth_, an independent media outlet run by Dan

@@ -5,12 +5,12 @@ image: /img/people/avi-yemini-censored.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'Avi Yemini - The "Offending" Tweet', 'https://web.archive.org/web/20190923205443/https:/twitter.com/OzraeliAvi/status/1176234521399676928' ]
+ - [ 'Avi Yemini - The "Offending" Tweet', 'web.archive.org/web/20190923205443/https:/twitter.com/OzraeliAvi/status/1176234521399676928' ]
  - [ 'Avi Yemini - Twitter Ban Notice (image)', 'ban-notice.jpg' ]
- - [ 'Politicalite "GRET OFFLINE: Twitter Permanently BANS Right-Wing Activist Avi Yemini" by Jordan James', 'https://www.politicalite.com/media/gret-offline-twitter-permanently-bans-right-wing-activist-avi-yemini/' ]
- - [ 'National File "BIG TECH: Twitter BANS Avi Yemini for Criticizing Greta Thunberg" by Jack Hadfield', 'https://nationalfile.com/big-tech-twitter-bans-avi-yemini-for-criticising-greta-thunberg/' ]
- - [ 'TR.news "Twitter reinstates Avi Yemini after #FreeAvi campaign" by Avi Yemini', 'https://www.tr.news/twitter-reinstates-avi-yemini/' ]
- - [ 'Politicalite UK - Tweet About Avi''s Unbanned Status', 'https://twitter.com/politicalite/status/1176962144690147328' ]
+ - [ 'Politicalite "GRET OFFLINE: Twitter Permanently BANS Right-Wing Activist Avi Yemini" by Jordan James', 'www.politicalite.com/media/gret-offline-twitter-permanently-bans-right-wing-activist-avi-yemini/' ]
+ - [ 'National File "BIG TECH: Twitter BANS Avi Yemini for Criticizing Greta Thunberg" by Jack Hadfield', 'nationalfile.com/big-tech-twitter-bans-avi-yemini-for-criticising-greta-thunberg/' ]
+ - [ 'TR.news "Twitter reinstates Avi Yemini after #FreeAvi campaign" by Avi Yemini', 'www.tr.news/twitter-reinstates-avi-yemini/' ]
+ - [ 'Politicalite UK - Tweet About Avi''s Unbanned Status', 'twitter.com/politicalite/status/1176962144690147328' ]
 ---
 
 Avi Yemini was permanently banned from Twitter after publishing a tweet that was critical of Greta Thunberg's parents:

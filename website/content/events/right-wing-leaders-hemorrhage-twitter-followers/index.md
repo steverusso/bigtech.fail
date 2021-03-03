@@ -5,8 +5,8 @@ image: /img/misc/shadow-twitter.png
 corpos: [ twitter ]
 tags: [ election2020, capitol-riot ]
 sources:
- - [ 'Twitter Blog "An update following the riots in Washington, DC" by Twitter Safety (12 Jan 2021)', 'https://archive.is/LC22Z' ]
- - [ 'New York Post "Twitter purge decimates GOP senators after Capitol riot, but Democrats gain" by Jon Levine (16 Jan 2021)', 'https://archive.is/t44pw' ]
+ - [ 'Twitter Blog "An update following the riots in Washington, DC" by Twitter Safety (12 Jan 2021)', 'archive.is/LC22Z' ]
+ - [ 'New York Post "Twitter purge decimates GOP senators after Capitol riot, but Democrats gain" by Jon Levine (16 Jan 2021)', 'archive.is/t44pw' ]
 ---
 
 Twitter released [an update](https://archive.is/t44pw) four days after they

@@ -5,7 +5,7 @@ image: /img/people/sargon-of-akkad.jpg
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'Sargon - BitChute', 'https://www.bitchute.com/channel/sargonofakkad/' ]
+ - [ 'Sargon - BitChute', 'www.bitchute.com/channel/sargonofakkad/' ]
 ---
 
 Sargon of Akkad was banned from Patreon for using offensive language during a guest appearance on another YouTube channel about a year prior.

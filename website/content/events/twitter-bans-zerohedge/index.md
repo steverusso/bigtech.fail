@@ -5,10 +5,10 @@ image: /img/logos/zerohedge.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'ZeroHedge "Zerohedge Suspended On Twitter" by Tyler Durden (1 Feb 2020)', 'https://www.zerohedge.com/political/zerohedge-suspended-twitter' ]
- - [ 'ZeroHedge "Is This The Man Behind The Global Coronavirus Pandemic?" by Tyler Durden (29 Jan 2020)', 'https://www.zerohedge.com/health/man-behind-global-coronavirus-pandemic' ]
- - [ 'Reclaim The Net "Shock as Twitter bans news outlet Zero Hedge for "abuse and harassment"" by Tom Parker (31 Jan 2020)', 'https://reclaimthenet.org/zero-hedge-twitter-suspended/' ]
- - [ 'The Post Millennial "Twitter suspends independent news outlet Zero Hedge" by Ian Miles Cheong (31 Jan 2020)', 'https://thepostmillennial.com/breaking-twitter-suspends-independent-news-outlet-zero-hedge' ]
+ - [ 'ZeroHedge "Zerohedge Suspended On Twitter" by Tyler Durden (1 Feb 2020)', 'www.zerohedge.com/political/zerohedge-suspended-twitter' ]
+ - [ 'ZeroHedge "Is This The Man Behind The Global Coronavirus Pandemic?" by Tyler Durden (29 Jan 2020)', 'www.zerohedge.com/health/man-behind-global-coronavirus-pandemic' ]
+ - [ 'Reclaim The Net "Shock as Twitter bans news outlet Zero Hedge for "abuse and harassment"" by Tom Parker (31 Jan 2020)', 'reclaimthenet.org/zero-hedge-twitter-suspended/' ]
+ - [ 'The Post Millennial "Twitter suspends independent news outlet Zero Hedge" by Ian Miles Cheong (31 Jan 2020)', 'thepostmillennial.com/breaking-twitter-suspends-independent-news-outlet-zero-hedge' ]
 ---
 
 Twitter banned ZeroHedge (an independent news outlet) for reposting public

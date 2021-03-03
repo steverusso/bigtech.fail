@@ -5,16 +5,16 @@ image: /img/people/anna-brees.jpg
 corpos: [ youtube ]
 tags: [ banned, covid ]
 sources:
- - [ 'twitter.com/BreesAnna/status/1342574042193256448', 'https://archive.is/WcB2X' ]
- - [ 'twitter.com/BreesAnna/status/1342759538626277376', 'https://archive.is/xfYHX' ]
- - [ 'twitter.com/BreesAnna/status/1342809671380430849', 'https://archive.is/C36h4' ]
- - [ 'twitter.com/BreesAnna/status/1342797218332504066', 'https://archive.is/osP8m' ]
- - [ 'twitter.com/BreesAnna/status/1342575166690369541', 'https://archive.is/mnv6Y' ]
- - [ 'altcensored.com/channel/UCi9eHpvhK9fYnqALwPX4MNQ', 'https://altcensored.com/channel/UCi9eHpvhK9fYnqALwPX4MNQ' ]
- - [ 'socialblade.com/youtube/channel/UCi9eHpvhK9fYnqALwPX4MNQ', 'https://socialblade.com/youtube/channel/UCi9eHpvhK9fYnqALwPX4MNQ' ]
+ - [ 'twitter.com/BreesAnna/status/1342574042193256448', 'archive.is/WcB2X' ]
+ - [ 'twitter.com/BreesAnna/status/1342759538626277376', 'archive.is/xfYHX' ]
+ - [ 'twitter.com/BreesAnna/status/1342809671380430849', 'archive.is/C36h4' ]
+ - [ 'twitter.com/BreesAnna/status/1342797218332504066', 'archive.is/osP8m' ]
+ - [ 'twitter.com/BreesAnna/status/1342575166690369541', 'archive.is/mnv6Y' ]
+ - [ 'altcensored.com/channel/UCi9eHpvhK9fYnqALwPX4MNQ', 'altcensored.com/channel/UCi9eHpvhK9fYnqALwPX4MNQ' ]
+ - [ 'socialblade.com/youtube/channel/UCi9eHpvhK9fYnqALwPX4MNQ', 'socialblade.com/youtube/channel/UCi9eHpvhK9fYnqALwPX4MNQ' ]
 extra:
- - [ 'twitter.com/BreesAnna/status/1342566902556733444', 'https://archive.is/iWN0x' ]
- - [ 'twitter.com/bitchute/status/1342777666022199297', 'https://archive.is/IlhPA' ]
+ - [ 'twitter.com/BreesAnna/status/1342566902556733444', 'archive.is/iWN0x' ]
+ - [ 'twitter.com/bitchute/status/1342777666022199297', 'archive.is/IlhPA' ]
 youtube:
  subs: 67100
  views: 3168617

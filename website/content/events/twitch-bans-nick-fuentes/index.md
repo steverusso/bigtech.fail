@@ -6,12 +6,12 @@ profiles: [ nick-fuentes ]
 corpos: [ twitch ]
 tags: [ banned ]
 sources:
- - [ 'Twitter @NickJFuentes 1114356726126579714', 'http://archive.is/oLKzQ' ]
- - [ 'Twitter @NickJFuentes 1114247325784989699', 'http://archive.vn/X6Pxb' ]
- - [ 'BitChute "Nick Fuentes: America First Ep. 361 Nick Fuentes BANNED From Twitch" by Liberum Arbitrium (6 Jul 2020)', 'https://www.bitchute.com/video/WRG2ygSTRl5Y/' ]
- - [ 'YouTube "Nick Fuentes BANNED From Twitch | America First Ep. 361" by America First with Nicholas J Fuentes (6 Apr 2019) [ archive / screenshot ]', 'http://archive.is/tP10m' ]
- - [ 'Reddit r/Destiny "NICK FUENTES BANNED ON TWITCH" by u/matheusvs (5 Apr 2019)', 'http://archive.vn/lhJ04' ]
- - [ 'PodBean "Episode 35 - Political Special - Part 1 (Feat. Sargon of Akkad, Nick Fuentes, Destiny, ..." by TrainwrecksTV Scuffed Podcast (25 Apr 2019)', 'https://www.podbean.com/site/EpisodeDownload/PBAF19E883SMW' ]
+ - [ 'Twitter @NickJFuentes 1114356726126579714', 'archive.is/oLKzQ' ]
+ - [ 'Twitter @NickJFuentes 1114247325784989699', 'archive.vn/X6Pxb' ]
+ - [ 'BitChute "Nick Fuentes: America First Ep. 361 Nick Fuentes BANNED From Twitch" by Liberum Arbitrium (6 Jul 2020)', 'www.bitchute.com/video/WRG2ygSTRl5Y/' ]
+ - [ 'YouTube "Nick Fuentes BANNED From Twitch | America First Ep. 361" by America First with Nicholas J Fuentes (6 Apr 2019) [ archive / screenshot ]', 'archive.is/tP10m' ]
+ - [ 'Reddit r/Destiny "NICK FUENTES BANNED ON TWITCH" by u/matheusvs (5 Apr 2019)', 'archive.vn/lhJ04' ]
+ - [ 'PodBean "Episode 35 - Political Special - Part 1 (Feat. Sargon of Akkad, Nick Fuentes, Destiny, ..." by TrainwrecksTV Scuffed Podcast (25 Apr 2019)', 'www.podbean.com/site/EpisodeDownload/PBAF19E883SMW' ]
 ---
 
 Twitch banned political commentator Nick Fuentes the day after he had [a

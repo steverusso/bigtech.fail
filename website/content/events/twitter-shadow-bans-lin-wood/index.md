@@ -5,9 +5,9 @@ image: /img/people/lin-wood.jpg
 corpos: [ twitter ]
 tags: [ shadow-banned, kyle-rittenhouse ]
 sources:
- - [ 'Reclaim The Net "Twitter caught shadowbanning Kyle Rittenhouse lawyer Lin Wood" by Tom Parker (8 Sep 2020)', 'https://reclaimthenet.org/lin-wood-username-shadowbanned-twitter-search/' ]
- - [ 'shadowban.eu/LLinWood', 'https://archive.is/SuQcx' ]
- - [ 'twitter.com/LLinWood/status/1303353272267407361', 'https://archive.is/ZCVgt' ]
+ - [ 'Reclaim The Net "Twitter caught shadowbanning Kyle Rittenhouse lawyer Lin Wood" by Tom Parker (8 Sep 2020)', 'reclaimthenet.org/lin-wood-username-shadowbanned-twitter-search/' ]
+ - [ 'shadowban.eu/LLinWood', 'archive.is/SuQcx' ]
+ - [ 'twitter.com/LLinWood/status/1303353272267407361', 'archive.is/ZCVgt' ]
 ---
 
 Twitter was caught shadow banning Lin Wood, an attorney representing [Kyle

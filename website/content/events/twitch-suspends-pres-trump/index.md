@@ -5,9 +5,9 @@ image: /img/people/trump.jpg
 corpos: [ twitch ]
 tags: [ suspended ]
 sources:
- - [ 'The Hill "Twitch temporarily suspends Trump account over ''hateful conduct''" by Justin Wise (29 Jun 2020)', 'http://archive.is/yMx0d' ]
- - [ 'Gamespot "Twitch Bans President Trump Temporarily For "Hateful Conduct"" by Chris Pereira (29 Jun 2020)', 'http://archive.is/0GIP5' ]
- - [ 'TechCrunch "Trump suspended from Twitch, as Reddit bans the ''The_Donald'' and additional subreddits" by Brian Heater (29 Jun 2020)', 'http://archive.is/cCCKW' ]
+ - [ 'The Hill "Twitch temporarily suspends Trump account over ''hateful conduct''" by Justin Wise (29 Jun 2020)', 'archive.is/yMx0d' ]
+ - [ 'Gamespot "Twitch Bans President Trump Temporarily For "Hateful Conduct"" by Chris Pereira (29 Jun 2020)', 'archive.is/0GIP5' ]
+ - [ 'TechCrunch "Trump suspended from Twitch, as Reddit bans the ''The_Donald'' and additional subreddits" by Brian Heater (29 Jun 2020)', 'archive.is/cCCKW' ]
 ---
 
 Twitch temporarily suspended President Trump's [campaign

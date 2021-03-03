@@ -5,9 +5,9 @@ image: /img/logos/bitchute.png
 corpos: [ reddit ]
 tags: [ restricted, policy ]
 sources:
- - [ 'reddit.com/r/conspiracy/comments/jjx5mc/reddit_admins_are_automatically_removing_links_to/', 'https://archive.is/woA8V' ]
- - [ 'twitter.com/bitchute/status/1321754624991264768', 'https://archive.is/l003e' ]
- - [ 'BitChute "Reddit Begins Blocking Bitchute Links" by Styxhexenhammer666 (30 Oct 2020)', 'https://www.bitchute.com/video/c4LtmOxPjCI/' ]
+ - [ 'reddit.com/r/conspiracy/comments/jjx5mc/reddit_admins_are_automatically_removing_links_to/', 'archive.is/woA8V' ]
+ - [ 'twitter.com/bitchute/status/1321754624991264768', 'archive.is/l003e' ]
+ - [ 'BitChute "Reddit Begins Blocking Bitchute Links" by Styxhexenhammer666 (30 Oct 2020)', 'www.bitchute.com/video/c4LtmOxPjCI/' ]
 ---
 
 Reddit started blocking any and all links to

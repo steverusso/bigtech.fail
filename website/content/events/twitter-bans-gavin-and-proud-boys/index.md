@@ -6,10 +6,10 @@ profiles: [ gavin-mcinnes ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'Breitbart "Twitter Bans Conservative Commentator Gavin McInnes" by Allum Bokhari (10 Aug 2018)', 'http://archive.is/b7pRj' ]
- - [ 'Big League Politics "EXCLUSIVE: Gavin McInnes Reacts to Twitter Ban" by Peter D''Abrosca (10 Aug 2018)', 'http://archive.is/VKHhD' ]
- - [ 'Twitter @JackPosobiec 1028084261511999488', 'http://archive.is/lLK6n' ]
- - [ 'The Gateway Pundit "Twitter Permanently BANS Conservative Gavin McInnes and the Official Proud Boys Account" by Cassandra Fairbanks (10 Aug 2018)', 'http://archive.is/xsx6x' ]
+ - [ 'Breitbart "Twitter Bans Conservative Commentator Gavin McInnes" by Allum Bokhari (10 Aug 2018)', 'archive.is/b7pRj' ]
+ - [ 'Big League Politics "EXCLUSIVE: Gavin McInnes Reacts to Twitter Ban" by Peter D''Abrosca (10 Aug 2018)', 'archive.is/VKHhD' ]
+ - [ 'Twitter @JackPosobiec 1028084261511999488', 'archive.is/lLK6n' ]
+ - [ 'The Gateway Pundit "Twitter Permanently BANS Conservative Gavin McInnes and the Official Proud Boys Account" by Cassandra Fairbanks (10 Aug 2018)', 'archive.is/xsx6x' ]
 ---
 
 The day after Gavin and the Proud Boys disavowed "Unite the Right 2" (an

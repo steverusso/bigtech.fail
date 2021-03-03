@@ -5,10 +5,10 @@ image: /img/misc/chipple.png
 corpos: [ apple ]
 tags: [ app, china ]
 sources:
- - [ 'The New York Times "Apple Removes New York Times Apps From Its Store in China" by Katie Benner and Sui-Lee Wee (4 Jan 2017)', 'https://archive.vn/zpYLL' ]
- - [ 'ZeroHedge "Apple Removes NYT App In China After Pressure From Beijing"', 'https://archive.vn/JjpzD' ]
- - [ 'The Verge "Apple removes New York Times app from China''s app store at government''s request" by James Vincent', 'https://archive.vn/wBsHu' ]
- - [ 'The Daily Caller "Apple Pulls The New York Times Mobile App From China Due To Government Pressure" by Eric Lieberman', 'https://archive.vn/zRVxc' ]
+ - [ 'The New York Times "Apple Removes New York Times Apps From Its Store in China" by Katie Benner and Sui-Lee Wee (4 Jan 2017)', 'archive.vn/zpYLL' ]
+ - [ 'ZeroHedge "Apple Removes NYT App In China After Pressure From Beijing"', 'archive.vn/JjpzD' ]
+ - [ 'The Verge "Apple removes New York Times app from China''s app store at government''s request" by James Vincent', 'archive.vn/wBsHu' ]
+ - [ 'The Daily Caller "Apple Pulls The New York Times Mobile App From China Due To Government Pressure" by Eric Lieberman', 'archive.vn/zRVxc' ]
 ---
 
 Throughout December 2016, the New York Times was compiling data and preparing reports on the billions of dollars in subsidies and perks that the Chinese government gives to Foxconn (Apple's largest iPhone producer).

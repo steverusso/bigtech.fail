@@ -5,15 +5,15 @@ image: /img/people/martin-geddes.png
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ '"War on free speech: I have been deplatformed by Patreon" by Martin Geddes (22 Oct 2020)', 'https://archive.is/l5wnD' ]
- - [ 'twitter.com/martingeddes/status/1319317547196555265', 'https://archive.is/g4zBQ' ]
- - [ 'twitter.com/martingeddes/status/1319334927335329798', 'https://archive.is/TCV0y' ]
- - [ 'twitter.com/martingeddes/status/1319357215560564736', 'https://archive.is/JWfPX' ]
- - [ 'twitter.com/martingeddes/status/1319362173362196485', 'https://archive.is/KYUQE' ]
- - [ 'twitter.com/martingeddes/status/1319380132499492892', 'https://archive.is/BieF3' ]
- - [ 'twitter.com/martingeddes/status/1319398362110660609', 'https://archive.is/0gz0v' ]
- - [ 'graphtreon.com/creator/martingeddes', 'https://archive.is/ju2OG' ]
- - [ 'Archive of page removal notice', 'https://archive.is/cWlGa' ]
+ - [ '"War on free speech: I have been deplatformed by Patreon" by Martin Geddes (22 Oct 2020)', 'archive.is/l5wnD' ]
+ - [ 'twitter.com/martingeddes/status/1319317547196555265', 'archive.is/g4zBQ' ]
+ - [ 'twitter.com/martingeddes/status/1319334927335329798', 'archive.is/TCV0y' ]
+ - [ 'twitter.com/martingeddes/status/1319357215560564736', 'archive.is/JWfPX' ]
+ - [ 'twitter.com/martingeddes/status/1319362173362196485', 'archive.is/KYUQE' ]
+ - [ 'twitter.com/martingeddes/status/1319380132499492892', 'archive.is/BieF3' ]
+ - [ 'twitter.com/martingeddes/status/1319398362110660609', 'archive.is/0gz0v' ]
+ - [ 'graphtreon.com/creator/martingeddes', 'archive.is/ju2OG' ]
+ - [ 'Archive of page removal notice', 'archive.is/cWlGa' ]
 ---
 
 Patreon banned Martin Geddes in an effort to purge QAnon-related material

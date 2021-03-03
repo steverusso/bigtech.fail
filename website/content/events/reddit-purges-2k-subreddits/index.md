@@ -5,13 +5,13 @@ image: /img/logos/reddit.png
 corpos: [ reddit ]
 tags: [ banned ]
 sources:
- - [ 'Reddit r/announcements "Update to Our Content Policy" by spez (29 Jun 2020)', 'http://archive.is/7yRAm' ]
- - [ 'AdAge "Reddit deletes Donald Trump community, and 2,000 others, in purge of offensive content" by  (29 Jun 2020)', 'http://archive.is/koW0p' ]
- - [ 'Reddit Account and Community Restrictions "Promoting Hate Based on Identity or Vulnerability" (29 Jun 2020)', 'http://archive.is/OZ03o' ]
- - [ 'BitChute "Reddit CEO Is LYING About Banning The Donald Subreddit, New Rules Allows Anti Women Posts??" by Tim Pool (29 Jun 2020)', 'https://www.bitchute.com/video/GvZ8rUeWi9E/' ]
- - [ 'Archive of the r/HateCrimeHoaxes subreddit shortly after ban', 'http://archive.is/KMl3d' ]
- - [ 'The Daily Caller "Reddit Removed Subreddit Dedicated To Tracking Hate Crime Hoaxes, Accused Of Promoting ''Hate''" by Chris White (10 Jul 2020)', 'http://archive.is/gUjNI' ]
- - [ 'TheDonald.win "We''ve put the subreddit in "restricted" mode." by Doggos (26 Feb 2020)', 'http://archive.is/SoV2D' ]
+ - [ 'Reddit r/announcements "Update to Our Content Policy" by spez (29 Jun 2020)', 'archive.is/7yRAm' ]
+ - [ 'AdAge "Reddit deletes Donald Trump community, and 2,000 others, in purge of offensive content" by  (29 Jun 2020)', 'archive.is/koW0p' ]
+ - [ 'Reddit Account and Community Restrictions "Promoting Hate Based on Identity or Vulnerability" (29 Jun 2020)', 'archive.is/OZ03o' ]
+ - [ 'BitChute "Reddit CEO Is LYING About Banning The Donald Subreddit, New Rules Allows Anti Women Posts??" by Tim Pool (29 Jun 2020)', 'www.bitchute.com/video/GvZ8rUeWi9E/' ]
+ - [ 'Archive of the r/HateCrimeHoaxes subreddit shortly after ban', 'archive.is/KMl3d' ]
+ - [ 'The Daily Caller "Reddit Removed Subreddit Dedicated To Tracking Hate Crime Hoaxes, Accused Of Promoting ''Hate''" by Chris White (10 Jul 2020)', 'archive.is/gUjNI' ]
+ - [ 'TheDonald.win "We''ve put the subreddit in "restricted" mode." by Doggos (26 Feb 2020)', 'archive.is/SoV2D' ]
 ---
 
 Reddit purged about 2,000 subreddits for "offensive content",

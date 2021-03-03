@@ -5,8 +5,8 @@ image: /img/people/marina-medvin.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
- - [ 'Townhall "Twitter Kicked Me Off for Saying This But I''m Going to Double Down" by Marina Medvin (19 Aug 2020)', 'https://archive.is/7X2U5' ]
- - [ 'share.par.pw/post/c4cbed4ce6db40318e143a071c5dd55c', 'http://archive.is/h34pF' ]
+ - [ 'Townhall "Twitter Kicked Me Off for Saying This But I''m Going to Double Down" by Marina Medvin (19 Aug 2020)', 'archive.is/7X2U5' ]
+ - [ 'share.par.pw/post/c4cbed4ce6db40318e143a071c5dd55c', 'archive.is/h34pF' ]
 ---
 
 Twitter temporarily suspended [Marina Medvin](https://www.medvin.me/), a senior

@@ -6,12 +6,12 @@ profiles: [ devon-tracey ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'Twitter @HeWasntJogging 1278429651682156545', 'http://archive.vn/dRIAN' ]
- - [ 'Twitter @HeWasntJogging 1281228035979608065', 'http://archive.vn/ulNSP' ]
- - [ 'Twitter @HeWasntJogging 1280146162360688640', 'http://archive.is/ZO4UL' ]
- - [ 'Twitter @HeWasntJogging 1281724090064220166', 'http://archive.vn/iej5c' ]
- - [ 'Atheism-is-Unstoppable - altCensored', 'https://altcensored.com/channel/UCg6MuFVugHwWCp1YDQDAy1w' ]
- - [ 'Atheism-is-Unstoppable''s YouTube Stats (Summary Profile) - Social Blade Stats', 'https://socialblade.com/youtube/channel/UCg6MuFVugHwWCp1YDQDAy1w' ]
+ - [ 'Twitter @HeWasntJogging 1278429651682156545', 'archive.vn/dRIAN' ]
+ - [ 'Twitter @HeWasntJogging 1281228035979608065', 'archive.vn/ulNSP' ]
+ - [ 'Twitter @HeWasntJogging 1280146162360688640', 'archive.is/ZO4UL' ]
+ - [ 'Twitter @HeWasntJogging 1281724090064220166', 'archive.vn/iej5c' ]
+ - [ 'Atheism-is-Unstoppable - altCensored', 'altcensored.com/channel/UCg6MuFVugHwWCp1YDQDAy1w' ]
+ - [ 'Atheism-is-Unstoppable''s YouTube Stats (Summary Profile) - Social Blade Stats', 'socialblade.com/youtube/channel/UCg6MuFVugHwWCp1YDQDAy1w' ]
 ---
 
 YouTube banned Devon Tracey's _Atheism-is-Unstoppable_ channel due to "repeated

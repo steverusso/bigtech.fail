@@ -5,8 +5,8 @@ image: /img/logos/london-real.jpg
 corpos: [ facebook ]
 tags: [ advertising, covid ]
 sources:
- - [ 'BitChute "FACEBOOK IS DESTROYING MY BUSINESS BUT WE WILL NOT BE SILENCED & WE WILL NOT BE CENSORED 🤐👊🌍" by London Real (29 Apr 2020)', 'https://www.bitchute.com/video/fdx90-hBwME/' ]
- - [ 'Reclaim The Net "London Real Facebook advertising suspended after airing interview with David Icke" by Cindy Harper (28 Apr 2020)', 'https://reclaimthenet.org/london-real-facebook-advertising-suspended-david-icke/' ]
+ - [ 'BitChute "FACEBOOK IS DESTROYING MY BUSINESS BUT WE WILL NOT BE SILENCED & WE WILL NOT BE CENSORED 🤐👊🌍" by London Real (29 Apr 2020)', 'www.bitchute.com/video/fdx90-hBwME/' ]
+ - [ 'Reclaim The Net "London Real Facebook advertising suspended after airing interview with David Icke" by Cindy Harper (28 Apr 2020)', 'reclaimthenet.org/london-real-facebook-advertising-suspended-david-icke/' ]
 ---
 
 The consequences of [Rose/Icke II](/e/youtube-removes-rose-icke-ii/)

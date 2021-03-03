@@ -5,9 +5,9 @@ image: /img/misc/robinhood.png
 corpos: [ google ]
 tags: [ app ]
 sources:
- - [ 'Reclaim The Net "Google Play deletes over 150,000 Robinhood app reviews after frustrated users leave one-star ratings" by Tom Parker (28 Jan 2021)', 'https://reclaimthenet.org/google-play-removes-robinhood-reviews/' ]
- - [ 'The Verge "Google salvaged Robinhood’s one-star rating by deleting nearly 100,000 negative reviews" by Jay Peters (28 Jan 2021)', 'https://archive.is/bemOq' ]
- - [ 'Gizmodo "Google Deletes 100,000 Negative Reviews of Robinhood App From Angry Users" by Matt Novak (29 Jan 2021)', 'https://archive.is/bemOq' ]
+ - [ 'Reclaim The Net "Google Play deletes over 150,000 Robinhood app reviews after frustrated users leave one-star ratings" by Tom Parker (28 Jan 2021)', 'reclaimthenet.org/google-play-removes-robinhood-reviews/' ]
+ - [ 'The Verge "Google salvaged Robinhood’s one-star rating by deleting nearly 100,000 negative reviews" by Jay Peters (28 Jan 2021)', 'archive.is/bemOq' ]
+ - [ 'Gizmodo "Google Deletes 100,000 Negative Reviews of Robinhood App From Angry Users" by Matt Novak (29 Jan 2021)', 'archive.is/bemOq' ]
 ---
 
 The [Google](/google/) Play Store purged over 150,000 negative reviews from

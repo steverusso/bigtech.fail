@@ -5,8 +5,8 @@ image: /img/logos/the-red-elephants.png
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'The Red Elephants "Conservative Media Outlet PERMANENTLY BANNED From Twitter Without Reason" by Vincent James', 'http://theredelephants.com/conservative-media-outlet-permanently-banned-twitter-without-reason/' ]
- - [ 'Millie Weaver - Tweet', 'https://twitter.com/Millie__Weaver/status/986322673184706560' ]
+ - [ 'The Red Elephants "Conservative Media Outlet PERMANENTLY BANNED From Twitter Without Reason" by Vincent James', 'theredelephants.com/conservative-media-outlet-permanently-banned-twitter-without-reason/' ]
+ - [ 'Millie Weaver - Tweet', 'twitter.com/Millie__Weaver/status/986322673184706560' ]
 ---
 
 Twitter banned The Red Elephants, aka. @RealRedElephant, who had about 30k followers, without giving a reason or explanation (this [according to Vincent James](http://theredelephants.com/conservative-media-outlet-permanently-banned-twitter-without-reason/) of The Red Elephants).

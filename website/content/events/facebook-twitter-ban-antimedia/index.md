@@ -5,10 +5,10 @@ image: /img/people/anti-media.jpg
 corpos: [ facebook, twitter ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/AntiMedia/status/1050476321191669760', 'https://archive.is/LDBuo' ]
- - [ 'twitter.com/FordFischer/status/1050525553164505089', 'https://archive.is/OKatE' ]
- - [ 'socialblade.com/twitter/user/antimedia (archived)', 'http://web.archive.org/web/20201113140137/https://socialblade.com/twitter/user/antimedia' ]
- - [ 'reddit.com/r/conspiracy/comments/9ndg1w/facebook_bans_free_thought_project_press_for/', 'https://archive.is/8lIaQ' ]
+ - [ 'twitter.com/AntiMedia/status/1050476321191669760', 'archive.is/LDBuo' ]
+ - [ 'twitter.com/FordFischer/status/1050525553164505089', 'archive.is/OKatE' ]
+ - [ 'socialblade.com/twitter/user/antimedia (archived)', 'web.archive.org/web/20201113140137/https://socialblade.com/twitter/user/antimedia' ]
+ - [ 'reddit.com/r/conspiracy/comments/9ndg1w/facebook_bans_free_thought_project_press_for/', 'archive.is/8lIaQ' ]
 ---
 
 [Facebook](/facebook/) and [Twitter](/twitter/) permanently banned _The

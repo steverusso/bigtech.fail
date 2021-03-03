@@ -5,9 +5,9 @@ image: /img/people/kamala-harris.jpg
 corpos: [ wikipedia ]
 tags: [ content-removed, gov ]
 sources:
- - [ 'reddit.com/r/neoliberal/comments/gni8t5/using_wikipedia_edits_to_predict_the_vp_pick/', 'http://archive.is/2QVD3' ]
- - [ 'The Intercept "There''s a War Going On Over Kamala Harris''s Wikipedia Page, with Unflattering Elements Vanishing" by Aída Chávez (2 Jul 2020)', 'http://archive.is/NBVwQ' ]
- - [ 'Breitbart "Wikipedia Editors Sanitize the Page of Potential Biden VP Kamala Harris" by T.D. Adler (7 Jul 2020)', 'http://archive.is/2N20R' ]
+ - [ 'reddit.com/r/neoliberal/comments/gni8t5/using_wikipedia_edits_to_predict_the_vp_pick/', 'archive.is/2QVD3' ]
+ - [ 'The Intercept "There''s a War Going On Over Kamala Harris''s Wikipedia Page, with Unflattering Elements Vanishing" by Aída Chávez (2 Jul 2020)', 'archive.is/NBVwQ' ]
+ - [ 'Breitbart "Wikipedia Editors Sanitize the Page of Potential Biden VP Kamala Harris" by T.D. Adler (7 Jul 2020)', 'archive.is/2N20R' ]
 ---
 
 Over the prior few months, Kamala Harris's Wikipedia page saw a significant

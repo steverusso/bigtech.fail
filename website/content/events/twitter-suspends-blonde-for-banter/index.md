@@ -6,10 +6,10 @@ profiles: [ blonde ]
 corpos: [ twitter ]
 tags: [ suspended ]
 sources:
- - [ 'Beauty and the Beta Sunday Stream #76 @ 19m22s', 'https://youtu.be/_G4HN7xm1GA?t=1162' ]
- - [ 'Blonde - BitChute Video "Twitter | Censorship, Suspensions & the Future"', 'https://www.bitchute.com/video/JC0oI3dxfglk/' ]
- - [ '@MLChristiansen - Tweet 926167630502813696', 'https://twitter.com/MLChristiansen/status/926167630502813696' ]
- - [ '@cakeroo2 - Tweet 925963020618084352', 'https://twitter.com/cakeroo2/status/925963020618084352' ]
+ - [ 'Beauty and the Beta Sunday Stream #76 @ 19m22s', 'youtu.be/_G4HN7xm1GA?t=1162' ]
+ - [ 'Blonde - BitChute Video "Twitter | Censorship, Suspensions & the Future"', 'www.bitchute.com/video/JC0oI3dxfglk/' ]
+ - [ '@MLChristiansen - Tweet 926167630502813696', 'twitter.com/MLChristiansen/status/926167630502813696' ]
+ - [ '@cakeroo2 - Tweet 925963020618084352', 'twitter.com/cakeroo2/status/925963020618084352' ]
 ---
 
 Twitter gave Blonde (aka. _Blonde in the Belly of the Beast_) a one week suspension for saying the word "faggot" in a joking response to a funny, trolling tweet by one of her followers.

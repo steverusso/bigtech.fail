@@ -5,8 +5,8 @@ image: /img/people/christine-assange.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
- - [ 'Consortium News "Twitter Restricts Account of Julian Assange''s Mother" by Joe Lauria (19 Mar 2019)', 'https://archive.vn/nOkSC' ]
- - [ 'The Gateway Pundit "Twitter Now Actively Censoring Julian Assange''s Mother" by Cassandra Fairbanks (20 Mar 2019)', 'https://archive.vn/xubm6' ]
+ - [ 'Consortium News "Twitter Restricts Account of Julian Assange''s Mother" by Joe Lauria (19 Mar 2019)', 'archive.vn/nOkSC' ]
+ - [ 'The Gateway Pundit "Twitter Now Actively Censoring Julian Assange''s Mother" by Cassandra Fairbanks (20 Mar 2019)', 'archive.vn/xubm6' ]
 ---
 
 Twitter heavily restricted the account of Julian Assange's mother, Christine

@@ -5,9 +5,9 @@ image: /img/people/mike-lindell.jpg
 corpos: [ twitter ]
 tags: [ banned, election2020 ]
 sources:
- - [ 'Breitbart "Twitter Blacklists MyPillow Corporate Account After Mike Lindell Tweet" by Lucas Nolan (2 Feb 2021)', 'https://archive.is/ks6Hf' ]
- - [ 'USA Today "MyPillow Twitter account permanently suspended following Trump ally CEO Mike Lindell''s ban from platform" by Kelly Tyko (1 Feb 2021)', 'https://archive.is/PGavP' ]
- - [ 'MarketWatch "Twitter has permanently banned the corporate MyPillow account after founder Mike Lindell posted from it" by Nicole Lyn Pesce (2 Feb 2021)', 'https://archive.is/dsXkt' ]
+ - [ 'Breitbart "Twitter Blacklists MyPillow Corporate Account After Mike Lindell Tweet" by Lucas Nolan (2 Feb 2021)', 'archive.is/ks6Hf' ]
+ - [ 'USA Today "MyPillow Twitter account permanently suspended following Trump ally CEO Mike Lindell''s ban from platform" by Kelly Tyko (1 Feb 2021)', 'archive.is/PGavP' ]
+ - [ 'MarketWatch "Twitter has permanently banned the corporate MyPillow account after founder Mike Lindell posted from it" by Nicole Lyn Pesce (2 Feb 2021)', 'archive.is/dsXkt' ]
 ---
 
 Twitter banned the corporate account for MyPillow three weeks after [banning

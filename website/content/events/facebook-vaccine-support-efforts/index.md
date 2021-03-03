@@ -5,10 +5,10 @@ image: /img/logos/facebook.png
 corpos: [ facebook ]
 tags: [ policy, covid, gov ]
 sources:
- - [ 'Facebook Newsroom "Supporting Public Health Experts’ Vaccine Efforts" by Kang-Xing Jin and Rob Leathern (13 Oct 2020)', 'https://archive.is/4E3D7' ]
+ - [ 'Facebook Newsroom "Supporting Public Health Experts’ Vaccine Efforts" by Kang-Xing Jin and Rob Leathern (13 Oct 2020)', 'archive.is/4E3D7' ]
 extra:
- - [ 'Reclaim The Net "Facebook will encourage users to take coronavirus vaccine as part of “charm offensive for Joe Biden”" by Tom Parker (23 Nov 2020)', 'https://reclaimthenet.org/facebook-encourage-coronavirus-vaccine-biden/' ]
- - [ 'Reclaim The Net "Facebook reached out to Biden to help with vaccine response, will push “authoritative” content" by Cindy Harper (2 Dec 2020)', 'https://reclaimthenet.org/facebook-reached-out-to-biden-to-help-with-vaccine-response-will-push-authoritative-content/' ]
+ - [ 'Reclaim The Net "Facebook will encourage users to take coronavirus vaccine as part of “charm offensive for Joe Biden”" by Tom Parker (23 Nov 2020)', 'reclaimthenet.org/facebook-encourage-coronavirus-vaccine-biden/' ]
+ - [ 'Reclaim The Net "Facebook reached out to Biden to help with vaccine response, will push “authoritative” content" by Cindy Harper (2 Dec 2020)', 'reclaimthenet.org/facebook-reached-out-to-biden-to-help-with-vaccine-response-will-push-authoritative-content/' ]
 ---
 
 Facebook [announced](https://archive.is/4E3D7#selection-1897.0-1897.135) their

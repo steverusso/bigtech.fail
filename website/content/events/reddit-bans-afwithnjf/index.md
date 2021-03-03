@@ -6,9 +6,9 @@ profiles: [ nick-fuentes ]
 corpos: [ reddit ]
 tags: [ banned ]
 sources:
- - [ 'Twitter @AFwNJF 1192610765653471232', 'http://web.archive.org/web/20191108012914/https:/twitter.com/AFwNJF/status/1192610765653471232' ]
- - [ 'Daily Dot "America First with Nick J. Fuentes Banned From Reddit" by Zachary Petrizzo (8 Nov 2019)', 'http://archive.is/VU8I7' ]
- - [ 'Twitter @NickJFuentes 1193207814828830720', 'http://archive.is/GVmaO' ]
+ - [ 'Twitter @AFwNJF 1192610765653471232', 'web.archive.org/web/20191108012914/https:/twitter.com/AFwNJF/status/1192610765653471232' ]
+ - [ 'Daily Dot "America First with Nick J. Fuentes Banned From Reddit" by Zachary Petrizzo (8 Nov 2019)', 'archive.is/VU8I7' ]
+ - [ 'Twitter @NickJFuentes 1193207814828830720', 'archive.is/GVmaO' ]
 ---
 
 Reddit shut down [r/AFwithNJF](http://archive.is/hIHAN), the "unofficial

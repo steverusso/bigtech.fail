@@ -6,8 +6,8 @@ profiles: [ dr-jordan-peterson ]
 corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
- - [ 'Jordan Peterson - Tweet 1085344351780261888', 'https://web.archive.org/web/20190117020647/https:/twitter.com/jordanbpeterson/status/1085344351780261888' ]
- - [ 'Jordan Peterson - YouTube Video', 'https://www.youtube.com/watch?v=WrZDcEix7uk' ]
+ - [ 'Jordan Peterson - Tweet 1085344351780261888', 'web.archive.org/web/20190117020647/https:/twitter.com/jordanbpeterson/status/1085344351780261888' ]
+ - [ 'Jordan Peterson - YouTube Video', 'www.youtube.com/watch?v=WrZDcEix7uk' ]
 ---
 
 After [suffering huge Patreon losses](/e/dr-jordan-peterson-2k-follower-loss/) due to the [Sargon ban](/e/patreon-bans-sargon/), Jordan Peterson (and Dave Rubin) decided to delete their Patreon accounts, setting the date as January 15 in their [joint YouTube video announcement](https://www.youtube.com/watch?v=Zp9ZJiFFBnU).

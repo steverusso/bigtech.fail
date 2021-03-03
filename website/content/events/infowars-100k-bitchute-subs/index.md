@@ -6,8 +6,8 @@ corpos: [ youtube ]
 tags: [ alttech-growth ]
 profiles: [ alex-jones ]
 sources:
- - [ 'Archive of Infowars channel page crossing 100k subscribers', 'https://archive.is/jGzeL' ]
- - [ 'twitter.com/bitchute/status/1329318510674132995', 'https://archive.is/RC0y5' ]
+ - [ 'Archive of Infowars channel page crossing 100k subscribers', 'archive.is/jGzeL' ]
+ - [ 'twitter.com/bitchute/status/1329318510674132995', 'archive.is/RC0y5' ]
 ---
 
 _Infowars_, the independent media outlet run by Alex Jones, became the second

@@ -6,12 +6,12 @@ profiles: [ trureporting ]
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'twitter.com/TRUreporting/status/1319329381173596161', 'https://archive.is/5s54O' ]
- - [ 'twitter.com/TRUreporting/status/1319329383312752640', 'https://archive.is/v85uR' ]
- - [ 'twitter.com/TRUreporting/status/1319389152006311939', 'https://archive.is/yepwf' ]
- - [ 'twitter.com/TRUreporting/status/1319819576109158400', 'https://archive.is/aGo8h' ]
- - [ 'graphtreon.com/creator/TRUreporting', 'https://archive.is/mpi9o' ]
- - [ 'patreon.com/TRUreporting (archived page removed)', 'https://archive.is/ZeTtK' ]
+ - [ 'twitter.com/TRUreporting/status/1319329381173596161', 'archive.is/5s54O' ]
+ - [ 'twitter.com/TRUreporting/status/1319329383312752640', 'archive.is/v85uR' ]
+ - [ 'twitter.com/TRUreporting/status/1319389152006311939', 'archive.is/yepwf' ]
+ - [ 'twitter.com/TRUreporting/status/1319819576109158400', 'archive.is/aGo8h' ]
+ - [ 'graphtreon.com/creator/TRUreporting', 'archive.is/mpi9o' ]
+ - [ 'patreon.com/TRUreporting (archived page removed)', 'archive.is/ZeTtK' ]
 ---
 
 [Patreon](/patreon/) banned _TRUreporting_ (one week after they were [banned

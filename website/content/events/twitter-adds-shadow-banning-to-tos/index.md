@@ -5,7 +5,7 @@ image: /img/misc/shadow-twitter.png
 corpos: [ twitter ]
 tags: [ policy ]
 sources:
- - [ 'Twitter Terms of Service, Effective 1 Jan 2020 (archive)', 'http://archive.is/7AmDl' ]
+ - [ 'Twitter Terms of Service, Effective 1 Jan 2020 (archive)', 'archive.is/7AmDl' ]
 ---
 
 Twitter added language to their Terms of Service that allows them to "limit distribution or

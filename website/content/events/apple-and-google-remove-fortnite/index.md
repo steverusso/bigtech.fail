@@ -5,16 +5,16 @@ image: /img/logos/epic-games.png
 corpos: [ apple ]
 tags: [ content-removed, app ]
 sources:
- - [ 'Fortnite "The Fortnite Mega Drop - Permanent Discounts Up to 20%" by The Fortnite Team (13 Aug 2020)', 'http://archive.is/38rCU' ]
- - [ 'Fortnite "#FreeFortnite" by The Fortnite Team (13 Aug 2020)', 'http://archive.is/xhsJX' ]
- - [ 'twitter.com/FortniteGame/status/1293851663531495425', 'http://archive.is/Rt1GX' ]
- - [ 'twitter.com/FortniteGame/status/1294006412931223552', 'http://archive.is/nw9lR' ]
- - [ 'twitter.com/FortniteGame/status/1294099748945825792', 'http://archive.is/4Cmkf' ]
- - [ 'twitter.com/EpicNewsroom/status/1295430127455596544', 'http://archive.is/4XFYx' ]
- - [ 'GamesBeat "App Store war: Apple, Google delete Fortnite after Epic Games adds direct payment (Updated)" by Dean Takahashi (13 Aug 2020)', 'http://archive.is/OtvaU' ]
- - [ 'AppleInsider "Apple threatens to close Epic Games developer account on Aug. 28" by Amber Neely (18 Aug 2020)', 'http://archive.is/cRsPL' ]
+ - [ 'Fortnite "The Fortnite Mega Drop - Permanent Discounts Up to 20%" by The Fortnite Team (13 Aug 2020)', 'archive.is/38rCU' ]
+ - [ 'Fortnite "#FreeFortnite" by The Fortnite Team (13 Aug 2020)', 'archive.is/xhsJX' ]
+ - [ 'twitter.com/FortniteGame/status/1293851663531495425', 'archive.is/Rt1GX' ]
+ - [ 'twitter.com/FortniteGame/status/1294006412931223552', 'archive.is/nw9lR' ]
+ - [ 'twitter.com/FortniteGame/status/1294099748945825792', 'archive.is/4Cmkf' ]
+ - [ 'twitter.com/EpicNewsroom/status/1295430127455596544', 'archive.is/4XFYx' ]
+ - [ 'GamesBeat "App Store war: Apple, Google delete Fortnite after Epic Games adds direct payment (Updated)" by Dean Takahashi (13 Aug 2020)', 'archive.is/OtvaU' ]
+ - [ 'AppleInsider "Apple threatens to close Epic Games developer account on Aug. 28" by Amber Neely (18 Aug 2020)', 'archive.is/cRsPL' ]
 extra:
- - [ 'Wall Street Journal "News Publishers Join Fight Against Apple Over App Store Terms" by Benjamin Mullin (20 Aug 2020)', 'https://archive.is/v6LKN' ]
+ - [ 'Wall Street Journal "News Publishers Join Fight Against Apple Over App Store Terms" by Benjamin Mullin (20 Aug 2020)', 'archive.is/v6LKN' ]
 ---
 
 Epic Games, the company behind the game _Fortnite_, announced the "Fortnite

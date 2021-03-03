@@ -6,8 +6,8 @@ corpos: [ youtube ]
 tags: [ alttech-growth, walked-away ]
 profiles: [ dave-cullen ]
 sources:
- - [ 'Dave Cullen "Important Announcement! Major Channel Update" on BitChute (21 Dec 2020)', 'https://www.bitchute.com/video/3nOigXR9fPk/' ]
- - [ 'Styxhexenhammer666 "The Great Youtube Exodus ft. Dave Cullen (Computing Forever)" on BitChute (23 Dec 2020)', 'https://www.bitchute.com/video/tqxTpkLZ-yc/' ]
+ - [ 'Dave Cullen "Important Announcement! Major Channel Update" on BitChute (21 Dec 2020)', 'www.bitchute.com/video/3nOigXR9fPk/' ]
+ - [ 'Styxhexenhammer666 "The Great Youtube Exodus ft. Dave Cullen (Computing Forever)" on BitChute (23 Dec 2020)', 'www.bitchute.com/video/tqxTpkLZ-yc/' ]
 ---
 
 [Dave Cullen](/profiles/dave-cullen/), a political content creator,

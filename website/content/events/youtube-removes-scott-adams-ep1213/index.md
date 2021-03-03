@@ -5,10 +5,10 @@ image: /img/people/scott-adams.jpg
 corpos: [ youtube ]
 tags: [ content-removed, gov ]
 sources:
- - [ 'twitter.com/ScottAdamsSays/status/1337452117934493696', 'https://archive.is/KCmQF' ]
- - [ 'twitter.com/ScottAdamsSays/status/1337539746382323712', 'https://archive.is/FF1os' ]
+ - [ 'twitter.com/ScottAdamsSays/status/1337452117934493696', 'archive.is/KCmQF' ]
+ - [ 'twitter.com/ScottAdamsSays/status/1337539746382323712', 'archive.is/FF1os' ]
 extra:
- - [ '', 'https://socialblade.com/youtube/channel/UCfpnY5NnBl-8L7SvICuYkYQ' ]
+ - [ '', 'socialblade.com/youtube/channel/UCfpnY5NnBl-8L7SvICuYkYQ' ]
 ---
 
 [YouTube](/youtube/) removed _Episode 1213 Scott Adams: Biden COVID Plan,

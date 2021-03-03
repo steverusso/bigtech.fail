@@ -5,9 +5,9 @@ image: /img/misc/goina.png
 corpos: [ google ]
 tags: [ china, wtf ]
 sources:
- - [ 'twitter.com/jenniferatntd/status/1267204660051443719', 'https://archive.is/Up0Zf' ]
- - [ 'twitter.com/jenniferatntd/status/1267205158083198976', 'https://archive.is/wR0Bh' ]
- - [ 'Reclaim The Net "Google Voice Typing censors phrases about Falun Gong, a practice persecuted by the Chinese Communist Party" by Tom Parker (31 May 2020)', 'https://reclaimthenet.org/google-voice-typing-blocking-falun-gong-ccp/' ]
+ - [ 'twitter.com/jenniferatntd/status/1267204660051443719', 'archive.is/Up0Zf' ]
+ - [ 'twitter.com/jenniferatntd/status/1267205158083198976', 'archive.is/wR0Bh' ]
+ - [ 'Reclaim The Net "Google Voice Typing censors phrases about Falun Gong, a practice persecuted by the Chinese Communist Party" by Tom Parker (31 May 2020)', 'reclaimthenet.org/google-voice-typing-blocking-falun-gong-ccp/' ]
 ---
 
 Human rights activist Jennifer Zeng tweeted a video recorded by someone who was

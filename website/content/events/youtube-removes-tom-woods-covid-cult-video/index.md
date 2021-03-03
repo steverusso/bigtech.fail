@@ -5,12 +5,12 @@ image: /img/people/tom-woods.jpg
 corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'twitter.com/mises/status/1331451565438283776', 'https://archive.is/d4btP' ]
- - [ 'twitter.com/jeffdeist/status/1331605670949507072', 'https://archive.is/rVvHc' ]
- - [ 'twitter.com/ThomasEWoods/status/1331418661014429697', 'https://archive.is/bYRsr' ]
- - [ 'twitter.com/ThomasEWoods/status/1331443357604864001', 'https://archive.is/aWcrK' ]
- - [ 'twitter.com/mises/status/1331649199721615363', 'https://archive.is/JEKSZ' ]
- - [ 'Mises Institute "YouTube Attempts to Silence the Mises Institute" by Jeff Deist (25 Nov 2020)', 'https://mises.org/power-market/youtube-attempts-silence-mises-institute' ]
+ - [ 'twitter.com/mises/status/1331451565438283776', 'archive.is/d4btP' ]
+ - [ 'twitter.com/jeffdeist/status/1331605670949507072', 'archive.is/rVvHc' ]
+ - [ 'twitter.com/ThomasEWoods/status/1331418661014429697', 'archive.is/bYRsr' ]
+ - [ 'twitter.com/ThomasEWoods/status/1331443357604864001', 'archive.is/aWcrK' ]
+ - [ 'twitter.com/mises/status/1331649199721615363', 'archive.is/JEKSZ' ]
+ - [ 'Mises Institute "YouTube Attempts to Silence the Mises Institute" by Jeff Deist (25 Nov 2020)', 'mises.org/power-market/youtube-attempts-silence-mises-institute' ]
 ---
 
 [YouTube](/youtube/) removed a video from [_The Mises

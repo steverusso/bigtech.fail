@@ -5,8 +5,8 @@ image: /img/misc/cyberdemon531.jpg
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'twitter.com/PAWGsForBernie/status/1357046979927412736', 'https://archive.is/NC7gl' ]
- - [ 'YouTube "UPDATE: What YouTube Demonetization Means And How You Can Help Me" by Cyberdemon531 (4 Feb 2021)', 'https://www.youtube.com/watch?v=jR6suSK912Y' ]
+ - [ 'twitter.com/PAWGsForBernie/status/1357046979927412736', 'archive.is/NC7gl' ]
+ - [ 'YouTube "UPDATE: What YouTube Demonetization Means And How You Can Help Me" by Cyberdemon531 (4 Feb 2021)', 'www.youtube.com/watch?v=jR6suSK912Y' ]
 ---
 
 [YouTube](/youtube/) demonetized _CyberDemon531_, an anarcho-communist who

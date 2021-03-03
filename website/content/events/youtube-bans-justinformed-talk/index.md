@@ -5,10 +5,10 @@ image: /img/misc/justinformed-talk.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/JustInformU/status/1316779121016414208', 'https://archive.is/WeXtY' ]
- - [ 'twitter.com/JustInformU/status/1316783764786212864', 'https://archive.is/pAEGJ' ]
- - [ 'socialblade.com/youtube/channel/UCm5CkXzGXb-A2XX0nuTctMQ (archived)', 'https://archive.is/LWPaF' ]
- - [ 'twitter.com/saintangelo/status/1316900211520917506', 'https://archive.is/qDjHq' ]
+ - [ 'twitter.com/JustInformU/status/1316779121016414208', 'archive.is/WeXtY' ]
+ - [ 'twitter.com/JustInformU/status/1316783764786212864', 'archive.is/pAEGJ' ]
+ - [ 'socialblade.com/youtube/channel/UCm5CkXzGXb-A2XX0nuTctMQ (archived)', 'archive.is/LWPaF' ]
+ - [ 'twitter.com/saintangelo/status/1316900211520917506', 'archive.is/qDjHq' ]
 youtube:
  subs: 281000
  views: 60154395

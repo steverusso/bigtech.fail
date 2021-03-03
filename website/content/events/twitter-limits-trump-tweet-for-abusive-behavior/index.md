@@ -5,8 +5,8 @@ image: /img/people/trump.jpg
 corpos: [ twitter ]
 tags: [ content-removed ]
 sources:
- - [ 'twitter.com/realDonaldTrump/status/1275409656488382465', 'http://archive.is/umTws' ]
- - [ 'twitter.com/TwitterSafety/status/1275500569940176897', 'http://archive.is/EgAgM' ]
+ - [ 'twitter.com/realDonaldTrump/status/1275409656488382465', 'archive.is/umTws' ]
+ - [ 'twitter.com/TwitterSafety/status/1275500569940176897', 'archive.is/EgAgM' ]
 ---
 
 Twitter disabled the likes, replies, and retweets as well as placed an abusive

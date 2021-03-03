@@ -5,8 +5,8 @@ image: /img/people/tommy-robinson.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'Independent "Tommy Robinson permanently banned from Twitter" by Jon Sharman (28 Mar 2018)', 'https://archive.vn/7pOOP' ]
- - [ 'RT "''Free speech is dead'': Tommy Robinson''s ''ban'' from Twitter sparks outrage and joy" (28 Mar 2018)', 'https://archive.vn/jVKW9' ]
+ - [ 'Independent "Tommy Robinson permanently banned from Twitter" by Jon Sharman (28 Mar 2018)', 'archive.vn/7pOOP' ]
+ - [ 'RT "''Free speech is dead'': Tommy Robinson''s ''ban'' from Twitter sparks outrage and joy" (28 Mar 2018)', 'archive.vn/jVKW9' ]
 ---
 
 Twitter permanently banned Tommy Robinson, **@TRobinsonNewEra**, who had about

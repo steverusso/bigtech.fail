@@ -6,12 +6,12 @@ profiles: [ edge-of-wonder ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/OnEdgeOfWonder/status/1316761200118714372', 'https://archive.is/cqpvn' ]
- - [ 'twitter.com/OnEdgeOfWonder/status/1316783195266985984', 'https://archive.is/OSo7p' ]
- - [ 'Social Blade (Edge of Wonder) socialblade.com/youtube/channel/UCxC2RlwWGHnwXanvHNBmw2w', 'https://archive.is/UTa3p' ]
- - [ 'altCensored - Edge of Wonder altcensored.com/channel/UCxC2RlwWGHnwXanvHNBmw2w', 'https://archive.is/eHKgA' ]
- - [ 'twitter.com/OnEdgeOfWonder/status/1316766284554657794', 'https://archive.is/m9KGF' ]
- - [ 'facebook.com/EdgeOfWonder/ (archive)', 'https://archive.vn/9LoOn' ]
+ - [ 'twitter.com/OnEdgeOfWonder/status/1316761200118714372', 'archive.is/cqpvn' ]
+ - [ 'twitter.com/OnEdgeOfWonder/status/1316783195266985984', 'archive.is/OSo7p' ]
+ - [ 'Social Blade (Edge of Wonder) socialblade.com/youtube/channel/UCxC2RlwWGHnwXanvHNBmw2w', 'archive.is/UTa3p' ]
+ - [ 'altCensored - Edge of Wonder altcensored.com/channel/UCxC2RlwWGHnwXanvHNBmw2w', 'archive.is/eHKgA' ]
+ - [ 'twitter.com/OnEdgeOfWonder/status/1316766284554657794', 'archive.is/m9KGF' ]
+ - [ 'facebook.com/EdgeOfWonder/ (archive)', 'archive.vn/9LoOn' ]
 youtube:
  subs: 467000
  views: 38000000

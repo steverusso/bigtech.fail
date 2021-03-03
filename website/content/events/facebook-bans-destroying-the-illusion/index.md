@@ -6,9 +6,9 @@ profiles: [ jordan-sather ]
 corpos: [ facebook, discord ]
 tags: [ banned ]
 sources:
- - [ 'gab.com/destroyingtheillusion/posts/105051265957360746', 'https://archive.is/d7rIJ' ]
- - [ 'gab.com/destroyingtheillusion/posts/105051284151498486', 'https://archive.is/QzrkL' ]
- - [ 'BitChute "Welcome to the Digital Battlefield - Where To Find Me Now" by Destroying The Illusion (21 Oct 2020)', 'https://www.bitchute.com/video/pOpG1TEPL3Yr/' ]
+ - [ 'gab.com/destroyingtheillusion/posts/105051265957360746', 'archive.is/d7rIJ' ]
+ - [ 'gab.com/destroyingtheillusion/posts/105051284151498486', 'archive.is/QzrkL' ]
+ - [ 'BitChute "Welcome to the Digital Battlefield - Where To Find Me Now" by Destroying The Illusion (21 Oct 2020)', 'www.bitchute.com/video/pOpG1TEPL3Yr/' ]
 ---
 
 Facebook deleted Jordan Sather's personal Facebook account as well his

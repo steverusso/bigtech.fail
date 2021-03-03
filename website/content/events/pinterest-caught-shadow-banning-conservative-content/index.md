@@ -6,11 +6,11 @@ image: /img/logos/pinterest.png
 corpos: [ pinterest ]
 tags: [ shadow-banned, exposed ]
 sources:
- - [ 'Project Veritas', 'https://www.projectveritas.com/2019/06/11/tech-insider-blows-whistle-on-how-pinterest-listed-top-pro-life-site-as-porn-bible-verses-censored/' ]
- - [ 'LiveAction.org', 'https://www.liveaction.org/news/pinterest-censors-live-action-labeling-content-porn/' ]
- - [ 'PJ Media', 'https://pjmedia.com/video/youtube-removes-james-okeefe-and-tim-pooles-pinterest-videos-due-to-privacy-claims-from-a-third-party/' ]
- - [ 'The Daily Caller', 'https://dailycaller.com/2019/06/11/live-action-pinterest-porn/' ]
- - [ 'Loomered.com', 'https://loomered.com/2019/06/12/project-veritas-whistleblower-proves-pinterest-censored-top-pro-life-site-as-pornography/' ]
+ - [ 'Project Veritas', 'www.projectveritas.com/2019/06/11/tech-insider-blows-whistle-on-how-pinterest-listed-top-pro-life-site-as-porn-bible-verses-censored/' ]
+ - [ 'LiveAction.org', 'www.liveaction.org/news/pinterest-censors-live-action-labeling-content-porn/' ]
+ - [ 'PJ Media', 'pjmedia.com/video/youtube-removes-james-okeefe-and-tim-pooles-pinterest-videos-due-to-privacy-claims-from-a-third-party/' ]
+ - [ 'The Daily Caller', 'dailycaller.com/2019/06/11/live-action-pinterest-porn/' ]
+ - [ 'Loomered.com', 'loomered.com/2019/06/12/project-veritas-whistleblower-proves-pinterest-censored-top-pro-life-site-as-pornography/' ]
 ---
 
 Thanks to a Pinterest whistleblower, Project Veritas was able to obtain internal documents that showed the platform was shadow banning different types of conservative content.

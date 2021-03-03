@@ -5,8 +5,8 @@ image: /img/people/dr-judy-mikovits.jpg
 corpos: [ youtube, facebook ]
 tags: [ content-removed, covid, gov ]
 sources:
- - [ 'RT "Censors crack down on ''Plandemic'' conspiracy documentary. What''s so dangerous about it?" (9 May 2020)', 'https://www.rt.com/usa/488215-plandemic-conspiracy-documentary-censorship/' ]
- - [ 'Reclaim The Net "Dr. Judy Mikovits Plandemic documentary removed from YouTube for violating "misinformation" rules" by Fabrizio Bulleri (6 May 2020)', 'https://reclaimthenet.org/plandemic-youtube-removed-judy-mikovits-mikki-willis/' ]
+ - [ 'RT "Censors crack down on ''Plandemic'' conspiracy documentary. What''s so dangerous about it?" (9 May 2020)', 'www.rt.com/usa/488215-plandemic-conspiracy-documentary-censorship/' ]
+ - [ 'Reclaim The Net "Dr. Judy Mikovits Plandemic documentary removed from YouTube for violating "misinformation" rules" by Fabrizio Bulleri (6 May 2020)', 'reclaimthenet.org/plandemic-youtube-removed-judy-mikovits-mikki-willis/' ]
 ---
 
 YouTube and Facebook removed a teaser trailer of an upcoming documentary titled "Plandemic", a film featuring Dr. Judy Mikovits.

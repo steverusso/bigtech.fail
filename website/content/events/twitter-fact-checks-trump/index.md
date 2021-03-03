@@ -5,9 +5,9 @@ image: /img/people/trump.jpg
 corpos: [ twitter ]
 tags: [ gov ]
 sources:
- - [ 'Twitter @realDonaldTrump 1265255835124539392', 'https://archive.vn/NtbND' ]
- - [ 'Breitbart "Twitter Brands Trump Vote-by-Mail Post with Fact Check, Citing CNN" by Allum Bokhari (26 May 2020)', 'https://archive.vn/ekOnH' ]
- - [ 'New York Post "Twitter adds fact-check label to Trump tweets about mail-in voting" by Ebony Bowden (26 May 2020)', 'https://archive.vn/qQKv1' ]
+ - [ 'Twitter @realDonaldTrump 1265255835124539392', 'archive.vn/NtbND' ]
+ - [ 'Breitbart "Twitter Brands Trump Vote-by-Mail Post with Fact Check, Citing CNN" by Allum Bokhari (26 May 2020)', 'archive.vn/ekOnH' ]
+ - [ 'New York Post "Twitter adds fact-check label to Trump tweets about mail-in voting" by Ebony Bowden (26 May 2020)', 'archive.vn/qQKv1' ]
 ---
 
 Twitter took it upon itself to start editorializing the President's tweets

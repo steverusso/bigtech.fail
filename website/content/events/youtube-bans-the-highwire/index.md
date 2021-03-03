@@ -6,10 +6,10 @@ profiles: [ del-bigtree ]
 corpos: [ youtube ]
 tags: [ banned, covid ]
 sources:
- - [ 'BitChute "THE CYBER ATTACK ON TRUTH" by The Highwire with Del Bigtree (30 Jul 2020)', 'https://www.bitchute.com/video/fUswQI1t1p3I/' ]
- - [ 'The HighWire with Del Bigtree''s YouTube Stats (Summary Profile) - Social Blade Stats', 'https://socialblade.com/youtube/channel/UCq6oOuhSx7ESreh6m9LGy6Q' ]
- - [ 'The HighWire with Del Bigtree - altCensored', 'https://altcensored.com/channel/UCq6oOuhSx7ESreh6m9LGy6Q' ]
- - [ 'BitChute "The COVID-19(84) PURGE Continues As YouTube TERMINATES DEL BIGTREE''S "THE HIGHWIRE"!!!" by Press For Truth (30 Jul 2020)', 'https://www.bitchute.com/video/GlRblfHs0GbB/' ]
+ - [ 'BitChute "THE CYBER ATTACK ON TRUTH" by The Highwire with Del Bigtree (30 Jul 2020)', 'www.bitchute.com/video/fUswQI1t1p3I/' ]
+ - [ 'The HighWire with Del Bigtree''s YouTube Stats (Summary Profile) - Social Blade Stats', 'socialblade.com/youtube/channel/UCq6oOuhSx7ESreh6m9LGy6Q' ]
+ - [ 'The HighWire with Del Bigtree - altCensored', 'altcensored.com/channel/UCq6oOuhSx7ESreh6m9LGy6Q' ]
+ - [ 'BitChute "The COVID-19(84) PURGE Continues As YouTube TERMINATES DEL BIGTREE''S "THE HIGHWIRE"!!!" by Press For Truth (30 Jul 2020)', 'www.bitchute.com/video/GlRblfHs0GbB/' ]
 ---
 
 YouTube deleted _The Highwire with Del Bigtree_, likely for espousing opinions

@@ -5,8 +5,8 @@ image: /img/people/james-woods.jpg
 corpos: [ twitter ]
 tags: [ walked-away ]
 sources:
- - [ 'The Daily Wire "James Woods Releases New Statement About Twitter Suspending Him" by Ryan Saavedra (10 May 2019)', 'https://www.dailywire.com/news/james-woods-releases-new-statement-about-twitter-ryan-saavedra' ]
- - [ 'The Gateway Pundit "James Woods Quits Twitter After Social Media Giants Suspends Him Over Tweet Paraphrasing Philosopher Ralph Waldo Emerson" by Cristina Laila (10 May 2019)', 'https://www.thegatewaypundit.com/2019/05/james-woods-quits-twitter-after-social-media-giants-suspends-him-over-tweet-paraphrasing-philosopher-ralph-waldo-emerson/' ]
+ - [ 'The Daily Wire "James Woods Releases New Statement About Twitter Suspending Him" by Ryan Saavedra (10 May 2019)', 'www.dailywire.com/news/james-woods-releases-new-statement-about-twitter-ryan-saavedra' ]
+ - [ 'The Gateway Pundit "James Woods Quits Twitter After Social Media Giants Suspends Him Over Tweet Paraphrasing Philosopher Ralph Waldo Emerson" by Cristina Laila (10 May 2019)', 'www.thegatewaypundit.com/2019/05/james-woods-quits-twitter-after-social-media-giants-suspends-him-over-tweet-paraphrasing-philosopher-ralph-waldo-emerson/' ]
 ---
 
 A few weeks after Twitter [suspended actor James Woods for the 2nd time](/e/twitter-locks-james-woods-account-for-paraphrasing-emerson/), he decided it was time to quit Twitter.

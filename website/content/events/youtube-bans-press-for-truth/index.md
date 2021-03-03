@@ -6,17 +6,17 @@ profiles: [ dan-dicks ]
 corpos: [ youtube ]
 tags: [ banned, oops ]
 sources:
- - [ 'twitter.com/DanDicksPFT/status/1283064872712863745', 'http://archive.is/nMKUk' ]
- - [ 'BitChute "DAN DICKS CENSORED - The Press For Truth YouTube Channel Has Been PERMANENTLY DELETED!!!" by Press For Truth (15 Jul 2020)', 'https://www.bitchute.com/video/oQiBNoHkFCHQ/' ]
- - [ 'PressForTruth.ca "Press For Truth BANNED On YouTube!" (15 Jul 2020)', 'https://pressfortruth.ca/press-for-truth-banned-on-youtube/' ]
- - [ 'BitChute "Dan Dicks Wiped Off YT, TDV Under Attack As The Great Reset Goes Into Hyperdrive" by Dollar_Vigilante (16 Jul 2020)', 'https://www.bitchute.com/video/1Xf2OqMTj2Mg/' ]
- - [ 'Press For Truth - altCensored', 'https://altcensored.com/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
- - [ 'Press For Truth''s YouTube Stats (Summary Profile) - Social Blade Stats', 'https://socialblade.com/youtube/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
- - [ 'twitter.com/TeamYouTube/status/1352679448831733762', 'https://archive.is/gb2Ay' ]
- - [ 'Press For Truth "The Press For Truth YouTube Channel HAS BEEN REINSTATED…SORT OF" on BitChute (22 Jan 2021)', 'https://www.bitchute.com/video/UTedM6e2t3ht/' ]
- - [ 'Press For Truth "Wow Guess Who’s Back!!! What’s The Plan For This Channel?…" on BitChute (9 Feb 2021)', 'https://www.bitchute.com/video/Fc7IWyW3veQ/' ]
+ - [ 'twitter.com/DanDicksPFT/status/1283064872712863745', 'archive.is/nMKUk' ]
+ - [ 'BitChute "DAN DICKS CENSORED - The Press For Truth YouTube Channel Has Been PERMANENTLY DELETED!!!" by Press For Truth (15 Jul 2020)', 'www.bitchute.com/video/oQiBNoHkFCHQ/' ]
+ - [ 'PressForTruth.ca "Press For Truth BANNED On YouTube!" (15 Jul 2020)', 'pressfortruth.ca/press-for-truth-banned-on-youtube/' ]
+ - [ 'BitChute "Dan Dicks Wiped Off YT, TDV Under Attack As The Great Reset Goes Into Hyperdrive" by Dollar_Vigilante (16 Jul 2020)', 'www.bitchute.com/video/1Xf2OqMTj2Mg/' ]
+ - [ 'Press For Truth - altCensored', 'altcensored.com/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
+ - [ 'Press For Truth''s YouTube Stats (Summary Profile) - Social Blade Stats', 'socialblade.com/youtube/channel/UCMOWB-s0Kek9o9sS8xA_kZQ' ]
+ - [ 'twitter.com/TeamYouTube/status/1352679448831733762', 'archive.is/gb2Ay' ]
+ - [ 'Press For Truth "The Press For Truth YouTube Channel HAS BEEN REINSTATED…SORT OF" on BitChute (22 Jan 2021)', 'www.bitchute.com/video/UTedM6e2t3ht/' ]
+ - [ 'Press For Truth "Wow Guess Who’s Back!!! What’s The Plan For This Channel?…" on BitChute (9 Feb 2021)', 'www.bitchute.com/video/Fc7IWyW3veQ/' ]
 extra:
- - [ '', 'https://lbry.tv/@PressForTruth:4/PFT-Terminated-VIDEO:a' ]
+ - [ '', 'lbry.tv/@PressForTruth:4/PFT-Terminated-VIDEO:a' ]
 ---
 
 [YouTube](/youtube/) "permanently disabled" _Press For Truth_, an independent

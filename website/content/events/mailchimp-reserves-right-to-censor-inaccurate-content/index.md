@@ -5,8 +5,8 @@ image: /img/logos/mailchimp.png
 corpos: [ mailchimp ]
 tags: [ policy ]
 sources:
- - [ 'https://mailchimp.com/legal/terms/ (effective: 28 Oct 2020) (archived)', 'https://archive.is/spOEk' ]
- - [ 'Reclaim The Net "Mailchimp makes its censorship rules official, outlines right to ban users for “inaccurate” content" by Didi Rankovic (29 Oct 2020)', 'https://reclaimthenet.org/mailchimp-misinformation-censorship/' ]
+ - [ 'https://mailchimp.com/legal/terms/ (effective: 28 Oct 2020) (archived)', 'archive.is/spOEk' ]
+ - [ 'Reclaim The Net "Mailchimp makes its censorship rules official, outlines right to ban users for “inaccurate” content" by Didi Rankovic (29 Oct 2020)', 'reclaimthenet.org/mailchimp-misinformation-censorship/' ]
 ---
 
 [Mailchimp](/mailchimp/) updated their approximately 6,200 word Terms of

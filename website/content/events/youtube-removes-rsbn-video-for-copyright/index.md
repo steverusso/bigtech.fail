@@ -5,8 +5,8 @@ image: /img/logos/rsbn.jpg
 corpos: [ youtube ]
 tags: [ content-removed, copyright, wtf ]
 sources:
- - [ 'twitter.com/RSBNetwork/status/1279290576345718784', 'https://archive.is/bCsBe' ]
- - [ 'Reclaim The Net "Right Side Broadcasting Network video blocked on YouTube after 1M views over 16 seconds of music" by Didi Rankovic (4 Jul 2020)', 'https://reclaimthenet.org/rsbn-video-blocked-on-youtube-copyright/' ]
+ - [ 'twitter.com/RSBNetwork/status/1279290576345718784', 'archive.is/bCsBe' ]
+ - [ 'Reclaim The Net "Right Side Broadcasting Network video blocked on YouTube after 1M views over 16 seconds of music" by Didi Rankovic (4 Jul 2020)', 'reclaimthenet.org/rsbn-video-blocked-on-youtube-copyright/' ]
 ---
 
 YouTube removed _an 8 hour long_ video published by the Right Side Broadcasting

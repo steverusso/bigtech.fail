@@ -5,8 +5,8 @@ image: /img/logos/patriot-fire.png
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'The Gateway Pundit', 'https://www.thegatewaypundit.com/2019/10/google-leftists-strike-again-youtube-removes-channel-on-trump-border-wall-constrution-says-it-is-hate-speech-and-promotes-violence/' ]
- - [ 'PatriotFire.net', 'https://patriot-fire.net/' ]
+ - [ 'The Gateway Pundit', 'www.thegatewaypundit.com/2019/10/google-leftists-strike-again-youtube-removes-channel-on-trump-border-wall-constrution-says-it-is-hate-speech-and-promotes-violence/' ]
+ - [ 'PatriotFire.net', 'patriot-fire.net/' ]
 ---
 
 YouTube removed Roger Ogden's channel _Patriot Fire_ coinciding with a spike in popularity for what ended up being his last videos on the platform.

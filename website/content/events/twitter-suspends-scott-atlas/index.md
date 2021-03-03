@@ -5,9 +5,9 @@ image: /img/people/dr-scott-atlas.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov, covid ]
 sources:
- - [ 'The Federalist "White House Expert Scott Atlas Censored By Twitter" by David Marcus (18 Oct 2020)', 'https://thefederalist.com/2020/10/18/white-house-expert-scott-atlas-censored-by-twitter/' ]
- - [ 'twitter.com/SWAtlasHoover/status/1317465173347700740', 'https://archive.is/vI6Fu' ]
- - [ 'twitter.com/AlexBerenson/status/1317204350213783552', 'https://archive.is/K5xzR' ]
+ - [ 'The Federalist "White House Expert Scott Atlas Censored By Twitter" by David Marcus (18 Oct 2020)', 'thefederalist.com/2020/10/18/white-house-expert-scott-atlas-censored-by-twitter/' ]
+ - [ 'twitter.com/SWAtlasHoover/status/1317465173347700740', 'archive.is/vI6Fu' ]
+ - [ 'twitter.com/AlexBerenson/status/1317204350213783552', 'archive.is/K5xzR' ]
 ---
 
 Twitter suspended Dr. Scott Atlas, a member of the White House COVID Task

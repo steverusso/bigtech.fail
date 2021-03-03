@@ -5,11 +5,11 @@ image: /img/misc/antifa.png
 corpos: [ twitter ]
 tags: [ banned, gov, election2020 ]
 sources:
- - [ 'twitter.com/MrAndyNgo/status/1352399672594345985', 'https://archive.is/AaKu1' ]
- - [ 'twitter.com/AntifaSac_/status/1352433178879827968', 'https://archive.is/Bv8z4' ]
- - [ 'Breitbart "Antifa Attacks Democrat HQ in Portland — Wants Revenge, Not Biden" by Bob Price (20 Jan 2021)', 'https://archive.is/Tos3S' ]
- - [ 'New York Post "Twitter suspends ‘Antifa’ accounts with more than 71K followers" by Lia Eustachewich (22 Jan 2021)', 'https://archive.is/P5oig' ]
- - [ 'twitter.com/ByMikeBaker/status/1352037060421402629', 'https://archive.is/kQJJE' ]
+ - [ 'twitter.com/MrAndyNgo/status/1352399672594345985', 'archive.is/AaKu1' ]
+ - [ 'twitter.com/AntifaSac_/status/1352433178879827968', 'archive.is/Bv8z4' ]
+ - [ 'Breitbart "Antifa Attacks Democrat HQ in Portland — Wants Revenge, Not Biden" by Bob Price (20 Jan 2021)', 'archive.is/Tos3S' ]
+ - [ 'New York Post "Twitter suspends ‘Antifa’ accounts with more than 71K followers" by Lia Eustachewich (22 Jan 2021)', 'archive.is/P5oig' ]
+ - [ 'twitter.com/ByMikeBaker/status/1352037060421402629', 'archive.is/kQJJE' ]
 ---
 
 [Twitter](/twitter/) banned several far left / Antifa accounts the day after

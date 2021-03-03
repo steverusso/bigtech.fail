@@ -5,11 +5,11 @@ image: /img/logos/wallstreetbets.png
 corpos: [ discord ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/Slasher/status/1354570005686398979', 'https://archive.is/bE5rr' ]
- - [ 'twitter.com/Slasher/status/1354570702448431109', 'https://archive.is/EaRcR' ]
- - [ 'twitter.com/elonmusk/status/1354609515564560392', 'https://archive.is/2T4WD' ]
- - [ 'New York Post "Discord bans r/WallStreetBets server over ‘hate speech’" by Tamar Lapin (27 Jan 2021)', 'https://archive.is/jiAlq' ]
- - [ 'ZeroHedge "Most Shorted Names Soar After WallStreetBets Reopens" by Tyler Durden (27 Jan 2021)', 'https://archive.is/HWpoB' ]
+ - [ 'twitter.com/Slasher/status/1354570005686398979', 'archive.is/bE5rr' ]
+ - [ 'twitter.com/Slasher/status/1354570702448431109', 'archive.is/EaRcR' ]
+ - [ 'twitter.com/elonmusk/status/1354609515564560392', 'archive.is/2T4WD' ]
+ - [ 'New York Post "Discord bans r/WallStreetBets server over ‘hate speech’" by Tamar Lapin (27 Jan 2021)', 'archive.is/jiAlq' ]
+ - [ 'ZeroHedge "Most Shorted Names Soar After WallStreetBets Reopens" by Tyler Durden (27 Jan 2021)', 'archive.is/HWpoB' ]
 ---
 
 Discord banned the official server for the **r/wallstreetbets** sub-reddit for

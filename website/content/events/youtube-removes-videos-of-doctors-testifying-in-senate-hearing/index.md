@@ -5,12 +5,12 @@ image: /img/misc/youwho.png
 corpos: [ youtube ]
 tags: [ content-removed, covid, gov ]
 sources:
- - [ 'twitter.com/SenRonJohnson/status/1354580111849381888', 'https://archive.is/DoFWj' ]
- - [ 'twitter.com/SenRonJohnson/status/1355266972838219782', 'https://archive.is/47km3' ]
- - [ 'twitter.com/SenRonJohnson/status/1355326110872064005', 'https://archive.is/59ZnK' ]
- - [ 'The Federalist "YouTube Nuked Two Videos Of A Senate Hearing On COVID-19 Treatments" by Jordan Davidson (28 Jan 2021)', 'https://archive.is/zEY67' ]
- - [ 'Breitbart "YouTube Deletes Videos of Senate Hearing from Sen. Ron Johnson’s Channel" by Allum Bokhari (28 Jan 2021)', 'https://archive.is/iYgeU' ]
- - [ 'Reclaim The Net "YouTube deletes videos of doctors testifying in Senate Homeland Committee as “coronavirus misinformation”" by Christina Maas  (29 Jan 2021)', 'https://reclaimthenet.org/youtube-deletes-videos-of-doctors-testifying-in-senate-homeland-committee/' ]
+ - [ 'twitter.com/SenRonJohnson/status/1354580111849381888', 'archive.is/DoFWj' ]
+ - [ 'twitter.com/SenRonJohnson/status/1355266972838219782', 'archive.is/47km3' ]
+ - [ 'twitter.com/SenRonJohnson/status/1355326110872064005', 'archive.is/59ZnK' ]
+ - [ 'The Federalist "YouTube Nuked Two Videos Of A Senate Hearing On COVID-19 Treatments" by Jordan Davidson (28 Jan 2021)', 'archive.is/zEY67' ]
+ - [ 'Breitbart "YouTube Deletes Videos of Senate Hearing from Sen. Ron Johnson’s Channel" by Allum Bokhari (28 Jan 2021)', 'archive.is/iYgeU' ]
+ - [ 'Reclaim The Net "YouTube deletes videos of doctors testifying in Senate Homeland Committee as “coronavirus misinformation”" by Christina Maas  (29 Jan 2021)', 'reclaimthenet.org/youtube-deletes-videos-of-doctors-testifying-in-senate-homeland-committee/' ]
 ---
 
 [YouTube](/youtube/) removed two videos from Senator Ron Johnson's channel for

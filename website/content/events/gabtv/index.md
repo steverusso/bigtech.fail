@@ -5,7 +5,7 @@ image: /img/logos/gab.png
 corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:
- - [ 'Gab News "Introducing GabTV: The New Media is You Media" by Andrew Torba (21 Dec 2020)', 'https://archive.is/VSMtx' ]
+ - [ 'Gab News "Introducing GabTV: The New Media is You Media" by Andrew Torba (21 Dec 2020)', 'archive.is/VSMtx' ]
 ---
 
 Andrew Torba, the CEO of Gab, announced the launch of a new alternative YouTube

@@ -5,10 +5,10 @@ image: /img/people/tulsi-gabbard.jpg
 corpos: [ patreon ]
 tags: [ alttech-growth ]
 sources:
- - [ 'twitter.com/OnLocals/status/1348753546934587392', 'https://archive.is/z0zic' ]
- - [ 'twitter.com/RubinReport/status/1348715207812468738', 'https://archive.is/NRTvz' ]
- - [ 'twitter.com/RubinReport/status/1348716475524149248', 'https://archive.is/0GyIf' ]
- - [ 'YouTube "Social Media Purge, Big Tech & Special Announcement | Tulsi Gabbard | DIRECT MESSAGE | Rubin Report" by The Rubin Report (11 Jan 2021)', 'https://www.youtube.com/watch?v=VCGp-zYjUKA' ]
+ - [ 'twitter.com/OnLocals/status/1348753546934587392', 'archive.is/z0zic' ]
+ - [ 'twitter.com/RubinReport/status/1348715207812468738', 'archive.is/NRTvz' ]
+ - [ 'twitter.com/RubinReport/status/1348716475524149248', 'archive.is/0GyIf' ]
+ - [ 'YouTube "Social Media Purge, Big Tech & Special Announcement | Tulsi Gabbard | DIRECT MESSAGE | Rubin Report" by The Rubin Report (11 Jan 2021)', 'www.youtube.com/watch?v=VCGp-zYjUKA' ]
 ---
 
 Former Congresswoman Tulsi Gabbard started her own community on Locals! It's

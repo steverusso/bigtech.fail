@@ -5,8 +5,8 @@ image: /img/misc/cbp-mark-morgan.png
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
- - [ 'thefederalist.com/2020/10/29/exclusive-twitter-suspends-u-s-border-chief-for-celebrating-walls-protection-from-illegal-aliens/', 'https://archive.is/B1lBh' ]
- - [ 'twitter.com/CBPMarkMorgan/status/1321892148787220480', 'https://archive.is/JBwdp' ]
+ - [ 'thefederalist.com/2020/10/29/exclusive-twitter-suspends-u-s-border-chief-for-celebrating-walls-protection-from-illegal-aliens/', 'archive.is/B1lBh' ]
+ - [ 'twitter.com/CBPMarkMorgan/status/1321892148787220480', 'archive.is/JBwdp' ]
 ---
 
 Twitter suspended U.S. Border Chief Mark Morgan because the following tweet

@@ -5,11 +5,11 @@ image: /img/misc/liberal-larry.jpg
 corpos: [ twitter ]
 tags: [ banned, humor ]
 sources:
- - [ 'share.par.pw/post/690d9b843ad44fd6a1e619d4da2aa11a', 'https://archive.is/uDQj6' ]
- - [ 'facebook.com/larrydaliberal/posts/2720064991574080', 'https://archive.is/VxBW4' ]
- - [ 'Liberal Larry ? model, travel, fashion vlogger''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'https://socialblade.com/twitter/user/larrydaliberal' ]
- - [ 'Hollywood in Toto "Comic Suspended by Twitter: ''Suspicious'' Timing to Blunt DNC Jokes" by Christian Toto', 'https://www.hollywoodintoto.com/steve-mcgrew-liberal-larry-twitter-suspensions/' ]
- - [ 'Last archive of "twitter.com/larrydaliberal"', 'http://archive.is/Y9Xdv' ]
+ - [ 'share.par.pw/post/690d9b843ad44fd6a1e619d4da2aa11a', 'archive.is/uDQj6' ]
+ - [ 'facebook.com/larrydaliberal/posts/2720064991574080', 'archive.is/VxBW4' ]
+ - [ 'Liberal Larry ? model, travel, fashion vlogger''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'socialblade.com/twitter/user/larrydaliberal' ]
+ - [ 'Hollywood in Toto "Comic Suspended by Twitter: ''Suspicious'' Timing to Blunt DNC Jokes" by Christian Toto', 'www.hollywoodintoto.com/steve-mcgrew-liberal-larry-twitter-suspensions/' ]
+ - [ 'Last archive of "twitter.com/larrydaliberal"', 'archive.is/Y9Xdv' ]
 ---
 
 Twitter [permanently banned](notice.jpg) the left-wing parody account Liberal

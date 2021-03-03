@@ -6,10 +6,10 @@ corpos: [ twitter ]
 tags: [ exposed, policy, restricted, election2020, capitol-riot ]
 profiles: [ project-veritas ]
 sources:
- - [ '', 'https://www.projectveritas.com/news/exclusive-twitter-insider-records-ceo-jack-dorsey-laying-out-roadmap-for/' ]
- - [ 'twitter.com/JamesOKeefeIII/status/1349853804590579713', 'https://archive.is/kxoHk' ]
- - [ 'twitter.com/JamesOKeefeIII/status/1349881697966448643', 'https://archive.is/Y4IkK' ]
- - [ 'Project Veritas "Round 2, Jack! 01.18.21 11AM" on BitChute (18 Jan 2021)', 'https://www.bitchute.com/video/vzbootPBRkM/?list=subscriptions' ]
+ - [ '', 'www.projectveritas.com/news/exclusive-twitter-insider-records-ceo-jack-dorsey-laying-out-roadmap-for/' ]
+ - [ 'twitter.com/JamesOKeefeIII/status/1349853804590579713', 'archive.is/kxoHk' ]
+ - [ 'twitter.com/JamesOKeefeIII/status/1349881697966448643', 'archive.is/Y4IkK' ]
+ - [ 'Project Veritas "Round 2, Jack! 01.18.21 11AM" on BitChute (18 Jan 2021)', 'www.bitchute.com/video/vzbootPBRkM/?list=subscriptions' ]
 ---
 
 Project Veritas released a leaked video of Twitter's CEO Jack Dorsey detailing

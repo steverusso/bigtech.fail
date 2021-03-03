@@ -5,9 +5,9 @@ image: /img/logos/americanaf.jpg
 corpos: [ facebook ]
 tags: [ banned ]
 sources:
- - [ 'facebook.com/americanafshop/posts/1470511479825491', 'https://archive.is/pbTpr' ]
- - [ 'American Military News "Facebook bans $35M vet-owned American AF page from platform over Trump merchandise" by Laura Widener (27 Oct 2020)', 'https://archive.is/XdL8i' ]
- - [ 'FreedomWire "The Tyranny of Zuckerberg Comes For Verteran-Owned Business" by Sean Robertson (29 Oct 2020)', 'https://archive.is/l18Ug' ]
+ - [ 'facebook.com/americanafshop/posts/1470511479825491', 'archive.is/pbTpr' ]
+ - [ 'American Military News "Facebook bans $35M vet-owned American AF page from platform over Trump merchandise" by Laura Widener (27 Oct 2020)', 'archive.is/XdL8i' ]
+ - [ 'FreedomWire "The Tyranny of Zuckerberg Comes For Verteran-Owned Business" by Sean Robertson (29 Oct 2020)', 'archive.is/l18Ug' ]
 ---
 
 Facebook banned _AmericanAF_, a political merchandise shop, without warning for

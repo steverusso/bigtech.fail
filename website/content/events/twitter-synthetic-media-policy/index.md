@@ -5,9 +5,9 @@ image: /img/misc/ttas.png
 corpos: [ twitter ]
 tags: [ policy ]
 sources:
- - [ 'blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html', 'https://archive.is/USaDf' ]
- - [ 'twitter.com/TwitterSafety/status/1224799838895607809', 'https://archive.is/OWlyG' ]
- - [ 'BitChute "Twitter Rolls Out Draconian Newspeak Rule Against "Synthetic Media" (Bitchute Exclusive)" by Styxhexenhammer666 (5 Feb 2020)', 'https://www.bitchute.com/video/UmPJ4HKpts0s/' ]
+ - [ 'blog.twitter.com/en_us/topics/company/2020/new-approach-to-synthetic-and-manipulated-media.html', 'archive.is/USaDf' ]
+ - [ 'twitter.com/TwitterSafety/status/1224799838895607809', 'archive.is/OWlyG' ]
+ - [ 'BitChute "Twitter Rolls Out Draconian Newspeak Rule Against "Synthetic Media" (Bitchute Exclusive)" by Styxhexenhammer666 (5 Feb 2020)', 'www.bitchute.com/video/UmPJ4HKpts0s/' ]
 ---
 
 Twitter announced a new policy against "synthetic media" in a [blog

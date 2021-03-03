@@ -5,11 +5,11 @@ image: /img/misc/qanon.jpg
 corpos: [ twitter ]
 tags: [ banned, content-removed ]
 sources:
- - [ 'The Hill "Twitter bans thousands of QAnon accounts in crackdown" by Chris Mills Rodrigo (21 Jul 2020)', 'http://archive.vn/PzbDx' ]
- - [ 'Twitter @TwitterSafety 1285726277719199746', 'http://archive.vn/vMnTs' ]
- - [ 'BitChute "Twitter Purges More Accounts, Hyperventilates About the Qanon LARP (Bitchute Exclusive)" by Styxhexenhammer666 (22 Jul 2020)', 'https://www.bitchute.com/video/ob6Cq7T5AZlH/' ]
- - [ 'Reclaim The Net "Twitter blacklists QAnon content, purges over 7,000 accounts, and suppresses 150,000 others" by Tom Parker (21 Jul 2020)', 'https://reclaimthenet.org/twitter-blacklists-qanon-content/' ]
- - [ 'Twitter @NBCNews 1285726650001502209', 'http://archive.vn/wkzqm' ]
+ - [ 'The Hill "Twitter bans thousands of QAnon accounts in crackdown" by Chris Mills Rodrigo (21 Jul 2020)', 'archive.vn/PzbDx' ]
+ - [ 'Twitter @TwitterSafety 1285726277719199746', 'archive.vn/vMnTs' ]
+ - [ 'BitChute "Twitter Purges More Accounts, Hyperventilates About the Qanon LARP (Bitchute Exclusive)" by Styxhexenhammer666 (22 Jul 2020)', 'www.bitchute.com/video/ob6Cq7T5AZlH/' ]
+ - [ 'Reclaim The Net "Twitter blacklists QAnon content, purges over 7,000 accounts, and suppresses 150,000 others" by Tom Parker (21 Jul 2020)', 'reclaimthenet.org/twitter-blacklists-qanon-content/' ]
+ - [ 'Twitter @NBCNews 1285726650001502209', 'archive.vn/wkzqm' ]
 ---
 
 Twitter placed any activity related to the [QAnon](http://archive.is/EB23Q)

@@ -5,7 +5,7 @@ image: /img/misc/ttas.png
 corpos: [ twitter ]
 tags: [ policy, covid, gov ]
 sources:
- - [ 'Twitter Blog "COVID-19: Our approach to misleading vaccine information" by Twitter Safety (16 Dec 2020)', 'https://archive.is/wnYXB' ]
+ - [ 'Twitter Blog "COVID-19: Our approach to misleading vaccine information" by Twitter Safety (16 Dec 2020)', 'archive.is/wnYXB' ]
 ---
 
 [Twitter](/twitter/) announced in a blog post that they would be removing

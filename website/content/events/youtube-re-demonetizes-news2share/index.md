@@ -6,9 +6,9 @@ profiles: [ ford-fischer ]
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'twitter.com/FordFischer/status/1209154170646925313', 'https://archive.is/BWTFK' ]
- - [ 'twitter.com/FordFischer/status/1209204304776761346', 'https://archive.is/14ABB' ]
- - [ 'Reclaim The Net "Ford Fischer highlights YouTube’s unfair treatment of independent journalists" by Carl Sinclair (24 Dec 2019)', 'https://reclaimthenet.org/ford-fischer-youtube-demonetized/' ]
+ - [ 'twitter.com/FordFischer/status/1209154170646925313', 'archive.is/BWTFK' ]
+ - [ 'twitter.com/FordFischer/status/1209204304776761346', 'archive.is/14ABB' ]
+ - [ 'Reclaim The Net "Ford Fischer highlights YouTube’s unfair treatment of independent journalists" by Carl Sinclair (24 Dec 2019)', 'reclaimthenet.org/ford-fischer-youtube-demonetized/' ]
 ---
 
 Six months after [demonetizing](/e/youtube-demonetizes-news2share/)

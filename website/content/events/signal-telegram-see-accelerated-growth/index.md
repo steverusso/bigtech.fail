@@ -5,18 +5,18 @@ image: /img/logos/signal.png
 corpos: [ facebook ]
 tags: [ alttech-growth ]
 sources:
- - [ 'Engadget "WhatsApp: Let us share your data with Facebook or else" by Chris Velazco (7 Jan 2021)', 'https://archive.is/bYPHF' ]
- - [ 'twitter.com/elonmusk/status/1347165127036977153', 'https://archive.is/l7v1x' ]
- - [ 'twitter.com/signalapp/status/1348303100759560196', 'https://archive.is/uhLy4' ]
- - [ 'twitter.com/signalapp/status/1349577579091566592', 'https://archive.is/2y68k' ]
- - [ 'Reuters "Signal sees "unprecedented" growth after WhatsApp controversy" by Munsif Vengattil, Eva Mathews (13 Jan 2021)', 'https://archive.is/ouLPZ' ]
- - [ 'https://t.me/durov/147', 'https://archive.is/XslYs' ]
- - [ 'https://t.me/durov/145', 'https://archive.is/XImPB' ]
- - [ 'Trusted Reviews "WhatsApp gives users ultimatum – share data with Facebook or lose access" by Chris Smith (7 Jan 2021)', 'https://archive.is/WgjdG' ]
- - [ 'Sensor Tower "Top Apps Worldwide for January 2021 by Downloads" (4 Feb 2021)', 'https://archive.is/ep9cO' ]
+ - [ 'Engadget "WhatsApp: Let us share your data with Facebook or else" by Chris Velazco (7 Jan 2021)', 'archive.is/bYPHF' ]
+ - [ 'twitter.com/elonmusk/status/1347165127036977153', 'archive.is/l7v1x' ]
+ - [ 'twitter.com/signalapp/status/1348303100759560196', 'archive.is/uhLy4' ]
+ - [ 'twitter.com/signalapp/status/1349577579091566592', 'archive.is/2y68k' ]
+ - [ 'Reuters "Signal sees "unprecedented" growth after WhatsApp controversy" by Munsif Vengattil, Eva Mathews (13 Jan 2021)', 'archive.is/ouLPZ' ]
+ - [ 'https://t.me/durov/147', 'archive.is/XslYs' ]
+ - [ 'https://t.me/durov/145', 'archive.is/XImPB' ]
+ - [ 'Trusted Reviews "WhatsApp gives users ultimatum – share data with Facebook or lose access" by Chris Smith (7 Jan 2021)', 'archive.is/WgjdG' ]
+ - [ 'Sensor Tower "Top Apps Worldwide for January 2021 by Downloads" (4 Feb 2021)', 'archive.is/ep9cO' ]
 extra:
- - [ 'https://t.me/durov/148', 'https://archive.is/fX96k' ]
- - [ 'twitter.com/signalapp/status/1348079223701794819', 'https://archive.is/RPLW2' ]
+ - [ 'https://t.me/durov/148', 'archive.is/fX96k' ]
+ - [ 'twitter.com/signalapp/status/1348079223701794819', 'archive.is/RPLW2' ]
 ---
 
 In an update to their Terms of Service, the [Facebook](/facebook/) owned

@@ -5,13 +5,13 @@ image: /img/people/tucker-carlson.jpg
 corpos: [ facebook, instagram ]
 tags: [ gov, china, covid ]
 sources:
- - [ 'Reclaim The Net "Tucker Carlson slams Facebook and Instagram for censoring his Dr. Li-Meng Yan interview" by Tom Parker (17 Sep 2020)', 'https://reclaimthenet.org/facebook-censors-tucker-dr-yan/' ]
- - [ 'instagram.com/p/CFLZucohOm2/ (archive)', 'https://archive.is/S9DSo' ]
- - [ 'facebook.com/TuckerCarlsonTonight/videos/1313419555494941/ (archive)', 'https://archive.is/6p3FF' ]
- - [ 'instagram.com/p/CFN-1EeBGGi/ (archive)', 'https://archive.is/1YMoY' ]
- - [ 'facebook.com/TuckerCarlsonTonight/videos/652543642048920/ (archive)', 'https://archive.vn/XHNjl' ]
- - [ 'twitter.com/TuckerCarlson/status/1306053036448583680', 'https://archive.is/0HixN' ]
- - [ 'Fox News "Tucker Carlson criticizes Facebook for censoring interview with Chinese virologist" by Sam Dorman (17 Sep 2020)', 'https://archive.is/qQqzp' ]
+ - [ 'Reclaim The Net "Tucker Carlson slams Facebook and Instagram for censoring his Dr. Li-Meng Yan interview" by Tom Parker (17 Sep 2020)', 'reclaimthenet.org/facebook-censors-tucker-dr-yan/' ]
+ - [ 'instagram.com/p/CFLZucohOm2/ (archive)', 'archive.is/S9DSo' ]
+ - [ 'facebook.com/TuckerCarlsonTonight/videos/1313419555494941/ (archive)', 'archive.is/6p3FF' ]
+ - [ 'instagram.com/p/CFN-1EeBGGi/ (archive)', 'archive.is/1YMoY' ]
+ - [ 'facebook.com/TuckerCarlsonTonight/videos/652543642048920/ (archive)', 'archive.vn/XHNjl' ]
+ - [ 'twitter.com/TuckerCarlson/status/1306053036448583680', 'archive.is/0HixN' ]
+ - [ 'Fox News "Tucker Carlson criticizes Facebook for censoring interview with Chinese virologist" by Sam Dorman (17 Sep 2020)', 'archive.is/qQqzp' ]
 ---
 
 Facebook and Instagram suppressed Tucker Carlson's interview with [Dr. Li-Meng

@@ -5,9 +5,9 @@ image: /img/misc/benjamin-tommy-ukip.jpg
 corpos: [ twitter ]
 tags: [ banned, gov ]
 sources:
- - [ 'The Hill "Twitter suspends EU election campaign accounts for two candidates who were previously banned" by Emily Birnbaum (26 Apr 2019)', 'https://archive.vn/4cbPB' ]
- - [ 'The Gateway Pundit "MORE ELECTION MEDDLING? Twitter Bans UKIP Campaign Account for Carl Benjamin, Better Known as Sargon of Akkad" by Cassandra Fairbanks (26 Apr 2019)', 'https://archive.vn/BVLVm' ]
- - [ 'RT "''How is this not meddling?'' Twitter bans Tommy Robinson, Sargon of Akkad campaign accounts" (26 Apr 2019)', 'https://archive.vn/U9ghv' ]
+ - [ 'The Hill "Twitter suspends EU election campaign accounts for two candidates who were previously banned" by Emily Birnbaum (26 Apr 2019)', 'archive.vn/4cbPB' ]
+ - [ 'The Gateway Pundit "MORE ELECTION MEDDLING? Twitter Bans UKIP Campaign Account for Carl Benjamin, Better Known as Sargon of Akkad" by Cassandra Fairbanks (26 Apr 2019)', 'archive.vn/BVLVm' ]
+ - [ 'RT "''How is this not meddling?'' Twitter bans Tommy Robinson, Sargon of Akkad campaign accounts" (26 Apr 2019)', 'archive.vn/U9ghv' ]
 ---
 
 Twitter removed the European Parliment campaign accounts for Carl Benjamin

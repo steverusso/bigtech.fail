@@ -5,8 +5,8 @@ image: /img/people/julian-assange.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
- - [ 'New York Post "Julian Assange''s Twitter account mysteriously disappears" by Mark Moore (25 Dec 2017)', 'https://archive.vn/yUP7C' ]
- - [ 'Twitter @USNavy 945327761811476481', 'https://archive.vn/HrI15' ]
+ - [ 'New York Post "Julian Assange''s Twitter account mysteriously disappears" by Mark Moore (25 Dec 2017)', 'archive.vn/yUP7C' ]
+ - [ 'Twitter @USNavy 945327761811476481', 'archive.vn/HrI15' ]
 ---
 
 Julian Assange's Twitter account was suddenly removed early in the day on

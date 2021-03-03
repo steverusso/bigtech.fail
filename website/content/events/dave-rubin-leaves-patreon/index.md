@@ -6,8 +6,8 @@ profiles: [ dave-rubin ]
 corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
- - [ 'Dave Rubin & Jordan Peterson YouTube Livestream (1 Jan 2019)', 'https://www.youtube.com/watch?v=Zp9ZJiFFBnU' ]
- - [ 'Dave Rubin - Tweet 1085206222788165639', 'https://web.archive.org/web/20190115172654/https://twitter.com/RubinReport/status/1085206222788165639' ]
+ - [ 'Dave Rubin & Jordan Peterson YouTube Livestream (1 Jan 2019)', 'www.youtube.com/watch?v=Zp9ZJiFFBnU' ]
+ - [ 'Dave Rubin - Tweet 1085206222788165639', 'web.archive.org/web/20190115172654/https://twitter.com/RubinReport/status/1085206222788165639' ]
 ---
 
 Like many other creators, Dave Rubin experienced severe Patreon losses due to the [Sargon ban](/e/patreon-bans-sargon/).

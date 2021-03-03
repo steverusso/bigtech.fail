@@ -6,8 +6,8 @@ profiles: [ styxhexenhammer666 ]
 corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
- - [ 'BitChute "Twitter Thinks Supporting Kyle Rittenhouse and Self Defense "Glorifies Violence"" by Styxhexenhammer666 (9 Sep 2020)', 'https://www.bitchute.com/video/Uck1Xd2WVxU/' ]
- - [ 'imgur.com/a/xRrFdeC', 'https://imgur.com/a/xRrFdeC' ]
+ - [ 'BitChute "Twitter Thinks Supporting Kyle Rittenhouse and Self Defense "Glorifies Violence"" by Styxhexenhammer666 (9 Sep 2020)', 'www.bitchute.com/video/Uck1Xd2WVxU/' ]
+ - [ 'imgur.com/a/xRrFdeC', 'imgur.com/a/xRrFdeC' ]
 ---
 
 Twitter [temporarily suspended](notice.png) Styxhexenhammer666 for "glorifying

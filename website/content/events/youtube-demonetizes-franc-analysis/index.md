@@ -5,12 +5,12 @@ image: /img/misc/franc-analysis.jpg
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'twitter.com/B43Franco/status/1357058385728966659', 'https://archive.is/wip/LdroC' ]
- - [ 'twitter.com/B43Franco/status/1357055412558790659', 'https://archive.is/yblwS' ]
- - [ 'twitter.com/B43Franco/status/1357421991838556162', 'https://archive.is/o7SX5' ]
- - [ 'twitter.com/B43Franco/status/1357424603090587650', 'https://archive.is/qaxYM' ]
- - [ 'twitter.com/B43Franco/status/1357181736900296709', 'https://archive.is/PaEMk' ]
- - [ 'twitter.com/B43Franco/status/1357123993476726785', 'https://archive.is/ClZzE' ]
+ - [ 'twitter.com/B43Franco/status/1357058385728966659', 'archive.is/wip/LdroC' ]
+ - [ 'twitter.com/B43Franco/status/1357055412558790659', 'archive.is/yblwS' ]
+ - [ 'twitter.com/B43Franco/status/1357421991838556162', 'archive.is/o7SX5' ]
+ - [ 'twitter.com/B43Franco/status/1357424603090587650', 'archive.is/qaxYM' ]
+ - [ 'twitter.com/B43Franco/status/1357181736900296709', 'archive.is/PaEMk' ]
+ - [ 'twitter.com/B43Franco/status/1357123993476726785', 'archive.is/ClZzE' ]
 ---
 
 [YouTube](/youtube/) demonetized _Franc Analysis_, a progressive political talk

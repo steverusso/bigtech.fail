@@ -5,10 +5,10 @@ image: /img/people/rcohlers.jpg
 corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:
- - [ 'World Tribune "Twitter suspends author of WorldTribune article on hydroxychloroquine" by R. Clinton Ohlers (24 Sep 2020)', 'https://archive.is/V00gO' ]
- - [ 'share.par.pw/post/bd216c089ca0439c9465cb4073a624a8', 'https://archive.is/CUT4F' ]
- - [ 'share.par.pw/post/abb0a8409f0e4688a5578d261dbe3cd7', 'https://archive.is/vDJU7' ]
- - [ 'FreePressers "Washington Exposé: Episode 112 - KICKED OFF TWITTER FOR TELLING THE TRUTH ABOUT FAUCI''S LIES" (24 Sep 2020)', 'https://freepressers.com/washington-expose/washington-expose-episode-112-kicked-off-twitter-for-telling-the-truth-about-fauci-s-lies' ]
+ - [ 'World Tribune "Twitter suspends author of WorldTribune article on hydroxychloroquine" by R. Clinton Ohlers (24 Sep 2020)', 'archive.is/V00gO' ]
+ - [ 'share.par.pw/post/bd216c089ca0439c9465cb4073a624a8', 'archive.is/CUT4F' ]
+ - [ 'share.par.pw/post/abb0a8409f0e4688a5578d261dbe3cd7', 'archive.is/vDJU7' ]
+ - [ 'FreePressers "Washington Exposé: Episode 112 - KICKED OFF TWITTER FOR TELLING THE TRUTH ABOUT FAUCI''S LIES" (24 Sep 2020)', 'freepressers.com/washington-expose/washington-expose-episode-112-kicked-off-twitter-for-telling-the-truth-about-fauci-s-lies' ]
 ---
 
 Twitter suspended R. Clinton Ohlers, a contributing editor for Free Press Media

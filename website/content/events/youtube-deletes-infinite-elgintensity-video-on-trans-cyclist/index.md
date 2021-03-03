@@ -6,7 +6,7 @@ summary: Please go watch the video on BitChute. It's hilarious.
 corpos: [ youtube ]
 tags: [ content-removed, trans ]
 sources:
- - [ 'InfiniteElgintensity - YouTube Community Comment', 'https://www.youtube.com/channel/UCljYmI53HACHnVa3d3JfFlw/community?lb=UgzIA6uNwH2KCQHuR294AaABCQ' ]
+ - [ 'InfiniteElgintensity - YouTube Community Comment', 'www.youtube.com/channel/UCljYmI53HACHnVa3d3JfFlw/community?lb=UgzIA6uNwH2KCQHuR294AaABCQ' ]
 ---
 
 BigTech enforces an absurd level of censorship when it comes to any transgender-related material that is any bit critical.

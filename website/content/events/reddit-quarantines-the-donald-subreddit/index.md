@@ -5,9 +5,9 @@ image: /img/logos/reddit-the-donald.png
 corpos: [ reddit ]
 tags: [ restricted ]
 sources:
- - [ 'The Verge "Reddit quarantines Trump subreddit r/The_Donald for violent comments" by Adi Robertson (26 Jun 2019)', 'http://archive.is/tlgBU' ]
- - [ 'Bounding Into Comics "CENSORSHIP: Reddit Quarantines The_Donald Subreddit – Carlos Maza Involved!" by Jorge Arenas (26 Jun 2019)', 'http://archive.is/UV94y' ]
- - [ 'RealClearPolitics "Reddit Must End Politically Motivated Publishing Decisions" by Jim Banks (31 Oct 2019)', 'http://archive.is/PFlFb' ]
+ - [ 'The Verge "Reddit quarantines Trump subreddit r/The_Donald for violent comments" by Adi Robertson (26 Jun 2019)', 'archive.is/tlgBU' ]
+ - [ 'Bounding Into Comics "CENSORSHIP: Reddit Quarantines The_Donald Subreddit – Carlos Maza Involved!" by Jorge Arenas (26 Jun 2019)', 'archive.is/UV94y' ]
+ - [ 'RealClearPolitics "Reddit Must End Politically Motivated Publishing Decisions" by Jim Banks (31 Oct 2019)', 'archive.is/PFlFb' ]
 ---
 
 The [r/The_Donald](https://www.reddit.com/r/The_Donald/) subreddit started to

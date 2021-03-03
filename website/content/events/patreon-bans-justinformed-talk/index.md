@@ -5,11 +5,11 @@ image: /img/misc/justinformed-talk.jpg
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'twitter.com/JustInformU/status/1319346634782748672', 'https://archive.is/PVwer' ]
- - [ 'twitter.com/JustInformU/status/1319352201983062016', 'https://archive.is/QYbe8' ]
- - [ 'twitter.com/JustInformU/status/1319795258570371072', 'https://archive.is/N2QhL' ]
- - [ 'graphtreon.com/creator/justinformedtalk (archived)', 'https://archive.is/fI5Uw' ]
- - [ 'patreon.com/justinformedtalk (archived removal notice)', 'https://archive.is/644KC' ]
+ - [ 'twitter.com/JustInformU/status/1319346634782748672', 'archive.is/PVwer' ]
+ - [ 'twitter.com/JustInformU/status/1319352201983062016', 'archive.is/QYbe8' ]
+ - [ 'twitter.com/JustInformU/status/1319795258570371072', 'archive.is/N2QhL' ]
+ - [ 'graphtreon.com/creator/justinformedtalk (archived)', 'archive.is/fI5Uw' ]
+ - [ 'patreon.com/justinformedtalk (archived removal notice)', 'archive.is/644KC' ]
 ---
 
 [Patreon](/patreon/) banned [_JustInformed

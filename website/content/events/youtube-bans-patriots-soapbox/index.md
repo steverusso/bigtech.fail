@@ -6,11 +6,11 @@ profiles: [ patriots-soapbox ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'altCensored - Patriots'' Soapbox News Network LIVE', 'https://archive.is/yaYtv' ]
- - [ 'Social Blade (Patriots'' Soapbox News Network LIVE) socialblade.com/youtube/channel/UCWW3gYCvKS412p7o6qSK5gg', 'https://archive.is/0WhUW' ]
- - [ 'twitter.com/NotPsb/status/1316759024981999618', 'https://archive.is/XNBM9' ]
- - [ 'twitter.com/NotPsb/status/1316763700339113987', 'https://archive.is/llCa7' ]
- - [ 'facebook.com/SoapboxNews/photos/a.221571266027684/221570862694391/', 'https://archive.is/hvsFN' ]
+ - [ 'altCensored - Patriots'' Soapbox News Network LIVE', 'archive.is/yaYtv' ]
+ - [ 'Social Blade (Patriots'' Soapbox News Network LIVE) socialblade.com/youtube/channel/UCWW3gYCvKS412p7o6qSK5gg', 'archive.is/0WhUW' ]
+ - [ 'twitter.com/NotPsb/status/1316759024981999618', 'archive.is/XNBM9' ]
+ - [ 'twitter.com/NotPsb/status/1316763700339113987', 'archive.is/llCa7' ]
+ - [ 'facebook.com/SoapboxNews/photos/a.221571266027684/221570862694391/', 'archive.is/hvsFN' ]
 youtube:
  subs: 80745
  views: 21810131

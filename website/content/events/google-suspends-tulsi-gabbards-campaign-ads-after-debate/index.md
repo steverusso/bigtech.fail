@@ -5,10 +5,10 @@ image: /img/people/tulsi-gabbard.jpg
 corpos: [ google ]
 tags: [ suspended ]
 sources:
- - [ 'The Daily Caller', 'https://dailycaller.com/2019/07/25/tulsi-gabbard-sues-google/' ]
- - [ 'Breitbart', 'https://www.breitbart.com/tech/2019/07/25/tulsi-gabbard-sues-google-for-censorship-of-ads/' ]
- - [ 'Tulsi2020.com', 'https://www.tulsi2020.com/tulsi-vs-google' ]
- - [ 'The Hill', 'https://thehill.com/homenews/media/450601-gabbard-is-most-searched-on-google-after-democratic-debate' ]
+ - [ 'The Daily Caller', 'dailycaller.com/2019/07/25/tulsi-gabbard-sues-google/' ]
+ - [ 'Breitbart', 'www.breitbart.com/tech/2019/07/25/tulsi-gabbard-sues-google-for-censorship-of-ads/' ]
+ - [ 'Tulsi2020.com', 'www.tulsi2020.com/tulsi-vs-google' ]
+ - [ 'The Hill', 'thehill.com/homenews/media/450601-gabbard-is-most-searched-on-google-after-democratic-debate' ]
 ---
 
 On June 27th, after the second round of the first Democratic primary debate, Tulsi Gabbard was the most searched for candidate (according to several reports).

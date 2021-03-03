@@ -6,14 +6,14 @@ corpos: [ patreon ]
 tags: [ banned, covid ]
 profiles: [ tlav ]
 sources:
- - [ 'patreon.com/posts/patreon-will-47714532', 'https://archive.is/i52Kq' ]
- - [ 'twitter.com/YoureAllDunces/status/1362438302926856194', 'https://archive.is/1s3n1' ]
- - [ 'twitter.com/YoureAllDunces/status/1364687193718067202', 'https://archive.is/MWA6v' ]
- - [ 'twitter.com/YoureAllDunces/status/1364966854234693634', 'https://archive.is/wf0Vp' ]
- - [ 'twitter.com/YoureAllDunces/status/1364973446501982208', 'https://archive.is/bxgva' ]
- - [ 'The Last American Vagabond "Patreon Deletes TLAV, Huge Mask Study Confirms Dangers, Vaccine Passports & Our Runaway Government" on BitChute (26 Feb 2021)', 'https://www.bitchute.com/video/4obgmj29CGzK/' ]
- - [ 'graphtreon.com/creator/TheLastAmericanVagabond', 'https://archive.is/gQDA7' ]
- - [ 'Archive of page removed (patreon.com/TheLastAmericanVagabond)', 'https://archive.is/vS6CO' ]
+ - [ 'patreon.com/posts/patreon-will-47714532', 'archive.is/i52Kq' ]
+ - [ 'twitter.com/YoureAllDunces/status/1362438302926856194', 'archive.is/1s3n1' ]
+ - [ 'twitter.com/YoureAllDunces/status/1364687193718067202', 'archive.is/MWA6v' ]
+ - [ 'twitter.com/YoureAllDunces/status/1364966854234693634', 'archive.is/wf0Vp' ]
+ - [ 'twitter.com/YoureAllDunces/status/1364973446501982208', 'archive.is/bxgva' ]
+ - [ 'The Last American Vagabond "Patreon Deletes TLAV, Huge Mask Study Confirms Dangers, Vaccine Passports & Our Runaway Government" on BitChute (26 Feb 2021)', 'www.bitchute.com/video/4obgmj29CGzK/' ]
+ - [ 'graphtreon.com/creator/TheLastAmericanVagabond', 'archive.is/gQDA7' ]
+ - [ 'Archive of page removed (patreon.com/TheLastAmericanVagabond)', 'archive.is/vS6CO' ]
 ---
 
 [Patreon](/patreon/) banned _The Last American Vagabond_ for "spreading medical

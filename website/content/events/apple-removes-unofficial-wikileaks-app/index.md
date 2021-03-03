@@ -5,9 +5,9 @@ image: /img/logos/wikileaks.png
 corpos: [ apple ]
 tags: [ app, gov ]
 sources:
- - [ 'TechCrunch "Apple Removes WikiLeaks App From App Store" by Alexia Tsotsis (20 Dec 2010)', 'https://archive.vn/llUTb' ]
- - [ 'CNET "WikiLeaks app yanked from Apple''s App Store" by Lance Whitney (21 Dec 2010)', 'https://archive.vn/WOEvw' ]
- - [ 'Reuters "Apple drops WikiLeaks app, Google keeps it" by Jim Finkle (22 Dec 2010)', 'https://archive.vn/mHa22' ]
+ - [ 'TechCrunch "Apple Removes WikiLeaks App From App Store" by Alexia Tsotsis (20 Dec 2010)', 'archive.vn/llUTb' ]
+ - [ 'CNET "WikiLeaks app yanked from Apple''s App Store" by Lance Whitney (21 Dec 2010)', 'archive.vn/WOEvw' ]
+ - [ 'Reuters "Apple drops WikiLeaks app, Google keeps it" by Jim Finkle (22 Dec 2010)', 'archive.vn/mHa22' ]
 ---
 
 Shortly after WikiLeaks faced a wave of financial deplatforming towards the end of 2010, Apple removed an unofficial WikiLeaks app from the App Store.

@@ -6,8 +6,8 @@ profiles: [ katie-hopkins ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'Heavy "''Apprentice'' Star Katie Hopkins Permanently Banned on Twitter for Abusive Conduct" by Emily Bicks (19 Jun 2020)', 'https://archive.vn/6csNY' ]
- - [ 'Sky News "Katie Hopkins permanently banned by Twitter for breaking ''abuse and hate'' rules" by Chris Robertson (19 Jun 2020)', 'https://archive.vn/Hc258' ]
+ - [ 'Heavy "''Apprentice'' Star Katie Hopkins Permanently Banned on Twitter for Abusive Conduct" by Emily Bicks (19 Jun 2020)', 'archive.vn/6csNY' ]
+ - [ 'Sky News "Katie Hopkins permanently banned by Twitter for breaking ''abuse and hate'' rules" by Chris Robertson (19 Jun 2020)', 'archive.vn/Hc258' ]
 ---
 
 Katie Hopkins (**@KTHopkins**) was permanently banned from Twitter for "abuse

@@ -4,10 +4,10 @@ date: 2016-11-23
 image: /img/logos/reddit.png
 corpos: [ reddit ]
 sources:
- - [ 'The Verge "Reddit''s CEO edited comments that criticized him" by Rich McCormick (23 Nov 2016)', 'https://archive.is/mBlnH' ]
- - [ 'The Washington Times "Reddit CEO admits editing posts, directing obscene comments to pro-Trump administrators" by Andrew Blake (25 Nov 2016)', 'https://archive.is/WAZIr' ]
- - [ 'u/spez admission in a comment', 'https://archive.is/RY9Y9' ]
- - [ 'u/spez formal apology post', 'https://archive.is/qMqvO' ]
+ - [ 'The Verge "Reddit''s CEO edited comments that criticized him" by Rich McCormick (23 Nov 2016)', 'archive.is/mBlnH' ]
+ - [ 'The Washington Times "Reddit CEO admits editing posts, directing obscene comments to pro-Trump administrators" by Andrew Blake (25 Nov 2016)', 'archive.is/WAZIr' ]
+ - [ 'u/spez admission in a comment', 'archive.is/RY9Y9' ]
+ - [ 'u/spez formal apology post', 'archive.is/qMqvO' ]
 ---
 
 Steve Huffman, the CEO of Reddit, admitted to editing negative comments about himself in r/The_Donald.

@@ -5,9 +5,9 @@ image: /img/logos/the-epoch-times.png
 corpos: [ youtube ]
 tags: [ defunded, china, election2020 ]
 sources:
- - [ 'The Epoch Times "Epoch Times Statement on YouTube Demonetization" (29 Jan 2021)', 'https://www.theepochtimes.com/epoch-times-statement-on-youtube-demonetization_3677553.html' ]
- - [ 'Just the News "YouTube strips rising media company Epoch Times of ability to monetize video content" by Carrie Sheffield (26 Jan 2021)', 'https://archive.is/tXQRU' ]
- - [ 'Breitbart "YouTube Demonetizes the Epoch Times" by Allum Bokhari (27 Jan 2021)', 'https://archive.is/N8N6L' ]
+ - [ 'The Epoch Times "Epoch Times Statement on YouTube Demonetization" (29 Jan 2021)', 'www.theepochtimes.com/epoch-times-statement-on-youtube-demonetization_3677553.html' ]
+ - [ 'Just the News "YouTube strips rising media company Epoch Times of ability to monetize video content" by Carrie Sheffield (26 Jan 2021)', 'archive.is/tXQRU' ]
+ - [ 'Breitbart "YouTube Demonetizes the Epoch Times" by Allum Bokhari (27 Jan 2021)', 'archive.is/N8N6L' ]
 ---
 
 [YouTube](/youtube/) demonetized _The Epoch Times_, an independent news outlet.

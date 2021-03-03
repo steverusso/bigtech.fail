@@ -5,9 +5,9 @@ image: /img/logos/bitchute.png
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'BitChute Blog - Pt 1', 'https://bitchute.info/bitchute-suspended-by-patreon-but-theres-more/' ]
- - [ 'BitChute Blog - Pt 2', 'https://bitchute.info/patreon-part-two-our-appeal-was-denied/' ]
- - [ 'Naomi Brockwell 1hr Video With BitChute CEO', 'https://www.youtube.com/watch?v=wvvJOxJUlcQ' ]
+ - [ 'BitChute Blog - Pt 1', 'bitchute.info/bitchute-suspended-by-patreon-but-theres-more/' ]
+ - [ 'BitChute Blog - Pt 2', 'bitchute.info/patreon-part-two-our-appeal-was-denied/' ]
+ - [ 'Naomi Brockwell 1hr Video With BitChute CEO', 'www.youtube.com/watch?v=wvvJOxJUlcQ' ]
 ---
 
 About two weeks after being [banned from Paypal](https://bitchute.info/bitchutes-immediate-removal-from-paypal/), BitChute was banned from Patreon as well.

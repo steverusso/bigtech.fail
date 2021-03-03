@@ -26,7 +26,9 @@
 			<details data-srcs><summary></summary>
 				<ol>
 					{{ range .Params.sources }}
-						{{ $url := index . 1 }}
+						{{ $p := index . 1 }}
+						{{ $isLocal := hasPrefix $p "./" }}
+						{{ $url := cond $isLocal (substr $p 2) (printf "https://%s" $p) }}
 						<li><a href="{{ $url }}" target="_blank">{{ index . 0 | default $url }}</a></li>
 					{{ end }}
 				</ol>

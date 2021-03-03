@@ -5,9 +5,9 @@ image: /img/people/sargon-of-akkad.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'YouTube "Twitter Ban Update" by The Thinkery (10 Aug 2017)', 'https://www.youtube.com/watch?v=gwi6Yl6p2Ek' ]
- - [ 'YouTube "Where is the Victim, @Jack ?" by The Thinkery (14 Aug 2017)', 'https://www.youtube.com/watch?v=fKsZeSuDF2I' ]
- - [ 'ProdigyGamers "Sargon Of Akkad Permanently Banned From Twitter" by Kakra (15 Aug 2017)', 'https://archive.vn/gz26Z' ]
+ - [ 'YouTube "Twitter Ban Update" by The Thinkery (10 Aug 2017)', 'www.youtube.com/watch?v=gwi6Yl6p2Ek' ]
+ - [ 'YouTube "Where is the Victim, @Jack ?" by The Thinkery (14 Aug 2017)', 'www.youtube.com/watch?v=fKsZeSuDF2I' ]
+ - [ 'ProdigyGamers "Sargon Of Akkad Permanently Banned From Twitter" by Kakra (15 Aug 2017)', 'archive.vn/gz26Z' ]
 ---
 
 Twitter permanently banned Sargon of Akkad for, as they say, "violating the

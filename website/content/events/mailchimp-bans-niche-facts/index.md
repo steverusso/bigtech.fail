@@ -5,7 +5,7 @@ image: /img/misc/niche-facts.png
 corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
- - [ 'NicheFacts "Why MailChimp Terminated My Account" by Ryan Nelson (11 Oct 2017)', 'https://nichefacts.com/mailchimp/' ]
+ - [ 'NicheFacts "Why MailChimp Terminated My Account" by Ryan Nelson (11 Oct 2017)', 'nichefacts.com/mailchimp/' ]
 ---
 
 Mailchimp banned [_NicheFacts_](https://nichefacts.com/about/), an online

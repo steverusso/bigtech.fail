@@ -5,9 +5,9 @@ image: /img/logos/igd.jpg
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'Daily Dot "How Patreon stepped into a war between Antifa and the alt-right" by David Gilmour (7 Aug 2017)', 'https://www.dailydot.com/debug/patreon-antifa-altright-igd-lauren-southern/' ]
- - [ 'Jack Conte - YouTube Video "Patreon CEO on Content Policy, Lauren Southern, and IGD" (28 July 2017)', 'https://www.youtube.com/watch?v=YmcK6GvgVPs' ]
- - [ 'It''s Going Down "Patreon Caves To Tim Pool And The Alt-Right, Bans IGD" (31 July 2017)', 'https://itsgoingdown.org/patreon-caves-to-tim-pool-alt-right-bans-igd/' ]
+ - [ 'Daily Dot "How Patreon stepped into a war between Antifa and the alt-right" by David Gilmour (7 Aug 2017)', 'www.dailydot.com/debug/patreon-antifa-altright-igd-lauren-southern/' ]
+ - [ 'Jack Conte - YouTube Video "Patreon CEO on Content Policy, Lauren Southern, and IGD" (28 July 2017)', 'www.youtube.com/watch?v=YmcK6GvgVPs' ]
+ - [ 'It''s Going Down "Patreon Caves To Tim Pool And The Alt-Right, Bans IGD" (31 July 2017)', 'itsgoingdown.org/patreon-caves-to-tim-pool-alt-right-bans-igd/' ]
 ---
 
 Shortly after [Patreon banned Lauren Southern](/e/patreon-bans-lauren-southern/), several journalists pointed out the hypocrisy in how the platform enforces it's policies.

@@ -6,12 +6,12 @@ profiles: [ tim-pool ]
 corpos: [ youtube ]
 tags: [ content-removed ]
 sources:
- - [ 'twitter.com/Timcast/status/1327373117812056064', 'https://archive.is/MBKFf' ]
- - [ 'twitter.com/Timcast/status/1327383526510108676', 'https://archive.is/Ly5Ey' ]
- - [ 'twitter.com/Timcast/status/1327649691408936961', 'https://archive.is/8652w' ]
- - [ 'BitChute "YouTube REMOVED Our Alex Jones Episode, The Censorship Is REAL And It Has Affected Us" by Timcast URL (14 Nov 2020)', 'https://www.bitchute.com/video/J552i7tLXeI/' ]
- - [ 'BitChute "YouTube Bans Tim Pool Podcast: Alex Jones Responds" by Infowars (14 Nov 2020)', 'https://www.bitchute.com/video/IWqNpUBhPWLx/' ]
- - [ 'Reclaim The Net "YouTube removes Alex Jones Tim Pool podcast for “harassment and bullying”" by Tom Parker (13 Nov 2020)', 'https://reclaimthenet.org/youtube-removes-alex-jones-tim-pool-podcast-episode/' ]
+ - [ 'twitter.com/Timcast/status/1327373117812056064', 'archive.is/MBKFf' ]
+ - [ 'twitter.com/Timcast/status/1327383526510108676', 'archive.is/Ly5Ey' ]
+ - [ 'twitter.com/Timcast/status/1327649691408936961', 'archive.is/8652w' ]
+ - [ 'BitChute "YouTube REMOVED Our Alex Jones Episode, The Censorship Is REAL And It Has Affected Us" by Timcast URL (14 Nov 2020)', 'www.bitchute.com/video/J552i7tLXeI/' ]
+ - [ 'BitChute "YouTube Bans Tim Pool Podcast: Alex Jones Responds" by Infowars (14 Nov 2020)', 'www.bitchute.com/video/IWqNpUBhPWLx/' ]
+ - [ 'Reclaim The Net "YouTube removes Alex Jones Tim Pool podcast for “harassment and bullying”" by Tom Parker (13 Nov 2020)', 'reclaimthenet.org/youtube-removes-alex-jones-tim-pool-podcast-episode/' ]
 ---
 
 [YouTube](/youtube/) removed a nearly four hour-long episode of the _Timcast

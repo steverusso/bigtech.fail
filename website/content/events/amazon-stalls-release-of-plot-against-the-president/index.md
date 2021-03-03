@@ -5,8 +5,8 @@ image: /img/misc/patp.jpg
 corpos: [ amazon ]
 tags: [ restricted, gov, election2020 ]
 sources:
- - [ 'Breitbart "Amazon Held Back Release of ‘Plot Against the President,’ Said Documentary Needed ‘Content Review’" by David Ng (22 Oct 2020)', 'https://archive.is/H8Fdw' ]
- - [ 'twitter.com/Techno_Fog/status/1318384409670750208', 'https://archive.is/3fxwl' ]
+ - [ 'Breitbart "Amazon Held Back Release of ‘Plot Against the President,’ Said Documentary Needed ‘Content Review’" by David Ng (22 Oct 2020)', 'archive.is/H8Fdw' ]
+ - [ 'twitter.com/Techno_Fog/status/1318384409670750208', 'archive.is/3fxwl' ]
 ---
 
 Amazon stalled the release of a documentary titled _The Plot Against the

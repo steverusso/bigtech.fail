@@ -5,11 +5,11 @@ image: /img/logos/gab.png
 corpos: [ twitter, facebook, instagram ]
 tags: [ alttech-growth, election2020, capitol-riot ]
 sources:
- - [ 'gab.com/a/posts/105535456035327534', 'https://archive.is/yQrnC' ]
- - [ 'gab.com/gab/posts/105588721317294188', 'https://archive.is/3EXfe' ]
- - [ 'Gab News "An Open Letter From Gab.com to The Great People of Scranton, PA" by Andrew Torba (19 Jan 2021)', 'https://archive.is/f2pzV' ]
- - [ 'The Epoch Times "Free Speech Platform Gab Reports 753 Percent Increase in Traffic in 24 Hours" by Zachary Stieber (10 Jan 2021)', 'https://www.theepochtimes.com/free-speech-platform-gab-reports-753-percent-increase-in-traffic-in-24-hours_3650640.html' ]
- - [ 'Reclaim The Net "Over 40 million people flock to Gab after Big Tech censorship spree" by Rick Findlay (11 Jan 2021)', 'https://reclaimthenet.org/over-40-million-people-flock-to-gab/' ]
+ - [ 'gab.com/a/posts/105535456035327534', 'archive.is/yQrnC' ]
+ - [ 'gab.com/gab/posts/105588721317294188', 'archive.is/3EXfe' ]
+ - [ 'Gab News "An Open Letter From Gab.com to The Great People of Scranton, PA" by Andrew Torba (19 Jan 2021)', 'archive.is/f2pzV' ]
+ - [ 'The Epoch Times "Free Speech Platform Gab Reports 753 Percent Increase in Traffic in 24 Hours" by Zachary Stieber (10 Jan 2021)', 'www.theepochtimes.com/free-speech-platform-gab-reports-753-percent-increase-in-traffic-in-24-hours_3650640.html' ]
+ - [ 'Reclaim The Net "Over 40 million people flock to Gab after Big Tech censorship spree" by Rick Findlay (11 Jan 2021)', 'reclaimthenet.org/over-40-million-people-flock-to-gab/' ]
 ---
 
 Amid the increased censorship that followed the [US capitol

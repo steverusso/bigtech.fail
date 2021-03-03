@@ -5,8 +5,8 @@ image: /img/people/graham-elwood.jpg
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'twitter.com/grahamelwood/status/1356503535353950209', 'https://archive.is/vJ4e8' ]
- - [ 'twitter.com/grahamelwood/status/1356152540711301120', 'https://archive.is/iVo2s' ]
+ - [ 'twitter.com/grahamelwood/status/1356503535353950209', 'archive.is/vJ4e8' ]
+ - [ 'twitter.com/grahamelwood/status/1356152540711301120', 'archive.is/iVo2s' ]
 ---
 
 [YouTube](/youtube/) demonetized Graham Elwood's channel, a stand-up comic and

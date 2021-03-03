@@ -6,13 +6,13 @@ summary: ...basically confirming that he is in fact the alleged whistleblower, r
 corpos: [ facebook, youtube ]
 tags: [ content-removed ]
 sources:
- - [ 'Breitbart "Facebook Removes News Reporting, Mention of Alleged ''Whistleblower''s'' Identity" by Allum Bokhari', 'https://www.breitbart.com/tech/2019/11/08/facebook-removes-any-news-reporting-on-or-even-mention-of-who-the-whistleblower-is-alleged-to-be/#' ]
- - [ 'ZeroHedge "Facebook Scrubs All References To Alleged Whistleblower Eric Ciaramella"', 'https://www.zerohedge.com/political/facebook-scrubs-all-references-alleged-whistleblower-eric-ciaramella' ]
- - [ 'Washington Examiner "Don Trump Jr. defiant after naming whistleblower as Eric Ciaramella" by Mike Brest', 'https://www.washingtonexaminer.com/news/don-trump-jr-defiant-after-naming-whistleblower-as-eric-ciaramella' ]
- - [ 'CNN "Facebook and YouTube say they are removing content mentioning potential whistleblower''s name" by Oliver Darcy (CNN Employee)', 'https://www.cnn.com/2019/11/08/tech/facebook-whistleblower-name/index.html' ]
- - [ 'Matt Christiansen Tweet - 1192957496618409984', 'https://twitter.com/MLChristiansen/status/1192957496618409984' ]
- - [ 'Tim Pool - BitChute Video - "Youtube And Facebook CENSORED My Content On CIA Whistleblower, My Video And Others Are BLOCKED"', 'https://www.bitchute.com/video/W6oGxCK7R3Y/' ]
- - [ 'Anthony Brian Logan - Tweet - 1192968432024731648', 'https://twitter.com/ANTHONYBLOGAN/status/1192968432024731648' ]
+ - [ 'Breitbart "Facebook Removes News Reporting, Mention of Alleged ''Whistleblower''s'' Identity" by Allum Bokhari', 'www.breitbart.com/tech/2019/11/08/facebook-removes-any-news-reporting-on-or-even-mention-of-who-the-whistleblower-is-alleged-to-be/#' ]
+ - [ 'ZeroHedge "Facebook Scrubs All References To Alleged Whistleblower Eric Ciaramella"', 'www.zerohedge.com/political/facebook-scrubs-all-references-alleged-whistleblower-eric-ciaramella' ]
+ - [ 'Washington Examiner "Don Trump Jr. defiant after naming whistleblower as Eric Ciaramella" by Mike Brest', 'www.washingtonexaminer.com/news/don-trump-jr-defiant-after-naming-whistleblower-as-eric-ciaramella' ]
+ - [ 'CNN "Facebook and YouTube say they are removing content mentioning potential whistleblower''s name" by Oliver Darcy (CNN Employee)', 'www.cnn.com/2019/11/08/tech/facebook-whistleblower-name/index.html' ]
+ - [ 'Matt Christiansen Tweet - 1192957496618409984', 'twitter.com/MLChristiansen/status/1192957496618409984' ]
+ - [ 'Tim Pool - BitChute Video - "Youtube And Facebook CENSORED My Content On CIA Whistleblower, My Video And Others Are BLOCKED"', 'www.bitchute.com/video/W6oGxCK7R3Y/' ]
+ - [ 'Anthony Brian Logan - Tweet - 1192968432024731648', 'twitter.com/ANTHONYBLOGAN/status/1192968432024731648' ]
 ---
 
 On October 30, 2019, [RealClearInvestigations published the name of the alleged "whistleblower"](https://www.realclearinvestigations.com/articles/2019/10/30/whistleblower_exposed_close_to_biden_brennan_dnc_oppo_researcher_120996.html), the person who essentially set off the process to impeachment President Trump.

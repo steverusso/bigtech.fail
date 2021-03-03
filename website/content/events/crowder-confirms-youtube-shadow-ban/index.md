@@ -5,10 +5,10 @@ image: /img/people/steven-crowder.jpg
 corpos: [ youtube ]
 tags: [ shadow-banned ]
 sources:
- - [ 'Steven Crowder - YouTube Video (9/25/2019)', 'https://www.youtube.com/watch?v=CTCZuy4gMho' ]
- - [ 'Steven Crowder - YouTube Video (9/28/2019)', 'https://www.youtube.com/watch?v=BKDeOybpV08' ]
- - [ 'Steven Crowder - YouTube Video (9/30/2019)', 'https://www.youtube.com/watch?v=KBPXe09Ca-s' ]
- - [ 'Steven Crowder - Tweet (9/30/2019)', 'https://twitter.com/scrowder/status/1178838444799352833' ]
+ - [ 'Steven Crowder - YouTube Video (9/25/2019)', 'www.youtube.com/watch?v=CTCZuy4gMho' ]
+ - [ 'Steven Crowder - YouTube Video (9/28/2019)', 'www.youtube.com/watch?v=BKDeOybpV08' ]
+ - [ 'Steven Crowder - YouTube Video (9/30/2019)', 'www.youtube.com/watch?v=KBPXe09Ca-s' ]
+ - [ 'Steven Crowder - Tweet (9/30/2019)', 'twitter.com/scrowder/status/1178838444799352833' ]
  - [ 'Steven Crowder - Image of Spain vs US search results', 'crowder-youtube-shadow-ban.jpg' ]
 ---
 

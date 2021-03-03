@@ -5,8 +5,8 @@ image: /img/people/dan-bongino.jpg
 corpos: [ twitter ]
 tags: [ walked-away, alttech-growth, election2020, capitol-riot ]
 sources:
- - [ 'twitter.com/dbongino/status/1347246550355996675', 'https://archive.is/D5wAa' ]
- - [ 'twitter.com/dbongino/status/1347511086824747011', 'https://archive.is/3IQZw' ]
+ - [ 'twitter.com/dbongino/status/1347246550355996675', 'archive.is/D5wAa' ]
+ - [ 'twitter.com/dbongino/status/1347511086824747011', 'archive.is/3IQZw' ]
 ---
 
 Dan Bongino, conservative political commentator and financial backer of

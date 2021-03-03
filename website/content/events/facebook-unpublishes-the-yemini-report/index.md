@@ -5,9 +5,9 @@ image: /img/people/avi-yemini-censored.jpg
 corpos: [ facebook ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/OzraeliAvi/status/1308229661760004096', 'https://archive.is/C1MEG' ]
- - [ 'twitter.com/OzraeliAvi/status/1308339954796228608', 'https://archive.is/gwrhp' ]
- - [ 'Reclaim The Net "Facebook unpublished page of anti-lockdown reporter Avi Yemini" by Didi Rankovic (22 Sep 2020)', 'https://reclaimthenet.org/facebook-unpublished-page-of-anti-lockdown-reporter-avi-yemini/' ]
+ - [ 'twitter.com/OzraeliAvi/status/1308229661760004096', 'archive.is/C1MEG' ]
+ - [ 'twitter.com/OzraeliAvi/status/1308339954796228608', 'archive.is/gwrhp' ]
+ - [ 'Reclaim The Net "Facebook unpublished page of anti-lockdown reporter Avi Yemini" by Didi Rankovic (22 Sep 2020)', 'reclaimthenet.org/facebook-unpublished-page-of-anti-lockdown-reporter-avi-yemini/' ]
 ---
 
 Facebook unpublished Avi Yemini's page, _The Yemini Report_, without giving a

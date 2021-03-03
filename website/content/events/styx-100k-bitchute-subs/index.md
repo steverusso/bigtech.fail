@@ -6,9 +6,9 @@ corpos: [ youtube ]
 tags: [ alttech-growth ]
 profiles: [ styxhexenhammer666 ]
 sources:
- - [ 'BitChute "100,000 Bitchute Subscribers Achieved: Shouting Out Ten Other Creators" by Styxhexenhammer666 (16 Oct 2020)', 'https://www.bitchute.com/video/IqmKfZj9v00/' ]
- - [ 'Styx BitChute channel page archive', 'https://archive.is/lAAGP' ]
- - [ 'twitter.com/bitchute/status/1317097576013856768', 'https://archive.is/IKlMi' ]
+ - [ 'BitChute "100,000 Bitchute Subscribers Achieved: Shouting Out Ten Other Creators" by Styxhexenhammer666 (16 Oct 2020)', 'www.bitchute.com/video/IqmKfZj9v00/' ]
+ - [ 'Styx BitChute channel page archive', 'archive.is/lAAGP' ]
+ - [ 'twitter.com/bitchute/status/1317097576013856768', 'archive.is/IKlMi' ]
 ---
 
 Styxhexenhammer666, aka. "Styx", became the **first user on BitChute to reach

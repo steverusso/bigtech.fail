@@ -6,12 +6,12 @@ profiles: [ carey-wedler ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'socialblade.com/twitter/user/careywedler (archived)', 'http://web.archive.org/web/20201113142127/https://socialblade.com/twitter/user/careywedler' ]
- - [ 'YouTube "THE PURGE IS HERE: Hundreds of political social media pages deleted without warning" by Carey Wedler (11 Oct 2018)', 'https://youtu.be/q4zu_QS6hK4' ]
- - [ 'twitter.com/CareyWedler (archive of profile suspension notice)', 'https://archive.is/ZIORY' ]
- - [ 'minds.com/newsfeed/899784365716287488', 'https://archive.is/Za9Sg' ]
+ - [ 'socialblade.com/twitter/user/careywedler (archived)', 'web.archive.org/web/20201113142127/https://socialblade.com/twitter/user/careywedler' ]
+ - [ 'YouTube "THE PURGE IS HERE: Hundreds of political social media pages deleted without warning" by Carey Wedler (11 Oct 2018)', 'youtu.be/q4zu_QS6hK4' ]
+ - [ 'twitter.com/CareyWedler (archive of profile suspension notice)', 'archive.is/ZIORY' ]
+ - [ 'minds.com/newsfeed/899784365716287488', 'archive.is/Za9Sg' ]
 extra:
- - [ 'YouTube "The REAL reason for the coming wave of bans and censorship: what you aren''t being told" by Carey Wedler (19 Sep 2018)', 'https://www.youtube.com/watch?v=xN8k22F1Wfw' ]
+ - [ 'YouTube "The REAL reason for the coming wave of bans and censorship: what you aren''t being told" by Carey Wedler (19 Sep 2018)', 'www.youtube.com/watch?v=xN8k22F1Wfw' ]
 ---
 
 [Twitter](/twitter/) permanently banned Carey Wedler (@CareyWedler) for no

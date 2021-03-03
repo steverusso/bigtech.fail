@@ -5,12 +5,12 @@ image: /img/logos/metamask.jpg
 corpos: [ google ]
 tags: [ app ]
 sources:
- - [ '@metamask_io - Tweet 1210299207820570624', 'https://web.archive.org/web/20191226205707/https:/twitter.com/metamask_io/status/1210299207820570624' ]
- - [ '@metamask_io - Tweet 1210299209003360256', 'https://web.archive.org/web/20191226204843/https:/twitter.com/metamask_io/status/1210299209003360256' ]
- - [ '@metamask_io - Tweet 1210299209905139712', 'https://web.archive.org/web/20191226205423/https:/twitter.com/metamask_io/status/1210299209905139712' ]
- - [ 'CoinTelegraph "Google Suspends MetaMask From Its Play App Store, Citing "Deceptive Services"" by Joeri Cant (26 Dec 2019)', 'https://cointelegraph.com/news/google-suspends-metamask-from-its-play-app-store-citing-deceptive-services' ]
- - [ '@GooglePlayDev - Tweet 1210381282989035520', 'https://web.archive.org/web/20191227030257/https://twitter.com/GooglePlayDev/status/1210381282989035520' ]
- - [ 'Medium.com "Retrospective on the Temporary Removal of MetaMask From the Chrome Web Store" by Kevin Serrano (26 Jul 2018)', 'https://medium.com/metamask/retrospective-on-the-temporary-removal-of-metamask-from-the-chrome-web-store-ea0b1b927a8f' ]
+ - [ '@metamask_io - Tweet 1210299207820570624', 'web.archive.org/web/20191226205707/https:/twitter.com/metamask_io/status/1210299207820570624' ]
+ - [ '@metamask_io - Tweet 1210299209003360256', 'web.archive.org/web/20191226204843/https:/twitter.com/metamask_io/status/1210299209003360256' ]
+ - [ '@metamask_io - Tweet 1210299209905139712', 'web.archive.org/web/20191226205423/https:/twitter.com/metamask_io/status/1210299209905139712' ]
+ - [ 'CoinTelegraph "Google Suspends MetaMask From Its Play App Store, Citing "Deceptive Services"" by Joeri Cant (26 Dec 2019)', 'cointelegraph.com/news/google-suspends-metamask-from-its-play-app-store-citing-deceptive-services' ]
+ - [ '@GooglePlayDev - Tweet 1210381282989035520', 'web.archive.org/web/20191227030257/https://twitter.com/GooglePlayDev/status/1210381282989035520' ]
+ - [ 'Medium.com "Retrospective on the Temporary Removal of MetaMask From the Chrome Web Store" by Kevin Serrano (26 Jul 2018)', 'medium.com/metamask/retrospective-on-the-temporary-removal-of-metamask-from-the-chrome-web-store-ea0b1b927a8f' ]
 ---
 
 Google removed the MetaMask dApp browser from the Play Store citing a policy that prohibits cryptocurrency mining.

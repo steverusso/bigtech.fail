@@ -6,10 +6,10 @@ corpos: [ twitter ]
 tags: [ banned ]
 profiles: [ dan-dicks ]
 sources:
- - [ 'twitter.com/DanDicksPFT/status/1319556692502138881', 'https://archive.is/Gn39E' ]
- - [ 'BitChute "The Attacks Continue With PRESS FOR TRUTH NOW SUSPENDED ON TWITTER In Latest Tech War Mega Strike!!!" by Press For Truth (23 Oct 2020)', 'https://www.bitchute.com/video/gRyTJZ8O4s42/' ]
- - [ 'socialblade.com/twitter/user/pressfortruth', 'https://archive.is/D3qlS' ]
- - [ 'Archive of profile page removal', 'https://archive.is/RaOCU' ]
+ - [ 'twitter.com/DanDicksPFT/status/1319556692502138881', 'archive.is/Gn39E' ]
+ - [ 'BitChute "The Attacks Continue With PRESS FOR TRUTH NOW SUSPENDED ON TWITTER In Latest Tech War Mega Strike!!!" by Press For Truth (23 Oct 2020)', 'www.bitchute.com/video/gRyTJZ8O4s42/' ]
+ - [ 'socialblade.com/twitter/user/pressfortruth', 'archive.is/D3qlS' ]
+ - [ 'Archive of profile page removal', 'archive.is/RaOCU' ]
 ---
 
 [Twitter](/twitter/) banned _Press For Truth_ (@PressForTruth), an independent

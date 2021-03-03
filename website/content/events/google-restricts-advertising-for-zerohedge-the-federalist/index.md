@@ -5,10 +5,10 @@ image: /img/logos/zerohedge-thefederalist.png
 corpos: [ google ]
 tags: [ defunded ]
 sources:
- - [ 'National Review "Hands Off the Federalist" (16 Jun 2020)', 'https://archive.vn/lsGYK' ]
- - [ 'The Federalist "Federalist Co-Founder Sean Davis Responds To NBC, Google Deplatforming Attempt" by Tristan Justice (16 Jun 2020)', 'https://archive.vn/LwmJr' ]
- - [ 'The Federalist "John Daniel Davidson: If You Criticize The Corrupt Corporate Media, They Will Try To Deplatform You" by Tristan Justice (16 Jun 2020)', 'https://archive.vn/lxQGV' ]
- - [ 'ZeroHedge "Google Demonetizes Zero Hedge" by Tyler Durden (17 Jun 2020)', 'https://archive.vn/bctTu' ]
+ - [ 'National Review "Hands Off the Federalist" (16 Jun 2020)', 'archive.vn/lsGYK' ]
+ - [ 'The Federalist "Federalist Co-Founder Sean Davis Responds To NBC, Google Deplatforming Attempt" by Tristan Justice (16 Jun 2020)', 'archive.vn/LwmJr' ]
+ - [ 'The Federalist "John Daniel Davidson: If You Criticize The Corrupt Corporate Media, They Will Try To Deplatform You" by Tristan Justice (16 Jun 2020)', 'archive.vn/lxQGV' ]
+ - [ 'ZeroHedge "Google Demonetizes Zero Hedge" by Tyler Durden (17 Jun 2020)', 'archive.vn/bctTu' ]
 ---
 
 NBC, along with the Center for Countering Digital Hate, pressured Google into

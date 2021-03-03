@@ -6,9 +6,9 @@ profiles: [ alex-jones ]
 corpos: [ apple, facebook, youtube, spotify ]
 tags: [ banned ]
 sources:
- - [ 'ZeroHedge "Alex Jones And Infowars Banned From iTunes, "Unpublished" By FaceBook" by Tyler Durden (6 Aug 2018)', 'https://archive.is/4MCzZ' ]
- - [ 'ZeroHedge "YouTube Bans Alex Jones After iTunes, Facebook Remove Content" by Tyler Durden (6 Aug 2018)', 'https://archive.is/vn7DK' ]
- - [ 'Facebook Newsroom "Enforcing Our Community Standards" (6 Aug 2018)', 'https://archive.is/z4yug' ]
+ - [ 'ZeroHedge "Alex Jones And Infowars Banned From iTunes, "Unpublished" By FaceBook" by Tyler Durden (6 Aug 2018)', 'archive.is/4MCzZ' ]
+ - [ 'ZeroHedge "YouTube Bans Alex Jones After iTunes, Facebook Remove Content" by Tyler Durden (6 Aug 2018)', 'archive.is/vn7DK' ]
+ - [ 'Facebook Newsroom "Enforcing Our Community Standards" (6 Aug 2018)', 'archive.is/z4yug' ]
 ---
 
 Alex Jones was banned from several social media platforms, starting with Apple

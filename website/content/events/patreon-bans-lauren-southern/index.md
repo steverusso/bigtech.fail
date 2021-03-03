@@ -5,9 +5,9 @@ image: /img/people/lauren-southern.jpg
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ '@Lauren_Southern - Tweet 888143158042873857', 'https://twitter.com/Lauren_Southern/status/888143158042873857' ]
- - [ 'The Daily Caller "Patreon Bans Journalist Lauren Southern, Claims She Will Get People Killed" by Ian Miles Cheong (21 Jul 2017)', 'https://dailycaller.com/2017/07/21/patreon-bans-journalist-lauren-southern-claims-she-will-get-people-killed/' ]
- - [ 'Lauren Southern - YouTube Video "PATREON BANNED MY ACCOUNT??" (21 Jul 2017)', 'https://www.youtube.com/watch?v=rtImwK5TI4g' ]
+ - [ '@Lauren_Southern - Tweet 888143158042873857', 'twitter.com/Lauren_Southern/status/888143158042873857' ]
+ - [ 'The Daily Caller "Patreon Bans Journalist Lauren Southern, Claims She Will Get People Killed" by Ian Miles Cheong (21 Jul 2017)', 'dailycaller.com/2017/07/21/patreon-bans-journalist-lauren-southern-claims-she-will-get-people-killed/' ]
+ - [ 'Lauren Southern - YouTube Video "PATREON BANNED MY ACCOUNT??" (21 Jul 2017)', 'www.youtube.com/watch?v=rtImwK5TI4g' ]
 ---
 
 Lauren Southern was banned from Patreon without warning or possibility for appeal.

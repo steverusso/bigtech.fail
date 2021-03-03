@@ -6,8 +6,8 @@ corpos: [ twitter ]
 tags: [ exposed ]
 profiles: [ project-veritas ]
 sources:
- - [ 'Project Veritas "UNDERCOVER VIDEO: Twitter Engineers To "Ban a Way of Talking" Through "Shadow Banning," Algorithms to Censor Opposing Political Opinions" (11 Jan 2018)', 'https://archive.vn/MmiaM' ]
- - [ 'YouTube "HIDDEN CAMERA: Twitter Engineers To "Ban a Way of Talking" Through "Shadow Banning"" by Project Veritas (11 Jan 2018)', 'https://www.youtube.com/watch?v=64gTjdUrDFQ' ]
+ - [ 'Project Veritas "UNDERCOVER VIDEO: Twitter Engineers To "Ban a Way of Talking" Through "Shadow Banning," Algorithms to Censor Opposing Political Opinions" (11 Jan 2018)', 'archive.vn/MmiaM' ]
+ - [ 'YouTube "HIDDEN CAMERA: Twitter Engineers To "Ban a Way of Talking" Through "Shadow Banning"" by Project Veritas (11 Jan 2018)', 'www.youtube.com/watch?v=64gTjdUrDFQ' ]
 ---
 
 Project Veritas released a report on their undercover operations regarding

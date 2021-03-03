@@ -5,9 +5,9 @@ image: /img/people/trump.jpg
 corpos: [ facebook, twitter ]
 tags: [ content-removed, restricted, covid, gov, election2020 ]
 sources:
- - [ 'Reclaim The Net "Facebook and Twitter censor President Trump’s post comparing COVID-19 to flu" by Naga Pramod (6 Oct 2020)', 'https://reclaimthenet.org/facebook-and-twitter-censor-trump-comparing-covid-19-to-flu/' ]
- - [ 'WND "Facebook, Twitter censor Trump tweet" by WND Staff (6 Oct 2020)', 'https://archive.is/T7X5l' ]
- - [ 'twitter.com/realDonaldTrump/status/1313449844413992961', 'https://archive.is/c7ViI' ]
+ - [ 'Reclaim The Net "Facebook and Twitter censor President Trump’s post comparing COVID-19 to flu" by Naga Pramod (6 Oct 2020)', 'reclaimthenet.org/facebook-and-twitter-censor-trump-comparing-covid-19-to-flu/' ]
+ - [ 'WND "Facebook, Twitter censor Trump tweet" by WND Staff (6 Oct 2020)', 'archive.is/T7X5l' ]
+ - [ 'twitter.com/realDonaldTrump/status/1313449844413992961', 'archive.is/c7ViI' ]
 ---
 
 [Facebook](/facebook/) and [Twitter](/twitter/) suppressed the following post

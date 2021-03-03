@@ -6,9 +6,9 @@ summary: '"...if you want to cut off a healthy arm or a healthy leg, you''re men
 corpos: [ youtube ]
 tags: [ content-removed, trans ]
 sources:
- - [ 'The Daily Signal "YouTube Won''t Let a Medical Doctor Say This Sentence" by Katrina Trinko', 'https://www.dailysignal.com/2019/11/05/youtube-wont-let-a-medical-doctor-say-this-sentence/' ]
- - [ 'The Daily Wire "YouTube Bans Daily Signal Video On Gender Transitions Over ''Hate Speech''" by Emily Zanotti', 'https://www.dailywire.com/news/youtube-bans-daily-signal-video-on-gender-transitions-over-hate-speech' ]
- - [ 'Dr. Cretella''s Full Video', 'https://www.dailysignal.com/uncensoreddoctorvideo' ]
+ - [ 'The Daily Signal "YouTube Won''t Let a Medical Doctor Say This Sentence" by Katrina Trinko', 'www.dailysignal.com/2019/11/05/youtube-wont-let-a-medical-doctor-say-this-sentence/' ]
+ - [ 'The Daily Wire "YouTube Bans Daily Signal Video On Gender Transitions Over ''Hate Speech''" by Emily Zanotti', 'www.dailywire.com/news/youtube-bans-daily-signal-video-on-gender-transitions-over-hate-speech' ]
+ - [ 'Dr. Cretella''s Full Video', 'www.dailysignal.com/uncensoreddoctorvideo' ]
 ---
 
 YouTube removed Dr. Cretella's video due to "hate speech" violations based on the following content:

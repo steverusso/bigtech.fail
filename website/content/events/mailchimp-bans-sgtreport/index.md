@@ -5,9 +5,9 @@ image: /img/people/sgtreport.jpg
 corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/SGTreport/status/1318310899766145024', 'https://archive.is/Vnv7g' ]
- - [ 'twitter.com/SGTreport/status/1318318798345207808', 'https://archive.is/vKbHU' ]
- - [ 'Reclaim The Net "Mailchimp terminates independent news outlets SGTreport and Press for Truth" by Tom Parker (22 Oct 2020)', 'https://reclaimthenet.org/mailchimp-bans-sgtreport-press-for-truth/' ]
+ - [ 'twitter.com/SGTreport/status/1318310899766145024', 'archive.is/Vnv7g' ]
+ - [ 'twitter.com/SGTreport/status/1318318798345207808', 'archive.is/vKbHU' ]
+ - [ 'Reclaim The Net "Mailchimp terminates independent news outlets SGTreport and Press for Truth" by Tom Parker (22 Oct 2020)', 'reclaimthenet.org/mailchimp-bans-sgtreport-press-for-truth/' ]
 ---
 
 Mailchimp banned _SGTreport_, an independent media outlet that had a **14k

@@ -6,8 +6,8 @@ profiles: [ spaceshot76 ]
 corpos: [ youtube ]
 tags: [ content-removed ]
 sources:
- - [ 'Screenshots of the false strikes', 'three-bogus-strikes.jpg' ]
- - [ 'Email communications between Spaceshot76 and YouTube Support over the false strikes', 'emails-over-bogus-strikes.jpg' ]
+ - [ 'Screenshots of the false strikes', './three-bogus-strikes.jpg' ]
+ - [ 'Email communications between Spaceshot76 and YouTube Support over the false strikes', './emails-over-bogus-strikes.jpg' ]
 ---
 
 [_Spaceshot76_](/profiles/spaceshot76/), a political commentary channel,

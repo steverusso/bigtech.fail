@@ -5,9 +5,9 @@ image: /img/books/youd-better-put-some-ice-on-that.png
 corpos: [ amazon ]
 tags: [ content-removed, gov ]
 sources:
- - [ 'PJ Media "EXCLUSIVE: Juanita Broaddrick''s Book about Alleged Clinton Rape Disappears from Amazon" by Jeff Reynolds (12 Jun 2018)', 'https://archive.is/3B01E' ]
- - [ 'facebook.com/photo.php?fbid=10156193525011013', 'https://archive.is/LrnXH' ]
- - [ 'New York Post "Clinton: ‘Norms have changed for what you can do to somebody against their will’" by Chris Perez (11 Jun 2018)', 'https://archive.is/0tQZo' ]
+ - [ 'PJ Media "EXCLUSIVE: Juanita Broaddrick''s Book about Alleged Clinton Rape Disappears from Amazon" by Jeff Reynolds (12 Jun 2018)', 'archive.is/3B01E' ]
+ - [ 'facebook.com/photo.php?fbid=10156193525011013', 'archive.is/LrnXH' ]
+ - [ 'New York Post "Clinton: ‘Norms have changed for what you can do to somebody against their will’" by Chris Perez (11 Jun 2018)', 'archive.is/0tQZo' ]
 ---
 
 The day after Bill Clinton said "norms have changed in terms of what you can do

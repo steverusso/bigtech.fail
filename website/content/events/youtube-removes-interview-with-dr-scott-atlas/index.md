@@ -5,11 +5,11 @@ image: /img/people/dr-scott-atlas.jpg
 corpos: [ youtube ]
 tags: [ content-removed, covid, gov ]
 sources:
- - [ 'twitter.com/Avik/status/1305223760023375873', 'https://archive.is/bBOML' ]
- - [ 'twitter.com/AlexBerenson/status/1305516283459403784', 'https://archive.is/XKuzo' ]
- - [ 'The Federalist "Censoring Scott Atlas Should Be The Last Straw For Big Tech’s Censorship" by Jonathan S. Tobin (14 Sep 2020)', 'https://thefederalist.com/2020/09/14/censoring-scott-atlas-should-be-the-last-straw-for-big-techs-censorship/' ]
- - [ 'New York Post "YouTube squelches scientific debate and other commentary" by Post Editorial Board (16 Sep 2020)', 'https://nypost.com/2020/09/16/youtube-squelches-scientific-debate-and-other-commentary/' ]
- - [ 'Transcript of "The Doctor Is In: Scott Atlas And The Efficacy Of Lockdowns, Social Distancing, And Closings" (23 June 2020)', 'https://outline.com/39Zab7' ]
+ - [ 'twitter.com/Avik/status/1305223760023375873', 'archive.is/bBOML' ]
+ - [ 'twitter.com/AlexBerenson/status/1305516283459403784', 'archive.is/XKuzo' ]
+ - [ 'The Federalist "Censoring Scott Atlas Should Be The Last Straw For Big Tech’s Censorship" by Jonathan S. Tobin (14 Sep 2020)', 'thefederalist.com/2020/09/14/censoring-scott-atlas-should-be-the-last-straw-for-big-techs-censorship/' ]
+ - [ 'New York Post "YouTube squelches scientific debate and other commentary" by Post Editorial Board (16 Sep 2020)', 'nypost.com/2020/09/16/youtube-squelches-scientific-debate-and-other-commentary/' ]
+ - [ 'Transcript of "The Doctor Is In: Scott Atlas And The Efficacy Of Lockdowns, Social Distancing, And Closings" (23 June 2020)', 'outline.com/39Zab7' ]
 ---
 
 YouTube removed an interview that [Dr. Scott

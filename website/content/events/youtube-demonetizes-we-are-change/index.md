@@ -6,9 +6,9 @@ corpos: [ youtube ]
 tags: [ defunded ]
 profiles: [ luke-rudkowski ]
 sources:
- - [ 'twitter.com/Lukewearechange/status/1247286950974959617', 'https://archive.is/jBoyt' ]
- - [ 'twitter.com/Lukewearechange/status/1247288232087359489', 'https://archive.is/04yaT' ]
- - [ 'BitChute "BREAKING: YouTube Just Directly Attacked This Channel" by We Are Change (7 Apr 2020)', 'https://www.bitchute.com/video/F-QOb-lvSx8/' ]
+ - [ 'twitter.com/Lukewearechange/status/1247286950974959617', 'archive.is/jBoyt' ]
+ - [ 'twitter.com/Lukewearechange/status/1247288232087359489', 'archive.is/04yaT' ]
+ - [ 'BitChute "BREAKING: YouTube Just Directly Attacked This Channel" by We Are Change (7 Apr 2020)', 'www.bitchute.com/video/F-QOb-lvSx8/' ]
 ---
 
 [YouTube](/youtube/) demonetized _We Are Change_, the independent media outlet

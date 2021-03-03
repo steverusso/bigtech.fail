@@ -5,7 +5,7 @@ image: /img/logos/patreon.png
 corpos: [ patreon ]
 tags: [ banned, defunded, policy ]
 sources:
- - [ 'Patreon Blog "An Update to Patreon’s Policies on QAnon" by Patreon Team (22 Oct 2020)', 'https://archive.is/LAzfQ' ]
+ - [ 'Patreon Blog "An Update to Patreon’s Policies on QAnon" by Patreon Team (22 Oct 2020)', 'archive.is/LAzfQ' ]
 ---
 
 Two days after Media Matters published [an article](https://archive.is/fSkGj)

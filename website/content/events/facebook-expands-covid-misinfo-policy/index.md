@@ -5,9 +5,9 @@ image: /img/logos/facebook.png
 corpos: [ facebook ]
 tags: [ policy, covid, china ]
 sources:
- - [ 'Facebook Newsroom "An Update on Our Work to Keep People Informed and Limit Misinformation About COVID-19" (Update on February 8, 2021 at 10:00AM PT)', 'https://archive.is/DQC5w' ]
+ - [ 'Facebook Newsroom "An Update on Our Work to Keep People Informed and Limit Misinformation About COVID-19" (Update on February 8, 2021 at 10:00AM PT)', 'archive.is/DQC5w' ]
 extra:
- - [ 'ZeroHedge "WHO Concludes That Coronavirus "Came From Animal," Not Wuhan Lab" by Tyler Durden (9 Feb 2021)', 'https://archive.is/HZRc3' ]
+ - [ 'ZeroHedge "WHO Concludes That Coronavirus "Came From Animal," Not Wuhan Lab" by Tyler Durden (9 Feb 2021)', 'archive.is/HZRc3' ]
 ---
 
 [Facebook](/facebook/) announced the expansion of their efforts to "limit

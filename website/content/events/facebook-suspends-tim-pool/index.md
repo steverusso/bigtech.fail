@@ -6,8 +6,8 @@ profiles: [ tim-pool ]
 corpos: [ facebook ]
 tags: [ suspended ]
 sources:
- - [ 'Tim Pool - BitChute Video', 'https://www.bitchute.com/video/5K5dmP4ph3A/' ]
- - [ 'Tim Pool - Tweet', 'https://twitter.com/Timcast/status/1193513030199451648' ]
+ - [ 'Tim Pool - BitChute Video', 'www.bitchute.com/video/5K5dmP4ph3A/' ]
+ - [ 'Tim Pool - Tweet', 'twitter.com/Timcast/status/1193513030199451648' ]
 ---
 
 Tim Pool was hit with a temporary suspension from Facebook after simply posting a link to a POLITICO opinion article titled [The New York Times Was Right to Unmask the Whistleblower](https://www.politico.com/magazine/story/2019/09/26/new-york-times-whistleblower-trump-ukraine-228529) with the caption "The New York Times was right to out Eric Ciaramella according to Politico."

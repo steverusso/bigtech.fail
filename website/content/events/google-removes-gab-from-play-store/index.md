@@ -5,12 +5,12 @@ image: /img/misc/gab-ai-banned.png
 corpos: [ google ]
 tags: [ banned, app ]
 sources:
- - [ 'Breitbart "Free Speech Social Network ''Gab'' Banned From Google Play Store" by Charlie Nash', 'https://www.breitbart.com/tech/2017/08/17/free-speech-social-network-gab-banned-google-play-store/' ]
- - [ 'The Gateway Pundit "Google Removes Gab''s Android App From Play Store Over ''Hate Speech''" by Joshua Caplan', 'https://www.thegatewaypundit.com/2017/08/google-removes-gabs-android-app-google-play-store-hate-speech/' ]
- - [ 'The Daily Caller "Google Play Bans Twitter Alternative Gab.ai App Over ''Hate Speech''" by Ian Miles Cheong', 'https://dailycaller.com/2017/08/17/google-play-bans-twitter-alternative-gab-ai-app-over-hate-speech/' ]
- - [ 'Business Insider "Google''s app store has banned Gab — a social network popular with the far-right — for ''hate speech''" by Rob Price', 'https://www.businessinsider.com/google-app-store-gab-ban-hate-speech-2017-8?IR=T' ]
- - [ 'PJ Media "Gab.AI Sues Google Over Removal of App From Google Play Store" by Tom Parker', 'https://pjmedia.com/trending/2017/09/18/gab-ai-sues-google-removal-app-google-play-store/' ]
- - [ 'Louder With Crowder "Free Speech Network ''Gab AI'' Sues Google for Removing App from Play Store" by Kacie Burnett', 'https://www.louderwithcrowder.com/gabai-sues-google/' ]
+ - [ 'Breitbart "Free Speech Social Network ''Gab'' Banned From Google Play Store" by Charlie Nash', 'www.breitbart.com/tech/2017/08/17/free-speech-social-network-gab-banned-google-play-store/' ]
+ - [ 'The Gateway Pundit "Google Removes Gab''s Android App From Play Store Over ''Hate Speech''" by Joshua Caplan', 'www.thegatewaypundit.com/2017/08/google-removes-gabs-android-app-google-play-store-hate-speech/' ]
+ - [ 'The Daily Caller "Google Play Bans Twitter Alternative Gab.ai App Over ''Hate Speech''" by Ian Miles Cheong', 'dailycaller.com/2017/08/17/google-play-bans-twitter-alternative-gab-ai-app-over-hate-speech/' ]
+ - [ 'Business Insider "Google''s app store has banned Gab — a social network popular with the far-right — for ''hate speech''" by Rob Price', 'www.businessinsider.com/google-app-store-gab-ban-hate-speech-2017-8?IR=T' ]
+ - [ 'PJ Media "Gab.AI Sues Google Over Removal of App From Google Play Store" by Tom Parker', 'pjmedia.com/trending/2017/09/18/gab-ai-sues-google-removal-app-google-play-store/' ]
+ - [ 'Louder With Crowder "Free Speech Network ''Gab AI'' Sues Google for Removing App from Play Store" by Kacie Burnett', 'www.louderwithcrowder.com/gabai-sues-google/' ]
 ---
 
 Google removed the Android app for Gab.ai from the Play Store claiming that Gab wasn't removing controversial content from its platform.

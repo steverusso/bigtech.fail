@@ -5,10 +5,10 @@ image: /img/people/prof-knut-wittkowski.jpg
 corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'New York Post "YouTube censors epidemiologist Knut Wittkowski for opposing lockdown" by Jon Levine (16 May 2020)', 'https://archive.vn/byHS2' ]
- - [ 'Reclaim The Net "YouTube deletes video of anti-lockdown epidemiology researcher Knut M. Wittkowski after millions of views" by Cindy Harper (16 May 2020)', 'https://reclaimthenet.org/wittkowski-censorship-youtube/' ]
- - [ 'Archive of video page on YouTube', 'https://archive.is/Llasn' ]
- - [ 'Archive of "Perspectives on the Pandemic" playlist page', 'https://archive.vn/pcMyg' ]
+ - [ 'New York Post "YouTube censors epidemiologist Knut Wittkowski for opposing lockdown" by Jon Levine (16 May 2020)', 'archive.vn/byHS2' ]
+ - [ 'Reclaim The Net "YouTube deletes video of anti-lockdown epidemiology researcher Knut M. Wittkowski after millions of views" by Cindy Harper (16 May 2020)', 'reclaimthenet.org/wittkowski-censorship-youtube/' ]
+ - [ 'Archive of video page on YouTube', 'archive.is/Llasn' ]
+ - [ 'Archive of "Perspectives on the Pandemic" playlist page', 'archive.vn/pcMyg' ]
 ---
 
 YouTube removed a video featuring Prof. Knut Wittkowski, the former head of biostatistics, epidemiology and research design at Rockefeller University.

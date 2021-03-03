@@ -6,9 +6,9 @@ corpos: [ twitter ]
 tags: [ exposed, policy, election2020, capitol-riot ]
 profiles: [ project-veritas ]
 sources:
- - [ '', 'https://www.projectveritas.com/news/twitter-senior-executive-details-plans-for-political-censorship-on-a-global/' ]
- - [ 'twitter.com/JamesOKeefeIII/status/1351197663878918155', 'https://archive.is/D7Rdz' ]
- - [ 'twitter.com/Project_Veritas/status/1351200283918004227', 'https://archive.is/R7Fez' ]
+ - [ '', 'www.projectveritas.com/news/twitter-senior-executive-details-plans-for-political-censorship-on-a-global/' ]
+ - [ 'twitter.com/JamesOKeefeIII/status/1351197663878918155', 'archive.is/D7Rdz' ]
+ - [ 'twitter.com/Project_Veritas/status/1351200283918004227', 'archive.is/R7Fez' ]
 ---
 
 Project Veritas released a leaked video of Twitter's head of _Legal, Policy and

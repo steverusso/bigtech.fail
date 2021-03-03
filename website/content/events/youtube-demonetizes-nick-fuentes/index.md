@@ -6,11 +6,11 @@ profiles: [ nick-fuentes ]
 corpos: [ youtube ]
 tags: [ suspended, defunded, content-removed ]
 sources:
- - [ 'Twitter @NickJFuentes 1215611326992723968', 'http://archive.is/fdoPM' ]
- - [ 'Twitter @NickJFuentes 1215695093279219712', 'http://archive.is/su2nx' ]
- - [ 'Twitter @NickJFuentes 1216433081873240064', 'http://archive.is/HvTje' ]
- - [ 'Bounding Into Comics "Groyper Army Leader Nick Fuentes Has YouTube Channel Temporarily Demonetized and Receives One Week Streaming Ban" by Spencer Baculi (14 Jan 2020)', 'http://archive.is/Jal0u' ]
- - [ 'Reclaim The Net "YouTube demonetizes America First with Nicholas J. Fuentes channel for “hate speech"" by Tom Parker (10 Jan 2020)', 'http://archive.is/iIkAg' ]
+ - [ 'Twitter @NickJFuentes 1215611326992723968', 'archive.is/fdoPM' ]
+ - [ 'Twitter @NickJFuentes 1215695093279219712', 'archive.is/su2nx' ]
+ - [ 'Twitter @NickJFuentes 1216433081873240064', 'archive.is/HvTje' ]
+ - [ 'Bounding Into Comics "Groyper Army Leader Nick Fuentes Has YouTube Channel Temporarily Demonetized and Receives One Week Streaming Ban" by Spencer Baculi (14 Jan 2020)', 'archive.is/Jal0u' ]
+ - [ 'Reclaim The Net "YouTube demonetizes America First with Nicholas J. Fuentes channel for “hate speech"" by Tom Parker (10 Jan 2020)', 'archive.is/iIkAg' ]
 ---
 
 YouTube [totally demonetized](demonetization-notice.jpg) _America First with

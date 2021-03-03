@@ -6,11 +6,11 @@ profiles: [ woke-societies ]
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'twitter.com/wokesocieties/status/1319310414782529538', 'https://archive.is/amws4' ]
- - [ 'twitter.com/wokesocieties/status/1319311705827102721', 'https://archive.is/k5REm' ]
- - [ 'twitter.com/wokesocieties/status/1319318193664630786', 'https://archive.is/TFWhY' ]
- - [ 'graphtreon.com/creator/wokesocieties1111', 'https://archive.is/wJFqW' ]
- - [ 'patreon.com/wokesocieties1111 (archived page removed)', 'https://archive.is/iSldz' ]
+ - [ 'twitter.com/wokesocieties/status/1319310414782529538', 'archive.is/amws4' ]
+ - [ 'twitter.com/wokesocieties/status/1319311705827102721', 'archive.is/k5REm' ]
+ - [ 'twitter.com/wokesocieties/status/1319318193664630786', 'archive.is/TFWhY' ]
+ - [ 'graphtreon.com/creator/wokesocieties1111', 'archive.is/wJFqW' ]
+ - [ 'patreon.com/wokesocieties1111 (archived page removed)', 'archive.is/iSldz' ]
 ---
 
 [Patreon](/patreon/) banned _Woke Societies_ in an effort to [purge

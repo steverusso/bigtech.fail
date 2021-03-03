@@ -5,8 +5,8 @@ image: /img/logos/minds.png
 corpos: [ google ]
 tags: [ app, election2020, capitol-riot ]
 sources:
- - [ 'minds.com/newsfeed/1196949029506060288', 'https://www.minds.com/newsfeed/1196949029506060288' ]
- - [ 'Styxhexenhammer666 "Google Targets Minds.com As the Billionaires'' Fascist Moves Continue" on BitChute (16 Jan 2021)', 'https://www.bitchute.com/video/0EcA6WqpYPw/' ]
+ - [ 'minds.com/newsfeed/1196949029506060288', 'www.minds.com/newsfeed/1196949029506060288' ]
+ - [ 'Styxhexenhammer666 "Google Targets Minds.com As the Billionaires'' Fascist Moves Continue" on BitChute (16 Jan 2021)', 'www.bitchute.com/video/0EcA6WqpYPw/' ]
 ---
 
 [Google](/google/) threatened the free-speech platform [Minds](/alttech/minds/)

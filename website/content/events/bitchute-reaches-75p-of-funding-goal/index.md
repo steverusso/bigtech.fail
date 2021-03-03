@@ -5,8 +5,8 @@ image: /img/logos/bitchute.png
 corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:
- - [ 'archive of: bitchute.com/help-us-grow/', 'http://archive.is/s6iUN' ]
- - [ 'BitChute "The Future of Bitchute: So Bright I Gotta Wear Shades" by Styxhexenhammer666 (4 Aug 2020)', 'https://www.bitchute.com/video/DN40fpRK_tA/' ]
+ - [ 'archive of: bitchute.com/help-us-grow/', 'archive.is/s6iUN' ]
+ - [ 'BitChute "The Future of Bitchute: So Bright I Gotta Wear Shades" by Styxhexenhammer666 (4 Aug 2020)', 'www.bitchute.com/video/DN40fpRK_tA/' ]
 ---
 
 The popular YouTube alternative BitChute reached 75% of its on-going monthly funding goal!

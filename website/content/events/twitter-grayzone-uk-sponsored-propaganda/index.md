@@ -5,12 +5,12 @@ image: /img/misc/thegrayzone.jpg
 corpos: [ twitter ]
 tags: [ restricted, gov ]
 sources:
- - [ 'The Grayzone "Reuters, BBC, and Bellingcat participated in covert UK Foreign Office-funded programs to “weaken Russia,” leaked docs reveal" by Max Blumenthal (20 Feb 2021)', 'https://archive.is/DJiiu' ]
- - [ 'twitter.com/aaronjmate/status/1364287394359504901', 'https://archive.is/NCnaz' ]
- - [ 'twitter.com/MaxBlumenthal/status/1364288973087072262', 'https://archive.is/RWRQq' ]
- - [ 'twitter.com/aaronjmate/status/1364308553524269062', 'https://archive.is/CQuc0' ]
- - [ 'twitter.com/MaxBlumenthal/status/1364360894109655042', 'https://archive.is/HdwE8' ]
- - [ 'Mint Press News "Twitter’s Attempt to Suppress Grayzone Reporting Backfires as Warning Label Becomes Meme" by Alan Macleod (24 Feb 2021)', 'https://archive.is/qTZ9J' ]
+ - [ 'The Grayzone "Reuters, BBC, and Bellingcat participated in covert UK Foreign Office-funded programs to “weaken Russia,” leaked docs reveal" by Max Blumenthal (20 Feb 2021)', 'archive.is/DJiiu' ]
+ - [ 'twitter.com/aaronjmate/status/1364287394359504901', 'archive.is/NCnaz' ]
+ - [ 'twitter.com/MaxBlumenthal/status/1364288973087072262', 'archive.is/RWRQq' ]
+ - [ 'twitter.com/aaronjmate/status/1364308553524269062', 'archive.is/CQuc0' ]
+ - [ 'twitter.com/MaxBlumenthal/status/1364360894109655042', 'archive.is/HdwE8' ]
+ - [ 'Mint Press News "Twitter’s Attempt to Suppress Grayzone Reporting Backfires as Warning Label Becomes Meme" by Alan Macleod (24 Feb 2021)', 'archive.is/qTZ9J' ]
 ---
 
 Journalist Max Blumenthal published [an article](https://archive.is/DJiiu) for

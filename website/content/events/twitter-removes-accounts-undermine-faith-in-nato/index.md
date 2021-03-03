@@ -5,10 +5,10 @@ image: /img/misc/nato.png
 corpos: [ twitter ]
 tags: [ banned, gov ]
 sources:
- - [ 'Twitter Blog "Disclosing networks of state-linked information operations" by Twitter Safety (23 Feb 2021)', 'https://archive.is/NdkNb' ]
- - [ 'Reuters "Twitter removes hundreds of accounts it says are linked to Iran, Russia, Armenia" by Foo Yun Chee (23 Feb 2021)', 'https://archive.is/eqR74' ]
- - [ 'YouTube "Twitter Censoring Foreign Policy Criticism w/Max Blumenthal" by Jimmy Dore (27 Feb 2021)', 'https://www.youtube.com/watch?v=yI4AuWlO9iA' ]
- - [ 'The Grayzone "‘No one cares if we die’: Ex-Syrian rebels recount Nagorno-Karabakh nightmare as ‘disposable force for Turkey’" by Lindsey Snell (26 Feb 2021)', 'https://archive.is/VcZOg' ]
+ - [ 'Twitter Blog "Disclosing networks of state-linked information operations" by Twitter Safety (23 Feb 2021)', 'archive.is/NdkNb' ]
+ - [ 'Reuters "Twitter removes hundreds of accounts it says are linked to Iran, Russia, Armenia" by Foo Yun Chee (23 Feb 2021)', 'archive.is/eqR74' ]
+ - [ 'YouTube "Twitter Censoring Foreign Policy Criticism w/Max Blumenthal" by Jimmy Dore (27 Feb 2021)', 'www.youtube.com/watch?v=yI4AuWlO9iA' ]
+ - [ 'The Grayzone "‘No one cares if we die’: Ex-Syrian rebels recount Nagorno-Karabakh nightmare as ‘disposable force for Turkey’" by Lindsey Snell (26 Feb 2021)', 'archive.is/VcZOg' ]
 ---
 
 [Twitter](/twitter/) announced the [permanent removal of 373 "state-affiliated"

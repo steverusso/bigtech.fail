@@ -5,9 +5,9 @@ image: /img/misc/diversity-patrol.jpg
 corpos: [ twitter ]
 tags: [ banned, humor ]
 sources:
- - [ 'twitter.com/banthebbc/status/1295687833571725313', 'https://archive.is/q2Rc7' ]
- - [ 'twitter.com/banthebbc/status/1295705193196199937', 'https://archive.is/Ux6AT' ]
- - [ 'share.par.pw/post/1b0bc5dc29d04eefba47810e8da48466', 'https://archive.is/9SBBe' ]
+ - [ 'twitter.com/banthebbc/status/1295687833571725313', 'archive.is/q2Rc7' ]
+ - [ 'twitter.com/banthebbc/status/1295705193196199937', 'archive.is/Ux6AT' ]
+ - [ 'share.par.pw/post/1b0bc5dc29d04eefba47810e8da48466', 'archive.is/9SBBe' ]
 ---
 
 Twitter banned the satirical account Tolerance Police (@DiversityPatrol) as

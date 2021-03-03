@@ -6,8 +6,8 @@ corpos: [ youtube ]
 tags: [ alttech-growth ]
 profiles: [ x22report ]
 sources:
- - [ 'Archive of X22report''s channel crossing 100k subscribers', 'https://archive.is/3q2Eh' ]
- - [ 'twitter.com/bitchute/status/1333998811350409216', 'https://archive.is/1hTCu' ]
+ - [ 'Archive of X22report''s channel crossing 100k subscribers', 'archive.is/3q2Eh' ]
+ - [ 'twitter.com/bitchute/status/1333998811350409216', 'archive.is/1hTCu' ]
 ---
 
 [_X22report_](/profiles/x22report/) became the 3rd channel to reach **100k

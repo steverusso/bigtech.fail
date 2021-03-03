@@ -7,12 +7,12 @@ summary: In this phone call, Matt gives Patreon more than enough rope to metapho
 profiles: [ matt-christiansen ]
 corpos: [ patreon ]
 sources:
- - [ '@MLChristiansen - Tweet 1075156361212616707', 'https://archive.is/6p4YL' ]
- - [ 'Matt Christiansen - BitChute Video - "My Call With Patreon''s Jacqueline Hart | Yes, It''s a Total Disaster (Transcript Included)"', 'https://www.bitchute.com/video/Hv7hvZee-PQ/' ]
- - [ 'Matt Christiansen - BitChute Video - "Behind the Deplatforming | Tim Squirrell, the Self-Appointed Content Cop and Gatekeeper"', 'https://www.bitchute.com/video/uaxOauIqJeM/' ]
- - [ 'Sargon of Akkad - BitChute Video - "Matt Christiansen''s Call to Patreon (#PatreonPurge 6)"', 'https://www.bitchute.com/video/7LaVUvxy2tU/' ]
- - [ 'Call Transcript on Reddit - https://www.reddit.com/r/podcasting/comments/a8nexc/transcript_from_phone_call_between_matt/', 'https://www.reddit.com/r/podcasting/comments/a8nexc/transcript_from_phone_call_between_matt/' ]
- - [ 'Call Transcript on Google Docs - https://docs.google.com/document/d/1U0mQjUA0T5INc_GDkwPJ2mfhO7tbaIogisSqqxHw0hc/edit', 'https://docs.google.com/document/d/1U0mQjUA0T5INc_GDkwPJ2mfhO7tbaIogisSqqxHw0hc/edit' ]
+ - [ '@MLChristiansen - Tweet 1075156361212616707', 'archive.is/6p4YL' ]
+ - [ 'Matt Christiansen - BitChute Video - "My Call With Patreon''s Jacqueline Hart | Yes, It''s a Total Disaster (Transcript Included)"', 'www.bitchute.com/video/Hv7hvZee-PQ/' ]
+ - [ 'Matt Christiansen - BitChute Video - "Behind the Deplatforming | Tim Squirrell, the Self-Appointed Content Cop and Gatekeeper"', 'www.bitchute.com/video/uaxOauIqJeM/' ]
+ - [ 'Sargon of Akkad - BitChute Video - "Matt Christiansen''s Call to Patreon (#PatreonPurge 6)"', 'www.bitchute.com/video/7LaVUvxy2tU/' ]
+ - [ 'Call Transcript on Reddit - https://www.reddit.com/r/podcasting/comments/a8nexc/transcript_from_phone_call_between_matt/', 'www.reddit.com/r/podcasting/comments/a8nexc/transcript_from_phone_call_between_matt/' ]
+ - [ 'Call Transcript on Google Docs - https://docs.google.com/document/d/1U0mQjUA0T5INc_GDkwPJ2mfhO7tbaIogisSqqxHw0hc/edit', 'docs.google.com/document/d/1U0mQjUA0T5INc_GDkwPJ2mfhO7tbaIogisSqqxHw0hc/edit' ]
 ---
 
 Patreon's [banning of Sargon on December 7th](/e/patreon-bans-sargon/) caused immediate and significant losses for other creators on the platform.

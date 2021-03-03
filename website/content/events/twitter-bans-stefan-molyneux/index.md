@@ -6,11 +6,11 @@ profiles: [ stefan-molyneux ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'Twitter @Cernovich 1280675387781996545', 'http://archive.is/8HpwC' ]
- - [ 'Stefan Molyneux, MA''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'https://socialblade.com/twitter/user/stefanmolyneux' ]
- - [ 'Last archive of Molyneux''s account before ban', 'http://archive.vn/CNpXo' ]
- - [ 'RT "''The purge will only accelerate'': Stefan Molyneux suspended from Twitter just days after receiving YouTube ban" (8 Jul 2020)', 'http://archive.is/VhIWy' ]
- - [ 'CNN Activist Oliver Darcey Twitter Thread 1280672525211533312', 'http://archive.is/zE5ns' ]
+ - [ 'Twitter @Cernovich 1280675387781996545', 'archive.is/8HpwC' ]
+ - [ 'Stefan Molyneux, MA''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'socialblade.com/twitter/user/stefanmolyneux' ]
+ - [ 'Last archive of Molyneux''s account before ban', 'archive.vn/CNpXo' ]
+ - [ 'RT "''The purge will only accelerate'': Stefan Molyneux suspended from Twitter just days after receiving YouTube ban" (8 Jul 2020)', 'archive.is/VhIWy' ]
+ - [ 'CNN Activist Oliver Darcey Twitter Thread 1280672525211533312', 'archive.is/zE5ns' ]
 ---
 
 Twitter banned Stefan Molyneux (@StefanMolyneux) without warning just over a

@@ -5,9 +5,9 @@ image: /img/people/james-allsup.jpg
 corpos: [ facebook, instagram ]
 tags: [ banned ]
 sources:
- - [ 'James Allsup - BitChute Video', 'https://www.bitchute.com/video/QIbKDUYtHDj4/' ]
- - [ 'KXLY.com', 'https://www.kxly.com/news/facebook-instagram-delete-controversial-figure-james-allsup-s-accounts/1111588488' ]
- - [ 'National File', 'https://nationalfile.com/tech-censorship-youtube-commentator-james-allsup-deplatformed-from-facebook-instagram/' ]
+ - [ 'James Allsup - BitChute Video', 'www.bitchute.com/video/QIbKDUYtHDj4/' ]
+ - [ 'KXLY.com', 'www.kxly.com/news/facebook-instagram-delete-controversial-figure-james-allsup-s-accounts/1111588488' ]
+ - [ 'National File', 'nationalfile.com/tech-censorship-youtube-commentator-james-allsup-deplatformed-from-facebook-instagram/' ]
 ---
 
 James Allsup's Instagram account (which had about 10k followers), his Facebook page, and his personal Facebook account were all deleted on Monday, August 12, 2019.

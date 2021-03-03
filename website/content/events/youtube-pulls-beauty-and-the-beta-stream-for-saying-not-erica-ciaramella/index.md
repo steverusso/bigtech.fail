@@ -6,10 +6,10 @@ corpos: [ youtube ]
 tags: [ content-removed, gov ]
 profiles: [ blonde, matt-christiansen ]
 sources:
- - [ 'Matt Christiansen "#180: "Full Episode - YouTube Banned the First 36 Minutes" on BitChute (13 Nov 2019)', 'https://www.bitchute.com/video/W5ifp4nPNJ63/' ]
- - [ 'twitter.com/MLChristiansen/status/1193719851463802883', 'https://web.archive.org/web/20191111023931/https:/twitter.com/MLChristiansen/status/1193719851463802883' ]
- - [ 'twitter.com/MLChristiansen/status/1193720165176791040', 'https://web.archive.org/web/20191111025447/https:/twitter.com/MLChristiansen/status/1193720165176791040' ]
- - [ 'twitter.com/MLChristiansen/status/1193760661622280193', 'https://web.archive.org/web/20191111052512/https:/twitter.com/MLChristiansen/status/1193760661622280193' ]
+ - [ 'Matt Christiansen "#180: "Full Episode - YouTube Banned the First 36 Minutes" on BitChute (13 Nov 2019)', 'www.bitchute.com/video/W5ifp4nPNJ63/' ]
+ - [ 'twitter.com/MLChristiansen/status/1193719851463802883', 'web.archive.org/web/20191111023931/https:/twitter.com/MLChristiansen/status/1193719851463802883' ]
+ - [ 'twitter.com/MLChristiansen/status/1193720165176791040', 'web.archive.org/web/20191111025447/https:/twitter.com/MLChristiansen/status/1193720165176791040' ]
+ - [ 'twitter.com/MLChristiansen/status/1193760661622280193', 'web.archive.org/web/20191111052512/https:/twitter.com/MLChristiansen/status/1193760661622280193' ]
 ---
 
 During the past week, YouTube and Facebook [started to purge any

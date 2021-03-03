@@ -6,9 +6,9 @@ corpos: [ facebook ]
 tags: [ content-removed, restricted, gov, election2020 ]
 profiles: [ mark-dice ]
 sources:
- - [ 'twitter.com/MarkDice/status/1353483322828099584', 'https://archive.is/nvgbG' ]
- - [ 'twitter.com/MarkDice/status/1353486761901445121', 'https://archive.is/AjVom#selection-1429.0-1429.172' ]
- - [ 'gab.com/MarkDice/posts/105629657057880226', 'https://gab.com/MarkDice/posts/105629657057880226' ]
+ - [ 'twitter.com/MarkDice/status/1353483322828099584', 'archive.is/nvgbG' ]
+ - [ 'twitter.com/MarkDice/status/1353486761901445121', 'archive.is/AjVom#selection-1429.0-1429.172' ]
+ - [ 'gab.com/MarkDice/posts/105629657057880226', 'gab.com/MarkDice/posts/105629657057880226' ]
 ---
 
 [Facebook](/facebook/) removed a post made by media analyst and political

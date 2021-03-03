@@ -5,11 +5,11 @@ image: /img/logos/breakingnlive.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'Styxhexenhammer666 - BitChute Video "Hunter Biden Baby, Burisma Bombshell, Twitter Bans BNL For Reporting"', 'https://www.bitchute.com/video/A9UI-AAeOmA/' ]
- - [ 'NewsBusters "Twitter Suspends Account After Tweets About Hunter Biden’s Activities" by Corinne Weaver', 'https://www.newsbusters.org/blogs/techwatch/corinne-weaver/2019/11/21/twitter-suspends-account-after-tweets-about-hunter-bidens' ]
- - [ 'FiddlerForest - Twitter - 1197238059873398784', 'https://web.archive.org/web/20191120194502/https:/twitter.com/FiddlerForest/status/1197238059873398784' ]
- - [ 'Porkchp - Twitter - 1197268232505188353', 'https://web.archive.org/web/20191120220638/https:/twitter.com/porkchopfriday/status/1197268232505188353' ]
- - [ 'The ZeroHedge Article', 'https://www.zerohedge.com/geopolitical/ukrainian-indictment-reveals-hunter-biden-group-made-165-million-mp' ]
+ - [ 'Styxhexenhammer666 - BitChute Video "Hunter Biden Baby, Burisma Bombshell, Twitter Bans BNL For Reporting"', 'www.bitchute.com/video/A9UI-AAeOmA/' ]
+ - [ 'NewsBusters "Twitter Suspends Account After Tweets About Hunter Biden’s Activities" by Corinne Weaver', 'www.newsbusters.org/blogs/techwatch/corinne-weaver/2019/11/21/twitter-suspends-account-after-tweets-about-hunter-bidens' ]
+ - [ 'FiddlerForest - Twitter - 1197238059873398784', 'web.archive.org/web/20191120194502/https:/twitter.com/FiddlerForest/status/1197238059873398784' ]
+ - [ 'Porkchp - Twitter - 1197268232505188353', 'web.archive.org/web/20191120220638/https:/twitter.com/porkchopfriday/status/1197268232505188353' ]
+ - [ 'The ZeroHedge Article', 'www.zerohedge.com/geopolitical/ukrainian-indictment-reveals-hunter-biden-group-made-165-million-mp' ]
 ---
 
 Twitter banned **@BreakingNLive** for being "spam" after they tweeted out a link to a Biden-Ukraine article on ZeroHedge.com.

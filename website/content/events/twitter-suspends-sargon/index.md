@@ -5,9 +5,9 @@ image: /img/people/sargon-of-akkad.jpg
 corpos: [ twitter ]
 tags: [ suspended ]
 sources:
- - [ 'YouTube "I Have Been Suspended From Twitter #FreeSargon" by Sargon of Akkad (27 Jan 2020)', 'https://www.youtube.com/watch?v=uBt0YNbrXWQ' ]
- - [ 'WeAreChange "#FreeSargon: Twitter Suspends YouTuber For Trolling Tweeting Out Gay Porn" by Aaron Kesel (27 Jan 2020)', 'https://archive.vn/CkkLH' ]
- - [ 'Breitbart "Twitter Suspends YouTuber Sargon of Akkad **UPDATED**" by Lucas Nolan (27 Jan 2020)', 'https://archive.vn/QsuWY' ]
+ - [ 'YouTube "I Have Been Suspended From Twitter #FreeSargon" by Sargon of Akkad (27 Jan 2020)', 'www.youtube.com/watch?v=uBt0YNbrXWQ' ]
+ - [ 'WeAreChange "#FreeSargon: Twitter Suspends YouTuber For Trolling Tweeting Out Gay Porn" by Aaron Kesel (27 Jan 2020)', 'archive.vn/CkkLH' ]
+ - [ 'Breitbart "Twitter Suspends YouTuber Sargon of Akkad **UPDATED**" by Lucas Nolan (27 Jan 2020)', 'archive.vn/QsuWY' ]
 ---
 
 Twitter temporarily suspended Sargon of Akkad without giving a reason or

@@ -5,11 +5,11 @@ image: /img/people/donald-trump-jr.jpg
 corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:
- - [ 'YouTube "Don Jr. speaks out about temporary Twitter ban on ''Tucker Carlson Tonight''" by Fox News (28 Jul 2020)', 'https://www.youtube.com/watch?v=ZrU2_WvVVm0' ]
- - [ 'YouTube "Don Jr. blasts Twitter after being temporarily suspended" by Fox News (28 Jul 2020)', 'https://www.youtube.com/watch?v=7mpO2KAVtwo' ]
- - [ 'twitter.com/Surabees/status/1288101467581227011', 'http://archive.is/K9r7L' ]
- - [ 'Reclaim The Net "Twitter deletes covid treatment video after Trump retweeted it, locks Trump Jr''s account" by Didi Rankovic (28 Jul 2020)', 'https://reclaimthenet.org/twitter-deletes-covid-treatment-video-after-trump-retweeted-it/' ]
- - [ 'ZeroHedge "Twitter Locks Trump Jr Account For Posting Press Conference By Pro-Hydroxychloroquine Doctors" by Tyler Durden (28 Jul 2020)', 'http://archive.is/uTHwY' ]
+ - [ 'YouTube "Don Jr. speaks out about temporary Twitter ban on ''Tucker Carlson Tonight''" by Fox News (28 Jul 2020)', 'www.youtube.com/watch?v=ZrU2_WvVVm0' ]
+ - [ 'YouTube "Don Jr. blasts Twitter after being temporarily suspended" by Fox News (28 Jul 2020)', 'www.youtube.com/watch?v=7mpO2KAVtwo' ]
+ - [ 'twitter.com/Surabees/status/1288101467581227011', 'archive.is/K9r7L' ]
+ - [ 'Reclaim The Net "Twitter deletes covid treatment video after Trump retweeted it, locks Trump Jr''s account" by Didi Rankovic (28 Jul 2020)', 'reclaimthenet.org/twitter-deletes-covid-treatment-video-after-trump-retweeted-it/' ]
+ - [ 'ZeroHedge "Twitter Locks Trump Jr Account For Posting Press Conference By Pro-Hydroxychloroquine Doctors" by Tyler Durden (28 Jul 2020)', 'archive.is/uTHwY' ]
 ---
 
 Shortly after deleting some of President Trump's tweets, Twitter

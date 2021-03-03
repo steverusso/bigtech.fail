@@ -5,17 +5,17 @@ image: /img/people/sgtreport.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/SGTreport/status/1316797719005007873', 'https://archive.is/zZo3g' ]
- - [ 'Social Blade (SGTreport) socialblade.com/youtube/channel/UC2nQYGjfe9I_tgWpqgJorUg', 'https://archive.is/m2W8F' ]
- - [ 'altCensored - SGTreport', 'https://archive.is/7fUyz' ]
- - [ 'twitter.com/SGTreport/status/1316798439490048000', 'https://archive.is/0Fotj' ]
- - [ 'twitter.com/SGTreport/status/1316802912883015680', 'https://archive.is/C7n5l' ]
- - [ 'twitter.com/SGTreport/status/1316807872324476933', 'https://archive.is/fznHn' ]
- - [ 'twitter.com/SGTreport/status/1316808739018678278', 'https://archive.is/a50Af' ]
- - [ 'twitter.com/SGTreport/status/1316825108007333894', 'https://archive.is/NLqRl' ]
- - [ 'twitter.com/SGTreport/status/1316825931747676166', 'https://archive.is/ON5R2' ]
- - [ 'twitter.com/SGTreport/status/1316843271679815683', 'https://archive.is/erqho' ]
- - [ 'twitter.com/SGTreport/status/1318982938525130754', 'https://archive.is/3H456' ]
+ - [ 'twitter.com/SGTreport/status/1316797719005007873', 'archive.is/zZo3g' ]
+ - [ 'Social Blade (SGTreport) socialblade.com/youtube/channel/UC2nQYGjfe9I_tgWpqgJorUg', 'archive.is/m2W8F' ]
+ - [ 'altCensored - SGTreport', 'archive.is/7fUyz' ]
+ - [ 'twitter.com/SGTreport/status/1316798439490048000', 'archive.is/0Fotj' ]
+ - [ 'twitter.com/SGTreport/status/1316802912883015680', 'archive.is/C7n5l' ]
+ - [ 'twitter.com/SGTreport/status/1316807872324476933', 'archive.is/fznHn' ]
+ - [ 'twitter.com/SGTreport/status/1316808739018678278', 'archive.is/a50Af' ]
+ - [ 'twitter.com/SGTreport/status/1316825108007333894', 'archive.is/NLqRl' ]
+ - [ 'twitter.com/SGTreport/status/1316825931747676166', 'archive.is/ON5R2' ]
+ - [ 'twitter.com/SGTreport/status/1316843271679815683', 'archive.is/erqho' ]
+ - [ 'twitter.com/SGTreport/status/1318982938525130754', 'archive.is/3H456' ]
 youtube:
  subs: 630000
  views: 130000000

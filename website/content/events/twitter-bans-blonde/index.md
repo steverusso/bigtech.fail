@@ -6,11 +6,11 @@ profiles: [ blonde ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'Beauty and the Beta Sunday Stream #79 @ 3m25s', 'https://youtu.be/6mq65f2Tpzk?t=205' ]
- - [ 'Blonde - BitChute Video "Twitter | Censorship, Suspensions & the Future"', 'https://www.bitchute.com/video/JC0oI3dxfglk/' ]
- - [ 'Blonde - Gab 6031646015289070', 'https://gab.com/Blonde_Beast/posts/6031646015289070' ]
- - [ 'Blonde''s Twitter Profile Snapshot Before Ban - archive.today', 'https://archive.is/2JHJt' ]
- - [ 'Blonde''s Twitter Profile Snapshot Before Ban - web.archive.org', 'https://web.archive.org/web/20171124222513/https://twitter.com/Blondes_tweets' ]
+ - [ 'Beauty and the Beta Sunday Stream #79 @ 3m25s', 'youtu.be/6mq65f2Tpzk?t=205' ]
+ - [ 'Blonde - BitChute Video "Twitter | Censorship, Suspensions & the Future"', 'www.bitchute.com/video/JC0oI3dxfglk/' ]
+ - [ 'Blonde - Gab 6031646015289070', 'gab.com/Blonde_Beast/posts/6031646015289070' ]
+ - [ 'Blonde''s Twitter Profile Snapshot Before Ban - archive.today', 'archive.is/2JHJt' ]
+ - [ 'Blonde''s Twitter Profile Snapshot Before Ban - web.archive.org', 'web.archive.org/web/20171124222513/https://twitter.com/Blondes_tweets' ]
 ---
 
 Shortly after being temporarily suspended twice within two weeks (first [on Nov 2nd](/e/twitter-suspends-blonde-for-banter/) and then again [on Nov 13th](/e/twitter-suspends-blonde-for-tweeting-about-statistics/)), Blonde was permanently banned from Twitter.

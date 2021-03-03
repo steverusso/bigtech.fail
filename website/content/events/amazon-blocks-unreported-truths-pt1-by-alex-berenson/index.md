@@ -5,12 +5,12 @@ image: /img/books/unreported-truths-about-covid-pt1.png
 corpos: [ amazon ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'twitter.com/AlexBerenson/status/1268529570480824320', 'https://archive.is/D50Ir' ]
- - [ 'twitter.com/AlexBerenson/status/1268578316543561736', 'https://archive.is/zw1OI' ]
- - [ 'twitter.com/AlexBerenson/status/1268621293873541120', 'https://archive.is/ZxCZL' ]
- - [ 'twitter.com/elonmusk/status/1268602138860515328', 'https://archive.is/90pBi' ]
- - [ 'Reclaim The Net "Elon Musk calls for Amazon to be broken up in response to its censorship of dissenting coronavirus perspective" by Tom Parker (4 Jun 2020)', 'https://reclaimthenet.org/elon-musk-break-up-amazon/' ]
- - [ 'The Federalist "Amazon Blocked Coronavirus Skeptic’s Book But Still Sells Books By Hitler, The Unabomber" by Tristan Justice (4 Jun 2020)', 'https://thefederalist.com/2020/06/04/amazon-bans-coronavirus-skeptics-book-but-still-sells-books-by-hitler-the-unabomber/' ]
+ - [ 'twitter.com/AlexBerenson/status/1268529570480824320', 'archive.is/D50Ir' ]
+ - [ 'twitter.com/AlexBerenson/status/1268578316543561736', 'archive.is/zw1OI' ]
+ - [ 'twitter.com/AlexBerenson/status/1268621293873541120', 'archive.is/ZxCZL' ]
+ - [ 'twitter.com/elonmusk/status/1268602138860515328', 'archive.is/90pBi' ]
+ - [ 'Reclaim The Net "Elon Musk calls for Amazon to be broken up in response to its censorship of dissenting coronavirus perspective" by Tom Parker (4 Jun 2020)', 'reclaimthenet.org/elon-musk-break-up-amazon/' ]
+ - [ 'The Federalist "Amazon Blocked Coronavirus Skeptic’s Book But Still Sells Books By Hitler, The Unabomber" by Tristan Justice (4 Jun 2020)', 'thefederalist.com/2020/06/04/amazon-bans-coronavirus-skeptics-book-but-still-sells-books-by-hitler-the-unabomber/' ]
 ---
 
 Amazon blocked the publication of _Unreported Truths about COVID-19 and

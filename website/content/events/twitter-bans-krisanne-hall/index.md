@@ -6,9 +6,9 @@ profiles: [ krisanne-hall ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'facebook.com/krisanne.hall/posts/3423545554363103', 'https://archive.is/HFSp4' ]
- - [ 'KrisAnne Hall, JD ?''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'https://socialblade.com/twitter/user/krisannehall' ]
- - [ 'The KrisAnne Hall Show "Episode 1171 Special Edition: Suspended On Twitter"', 'https://www.krisannehall.com/index.php/resources/the-krisanne-hall-show/663-episode-1171-special-edition-suspended-on-twitter' ]
+ - [ 'facebook.com/krisanne.hall/posts/3423545554363103', 'archive.is/HFSp4' ]
+ - [ 'KrisAnne Hall, JD ?''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'socialblade.com/twitter/user/krisannehall' ]
+ - [ 'The KrisAnne Hall Show "Episode 1171 Special Edition: Suspended On Twitter"', 'www.krisannehall.com/index.php/resources/the-krisanne-hall-show/663-episode-1171-special-edition-suspended-on-twitter' ]
 ---
 
 Twitter banned constitutional expert and podcaster [KrisAnne

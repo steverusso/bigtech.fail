@@ -5,8 +5,8 @@ image: /img/people/jeremy-boreing.jpg
 corpos: [ twitter ]
 tags: [ suspended, wtf ]
 sources:
- - [ 'Twitter @benshapiro 1080845675946901505', 'http://archive.vn/PmoZl' ]
- - [ 'The Daily Wire "This Daily Wire Figure Just Got Suspended From Twitter For The Dumbest Reason Imaginable" by Emily Zanotti (3 Jan 2019)', 'http://archive.vn/vnAvr' ]
+ - [ 'Twitter @benshapiro 1080845675946901505', 'archive.vn/PmoZl' ]
+ - [ 'The Daily Wire "This Daily Wire Figure Just Got Suspended From Twitter For The Dumbest Reason Imaginable" by Emily Zanotti (3 Jan 2019)', 'archive.vn/vnAvr' ]
 ---
 
 Twitter suspended Daily Wire co-founder Jeremy Boreing for "promoting or

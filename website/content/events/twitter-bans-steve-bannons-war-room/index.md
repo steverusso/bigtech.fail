@@ -5,13 +5,13 @@ image: /img/people/steve-bannons-war-room.jpg
 corpos: [ twitter ]
 tags: [ banned, gov, election2020 ]
 sources:
- - [ 'twitter.com/RaheemKassam/status/1324494295030730760', 'https://archive.is/wWtDv' ]
- - [ 'twitter.com/RaheemKassam/status/1324497386518028293', 'https://archive.is/24Eq9' ]
- - [ 'New York Post "Twitter suspends Steve Bannon after he suggests beheading Fauci and Wray" by Ben Feuerherd (6 Nov 2020)', 'https://archive.is/PPOZ3' ]
- - [ 'The Gateway Pundit "BREAKING: Steve Bannon’s War Room Banned By YouTube and Twitter, at Nearly the Same Time" by Cassandra Fairbanks (5 Nov 2020)', 'https://archive.is/aNZ81' ]
- - [ 'BitChute "Timcast IRL - Steve Bannon BANNED, Now Begins TRUTH And Reconciliation Panels" by @Timcast (6 Nov 2020)', 'https://www.bitchute.com/video/OKW-coLNF7o/' ]
+ - [ 'twitter.com/RaheemKassam/status/1324494295030730760', 'archive.is/wWtDv' ]
+ - [ 'twitter.com/RaheemKassam/status/1324497386518028293', 'archive.is/24Eq9' ]
+ - [ 'New York Post "Twitter suspends Steve Bannon after he suggests beheading Fauci and Wray" by Ben Feuerherd (6 Nov 2020)', 'archive.is/PPOZ3' ]
+ - [ 'The Gateway Pundit "BREAKING: Steve Bannon’s War Room Banned By YouTube and Twitter, at Nearly the Same Time" by Cassandra Fairbanks (5 Nov 2020)', 'archive.is/aNZ81' ]
+ - [ 'BitChute "Timcast IRL - Steve Bannon BANNED, Now Begins TRUTH And Reconciliation Panels" by @Timcast (6 Nov 2020)', 'www.bitchute.com/video/OKW-coLNF7o/' ]
 extra:
- - [ '', 'https://twitter.com/FrankFigliuzzi1/status/1324485819042705408' ]
+ - [ '', 'twitter.com/FrankFigliuzzi1/status/1324485819042705408' ]
 ---
 
 [Twitter](/twitter/) permanently banned _Steve Bannon's War Room_ after he made
