@@ -16,8 +16,10 @@
 					<details data-srcs><summary></summary>
 						<ol>
 							{{ range . }}
-								{{ $url := index . 1 }}
-								<li><a href="https://{{ $url }}" target="_blank">{{ index . 0 | default $url }}</a></li>
+								{{ $p := index . 1 }}
+								{{ $isLocal := hasPrefix $p "./" }}
+								{{ $url := cond $isLocal (substr $p 2) (printf "https://%s" $p) }}
+								<li><a href="{{ $url }}" target="_blank">{{ index . 0 | default $url }}</a></li>
 							{{ end }}
 						</ol>
 					</details>
