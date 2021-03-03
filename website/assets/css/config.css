@@ -23,7 +23,7 @@
 
 	--blockquoteBorder: #666;
 	--blockquoteColor: #8f8f8f;
-	--articleHeadings: #fafafa;
+	--articleHeading: #fafafa;
 	--articleBold: #fff;
 
 	--jtronBg: linear-gradient(#272727, #404040);
@@ -50,8 +50,8 @@
 
 		--blockquoteBorder: #ddd;
 		--blockquoteColor: #888;
-		--articleHeadings: #222;
-		--articleBold: #555;
+		--articleHeading: #222;
+		--articleBold: #333;
 
 		--jtronBg: linear-gradient(#ccc, #fff);
 		--jtronCardBg: #fff;

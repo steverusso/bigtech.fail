@@ -23,7 +23,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
 	font-weight: normal;
 }
 h1 {
@@ -227,6 +227,7 @@ h3[data-count] {
 
 .evtpg section > h4:after {
 	content: "Sources / Relevant Material";
+	font-weight: 600;
 }
 .profiles > a:not(:first-child) {
 	margin-top: 1rem;
