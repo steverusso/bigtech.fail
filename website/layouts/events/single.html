@@ -23,9 +23,8 @@
 
 			<article>{{ .Content }}</article>
 
-			<details data-srcs><summary></summary>
-				{{ partial "srcs-list" .Params.sources }}
-			</details>
+			<h4 class="srcs"></h4>
+			{{ partial "srcs-list" .Params.sources }}
 		</section>
 
 		<aside>

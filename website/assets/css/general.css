@@ -91,14 +91,15 @@ tr:nth-child(odd) {
 	background-color: var(--cardBg);
 }
 
-[data-srcs] summary:after {
+h4.srcs:after, [data-srcs] summary:after {
 	content: "Sources / Relevant Material";
 	display: inline-block;
+	font-weight: normal;
 }
-[data-srcs] ol {
+h4.srcs + ol, [data-srcs] ol {
 	overflow: hidden;
 }
-[data-srcs] li {
+h4.srcs + ol li, [data-srcs] li {
 	font-size: 0.95rem;
 	margin-bottom: 0.5rem;
 	line-height: 1.75;
