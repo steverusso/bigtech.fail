@@ -5,11 +5,11 @@ image: /img/logos/bitchute.png
 corpos: [ twitter ]
 tags: [ content-removed ]
 sources:
- - [ 'twitter.com/bitchute/status/1291717749517897728', 'http://archive.is/76MLV' ]
- - [ 'twitter.com/Timcast/status/1291719476887597057', 'http://archive.is/YHpKr' ]
- - [ 'Press For Truth "Twitter BANS BITCHUTE LINKS in Attempt To Slow Growth And CONTROL INFORMATION!!!" on BitChute (7 Aug 2020)', 'https://www.bitchute.com/video/yyoXadxiK74w/' ]
- - [ 'Styxhexenhammer666 "Twitter Bans Bitchute Links, Then Partly Unbans Them After Backlash" on BitChute (8 Aug 2020)', 'https://www.bitchute.com/video/t6kYIDSq1Ho/' ]
- - [ 'twitter.com/bitchute/status/1341891962819919873', 'https://archive.is/i39W8' ]
+ - [ 'twitter.com/bitchute/status/1291717749517897728', 'archive.is/76MLV' ]
+ - [ 'twitter.com/Timcast/status/1291719476887597057', 'archive.is/YHpKr' ]
+ - [ 'Press For Truth "Twitter BANS BITCHUTE LINKS in Attempt To Slow Growth And CONTROL INFORMATION!!!" on BitChute (7 Aug 2020)', 'www.bitchute.com/video/yyoXadxiK74w/' ]
+ - [ 'Styxhexenhammer666 "Twitter Bans Bitchute Links, Then Partly Unbans Them After Backlash" on BitChute (8 Aug 2020)', 'www.bitchute.com/video/t6kYIDSq1Ho/' ]
+ - [ 'twitter.com/bitchute/status/1341891962819919873', 'archive.is/i39W8' ]
 ---
 
 After outright blocking any link to BitChute, Twitter scaled back to just

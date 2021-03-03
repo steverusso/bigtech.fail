@@ -5,8 +5,8 @@ image: /img/logos/bitchute.png
 corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:
- - [ 'Archive of BitChute crossing funding goal', 'https://archive.vn/72j6B#selection-787.0-795.9' ]
- - [ 'twitter.com/bitchute/status/1333340433112436736', 'https://archive.is/p4imK' ]
+ - [ 'Archive of BitChute crossing funding goal', 'archive.vn/72j6B#selection-787.0-795.9' ]
+ - [ 'twitter.com/bitchute/status/1333340433112436736', 'archive.is/p4imK' ]
 ---
 
 [BitChute](/alttech/bitchute/), a video hosting platform similar to YouTube,

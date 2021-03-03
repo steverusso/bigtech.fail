@@ -5,7 +5,7 @@ image: /img/people/tommy-robinson.jpg
 corpos: [ twitter ]
 tags: [ suspended ]
 sources:
- - [ 'Voice of Europe "Tommy Robinson banned by Twitter for ‘telling the truth’ about grooming gangs" (1 Mar 2018)', 'https://archive.vn/4QPZI' ]
+ - [ 'Voice of Europe "Tommy Robinson banned by Twitter for ‘telling the truth’ about grooming gangs" (1 Mar 2018)', 'archive.vn/4QPZI' ]
 ---
 
 Twitter temporarily suspended Tommy Robinson, a British political activist, for

@@ -5,11 +5,11 @@ image: /img/people/lindsay-shepherd.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'The Post Millennial "Twitter permanently silences Canadian free speech activist Lindsay Shepherd" by Barrett Wilson (15 Jul 2020)', 'https://www.thepostmillennial.com/breaking-twitter-silences-canadian-free-speech-activist-lindsay-shepherd/' ]
- - [ 'The Post Millennial "Twitter reverses ban of Lindsay Shepherd after international outrage" by Barrett Wilson (26 Jul 2020)', 'https://www.thepostmillennial.com/breaking-twitter-reverses-ban-of-lindsay-shepherd-after-international-outrage/' ]
- - [ 'National Post "Free speech activist Lindsay Shepherd on her Twitter ban: ''Your instincts should not be to celebrate''" by Jesse Snyder (16 Jul 2020)', 'https://nationalpost.com/news/free-speech-activist-lindsay-shepherd-on-her-twitter-ban-your-instincts-should-not-be-to-celebrate' ]
- - [ 'Feminist Current "What''s Current: Twitter permanently bans free speech activist Lindsay Shepherd" by Mary Hickman (16 Jul 2020)', 'http://archive.is/BE5UL' ]
- - [ 'twitter.com/NewWorldHominin/status/1154882674596515840', 'http://archive.is/TmzDs' ]
+ - [ 'The Post Millennial "Twitter permanently silences Canadian free speech activist Lindsay Shepherd" by Barrett Wilson (15 Jul 2020)', 'www.thepostmillennial.com/breaking-twitter-silences-canadian-free-speech-activist-lindsay-shepherd/' ]
+ - [ 'The Post Millennial "Twitter reverses ban of Lindsay Shepherd after international outrage" by Barrett Wilson (26 Jul 2020)', 'www.thepostmillennial.com/breaking-twitter-reverses-ban-of-lindsay-shepherd-after-international-outrage/' ]
+ - [ 'National Post "Free speech activist Lindsay Shepherd on her Twitter ban: ''Your instincts should not be to celebrate''" by Jesse Snyder (16 Jul 2020)', 'nationalpost.com/news/free-speech-activist-lindsay-shepherd-on-her-twitter-ban-your-instincts-should-not-be-to-celebrate' ]
+ - [ 'Feminist Current "What''s Current: Twitter permanently bans free speech activist Lindsay Shepherd" by Mary Hickman (16 Jul 2020)', 'archive.is/BE5UL' ]
+ - [ 'twitter.com/NewWorldHominin/status/1154882674596515840', 'archive.is/TmzDs' ]
 ---
 
 Twitter banned Lindsay Shepherd for "misgendering" during an argument with

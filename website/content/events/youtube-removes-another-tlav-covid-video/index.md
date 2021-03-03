@@ -6,7 +6,7 @@ corpos: [ youtube ]
 tags: [ content-removed, covid ]
 profiles: [ tlav ]
 sources:
- - [ 'twitter.com/TLAVagabond/status/1336573253054238721', 'https://archive.is/ooNND' ]
+ - [ 'twitter.com/TLAVagabond/status/1336573253054238721', 'archive.is/ooNND' ]
 ---
 
 [YouTube](/youtube/) removed a video from _The Last American Vagabond's_ backup

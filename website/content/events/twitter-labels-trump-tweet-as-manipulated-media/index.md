@@ -5,8 +5,8 @@ image: /img/people/trump.jpg
 corpos: [ twitter ]
 tags: [ content-removed, gov, wtf ]
 sources:
- - [ 'Twitter @realDonaldTrump 1273770669214490626', 'https://archive.vn/skozQ' ]
- - [ 'New York Post "Twitter adds ''manipulated media'' warning to Trump tweet" by Tamar Lapin (18 Jun 2020)', 'http://archive.is/HlHqq' ]
+ - [ 'Twitter @realDonaldTrump 1273770669214490626', 'archive.vn/skozQ' ]
+ - [ 'New York Post "Twitter adds ''manipulated media'' warning to Trump tweet" by Tamar Lapin (18 Jun 2020)', 'archive.is/HlHqq' ]
 ---
 
 Twitter labeled a tweet from Pres. Trump as "manipulated media." It contained a

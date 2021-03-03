@@ -5,9 +5,9 @@ image: /img/people/naomi-brockwell.jpg
 corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/naomibrockwell/status/1327261725255733249', 'https://archive.is/ICtKe' ]
- - [ 'twitter.com/naomibrockwell/status/1327294854314012683', 'https://archive.is/vNOxy' ]
- - [ 'twitter.com/naomibrockwell/status/1327372382412140550', 'https://archive.is/JE8KV' ]
+ - [ 'twitter.com/naomibrockwell/status/1327261725255733249', 'archive.is/ICtKe' ]
+ - [ 'twitter.com/naomibrockwell/status/1327294854314012683', 'archive.is/vNOxy' ]
+ - [ 'twitter.com/naomibrockwell/status/1327372382412140550', 'archive.is/JE8KV' ]
 ---
 
 Mailchimp banned [Naomi Brockwell](https://naomibrockwell.com/), an independent

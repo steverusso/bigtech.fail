@@ -5,11 +5,11 @@ image: /img/people/jason-liosatos.jpg
 corpos: [ youtube ]
 tags: [ banned, covid ]
 sources:
- - [ 'twitter.com/JasonLiosatos/status/1353459145517658119', 'https://archive.is/LuEgq' ]
- - [ 'altcensored.com/channel/UCL3Dm0whUpRNEjrH2AVTbfA', 'https://altcensored.com/channel/UCL3Dm0whUpRNEjrH2AVTbfA' ]
+ - [ 'twitter.com/JasonLiosatos/status/1353459145517658119', 'archive.is/LuEgq' ]
+ - [ 'altcensored.com/channel/UCL3Dm0whUpRNEjrH2AVTbfA', 'altcensored.com/channel/UCL3Dm0whUpRNEjrH2AVTbfA' ]
 extra:
- - [ 'Jason Liosatos "Pepe Escobar Censorship, Trump Card, Pelosi Laptop, The Great Reset Interview" on BitChute (12 Jan 2021)', 'https://www.bitchute.com/video/AItsqWthuNTe/' ]
- - [ 'twitter.com/JasonLiosatos/status/1350177444746158084', 'https://archive.is/oZiS9' ]
+ - [ 'Jason Liosatos "Pepe Escobar Censorship, Trump Card, Pelosi Laptop, The Great Reset Interview" on BitChute (12 Jan 2021)', 'www.bitchute.com/video/AItsqWthuNTe/' ]
+ - [ 'twitter.com/JasonLiosatos/status/1350177444746158084', 'archive.is/oZiS9' ]
 ---
 
 [YouTube](/youtube/) banned [Jason Liosatos](https://jasonliosatos.com/), an

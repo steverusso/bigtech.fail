@@ -5,12 +5,12 @@ image: /img/logos/parler.png
 corpos: [ google ]
 tags: [ banned, app, gov, election2020, capitol-riot ]
 sources:
- - [ 'Reclaim The Net "Google bans Parler app after users flock to it to avoid censorship" by Christina Maas  (8 Jan 2021)', 'https://reclaimthenet.org/google-bans-parler-app-after-users-flock-to-it-to-avoid-censorship/' ]
- - [ 'Reclaim The Net "Apple threatens to ban Parler from the App Store unless it censors" by Tom Parker (8 Jan 2021)', 'https://reclaimthenet.org/apple-parler-app-store-ban-objectionable-content/' ]
- - [ 'ZeroHedge "Parler Faces Extinction As Amazon Employees Demand AWS Stop Hosting" by Tyler Durden (9 Jan 2021)', 'https://archive.is/fCKQI' ]
- - [ 'Timcast IRL "Google REMOVES Parler App From App Store, This Is ACTIVE Big Tech Censorship" on BitChute (9 Jan 2021)', 'https://www.bitchute.com/video/SHbLwwafmhM/' ]
+ - [ 'Reclaim The Net "Google bans Parler app after users flock to it to avoid censorship" by Christina Maas  (8 Jan 2021)', 'reclaimthenet.org/google-bans-parler-app-after-users-flock-to-it-to-avoid-censorship/' ]
+ - [ 'Reclaim The Net "Apple threatens to ban Parler from the App Store unless it censors" by Tom Parker (8 Jan 2021)', 'reclaimthenet.org/apple-parler-app-store-ban-objectionable-content/' ]
+ - [ 'ZeroHedge "Parler Faces Extinction As Amazon Employees Demand AWS Stop Hosting" by Tyler Durden (9 Jan 2021)', 'archive.is/fCKQI' ]
+ - [ 'Timcast IRL "Google REMOVES Parler App From App Store, This Is ACTIVE Big Tech Censorship" on BitChute (9 Jan 2021)', 'www.bitchute.com/video/SHbLwwafmhM/' ]
 extra:
- - [ 'blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/', 'https://archive.is/5gLNb' ]
+ - [ 'blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/', 'archive.is/5gLNb' ]
 ---
 
 [Google](/google/) removed the Parler app (a Twitter alternative) from the Play

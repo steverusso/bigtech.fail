@@ -6,11 +6,11 @@ profiles: [ free-thought-project ]
 corpos: [ facebook, twitter ]
 tags: [ banned, gov ]
 sources:
- - [ 'The Free Thought Project "First They Came for Alex Jones — We Told You We Were Next — We Were" by Matt Agorist (12 Oct 2018)', 'https://archive.is/6jDpi' ]
- - [ 'The Free Thought Project "No, Facebook is NOT “Private,” Their Censorship Arm is Government Funded" by Matt Agorist (15 Oct 2018)', 'https://archive.is/fnwJp' ]
- - [ 'twitter.com/TFTPROJECT/status/1050456314093002752', 'http://archive.is/ynJpJ' ]
- - [ 'Social Blade (@TFTPROJECT) socialblade.com/twitter/user/tftproject', 'https://archive.is/6yW9P' ]
- - [ 'twitter.com/TheFreeThought2/status/1315423763719053313', 'https://archive.is/kV5yL' ]
+ - [ 'The Free Thought Project "First They Came for Alex Jones — We Told You We Were Next — We Were" by Matt Agorist (12 Oct 2018)', 'archive.is/6jDpi' ]
+ - [ 'The Free Thought Project "No, Facebook is NOT “Private,” Their Censorship Arm is Government Funded" by Matt Agorist (15 Oct 2018)', 'archive.is/fnwJp' ]
+ - [ 'twitter.com/TFTPROJECT/status/1050456314093002752', 'archive.is/ynJpJ' ]
+ - [ 'Social Blade (@TFTPROJECT) socialblade.com/twitter/user/tftproject', 'archive.is/6yW9P' ]
+ - [ 'twitter.com/TheFreeThought2/status/1315423763719053313', 'archive.is/kV5yL' ]
 facebook:
  followers: 3100000
  reviews: 16000

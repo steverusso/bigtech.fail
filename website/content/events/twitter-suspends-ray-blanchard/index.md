@@ -5,9 +5,9 @@ image: /img/people/ray-blanchard.jpg
 corpos: [ twitter ]
 tags: [ suspended, trans ]
 sources:
- - [ 'Twitter @BlanchardPhD 1127286054858502152', 'https://archive.vn/YrWS3' ]
- - [ 'PJ Media "Expert Psychologist Blocked on Twitter for Expressing Clinical Opinion on Transgenderism" by Tyler O''Neil (12 May 2019)', 'https://archive.vn/XRMcO' ]
- - [ 'Lifesitenews "Twitter locks gender expert''s account for calling transsexualism a mental disorder" by Calvin Freiburger (13 May 2019)', 'https://archive.vn/lloQM' ]
+ - [ 'Twitter @BlanchardPhD 1127286054858502152', 'archive.vn/YrWS3' ]
+ - [ 'PJ Media "Expert Psychologist Blocked on Twitter for Expressing Clinical Opinion on Transgenderism" by Tyler O''Neil (12 May 2019)', 'archive.vn/XRMcO' ]
+ - [ 'Lifesitenews "Twitter locks gender expert''s account for calling transsexualism a mental disorder" by Calvin Freiburger (13 May 2019)', 'archive.vn/lloQM' ]
 ---
 
 Twitter temporarily suspended Ray Blanchard, a professor of psychiatry at the

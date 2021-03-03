@@ -5,13 +5,13 @@ image: /img/misc/titania-mcgrath.jpg
 corpos: [ twitter ]
 tags: [ suspended, humor ]
 sources:
- - [ 'twitter.com/andrewdoyle_com/status/1173377996968878080', 'https://archive.is/xSlvX' ]
- - [ 'twitter.com/godblesstoto/status/1173371534058147840', 'https://archive.is/WcoRd' ]
- - [ 'twitter.com/JarvisDupont/status/1173325236147806209', 'http://web.archive.org/web/20190915200225if_/https://twitter.com/JarvisDupont/status/1173325236147806209' ]
- - [ 'The Post Millennial "Twitter suspends social justice hero Titania McGrath" by Barrett Wilson (15 Sep 2019)', 'https://archive.is/0D0vf' ]
- - [ 'National File "Titania McGrath, SJW Parody Account, Suspended by Twitter" by Jack Hadfield (16 Sep 2019)', 'https://archive.is/pCizp' ]
+ - [ 'twitter.com/andrewdoyle_com/status/1173377996968878080', 'archive.is/xSlvX' ]
+ - [ 'twitter.com/godblesstoto/status/1173371534058147840', 'archive.is/WcoRd' ]
+ - [ 'twitter.com/JarvisDupont/status/1173325236147806209', 'web.archive.org/web/20190915200225if_/https://twitter.com/JarvisDupont/status/1173325236147806209' ]
+ - [ 'The Post Millennial "Twitter suspends social justice hero Titania McGrath" by Barrett Wilson (15 Sep 2019)', 'archive.is/0D0vf' ]
+ - [ 'National File "Titania McGrath, SJW Parody Account, Suspended by Twitter" by Jack Hadfield (16 Sep 2019)', 'archive.is/pCizp' ]
 extra:
- - [ 'twitter.com/JarvisDupont/status/1173325236147806209', 'http://archive.is/uzExu' ]
+ - [ 'twitter.com/JarvisDupont/status/1173325236147806209', 'archive.is/uzExu' ]
 ---
 
 Twitter gave a one week suspension to Titania McGrath, a satirical SJW account

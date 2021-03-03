@@ -5,13 +5,13 @@ image: /img/misc/ben-nimmo.jpg
 corpos: [ facebook ]
 tags: [ gov ]
 sources:
- - [ 'MintPress News "Facebook Hires NATO Press Officer Ben Nimmo as Intelligence Chief" by Alan Macleod (9 Feb 2021)', 'https://archive.is/hqPLW' ]
- - [ 'threadreaderapp.com/thread/1357813192236425217.html', 'https://archive.is/2d7tw' ]
- - [ 'twitter.com/MaxBlumenthal/status/1358267865472913409', 'https://archive.is/khvEU' ]
+ - [ 'MintPress News "Facebook Hires NATO Press Officer Ben Nimmo as Intelligence Chief" by Alan Macleod (9 Feb 2021)', 'archive.is/hqPLW' ]
+ - [ 'threadreaderapp.com/thread/1357813192236425217.html', 'archive.is/2d7tw' ]
+ - [ 'twitter.com/MaxBlumenthal/status/1358267865472913409', 'archive.is/khvEU' ]
 extra:
- - [ 'thegrayzone.com/2019/12/08/us-uk-military-intelligence-apparatus-destroy-jeremy-corbyn/', 'https://archive.is/Oh8UA' ]
- - [ 'twitter.com/ValLisitsa/status/978559232508416000', 'https://archive.is/ePWh4' ]
- - [ 'twitter.com/MaxBlumenthal/status/978710622157275136', 'https://archive.is/2lrOO' ]
+ - [ 'thegrayzone.com/2019/12/08/us-uk-military-intelligence-apparatus-destroy-jeremy-corbyn/', 'archive.is/Oh8UA' ]
+ - [ 'twitter.com/ValLisitsa/status/978559232508416000', 'archive.is/ePWh4' ]
+ - [ 'twitter.com/MaxBlumenthal/status/978710622157275136', 'archive.is/2lrOO' ]
 ---
 
 Facebook hired former NATO press officer, current senior fellow at the Atlantic

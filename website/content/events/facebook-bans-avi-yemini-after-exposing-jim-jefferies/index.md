@@ -5,14 +5,14 @@ image: /img/people/avi-yemini-censored.jpg
 corpos: [ facebook ]
 tags: [ banned ]
 sources:
- - [ 'Avi Yemini - YouTube Video "Hidden Camera: Jim Jefferies EXPOSED"', 'https://www.youtube.com/watch?v=odCQhAezB_Q' ]
- - [ 'Avi Yemini - YouTube Video "Jim Jefferies just got me BANNED from Facebook"', 'https://www.youtube.com/watch?v=0XJS43hB3gs' ]
- - [ 'Avi Yemini - Tweet 1110400928790675456', 'https://web.archive.org/web/20190326171612/https:/twitter.com/OzraeliAvi/status/1110400928790675456' ]
- - [ 'Breitbart "Video Shows Comedian Jim Jefferies Deceptively Edited Interview to Slander Jewish Guest" by Lucas Nolan', 'https://www.breitbart.com/tech/2019/03/22/video-shows-comedian-jim-jeffries-deceptively-edited-interview-to-slander-jewish-guest/' ]
- - [ 'Politicalite "EXCLUSIVE: Avi Yemini Has Facebook Page BANNED After Exposing Jim Jefferies" by Jordan James', 'https://www.politicalite.com/latest/updated-exclusive-avi-yemini-has-facebook-page-banned-after-exposing-jim-jefferies/' ]
- - [ 'Bounding Into Comics "Avi Yemini Reports He''s Been Permanently Banned from Facebook for "Hate Speech" After Exposing Comedy Central''s Jim Jefferies" by John F. Trent', 'https://boundingintocomics.com/2019/03/26/avi-yemini-reports-hes-been-permanently-banned-from-facebook-for-hate-speech-after-exposing-comedy-centrals-jim-jefferies/' ]
- - [ 'The Rubin Report - BitChute Video "Avi Yemini on Jim Jeffries, Comedy Central, and Being Deported (LIVE)"', 'https://www.bitchute.com/video/WFXlxyjGkB8/' ]
- - [ 'Tim Pool - BitChute Video "Jim Jefferies EXPOSED By Avi Yemini, I emailed Comedy Central For Comment"', 'https://www.bitchute.com/video/7rTdEx4FAaA/' ]
+ - [ 'Avi Yemini - YouTube Video "Hidden Camera: Jim Jefferies EXPOSED"', 'www.youtube.com/watch?v=odCQhAezB_Q' ]
+ - [ 'Avi Yemini - YouTube Video "Jim Jefferies just got me BANNED from Facebook"', 'www.youtube.com/watch?v=0XJS43hB3gs' ]
+ - [ 'Avi Yemini - Tweet 1110400928790675456', 'web.archive.org/web/20190326171612/https:/twitter.com/OzraeliAvi/status/1110400928790675456' ]
+ - [ 'Breitbart "Video Shows Comedian Jim Jefferies Deceptively Edited Interview to Slander Jewish Guest" by Lucas Nolan', 'www.breitbart.com/tech/2019/03/22/video-shows-comedian-jim-jeffries-deceptively-edited-interview-to-slander-jewish-guest/' ]
+ - [ 'Politicalite "EXCLUSIVE: Avi Yemini Has Facebook Page BANNED After Exposing Jim Jefferies" by Jordan James', 'www.politicalite.com/latest/updated-exclusive-avi-yemini-has-facebook-page-banned-after-exposing-jim-jefferies/' ]
+ - [ 'Bounding Into Comics "Avi Yemini Reports He''s Been Permanently Banned from Facebook for "Hate Speech" After Exposing Comedy Central''s Jim Jefferies" by John F. Trent', 'boundingintocomics.com/2019/03/26/avi-yemini-reports-hes-been-permanently-banned-from-facebook-for-hate-speech-after-exposing-comedy-centrals-jim-jefferies/' ]
+ - [ 'The Rubin Report - BitChute Video "Avi Yemini on Jim Jeffries, Comedy Central, and Being Deported (LIVE)"', 'www.bitchute.com/video/WFXlxyjGkB8/' ]
+ - [ 'Tim Pool - BitChute Video "Jim Jefferies EXPOSED By Avi Yemini, I emailed Comedy Central For Comment"', 'www.bitchute.com/video/7rTdEx4FAaA/' ]
 ---
 
 A few months prior to this fiasco, Comedy Central's Jim Jefferies interviewed Avi Yemini.

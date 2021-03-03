@@ -6,10 +6,10 @@ profiles: [ dan-dicks ]
 corpos: [ facebook ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/DanDicksPFT/status/1050477398343311360', 'http://archive.is/awZXp' ]
- - [ 'BREAKING: The FACEBOOK PURGE Is On - Independent Media - altCensored', 'https://altcensored.com/watch?v=92Ismk0PaHo' ]
- - [ 'Dan Dicks Responds To The FACEBOOK PURGE - Internet - altCensored', 'https://altcensored.com/watch?v=j7UG--fpXDA' ]
- - [ 'Facebook Newsroom "Removing Additional Inauthentic Activity from Facebook" by Nathaniel Gleicher and Oscar Rodriguez (11 Oct 2018)', 'http://archive.is/DWiWY' ]
+ - [ 'twitter.com/DanDicksPFT/status/1050477398343311360', 'archive.is/awZXp' ]
+ - [ 'BREAKING: The FACEBOOK PURGE Is On - Independent Media - altCensored', 'altcensored.com/watch?v=92Ismk0PaHo' ]
+ - [ 'Dan Dicks Responds To The FACEBOOK PURGE - Internet - altCensored', 'altcensored.com/watch?v=j7UG--fpXDA' ]
+ - [ 'Facebook Newsroom "Removing Additional Inauthentic Activity from Facebook" by Nathaniel Gleicher and Oscar Rodriguez (11 Oct 2018)', 'archive.is/DWiWY' ]
 ---
 
 Facebook "unpublished" the _Press For Truth_ page, run by Dan Dicks, for

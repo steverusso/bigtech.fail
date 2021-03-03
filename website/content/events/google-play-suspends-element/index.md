@@ -5,9 +5,9 @@ image: /img/logos/element.png
 corpos: [ google ]
 tags: [ suspended, app ]
 sources:
- - [ 'Element Blog "Element suspended on Google Play Store: now resolved." by Matthew Hodgson (30 Jan 2021)', 'https://archive.is/xPXk6' ]
- - [ 'twitter.com/element_hq/status/1355290296947499013', 'https://archive.is/yP73a' ]
- - [ 'twitter.com/element_hq/status/1355595359582638080', 'https://archive.is/kYNPN' ]
+ - [ 'Element Blog "Element suspended on Google Play Store: now resolved." by Matthew Hodgson (30 Jan 2021)', 'archive.is/xPXk6' ]
+ - [ 'twitter.com/element_hq/status/1355290296947499013', 'archive.is/yP73a' ]
+ - [ 'twitter.com/element_hq/status/1355595359582638080', 'archive.is/kYNPN' ]
 ---
 
 Google suspended _Element_, a decentralized and end-to-end encrypted messenging

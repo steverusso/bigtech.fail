@@ -6,7 +6,7 @@ profiles: [ stefan-molyneux ]
 corpos: [ youtube ]
 tags: [ suspended ]
 sources:
- - [ 'BitChute "I''m About To Be Banned From YouTube" by Stefan Molyneux (15 Aug 2018)', 'https://www.bitchute.com/video/DUpBbS8tfSkb/' ]
+ - [ 'BitChute "I''m About To Be Banned From YouTube" by Stefan Molyneux (15 Aug 2018)', 'www.bitchute.com/video/DUpBbS8tfSkb/' ]
 ---
 
 Stefan Molyneux, host of Freedomain, released a video regarding recent strikes

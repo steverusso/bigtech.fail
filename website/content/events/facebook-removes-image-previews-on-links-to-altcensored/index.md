@@ -5,7 +5,7 @@ image: /img/logos/altcensored.png
 corpos: [ facebook ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'Reclaim The Net "Facebook blocks image previews on links to altCensored, archive that hosts censored videos such as Plandemic" by Tom Parker (29 May 2020)', 'https://archive.vn/T0REy' ]
+ - [ 'Reclaim The Net "Facebook blocks image previews on links to altCensored, archive that hosts censored videos such as Plandemic" by Tom Parker (29 May 2020)', 'archive.vn/T0REy' ]
 ---
 
 Facebook removed the image previews for all links to [altCensored.com](https://altcensored.com/), a community catalog of removed or limited-state videos on YouTube.

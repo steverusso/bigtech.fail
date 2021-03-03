@@ -5,14 +5,14 @@ image: /img/people/hexagod.png
 corpos: [ google ]
 tags: [ banned, app ]
 sources:
- - [ 'twitter.com/VybeyPantelonez/status/1321958272862162945', 'https://archive.is/rx5OC' ]
- - [ 'twitter.com/VybeyPantelonez/status/1321961836661645312', 'https://archive.is/3Z5qE' ]
- - [ 'twitter.com/VybeyPantelonez/status/1321962823921111043', 'https://archive.is/tDpP0' ]
- - [ 'twitter.com/VybeyPantelonez/status/1321963489993306112', 'https://archive.is/uF4QH' ]
- - [ 'twitter.com/VybeyPantelonez/status/1321968889484464128', 'https://archive.is/674sJ' ]
- - [ 'twitter.com/VybeyPantelonez/status/1321971456172019713', 'https://archive.is/Jz34L' ]
- - [ 'twitter.com/VybeyPantelonez/status/1321974382294695937', 'https://archive.is/l13GN' ]
- - [ 'twitter.com/bitchute/status/1321877439253934081', 'https://archive.is/RVmaj' ]
+ - [ 'twitter.com/VybeyPantelonez/status/1321958272862162945', 'archive.is/rx5OC' ]
+ - [ 'twitter.com/VybeyPantelonez/status/1321961836661645312', 'archive.is/3Z5qE' ]
+ - [ 'twitter.com/VybeyPantelonez/status/1321962823921111043', 'archive.is/tDpP0' ]
+ - [ 'twitter.com/VybeyPantelonez/status/1321963489993306112', 'archive.is/uF4QH' ]
+ - [ 'twitter.com/VybeyPantelonez/status/1321968889484464128', 'archive.is/674sJ' ]
+ - [ 'twitter.com/VybeyPantelonez/status/1321971456172019713', 'archive.is/Jz34L' ]
+ - [ 'twitter.com/VybeyPantelonez/status/1321974382294695937', 'archive.is/l13GN' ]
+ - [ 'twitter.com/bitchute/status/1321877439253934081', 'archive.is/RVmaj' ]
 ---
 
 [Google](/google/) removed a third-party [BitChute](/alttech/bitchute/) app (by

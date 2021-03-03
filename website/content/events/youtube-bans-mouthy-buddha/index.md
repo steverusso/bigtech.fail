@@ -5,12 +5,12 @@ image: /img/misc/mouthy-buddha.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/MouthyBuddha/status/1316767591126519810', 'https://archive.is/KMnr3' ]
- - [ 'altcensored.com/channel/UCKEt1xKVBLuL175dkk8rqLg', 'https://archive.is/yVGkd' ]
- - [ 'socialblade.com/youtube/channel/UCKEt1xKVBLuL175dkk8rqLg (archived)', 'https://archive.is/IF0M6' ]
- - [ 'youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg (archived channel removal notice)', 'https://archive.is/sinvd/image' ]
+ - [ 'twitter.com/MouthyBuddha/status/1316767591126519810', 'archive.is/KMnr3' ]
+ - [ 'altcensored.com/channel/UCKEt1xKVBLuL175dkk8rqLg', 'archive.is/yVGkd' ]
+ - [ 'socialblade.com/youtube/channel/UCKEt1xKVBLuL175dkk8rqLg (archived)', 'archive.is/IF0M6' ]
+ - [ 'youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg (archived channel removal notice)', 'archive.is/sinvd/image' ]
 extra:
- - [ 'twitter.com/MouthyBuddha/status/1339669814487506947', 'https://archive.is/uvhV8' ]
+ - [ 'twitter.com/MouthyBuddha/status/1339669814487506947', 'archive.is/uvhV8' ]
 youtube:
  subs: 296854
  views: 12833352

@@ -6,14 +6,14 @@ profiles: [ the-conscious-resistance ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/DBrozeLiveFree/status/1319986226066198529', 'https://archive.is/fgRRC' ]
- - [ 'twitter.com/DBrozeLiveFree/status/1319989877551689729', 'https://archive.is/QU6wU' ]
- - [ 'twitter.com/DBrozeLiveFree/status/1319992384164220928', 'https://archive.is/a2qf8' ]
- - [ 'twitter.com/DBrozeLiveFree/status/1319995173535764482', 'https://archive.is/AFKFu' ]
- - [ 'twitter.com/DBrozeLiveFree/status/1320731903109009409', 'https://archive.is/Ow4SR' ]
- - [ 'socialblade.com/youtube/channel/UCb6idwGLVZlT4rCks7gz6KA', 'https://archive.is/SaR6v' ]
- - [ 'influenex.com/youtube/channel/UCb6idwGLVZlT4rCks7gz6KA', 'https://archive.is/cATso' ]
- - [ 'Archive of youtube.com/channel/UCb6idwGLVZlT4rCks7gz6KA', 'https://archive.is/SrPHL/image' ]
+ - [ 'twitter.com/DBrozeLiveFree/status/1319986226066198529', 'archive.is/fgRRC' ]
+ - [ 'twitter.com/DBrozeLiveFree/status/1319989877551689729', 'archive.is/QU6wU' ]
+ - [ 'twitter.com/DBrozeLiveFree/status/1319992384164220928', 'archive.is/a2qf8' ]
+ - [ 'twitter.com/DBrozeLiveFree/status/1319995173535764482', 'archive.is/AFKFu' ]
+ - [ 'twitter.com/DBrozeLiveFree/status/1320731903109009409', 'archive.is/Ow4SR' ]
+ - [ 'socialblade.com/youtube/channel/UCb6idwGLVZlT4rCks7gz6KA', 'archive.is/SaR6v' ]
+ - [ 'influenex.com/youtube/channel/UCb6idwGLVZlT4rCks7gz6KA', 'archive.is/cATso' ]
+ - [ 'Archive of youtube.com/channel/UCb6idwGLVZlT4rCks7gz6KA', 'archive.is/SrPHL/image' ]
 youtube:
  subs: 64300
  views: 5214879

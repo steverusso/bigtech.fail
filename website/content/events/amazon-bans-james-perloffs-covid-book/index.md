@@ -5,11 +5,11 @@ image: /img/books/covid-19-and-the-agendas-to-come-red-pilled.png
 corpos: [ amazon ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'twitter.com/jamesperloff/status/1316920232217350146', 'https://archive.is/eTsyl' ]
- - [ 'twitter.com/jamesperloff/status/1317174671641632770', 'https://archive.is/jDNgJ' ]
- - [ 'James Perloff "Amazon Censors “COVID-19 and the Agendas to Come, Red-Pilled”" by James Perloff (17 Oct 2020)', 'https://archive.is/4sQrp' ]
- - [ 'RT "‘We are in a truly Orwellian culture’: Amazon yanks Covid-19 skeptic’s book for ominously vague ’content violations’" by Helen Buyniski (17 Oct 2020)', 'https://archive.is/E6tDj' ]
- - [ 'Archive of the book''s page on Amazon (amazon.com/COVID-19-Agendas-Red-Pilled-James-Perloff/dp/0966816048/)', 'https://archive.is/aIOvz' ]
+ - [ 'twitter.com/jamesperloff/status/1316920232217350146', 'archive.is/eTsyl' ]
+ - [ 'twitter.com/jamesperloff/status/1317174671641632770', 'archive.is/jDNgJ' ]
+ - [ 'James Perloff "Amazon Censors “COVID-19 and the Agendas to Come, Red-Pilled”" by James Perloff (17 Oct 2020)', 'archive.is/4sQrp' ]
+ - [ 'RT "‘We are in a truly Orwellian culture’: Amazon yanks Covid-19 skeptic’s book for ominously vague ’content violations’" by Helen Buyniski (17 Oct 2020)', 'archive.is/E6tDj' ]
+ - [ 'Archive of the book''s page on Amazon (amazon.com/COVID-19-Agendas-Red-Pilled-James-Perloff/dp/0966816048/)', 'archive.is/aIOvz' ]
 ---
 
 Amazon removed a book titled _"COVID-19 and the Agendas to Come, Red-Pilled"_

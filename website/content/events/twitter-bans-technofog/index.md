@@ -5,10 +5,10 @@ image: /img/misc/technofog.jpg
 corpos: [ twitter ]
 tags: [ banned, gov, oops, election2020, capitol-riot ]
 sources:
- - [ 'parler.com/post/704b65c30c6748689d776fdf125cb1a9', 'https://archive.is/4QByL' ]
- - [ 'twitter.com/Heminator/status/1347939014440054785', 'https://archive.is/49kC7' ]
- - [ 'twitter.com/Techno_Fog/status/1348059130888658945', 'https://archive.is/YNPy6' ]
- - [ 'twitter.com/Techno_Fog/status/1349575367762317317', 'https://archive.is/a41t9' ]
+ - [ 'parler.com/post/704b65c30c6748689d776fdf125cb1a9', 'archive.is/4QByL' ]
+ - [ 'twitter.com/Heminator/status/1347939014440054785', 'archive.is/49kC7' ]
+ - [ 'twitter.com/Techno_Fog/status/1348059130888658945', 'archive.is/YNPy6' ]
+ - [ 'twitter.com/Techno_Fog/status/1349575367762317317', 'archive.is/a41t9' ]
 ---
 
 [Twitter](/twitter/) banned **@Techno_fog**, a lawyer who provides dry and

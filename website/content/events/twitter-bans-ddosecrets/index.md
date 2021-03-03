@@ -5,10 +5,10 @@ image: /img/misc/ddosecrets.jpg
 corpos: [ twitter ]
 tags: [ banned, gov ]
 sources:
- - [ 'ZDNet "Twitter bans DDoSecrets account over ''BlueLeaks'' police data dump" by Catalin Cimpanu (23 Jun 2020)', 'https://archive.is/r5RLF' ]
- - [ 'ZDNet "BlueLeaks: Data from 200 US police departments & fusion centers published online" by Catalin Cimpanu (22 Jun 2020)', 'https://archive.is/xPkYj' ]
- - [ 'Wired "Hack Brief: Anonymous Stole and Leaked a Megatrove of Police Documents" by Andy Greenberg (22 Jun 2020)', 'https://archive.is/KBsMz' ]
- - [ 'Last archive of "twitter.com/ddosecrets" (23 Jan 2020)', 'http://archive.is/Dsn2g' ]
+ - [ 'ZDNet "Twitter bans DDoSecrets account over ''BlueLeaks'' police data dump" by Catalin Cimpanu (23 Jun 2020)', 'archive.is/r5RLF' ]
+ - [ 'ZDNet "BlueLeaks: Data from 200 US police departments & fusion centers published online" by Catalin Cimpanu (22 Jun 2020)', 'archive.is/xPkYj' ]
+ - [ 'Wired "Hack Brief: Anonymous Stole and Leaked a Megatrove of Police Documents" by Andy Greenberg (22 Jun 2020)', 'archive.is/KBsMz' ]
+ - [ 'Last archive of "twitter.com/ddosecrets" (23 Jan 2020)', 'archive.is/Dsn2g' ]
 ---
 
 Twitter banned Distributed Denial of Secrets (@DDoSecrets) for distributing

@@ -5,12 +5,12 @@ image: /img/people/tommy-gelati.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'share.par.pw/post/b83e09037e4547d7993ad23ec20ceb8c', 'https://archive.is/K0hvB' ]
- - [ 'Tommy G''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'https://socialblade.com/twitter/user/tommyg' ]
- - [ 'twitter.com/ChrissieMayr/status/1287771866153787392', 'https://archive.is/7NTr5' ]
- - [ 'instagram.com/p/CEFsRWipG9h/', 'https://archive.is/Pas3e' ]
- - [ 'instagram.com/p/CEVcAqiAu6Q/', 'https://archive.is/qfi67' ]
- - [ 'Last archive of "twitter.com/TommyG"', 'http://archive.is/MHLhT' ]
+ - [ 'share.par.pw/post/b83e09037e4547d7993ad23ec20ceb8c', 'archive.is/K0hvB' ]
+ - [ 'Tommy G''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'socialblade.com/twitter/user/tommyg' ]
+ - [ 'twitter.com/ChrissieMayr/status/1287771866153787392', 'archive.is/7NTr5' ]
+ - [ 'instagram.com/p/CEFsRWipG9h/', 'archive.is/Pas3e' ]
+ - [ 'instagram.com/p/CEVcAqiAu6Q/', 'archive.is/qfi67' ]
+ - [ 'Last archive of "twitter.com/TommyG"', 'archive.is/MHLhT' ]
 ---
 
 Twitter [permanently banned](notice.jpg) @TommyG for "platform manipulation and

@@ -5,11 +5,11 @@ image: /img/misc/blessed2teach.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'facebook.com/BlessedToTeach/posts/986755651831552/', 'https://archive.is/MOW7B' ]
- - [ 'twitter.com/BlessedToTeach/status/1316774024471613442', 'https://archive.is/QPh8P' ]
- - [ 'twitter.com/BlessedToTeach/status/1316823230552969217', 'https://archive.is/aKzGx' ]
- - [ 'socialblade.com/youtube/channel/UC3yCYDoc70dMMQGKL364wHQ (archived)', 'https://archive.is/o6lU3' ]
- - [ 'youtube.com/channel/UC3yCYDoc70dMMQGKL364wHQ (archive of channel removal notice)', 'https://archive.is/UwF3u/image' ]
+ - [ 'facebook.com/BlessedToTeach/posts/986755651831552/', 'archive.is/MOW7B' ]
+ - [ 'twitter.com/BlessedToTeach/status/1316774024471613442', 'archive.is/QPh8P' ]
+ - [ 'twitter.com/BlessedToTeach/status/1316823230552969217', 'archive.is/aKzGx' ]
+ - [ 'socialblade.com/youtube/channel/UC3yCYDoc70dMMQGKL364wHQ (archived)', 'archive.is/o6lU3' ]
+ - [ 'youtube.com/channel/UC3yCYDoc70dMMQGKL364wHQ (archive of channel removal notice)', 'archive.is/UwF3u/image' ]
 youtube:
  subs: 109000
  views: 14167992

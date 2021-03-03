@@ -5,10 +5,10 @@ image: /img/logos/newsmax.jpg
 corpos: [ wikipedia ]
 tags: [ policy, gov, election2020 ]
 sources:
- - [ 'Breitbart "Wikipedia Blacklists Newsmax Following Post-Election Popularity Boost" by T.D. Adler (30 Nov 2020)', 'https://www.breitbart.com/tech/2020/11/30/wikipedia-blacklists-newsmax-following-post-election-popularity-boost/' ]
- - [ 'en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Noticeboard/Archive_319#Newsmax', 'https://archive.is/9Pw6n' ]
+ - [ 'Breitbart "Wikipedia Blacklists Newsmax Following Post-Election Popularity Boost" by T.D. Adler (30 Nov 2020)', 'www.breitbart.com/tech/2020/11/30/wikipedia-blacklists-newsmax-following-post-election-popularity-boost/' ]
+ - [ 'en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Noticeboard/Archive_319#Newsmax', 'archive.is/9Pw6n' ]
 extra:
- - [ 'Reclaim The Net "Wikipedia bans Newsmax as a “reliable” source after election coverage" by Didi Rankovic (2 Dec 2020)', 'https://reclaimthenet.org/wikipedia-drops-newsmax-as-a-reliable-source-after-election-coverage/' ]
+ - [ 'Reclaim The Net "Wikipedia bans Newsmax as a “reliable” source after election coverage" by Didi Rankovic (2 Dec 2020)', 'reclaimthenet.org/wikipedia-drops-newsmax-as-a-reliable-source-after-election-coverage/' ]
 ---
 
 Wikipedia dropped Newsmax as a source altogether after an editor requested it

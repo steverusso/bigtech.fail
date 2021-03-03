@@ -5,11 +5,11 @@ image: /img/logos/rsbn.jpg
 corpos: [ twitter ]
 tags: [ suspended, wtf, election2020 ]
 sources:
- - [ 'twitter.com/JoeSeales/status/1351621049956360196', 'https://archive.is/i67Cl' ]
- - [ 'twitter.com/JoeSeales/status/1351658650348253187', 'https://archive.is/Vy7en' ]
- - [ 'twitter.com/JoeSeales/status/1351821164553887751', 'https://archive.is/JM62o' ]
- - [ 'twitter.com/JoeSeales/status/1351824012205285376', 'https://archive.is/bAIkz' ]
- - [ 'twitter.com/JoeSeales/status/1352015315136352264', 'https://archive.is/N2HWB' ]
+ - [ 'twitter.com/JoeSeales/status/1351621049956360196', 'archive.is/i67Cl' ]
+ - [ 'twitter.com/JoeSeales/status/1351658650348253187', 'archive.is/Vy7en' ]
+ - [ 'twitter.com/JoeSeales/status/1351821164553887751', 'archive.is/JM62o' ]
+ - [ 'twitter.com/JoeSeales/status/1351824012205285376', 'archive.is/bAIkz' ]
+ - [ 'twitter.com/JoeSeales/status/1352015315136352264', 'archive.is/N2HWB' ]
 ---
 
 Twitter gave _Right Side Broadcasting Network_, a right-wing news outlet, three

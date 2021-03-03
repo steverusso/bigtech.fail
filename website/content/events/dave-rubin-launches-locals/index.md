@@ -6,9 +6,9 @@ corpos: [ patreon ]
 tags: [ alttech-growth ]
 profiles: [ dave-rubin ]
 sources:
- - [ '@RubinReport - Tweet 1202288504006307841 (4 Dec 2019)', 'https://web.archive.org/web/20191204180817/https:/twitter.com/RubinReport/status/1202288504006307841' ]
- - [ 'The Daily Wire "Dave Rubin Launches ''Locals,'' A New Venture To Combat Big Tech Censorship" by Josh Hammer (5 Dec 2019)', 'https://www.dailywire.com/news/dave-rubin-launches-locals-a-new-venture-to-combat-big-tech-censorship' ]
- - [ 'The Federalist "Dave Rubin Launches Creator Hub ''Locals'' To Counter Big Tech: ''Small Is The New Big''" by Kylee Zempel (6 Dec 2019)', 'https://thefederalist.com/2019/12/06/dave-rubin-launches-creator-hub-locals-to-counter-big-tech-small-is-the-new-big/' ]
+ - [ '@RubinReport - Tweet 1202288504006307841 (4 Dec 2019)', 'web.archive.org/web/20191204180817/https:/twitter.com/RubinReport/status/1202288504006307841' ]
+ - [ 'The Daily Wire "Dave Rubin Launches ''Locals,'' A New Venture To Combat Big Tech Censorship" by Josh Hammer (5 Dec 2019)', 'www.dailywire.com/news/dave-rubin-launches-locals-a-new-venture-to-combat-big-tech-censorship' ]
+ - [ 'The Federalist "Dave Rubin Launches Creator Hub ''Locals'' To Counter Big Tech: ''Small Is The New Big''" by Kylee Zempel (6 Dec 2019)', 'thefederalist.com/2019/12/06/dave-rubin-launches-creator-hub-locals-to-counter-big-tech-small-is-the-new-big/' ]
 ---
 
 When Dave Rubin left Patreon, he alluded to building an alternative platform.

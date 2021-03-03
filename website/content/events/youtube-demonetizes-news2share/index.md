@@ -6,12 +6,12 @@ profiles: [ ford-fischer ]
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'threadreaderapp.com/thread/1136334778670518273.html', 'https://archive.is/WfQ9f' ]
- - [ 'twitter.com/FordFischer/status/1162463641788198914', 'https://archive.is/r8ugS' ]
- - [ 'Reclaim The Net "Independent journalist Ford Fischer’s channel demonetized in YouTube adpocalypse" by Tom Parker (6 Jun 2019)', 'https://reclaimthenet.org/ford-fischer-demonetized-youtube-adpocalypse/' ]
- - [ 'twitter.com/nsarwark/status/1136342362525847558', 'https://archive.is/QepRm' ]
+ - [ 'threadreaderapp.com/thread/1136334778670518273.html', 'archive.is/WfQ9f' ]
+ - [ 'twitter.com/FordFischer/status/1162463641788198914', 'archive.is/r8ugS' ]
+ - [ 'Reclaim The Net "Independent journalist Ford Fischer’s channel demonetized in YouTube adpocalypse" by Tom Parker (6 Jun 2019)', 'reclaimthenet.org/ford-fischer-demonetized-youtube-adpocalypse/' ]
+ - [ 'twitter.com/nsarwark/status/1136342362525847558', 'archive.is/QepRm' ]
 extra:
- - [ 'threader.app/thread/1136334778670518273', 'https://archive.is/mVQzi' ]
+ - [ 'threader.app/thread/1136334778670518273', 'archive.is/mVQzi' ]
 ---
 
 YouTube demonetized independent media outlet _News2Share_ as part of a larger

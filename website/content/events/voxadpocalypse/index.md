@@ -9,17 +9,17 @@ profiles:
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'YouTube Official Blog "Our ongoing work to tackle hate" by The YouTube Team (5 Jun 2019)', 'https://archive.is/18VHt' ]
- - [ 'twitter.com/TeamYouTube/status/1136341801109843968', 'https://archive.is/D56bb' ]
- - [ 'twitter.com/scrowder/status/1136674111906877440', 'https://archive.vn/kSY6I' ]
- - [ 'twitter.com/scrowder/status/1136363165476937729', 'https://archive.is/FJcqQ' ]
- - [ 'twitter.com/Timcast/status/1136970188769898498', 'https://archive.is/otWtS' ]
- - [ 'twitter.com/KEEMSTAR/status/1135925756939382785', 'https://archive.is/4tmwS' ]
- - [ 'twitter.com/KEEMSTAR/status/1136364526352445440', 'https://archive.is/8Yu66' ]
- - [ 'twitter.com/FordFischer/status/1136334778670518273', 'https://archive.is/xU3eD' ]
- - [ 'twitter.com/broderick/status/1136627453710000129', 'https://archive.is/1tacI' ]
- - [ 'KnowYourMeme #VoxAdpocalypse', 'https://knowyourmeme.com/memes/events/voxadpocalypse' ]
- - [ 'Breitbart "YouTube Cuts Off Conservative, Independent Journalists After Vox Outrage Campaign" by Allum Bokhari (5 Jun 2019)', 'https://www.breitbart.com/tech/2019/06/05/youtube-cuts-off-conservative-independent-journalists-after-vox-outrage-campaign/' ]
+ - [ 'YouTube Official Blog "Our ongoing work to tackle hate" by The YouTube Team (5 Jun 2019)', 'archive.is/18VHt' ]
+ - [ 'twitter.com/TeamYouTube/status/1136341801109843968', 'archive.is/D56bb' ]
+ - [ 'twitter.com/scrowder/status/1136674111906877440', 'archive.vn/kSY6I' ]
+ - [ 'twitter.com/scrowder/status/1136363165476937729', 'archive.is/FJcqQ' ]
+ - [ 'twitter.com/Timcast/status/1136970188769898498', 'archive.is/otWtS' ]
+ - [ 'twitter.com/KEEMSTAR/status/1135925756939382785', 'archive.is/4tmwS' ]
+ - [ 'twitter.com/KEEMSTAR/status/1136364526352445440', 'archive.is/8Yu66' ]
+ - [ 'twitter.com/FordFischer/status/1136334778670518273', 'archive.is/xU3eD' ]
+ - [ 'twitter.com/broderick/status/1136627453710000129', 'archive.is/1tacI' ]
+ - [ 'KnowYourMeme #VoxAdpocalypse', 'knowyourmeme.com/memes/events/voxadpocalypse' ]
+ - [ 'Breitbart "YouTube Cuts Off Conservative, Independent Journalists After Vox Outrage Campaign" by Allum Bokhari (5 Jun 2019)', 'www.breitbart.com/tech/2019/06/05/youtube-cuts-off-conservative-independent-journalists-after-vox-outrage-campaign/' ]
 ---
 
 This is almost certainly YouTube's biggest fail of 2019. It started on May 30th

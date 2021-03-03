@@ -6,13 +6,13 @@ profiles: [ woke-societies ]
 corpos: [ youtube ]
 tags: [ banned, defunded ]
 sources:
- - [ 'twitter.com/wokesocieties/status/1316752255882866688', 'https://archive.is/A2nb0' ]
- - [ 'twitter.com/wokesocieties/status/1316752938015043586', 'https://archive.is/1pMeO' ]
- - [ 'twitter.com/wokesocieties/status/1316756157541896192', 'https://archive.is/DRLQQ' ]
- - [ 'twitter.com/wokesocieties/status/1316786069304729601', 'https://archive.is/hmqtz' ]
- - [ 'altcensored.com/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'https://archive.is/NRT03' ]
- - [ 'socialblade.com/youtube/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'http://web.archive.org/web/20201102182502/https://socialblade.com/youtube/channel/UCChqaZ_kStPhOgDx1NxdA0w' ]
- - [ 'youtube.com/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'https://archive.is/1Oa5R/image' ]
+ - [ 'twitter.com/wokesocieties/status/1316752255882866688', 'archive.is/A2nb0' ]
+ - [ 'twitter.com/wokesocieties/status/1316752938015043586', 'archive.is/1pMeO' ]
+ - [ 'twitter.com/wokesocieties/status/1316756157541896192', 'archive.is/DRLQQ' ]
+ - [ 'twitter.com/wokesocieties/status/1316786069304729601', 'archive.is/hmqtz' ]
+ - [ 'altcensored.com/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'archive.is/NRT03' ]
+ - [ 'socialblade.com/youtube/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'web.archive.org/web/20201102182502/https://socialblade.com/youtube/channel/UCChqaZ_kStPhOgDx1NxdA0w' ]
+ - [ 'youtube.com/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'archive.is/1Oa5R/image' ]
 ---
 
 [YouTube](/youtube/) banned _Woke Societies_ in an attempt to purge channels

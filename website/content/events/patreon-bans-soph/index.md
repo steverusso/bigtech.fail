@@ -6,10 +6,10 @@ summary: BigTech scared of a 14 year old girl lol
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'Reclaim the Net "Patreon suspends Soph''s account one day after YouTube deleted her channel" by Tom Parker', 'https://reclaimthenet.org/soph-patreon-removed/' ]
- - [ 'The Mix "Patreon and Bonfire Accounts of ''Soph'' Shutdown Following YouTube Ban" by Spencer Baculi', 'https://www.themix.net/2019/08/patreon-and-bonfire-accounts-of-soph-shutdown-following-youtube-ban/' ]
- - [ '', 'https://web.archive.org/web/20190802224242/https:/twitter.com/sewernugget/status/1157417155471609856' ]
- - [ '', 'https://archive.is/TqSq9' ]
+ - [ 'Reclaim the Net "Patreon suspends Soph''s account one day after YouTube deleted her channel" by Tom Parker', 'reclaimthenet.org/soph-patreon-removed/' ]
+ - [ 'The Mix "Patreon and Bonfire Accounts of ''Soph'' Shutdown Following YouTube Ban" by Spencer Baculi', 'www.themix.net/2019/08/patreon-and-bonfire-accounts-of-soph-shutdown-following-youtube-ban/' ]
+ - [ '', 'web.archive.org/web/20190802224242/https:/twitter.com/sewernugget/status/1157417155471609856' ]
+ - [ '', 'archive.is/TqSq9' ]
 ---
 
 Patreon removed Soph's account, which had about 600 Patrons, the day after [YouTube deleted her channel](/e/youtube-bans-soph/).

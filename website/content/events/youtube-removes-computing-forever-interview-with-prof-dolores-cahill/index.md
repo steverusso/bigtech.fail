@@ -6,8 +6,8 @@ profiles: [ dave-cullen ]
 corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'BitChute "Prof Dolores Cahill Interview Video Censored" by Computing Forever (19 May 2020)', 'https://www.bitchute.com/video/CLnWahgtfBA/' ]
- - [ 'BitChute "Well, This is Truly Unbelievable." by Computing Forever (19 May 2020)', 'https://www.bitchute.com/video/FN4Usu-sgXI/' ]
+ - [ 'BitChute "Prof Dolores Cahill Interview Video Censored" by Computing Forever (19 May 2020)', 'www.bitchute.com/video/CLnWahgtfBA/' ]
+ - [ 'BitChute "Well, This is Truly Unbelievable." by Computing Forever (19 May 2020)', 'www.bitchute.com/video/FN4Usu-sgXI/' ]
 ---
 
 Dave Cullen from Computing Forever had his interview with Prof. Dolores Cahill

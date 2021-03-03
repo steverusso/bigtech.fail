@@ -5,8 +5,8 @@ image: /img/people/fung-ka-keung.jpg
 corpos: [ facebook ]
 tags: [ china, gov ]
 sources:
- - [ 'Hong Kong Free Press "Facebook apologises after ''mistakenly'' banning 1989 Tiananmen massacre profile tribute" by Ellie Ng (30 May 2017)', 'https://www.hongkongfp.com/2017/05/30/facebook-apologises-mistakenly-banning-1989-tiananmen-massacre-profile-tribute/' ]
- - [ 'The Daily Caller "Facebook Apologizes For Banning Tribute To Tiananmen Massacre" by Eric Lieberman (30 May 2017)', 'https://archive.vn/uJ85J' ]
+ - [ 'Hong Kong Free Press "Facebook apologises after ''mistakenly'' banning 1989 Tiananmen massacre profile tribute" by Ellie Ng (30 May 2017)', 'www.hongkongfp.com/2017/05/30/facebook-apologises-mistakenly-banning-1989-tiananmen-massacre-profile-tribute/' ]
+ - [ 'The Daily Caller "Facebook Apologizes For Banning Tribute To Tiananmen Massacre" by Eric Lieberman (30 May 2017)', 'archive.vn/uJ85J' ]
 ---
 
 Facebook has functionality that allows users to overlay their profile picture with something (a "frame"), typically to show support for a cause.

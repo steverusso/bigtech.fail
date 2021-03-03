@@ -5,12 +5,12 @@ image: /img/misc/titania-mcgrath.jpg
 corpos: [ twitter ]
 tags: [ suspended, humor ]
 sources:
- - [ 'twitter.com/andrewdoyle_com/status/1294424464378269696', 'https://archive.is/ADDMa' ]
- - [ 'twitter.com/andrewdoyle_com/status/1295369833811517440', 'https://archive.is/MuHMS' ]
- - [ 'twitter.com/TitaniaMcGrath/status/1295876206231945217', 'https://archive.is/GASLY' ]
- - [ 'twitter.com/TitaniaMcGrath/status/1295883418056761351', 'https://archive.is/RCW1C' ]
- - [ 'twitter.com/TitaniaMcGrath/status/1295881807162941442', 'https://archive.is/JIRN3' ]
- - [ 'twitter.com/JarvisDupont/status/1294424749779681281', 'https://archive.is/2FumF' ]
+ - [ 'twitter.com/andrewdoyle_com/status/1294424464378269696', 'archive.is/ADDMa' ]
+ - [ 'twitter.com/andrewdoyle_com/status/1295369833811517440', 'archive.is/MuHMS' ]
+ - [ 'twitter.com/TitaniaMcGrath/status/1295876206231945217', 'archive.is/GASLY' ]
+ - [ 'twitter.com/TitaniaMcGrath/status/1295883418056761351', 'archive.is/RCW1C' ]
+ - [ 'twitter.com/TitaniaMcGrath/status/1295881807162941442', 'archive.is/JIRN3' ]
+ - [ 'twitter.com/JarvisDupont/status/1294424749779681281', 'archive.is/2FumF' ]
 ---
 
 Twitter temporarily suspended Titania McGrath, a satirical SJW account

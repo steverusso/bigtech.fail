@@ -5,10 +5,10 @@ image: /img/logos/parler.png
 corpos: [ apple, amazon ]
 tags: [ banned, app, gov, election2020, capitol-riot ]
 sources:
- - [ 'parler.com/post/009ba435b68c46d4955e1cd7737fa27c', 'https://archive.is/EmECm' ]
- - [ 'Breitbart "Apple Joins Google in Blacklisting Parler" by Alana Mastrangelo (9 Jan 2021)', 'https://www.breitbart.com/tech/2021/01/09/apple-joins-google-in-blacklisting-parler/' ]
- - [ 'Breitbart "Mozilla Chairwoman: ‘We Need More Than Deplatforming’" by Joshua Klein (10 Jan 2021)', 'https://www.breitbart.com/politics/2021/01/10/mozilla-chairwoman-we-need-more-than-deplatforming/' ]
- - [ 'ZeroHedge ""This Was A Coordinated Attack": Parler CEO Speaks Out After Amazon Boots From AWS, Vows To Rebuild ''From Scratch''" by Tyler Durden (9 Jan 2021)', 'https://archive.is/uAHMi' ]
+ - [ 'parler.com/post/009ba435b68c46d4955e1cd7737fa27c', 'archive.is/EmECm' ]
+ - [ 'Breitbart "Apple Joins Google in Blacklisting Parler" by Alana Mastrangelo (9 Jan 2021)', 'www.breitbart.com/tech/2021/01/09/apple-joins-google-in-blacklisting-parler/' ]
+ - [ 'Breitbart "Mozilla Chairwoman: ‘We Need More Than Deplatforming’" by Joshua Klein (10 Jan 2021)', 'www.breitbart.com/politics/2021/01/10/mozilla-chairwoman-we-need-more-than-deplatforming/' ]
+ - [ 'ZeroHedge ""This Was A Coordinated Attack": Parler CEO Speaks Out After Amazon Boots From AWS, Vows To Rebuild ''From Scratch''" by Tyler Durden (9 Jan 2021)', 'archive.is/uAHMi' ]
 ---
 
 [Apple](/apple/) removed the Parler app (a Twitter alternative) from the App

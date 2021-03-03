@@ -6,11 +6,11 @@ corpos: [ facebook ]
 tags: [ exposed, gov, election2020 ]
 profiles: [ project-veritas ]
 sources:
- - [ 'Project Veritas "Facebook Content Moderator: ‘If Someone is Wearing a MAGA Hat, I Am Going to Delete Them for Terrorism’" (23 Jun 2020)', 'https://archive.is/y0TRY' ]
- - [ 'Project Veritas "ANOTHER Facebook Whistleblower: Interference ‘On a Global Level in Elections’" (25 Jun 2020)', 'https://archive.is/OdCao' ]
- - [ 'twitter.com/JamesOKeefeIII/status/1275432924440080391', 'https://archive.is/3Jg9C' ]
- - [ 'Veritas Visuals "Another Facebook Insider Details Political Censorship; Current HR Exec ''No One Has White Man’s Back''" on BitChute (25 Jun 2020)', 'https://www.bitchute.com/video/9O8p4zK8ywY/' ]
- - [ 'Veritas Visuals "CONFIRMED: Facebook Senior HR Business Partner Leslie Brown FIRED following Project Veritas video!" on BitChute (25 Jun 2020)', 'https://www.bitchute.com/video/AHzz9aWO8HA/' ]
+ - [ 'Project Veritas "Facebook Content Moderator: ‘If Someone is Wearing a MAGA Hat, I Am Going to Delete Them for Terrorism’" (23 Jun 2020)', 'archive.is/y0TRY' ]
+ - [ 'Project Veritas "ANOTHER Facebook Whistleblower: Interference ‘On a Global Level in Elections’" (25 Jun 2020)', 'archive.is/OdCao' ]
+ - [ 'twitter.com/JamesOKeefeIII/status/1275432924440080391', 'archive.is/3Jg9C' ]
+ - [ 'Veritas Visuals "Another Facebook Insider Details Political Censorship; Current HR Exec ''No One Has White Man’s Back''" on BitChute (25 Jun 2020)', 'www.bitchute.com/video/9O8p4zK8ywY/' ]
+ - [ 'Veritas Visuals "CONFIRMED: Facebook Senior HR Business Partner Leslie Brown FIRED following Project Veritas video!" on BitChute (25 Jun 2020)', 'www.bitchute.com/video/AHzz9aWO8HA/' ]
 ---
 
 Project Veritas released a report on their insider investigation into

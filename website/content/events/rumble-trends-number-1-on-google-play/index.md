@@ -5,11 +5,11 @@ image: /img/logos/rumble.png
 corpos: [ youtube ]
 tags: [ app, alttech-growth ]
 sources:
- - [ 'twitter.com/chrispavlovski/status/1325935910844772353', 'https://archive.is/sy1Xt' ]
- - [ 'twitter.com/chrispavlovski/status/1326185258249834497', 'https://archive.is/Ek19s' ]
- - [ 'twitter.com/chrispavlovski/status/1326567398695170052', 'https://archive.is/JQ4hh' ]
- - [ 'twitter.com/chrispavlovski/status/1327247832772997124', 'https://archive.is/Rsqqu' ]
- - [ 'Reclaim The Net "Rumble trends on Android as YouTube censorship drives users to alternative" by Cindy Harper (16 Nov 2020)', 'https://reclaimthenet.org/rumble-trends-on-android-a/' ]
+ - [ 'twitter.com/chrispavlovski/status/1325935910844772353', 'archive.is/sy1Xt' ]
+ - [ 'twitter.com/chrispavlovski/status/1326185258249834497', 'archive.is/Ek19s' ]
+ - [ 'twitter.com/chrispavlovski/status/1326567398695170052', 'archive.is/JQ4hh' ]
+ - [ 'twitter.com/chrispavlovski/status/1327247832772997124', 'archive.is/Rsqqu' ]
+ - [ 'Reclaim The Net "Rumble trends on Android as YouTube censorship drives users to alternative" by Cindy Harper (16 Nov 2020)', 'reclaimthenet.org/rumble-trends-on-android-a/' ]
 ---
 
 [_Rumble_](https://rumble.com/), a video hosting platform similar to YouTube,

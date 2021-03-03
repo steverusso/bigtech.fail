@@ -5,9 +5,9 @@ image: /img/people/kevin-brennan.jpg
 corpos: [ twitter ]
 tags: [ suspended, humor ]
 sources:
- - [ 'twitter.com/kevinbrennan666/status/1298443357350486016', 'https://archive.is/czl1v' ]
- - [ 'twitter.com/kevinbrennan666/status/1298451229362847745', 'https://archive.is/niHcN' ]
- - [ 'twitter.com/kevinbrennan666/status/1298452851438628865', 'https://archive.is/9LU0w' ]
+ - [ 'twitter.com/kevinbrennan666/status/1298443357350486016', 'archive.is/czl1v' ]
+ - [ 'twitter.com/kevinbrennan666/status/1298451229362847745', 'archive.is/niHcN' ]
+ - [ 'twitter.com/kevinbrennan666/status/1298452851438628865', 'archive.is/9LU0w' ]
 ---
 
 Twitter temporarily suspended comedian Kevin Brennan for 24 hours over a

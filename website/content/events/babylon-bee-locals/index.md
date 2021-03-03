@@ -5,9 +5,9 @@ image: /img/logos/the-babylon-bee.jpg
 corpos: [ patreon ]
 tags: [ alttech-growth ]
 sources:
- - [ 'babylonbee.locals.com/post/440513/the-babylon-bee-is-on-locals', 'https://babylonbee.locals.com/post/440513/the-babylon-bee-is-on-locals' ]
- - [ 'twitter.com/TheBabylonBee/status/1362862018059935744', 'https://archive.is/i6tvK' ]
- - [ 'twitter.com/RubinReport/status/1362873759426879489', 'https://archive.is/IcwIv' ]
+ - [ 'babylonbee.locals.com/post/440513/the-babylon-bee-is-on-locals', 'babylonbee.locals.com/post/440513/the-babylon-bee-is-on-locals' ]
+ - [ 'twitter.com/TheBabylonBee/status/1362862018059935744', 'archive.is/i6tvK' ]
+ - [ 'twitter.com/RubinReport/status/1362873759426879489', 'archive.is/IcwIv' ]
 ---
 
 _The Babylon Bee_, a satirical news site, started [their own community on

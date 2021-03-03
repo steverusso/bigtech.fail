@@ -6,10 +6,10 @@ profiles: [ jordan-sather ]
 corpos: [ twitter ]
 tags: [ banned, gov ]
 sources:
- - [ 'share.par.pw/post/686d9e54c0114715bd64ea225dfff0e9', 'https://archive.is/E8Z3C' ]
- - [ 'gab.com/destroyingtheillusion/posts/104964932085445208', 'https://archive.is/xOBvF' ]
- - [ 'Social Blade (@Jordan_Sather_) socialblade.com/twitter/user/jordan_sather_', 'https://archive.is/2fNzB' ]
- - [ 'Suspended archive of twitter.com/Jordan_Sather_', 'https://archive.is/rRNLI' ]
+ - [ 'share.par.pw/post/686d9e54c0114715bd64ea225dfff0e9', 'archive.is/E8Z3C' ]
+ - [ 'gab.com/destroyingtheillusion/posts/104964932085445208', 'archive.is/xOBvF' ]
+ - [ 'Social Blade (@Jordan_Sather_) socialblade.com/twitter/user/jordan_sather_', 'archive.is/2fNzB' ]
+ - [ 'Suspended archive of twitter.com/Jordan_Sather_', 'archive.is/rRNLI' ]
 ---
 
 Twitter banned Jordan Sather (@Jordan_Sather\_) for violating the Twitter Rules.

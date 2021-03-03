@@ -5,11 +5,11 @@ image: /img/people/dr-ron-paul.jpg
 corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'twitter.com/RonPaul/status/1308849979730071554', 'https://archive.is/2koHJ' ]
- - [ 'twitter.com/RonPaul/status/1308862799850934273', 'https://archive.is/3vxv3' ]
- - [ 'twitter.com/RonPaul/status/1309286804361707525', 'https://archive.is/RJxj4' ]
- - [ 'BitChute "Covid Whistleblowers Expose Narrative As ''Total Fraud''" by Ron Paul Liberty Report (24 Sep 2020)', 'https://www.bitchute.com/video/7NQZK3b4Ezhe/' ]
- - [ 'twitter.com/ComicDaveSmith/status/1308894342757707780', 'https://archive.is/R4Nzu' ]
+ - [ 'twitter.com/RonPaul/status/1308849979730071554', 'archive.is/2koHJ' ]
+ - [ 'twitter.com/RonPaul/status/1308862799850934273', 'archive.is/3vxv3' ]
+ - [ 'twitter.com/RonPaul/status/1309286804361707525', 'archive.is/RJxj4' ]
+ - [ 'BitChute "Covid Whistleblowers Expose Narrative As ''Total Fraud''" by Ron Paul Liberty Report (24 Sep 2020)', 'www.bitchute.com/video/7NQZK3b4Ezhe/' ]
+ - [ 'twitter.com/ComicDaveSmith/status/1308894342757707780', 'archive.is/R4Nzu' ]
 ---
 
 YouTube removed an episode of the Ron Paul Liberty Report which covered

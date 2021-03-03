@@ -7,12 +7,12 @@ corpos: [ facebook ]
 tags: [ banned, election2020, capitol-riot ]
 profiles: [ tsid ]
 sources:
- - [ 'facebook.com/thesystemisdown2/posts/103199035069852', 'https://archive.is/wIT9H' ]
- - [ 'facebook.com/thesystemisdown2/posts/104598894929866', 'https://archive.is/OFz0y' ]
- - [ 'Archive of page removal notice', 'https://archive.is/B6stT' ]
- - [ 'twitter.com/tsidpod/status/1346951695314673666', 'https://archive.is/rrICb' ]
- - [ 'twitter.com/tsidpod/status/1346992759266304002', 'https://archive.is/upsnx' ]
- - [ 'twitter.com/tsidpod/status/1347658911378272259', 'https://archive.is/iDsby' ]
+ - [ 'facebook.com/thesystemisdown2/posts/103199035069852', 'archive.is/wIT9H' ]
+ - [ 'facebook.com/thesystemisdown2/posts/104598894929866', 'archive.is/OFz0y' ]
+ - [ 'Archive of page removal notice', 'archive.is/B6stT' ]
+ - [ 'twitter.com/tsidpod/status/1346951695314673666', 'archive.is/rrICb' ]
+ - [ 'twitter.com/tsidpod/status/1346992759266304002', 'archive.is/upsnx' ]
+ - [ 'twitter.com/tsidpod/status/1347658911378272259', 'archive.is/iDsby' ]
 ---
 
 [Facebook](/facebook/) took drastic action against Dan Smotz, host of a podcast

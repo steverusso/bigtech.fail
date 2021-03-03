@@ -5,10 +5,10 @@ image: /img/misc/demonetized.png
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'YouTube Creator Blog "Introducing Expanded YouTube Partner Program Safeguards to Protect Creators" (6 Apr 2017)', 'http://archive.is/q7TB2' ]
- - [ 'AdAge "New YouTube Rules Restrict Ads to Vetted Channels as PewDiePie Declares The ''Adpocalypse''" by Garett Sloane (6 Apr 2017)', 'http://archive.is/FcLDe' ]
- - [ 'YouTube Help "An Update on Your YouTube Earnings" (29 Apr 2017)', 'http://archive.is/Q2APC' ]
- - [ 'Fandom | Wikitubia "YouTube Adpocalypse"', 'http://archive.is/sJHuY' ]
+ - [ 'YouTube Creator Blog "Introducing Expanded YouTube Partner Program Safeguards to Protect Creators" (6 Apr 2017)', 'archive.is/q7TB2' ]
+ - [ 'AdAge "New YouTube Rules Restrict Ads to Vetted Channels as PewDiePie Declares The ''Adpocalypse''" by Garett Sloane (6 Apr 2017)', 'archive.is/FcLDe' ]
+ - [ 'YouTube Help "An Update on Your YouTube Earnings" (29 Apr 2017)', 'archive.is/Q2APC' ]
+ - [ 'Fandom | Wikitubia "YouTube Adpocalypse"', 'archive.is/sJHuY' ]
 ---
 
 In April of 2017, YouTube made some slight adjustments to the Partner Program

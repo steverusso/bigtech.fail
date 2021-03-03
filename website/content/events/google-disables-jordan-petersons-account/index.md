@@ -6,10 +6,10 @@ profiles: [ dr-jordan-peterson ]
 corpos: [ google ]
 tags: [ suspended ]
 sources:
- - [ '@jordanbpeterson - Tweet 892420717521850374', 'https://web.archive.org/web/20170801162416/https:/twitter.com/jordanbpeterson/status/892420717521850374' ]
- - [ '@jordanbpeterson - Tweet 892432199303213056', 'https://web.archive.org/web/20191102065112/https:/twitter.com/jordanbpeterson/status/892432199303213056' ]
- - [ 'Washington Times "Jordan B. Peterson''s YouTube account locked during biblical lecture series: ''No explanation''" by Douglas Ernst (1 Aug 2017)', 'https://www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/' ]
- - [ 'Reclaim the Net "Google leaker says Tulsi Gabbard may have been victim of same exploit used to take down Jordan Peterson" by Tom Parker (15 Aug 2019)', 'https://reclaimthenet.org/zach-vorhies-tulsi-gabbard-google-lawsuit/' ]
+ - [ '@jordanbpeterson - Tweet 892420717521850374', 'web.archive.org/web/20170801162416/https:/twitter.com/jordanbpeterson/status/892420717521850374' ]
+ - [ '@jordanbpeterson - Tweet 892432199303213056', 'web.archive.org/web/20191102065112/https:/twitter.com/jordanbpeterson/status/892432199303213056' ]
+ - [ 'Washington Times "Jordan B. Peterson''s YouTube account locked during biblical lecture series: ''No explanation''" by Douglas Ernst (1 Aug 2017)', 'www.washingtontimes.com/news/2017/aug/1/jordan-b-petersons-youtube-account-locked-during-b/' ]
+ - [ 'Reclaim the Net "Google leaker says Tulsi Gabbard may have been victim of same exploit used to take down Jordan Peterson" by Tom Parker (15 Aug 2019)', 'reclaimthenet.org/zach-vorhies-tulsi-gabbard-google-lawsuit/' ]
 ---
 
 Google disabled Jordan Peterson's gmail account, without warning or explanation, leaving him with heavily restricted access (if any at all) to various Google services.

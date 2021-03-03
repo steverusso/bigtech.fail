@@ -5,14 +5,14 @@ image: /img/misc/know-more-news.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/Know_More_News/status/1318704558273482755', 'https://archive.is/J8I4V' ]
- - [ 'twitter.com/Know_More_News/status/1318682540329168897', 'https://archive.is/aRMxd' ]
- - [ 'twitter.com/Know_More_News/status/1318683293978591233', 'https://archive.is/pLLLh' ]
- - [ 'twitter.com/Know_More_News/status/1321133191747399680', 'https://archive.is/O6m6h' ]
- - [ 'altcensored.com/channel/UCaRjFptz7970mppuiGuZtpQ', 'https://altcensored.com/channel/UCaRjFptz7970mppuiGuZtpQ' ]
- - [ 'altcensored.com/channel/UCz3QRglH_VPC5fjd3vekSsg (backup channel)', 'https://altcensored.com/channel/UCz3QRglH_VPC5fjd3vekSsg' ]
- - [ 'youtube.com/channel/UCaRjFptz7970mppuiGuZtpQ (archived channel removal notice)', 'https://archive.is/5uec1/image' ]
- - [ 'BitChute "SHUT IT DOWN Intensifying & Anti-Semitism Conference | Know More News BANNED!!!" by Know More News (21 Oct 2020)', 'https://www.bitchute.com/video/xzzoQxWnt3HW/' ]
+ - [ 'twitter.com/Know_More_News/status/1318704558273482755', 'archive.is/J8I4V' ]
+ - [ 'twitter.com/Know_More_News/status/1318682540329168897', 'archive.is/aRMxd' ]
+ - [ 'twitter.com/Know_More_News/status/1318683293978591233', 'archive.is/pLLLh' ]
+ - [ 'twitter.com/Know_More_News/status/1321133191747399680', 'archive.is/O6m6h' ]
+ - [ 'altcensored.com/channel/UCaRjFptz7970mppuiGuZtpQ', 'altcensored.com/channel/UCaRjFptz7970mppuiGuZtpQ' ]
+ - [ 'altcensored.com/channel/UCz3QRglH_VPC5fjd3vekSsg (backup channel)', 'altcensored.com/channel/UCz3QRglH_VPC5fjd3vekSsg' ]
+ - [ 'youtube.com/channel/UCaRjFptz7970mppuiGuZtpQ (archived channel removal notice)', 'archive.is/5uec1/image' ]
+ - [ 'BitChute "SHUT IT DOWN Intensifying & Anti-Semitism Conference | Know More News BANNED!!!" by Know More News (21 Oct 2020)', 'www.bitchute.com/video/xzzoQxWnt3HW/' ]
 youtube:
  subs: 135841
  views: 11118118

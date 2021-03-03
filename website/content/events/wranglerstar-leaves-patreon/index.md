@@ -6,7 +6,7 @@ summary: '"As of this morning, I have pulled all support from Patreon"'
 corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
- - [ 'Wranglerstar - BitChute Video', 'https://www.bitchute.com/video/FzuIXEB6SUI/' ]
+ - [ 'Wranglerstar - BitChute Video', 'www.bitchute.com/video/FzuIXEB6SUI/' ]
 ---
 
 On December 19th, twelve days after the Sargon ban, Wranglerstar [released a video](https://www.bitchute.com/video/FzuIXEB6SUI/) announcing that he has left Patreon altogether and encouraging others to do the same.

@@ -5,16 +5,16 @@ image: /img/misc/titus-frost.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/ImperatorTruth/status/1316761539752460290', 'https://archive.is/Bs6SR' ]
- - [ 'twitter.com/ImperatorTruth/status/1316762960963002368', 'https://archive.is/DcaTH' ]
- - [ 'twitter.com/ImperatorTruth/status/1316765323723497475', 'https://archive.is/uZmBM' ]
- - [ 'twitter.com/ImperatorTruth/status/1316767361408684033', 'https://archive.is/Uuddv' ]
- - [ 'twitter.com/ImperatorTruth/status/1316777731024134146', 'https://archive.is/mvAIB' ]
- - [ 'twitter.com/ImperatorTruth/status/1318182778492551168', 'https://archive.is/jv5t9' ]
- - [ 'altcensored.com/channel/UCDHrwVzgl-vZ14wWnN1LVjQ', 'https://altcensored.com/channel/UCDHrwVzgl-vZ14wWnN1LVjQ' ]
- - [ 'socialblade.com/youtube/channel/UCDHrwVzgl-vZ14wWnN1LVjQ (archived)', 'https://archive.is/rjsnb' ]
- - [ 'youtube.com/channel/UCDHrwVzgl-vZ14wWnN1LVjQ (archived channel removal notice)', 'https://archive.is/uL98t/image' ]
- - [ 'twitter.com/ImperatorTruth/status/1241716796740247552', 'https://archive.is/87eQj' ]
+ - [ 'twitter.com/ImperatorTruth/status/1316761539752460290', 'archive.is/Bs6SR' ]
+ - [ 'twitter.com/ImperatorTruth/status/1316762960963002368', 'archive.is/DcaTH' ]
+ - [ 'twitter.com/ImperatorTruth/status/1316765323723497475', 'archive.is/uZmBM' ]
+ - [ 'twitter.com/ImperatorTruth/status/1316767361408684033', 'archive.is/Uuddv' ]
+ - [ 'twitter.com/ImperatorTruth/status/1316777731024134146', 'archive.is/mvAIB' ]
+ - [ 'twitter.com/ImperatorTruth/status/1318182778492551168', 'archive.is/jv5t9' ]
+ - [ 'altcensored.com/channel/UCDHrwVzgl-vZ14wWnN1LVjQ', 'altcensored.com/channel/UCDHrwVzgl-vZ14wWnN1LVjQ' ]
+ - [ 'socialblade.com/youtube/channel/UCDHrwVzgl-vZ14wWnN1LVjQ (archived)', 'archive.is/rjsnb' ]
+ - [ 'youtube.com/channel/UCDHrwVzgl-vZ14wWnN1LVjQ (archived channel removal notice)', 'archive.is/uL98t/image' ]
+ - [ 'twitter.com/ImperatorTruth/status/1241716796740247552', 'archive.is/87eQj' ]
 youtube:
  subs: 44000
  views: 4097498

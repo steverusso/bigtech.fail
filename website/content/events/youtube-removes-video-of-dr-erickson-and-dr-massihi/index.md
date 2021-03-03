@@ -5,10 +5,10 @@ image: /img/people/drs-erickson-massihi.jpg
 corpos: [ youtube ]
 tags: [ content-removed, covid ]
 sources:
-  - [ 'Twitter.com - @RMConservative 1254954619555524615', 'https://archive.vn/yPFfS' ]
-  - [ 'Summit News "YouTube Censors Viral Video of Doctors Criticizing ''Stay-at-Home'' Order" by Paul Joseph Watson (28 April 2020)', 'https://archive.vn/HNKcR' ]
-  - [ 'Matt Christiansen "YouTube Censors CA Urgent Care Doctors | Professional Opinion Is a Community Guidelines Violation" (29 April 2020)', 'https://www.bitchute.com/video/RCRfxQ38TXE/' ]
-  - [ 'Styxhexenhammer666 - "Youtube Bans Erickson Massihi Conference, For Disagreeing with the WHO (Bitchute Exclusive)" (29 April 2020)', 'https://www.bitchute.com/video/yeZsZ1RhOpDa/' ]
+  - [ 'Twitter.com - @RMConservative 1254954619555524615', 'archive.vn/yPFfS' ]
+  - [ 'Summit News "YouTube Censors Viral Video of Doctors Criticizing ''Stay-at-Home'' Order" by Paul Joseph Watson (28 April 2020)', 'archive.vn/HNKcR' ]
+  - [ 'Matt Christiansen "YouTube Censors CA Urgent Care Doctors | Professional Opinion Is a Community Guidelines Violation" (29 April 2020)', 'www.bitchute.com/video/RCRfxQ38TXE/' ]
+  - [ 'Styxhexenhammer666 - "Youtube Bans Erickson Massihi Conference, For Disagreeing with the WHO (Bitchute Exclusive)" (29 April 2020)', 'www.bitchute.com/video/yeZsZ1RhOpDa/' ]
 ---
 
 YouTube removed an hour long video of Dr. Dan Erickson and Dr. Artin Massihi,

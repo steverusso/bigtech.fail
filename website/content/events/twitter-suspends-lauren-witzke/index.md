@@ -5,10 +5,10 @@ image: /img/people/lauren-witzke.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
- - [ 'twitter.com/LaurenWitzkeDE/status/1313570575693033474', 'https://archive.is/sRPSo' ]
- - [ 'twitter.com/LaurenWitzkeDE/status/1315241783828377605', 'https://archive.is/SVyqK' ]
- - [ 'twitter.com/LaurenWitzkeDE/status/1315244244584587264', 'https://archive.is/2xcwr' ]
- - [ 'Breitbart "Twitter Censors Senate Candidate Lauren Witzke’s Immigration Views as ‘Hateful Conduct’" by Allum Bokhari (10 Oct 2020)', 'https://archive.is/uKfdv' ]
+ - [ 'twitter.com/LaurenWitzkeDE/status/1313570575693033474', 'archive.is/sRPSo' ]
+ - [ 'twitter.com/LaurenWitzkeDE/status/1315241783828377605', 'archive.is/SVyqK' ]
+ - [ 'twitter.com/LaurenWitzkeDE/status/1315244244584587264', 'archive.is/2xcwr' ]
+ - [ 'Breitbart "Twitter Censors Senate Candidate Lauren Witzke’s Immigration Views as ‘Hateful Conduct’" by Allum Bokhari (10 Oct 2020)', 'archive.is/uKfdv' ]
 ---
 
 Twitter temporarily suspended Lauren Witzke, a US Senate candidate for

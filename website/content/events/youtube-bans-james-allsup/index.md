@@ -5,9 +5,9 @@ image: /img/people/james-allsup.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'https://gab.com/realjamesallsup/posts/102685172189236644', 'https://archive.is/mgNca' ]
- - [ 'InfoStormer', 'https://infostormer.com/james-allsup-banned-off-of-youtube/' ]
- - [ 'InfoWars', 'https://www.infowars.com/youtube-bans-james-allsup-and-tons-of-other-right-wingers-in-latest-censorship-purge/' ]
+ - [ 'https://gab.com/realjamesallsup/posts/102685172189236644', 'archive.is/mgNca' ]
+ - [ 'InfoStormer', 'infostormer.com/james-allsup-banned-off-of-youtube/' ]
+ - [ 'InfoWars', 'www.infowars.com/youtube-bans-james-allsup-and-tons-of-other-right-wingers-in-latest-censorship-purge/' ]
 ---
 
 YouTube deleted James Allsup's channel, which had about 450k+ subscribers and no violations or strikes.

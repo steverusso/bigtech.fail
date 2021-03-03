@@ -5,11 +5,11 @@ image: /img/people/amazing-polly.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'altCensored - Amazing Polly', 'https://archive.is/x4hSN' ]
- - [ 'Social Blade (Amazing Polly) socialblade.com/youtube/channel/UCJkOZZrGNEJYDhzVwd24Bfg', 'https://archive.is/1SgkV' ]
- - [ 'twitter.com/99freemind/status/1316761489047519234', 'https://archive.is/ckDUX' ]
- - [ 'twitter.com/99freemind/status/1316765620646686723', 'https://archive.is/kYE4R' ]
- - [ 'BitChute "Truth Purge - Youtube Got Rid of Me" by Amazing Polly (15 Oct 2020)', 'https://www.bitchute.com/video/kr0UZsQVZ8AC/' ]
+ - [ 'altCensored - Amazing Polly', 'archive.is/x4hSN' ]
+ - [ 'Social Blade (Amazing Polly) socialblade.com/youtube/channel/UCJkOZZrGNEJYDhzVwd24Bfg', 'archive.is/1SgkV' ]
+ - [ 'twitter.com/99freemind/status/1316761489047519234', 'archive.is/ckDUX' ]
+ - [ 'twitter.com/99freemind/status/1316765620646686723', 'archive.is/kYE4R' ]
+ - [ 'BitChute "Truth Purge - Youtube Got Rid of Me" by Amazing Polly (15 Oct 2020)', 'www.bitchute.com/video/kr0UZsQVZ8AC/' ]
 ---
 
 [YouTube](/youtube/) banned _Amazing Polly_ in an effort to purge channels that

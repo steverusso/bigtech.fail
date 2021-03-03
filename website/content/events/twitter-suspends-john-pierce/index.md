@@ -5,9 +5,9 @@ image: /img/people/john-pierce.jpg
 corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
- - [ 'twitter.com/LLinWood/status/1301411353425444865', 'https://archive.is/7zAF7' ]
- - [ 'twitter.com/CaliKidJMP/status/1301569355373838336', 'https://archive.is/oQOgW' ]
- - [ 'Breitbart "Twitter Locks Account of Kyle Rittenhouse’s Attorney, John Pierce" by Allum Bokhari (4 Sep 2020)', 'https://archive.is/fERUw' ]
+ - [ 'twitter.com/LLinWood/status/1301411353425444865', 'archive.is/7zAF7' ]
+ - [ 'twitter.com/CaliKidJMP/status/1301569355373838336', 'archive.is/oQOgW' ]
+ - [ 'Breitbart "Twitter Locks Account of Kyle Rittenhouse’s Attorney, John Pierce" by Allum Bokhari (4 Sep 2020)', 'archive.is/fERUw' ]
 ---
 
 Twitter suspended John Pierce, a defense attorney representing [Kyle

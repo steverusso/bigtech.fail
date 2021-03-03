@@ -6,7 +6,7 @@ image: /img/people/dr-jordan-peterson.jpg
 profiles: [ dr-jordan-peterson ]
 corpos: [ patreon ]
 sources:
- - [ 'Jordan B Peterson - Tweet 1075842024669102080', 'https://archive.vn/QmFCJ' ]
+ - [ 'Jordan B Peterson - Tweet 1075842024669102080', 'archive.vn/QmFCJ' ]
 ---
 
 Less than two weeks later, content creators have started to feel the effects of Patreon [banning Sargon of Akkad](/e/patreon-bans-sargon/).

@@ -5,9 +5,9 @@ image: /img/logos/nypost.png
 corpos: [ twitter ]
 tags: [ suspended, gov, hunters-laptop ]
 sources:
- - [ 'twitter.com/SohrabAhmari/status/1316737095906590721', 'https://archive.is/cstkO' ]
- - [ 'twitter.com/tedcruz/status/1316738930348363776', 'https://archive.is/du8lv' ]
- - [ 'twitter.com/tedcruz/status/1316738930348363776', 'https://archive.is/1I79w' ]
+ - [ 'twitter.com/SohrabAhmari/status/1316737095906590721', 'archive.is/cstkO' ]
+ - [ 'twitter.com/tedcruz/status/1316738930348363776', 'archive.is/du8lv' ]
+ - [ 'twitter.com/tedcruz/status/1316738930348363776', 'archive.is/1I79w' ]
 ---
 
 After [suppressing](/e/facebook-twitter-suppress-nypost-hunter-expose/)

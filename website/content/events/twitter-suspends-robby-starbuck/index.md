@@ -5,11 +5,11 @@ image: /img/people/robby-starbuck.jpg
 corpos: [ twitter ]
 tags: [ suspended, covid, wtf ]
 sources:
- - [ 'twitter.com/KamVTV/status/1288503226401267714', 'http://archive.is/U9hr3' ]
- - [ 'twitter.com/robbystarbuck/status/1288836644339167232', 'http://archive.is/WbWsK' ]
- - [ 'twitter.com/robbystarbuck/status/1288834054155108353', 'http://archive.is/WuFw6' ]
- - [ 'twitter.com/robbystarbuck/status/1288826271850475520', 'http://archive.is/2KDBg' ]
- - [ 'Breitbart "Twitter Suspends PragerU, Prominent Conservatives, and Doctors for Commenting on HCQ" by Alana Mastrangelo (29 Jul 2020)', 'https://www.breitbart.com/tech/2020/07/29/twitter-suspends-prageru-prominent-conservatives-and-doctors-for-commenting-on-hcq/' ]
+ - [ 'twitter.com/KamVTV/status/1288503226401267714', 'archive.is/U9hr3' ]
+ - [ 'twitter.com/robbystarbuck/status/1288836644339167232', 'archive.is/WbWsK' ]
+ - [ 'twitter.com/robbystarbuck/status/1288834054155108353', 'archive.is/WuFw6' ]
+ - [ 'twitter.com/robbystarbuck/status/1288826271850475520', 'archive.is/2KDBg' ]
+ - [ 'Breitbart "Twitter Suspends PragerU, Prominent Conservatives, and Doctors for Commenting on HCQ" by Alana Mastrangelo (29 Jul 2020)', 'www.breitbart.com/tech/2020/07/29/twitter-suspends-prageru-prominent-conservatives-and-doctors-for-commenting-on-hcq/' ]
 ---
 
 Twitter suspended Robby Starbuck, a conservative director & producer and host of

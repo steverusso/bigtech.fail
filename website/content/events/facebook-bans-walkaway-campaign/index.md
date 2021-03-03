@@ -5,12 +5,12 @@ image: /img/misc/walkaway-campaign.jpg
 corpos: [ facebook ]
 tags: [ banned, gov, election2020, capitol-riot ]
 sources:
- - [ 'twitter.com/BrandonStraka/status/1347592064322719744', 'https://archive.is/GOn1o' ]
- - [ 'twitter.com/BrandonStraka/status/1347726124315516929', 'https://archive.is/KcneD' ]
- - [ 'twitter.com/tracybeanz/status/1347600922709528578', 'https://archive.is/zc1Sb' ]
+ - [ 'twitter.com/BrandonStraka/status/1347592064322719744', 'archive.is/GOn1o' ]
+ - [ 'twitter.com/BrandonStraka/status/1347726124315516929', 'archive.is/KcneD' ]
+ - [ 'twitter.com/tracybeanz/status/1347600922709528578', 'archive.is/zc1Sb' ]
 extra:
  - tag:after-hitpiece
- - [ 'twitter.com/WebCoderz/status/1347595502033002498', 'https://archive.is/jgnDq' ]
+ - [ 'twitter.com/WebCoderz/status/1347595502033002498', 'archive.is/jgnDq' ]
 ---
 
 [Facebook](/facebook/) banned the [#WalkAway

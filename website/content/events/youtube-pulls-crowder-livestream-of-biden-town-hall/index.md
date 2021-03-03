@@ -6,8 +6,8 @@ profiles: [ steven-crowder ]
 corpos: [ youtube ]
 tags: [ content-removed, copyright ]
 sources:
- - [ 'BitChute "YouTube STRIKES Biden Stream, Crowder Fires Back! | Louder with Crowder" by Steven Crowder (18 Sep 2020)', 'https://www.bitchute.com/video/i3QZlZFclJE/' ]
- - [ 'BitChute "Republicans MUST Replace RBG Immediately! | Louder with Crowder" by Steven Crowder (21 Sep 2020)', 'https://www.bitchute.com/video/jMf3oj4T8oE/' ]
+ - [ 'BitChute "YouTube STRIKES Biden Stream, Crowder Fires Back! | Louder with Crowder" by Steven Crowder (18 Sep 2020)', 'www.bitchute.com/video/i3QZlZFclJE/' ]
+ - [ 'BitChute "Republicans MUST Replace RBG Immediately! | Louder with Crowder" by Steven Crowder (21 Sep 2020)', 'www.bitchute.com/video/jMf3oj4T8oE/' ]
 ---
 
 YouTube pulled a _Louder With Crowder_ livestream of a Joe Biden CNN Town Hall

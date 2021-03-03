@@ -5,10 +5,10 @@ image: /img/misc/the-patriot-hour.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/ThePatriotHour/status/1316767376243855361', 'https://archive.is/JEp14' ]
- - [ 'socialblade.com/youtube/channel/UCwJq9pqEEUr5_OmwBWQxDKA (archived)', 'https://archive.is/winCF' ]
- - [ 'socialblade.com/youtube/channel/UC1h1a4IkUVc4fumhmRpqXSA (backup channel) (archived)', 'https://archive.is/Par9T' ]
- - [ 'youtube.com/channel/UCwJq9pqEEUr5_OmwBWQxDKA (archived channel removal notice)', 'https://archive.is/4IcZy/image' ]
+ - [ 'twitter.com/ThePatriotHour/status/1316767376243855361', 'archive.is/JEp14' ]
+ - [ 'socialblade.com/youtube/channel/UCwJq9pqEEUr5_OmwBWQxDKA (archived)', 'archive.is/winCF' ]
+ - [ 'socialblade.com/youtube/channel/UC1h1a4IkUVc4fumhmRpqXSA (backup channel) (archived)', 'archive.is/Par9T' ]
+ - [ 'youtube.com/channel/UCwJq9pqEEUr5_OmwBWQxDKA (archived channel removal notice)', 'archive.is/4IcZy/image' ]
 youtube:
  subs: 249000
  views: 54331582

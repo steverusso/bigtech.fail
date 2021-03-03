@@ -6,14 +6,14 @@ corpos: [ twitter ]
 tags: [ restricted, suspended, gov, election2020 ]
 profiles: [ cassandra-fairbanks, tim-pool ]
 sources:
- - [ 'twitter.com/CassandraRules/status/1357708988482269189', 'https://archive.is/TeegJ' ]
- - [ 'The Gateway Pundit "Exclusive: The TCF Center Election Fraud – Newly Discovered Video Shows Late Night Deliveries of Tens of Thousands of Illegal Ballots 8 Hours After Deadline" by Jim Hoft (5 Feb 2021)', 'https://archive.is/ehruB' ]
- - [ 'twitter.com/Timcast/status/1357714538783727618', 'https://archive.is/kGrKZ' ]
- - [ 'twitter.com/Timcast/status/1357763149399662594', 'https://archive.is/8Ury0' ]
- - [ 'twitter.com/Timcast/status/1357781784990277633', 'https://archive.is/lI6LG' ]
- - [ 'twitter.com/Timcast/status/1357782429071790080', 'https://archive.is/W8rm1' ]
- - [ 'Timcast IRL "Twitter Tries To CENSOR Factual Quotes Of News Commentary, They Are TIGHTENING Their Grip" on BitChute (6 Feb 2021)', 'https://www.bitchute.com/video/XA4G4fMxePo/' ]
- - [ 'The Podcast of The Lotus Eaters "The Time Magazine Confession" on BitChute (8 Feb 2021)', 'https://www.bitchute.com/video/h8oyTBzROhE/' ]
+ - [ 'twitter.com/CassandraRules/status/1357708988482269189', 'archive.is/TeegJ' ]
+ - [ 'The Gateway Pundit "Exclusive: The TCF Center Election Fraud – Newly Discovered Video Shows Late Night Deliveries of Tens of Thousands of Illegal Ballots 8 Hours After Deadline" by Jim Hoft (5 Feb 2021)', 'archive.is/ehruB' ]
+ - [ 'twitter.com/Timcast/status/1357714538783727618', 'archive.is/kGrKZ' ]
+ - [ 'twitter.com/Timcast/status/1357763149399662594', 'archive.is/8Ury0' ]
+ - [ 'twitter.com/Timcast/status/1357781784990277633', 'archive.is/lI6LG' ]
+ - [ 'twitter.com/Timcast/status/1357782429071790080', 'archive.is/W8rm1' ]
+ - [ 'Timcast IRL "Twitter Tries To CENSOR Factual Quotes Of News Commentary, They Are TIGHTENING Their Grip" on BitChute (6 Feb 2021)', 'www.bitchute.com/video/XA4G4fMxePo/' ]
+ - [ 'The Podcast of The Lotus Eaters "The Time Magazine Confession" on BitChute (8 Feb 2021)', 'www.bitchute.com/video/h8oyTBzROhE/' ]
 ---
 
 On February 5, Jim Hoft, founder of the Gateway Pundit, published [an

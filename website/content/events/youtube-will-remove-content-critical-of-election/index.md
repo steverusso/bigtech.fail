@@ -5,12 +5,12 @@ image: /img/logos/youtube.png
 corpos: [ youtube ]
 tags: [ policy, gov, election2020 ]
 sources:
- - [ 'YouTube Official Blog "Supporting the 2020 U.S. election" by The YouTube Team (9 Dec 2020)', 'https://archive.is/LppDR' ]
- - [ 'Styxhexenhammer666 "Youtube to Remove Videos Critical of Beijing Biden "Winning" Election (My Most Important Video Ever)" on BitChute (9 Dec 2020)', 'https://www.bitchute.com/video/4h9x6DSJwX0/' ]
- - [ 'Matt Taibbi "The YouTube Ban Is Un-American, Wrong, and Will Backfire" on Substack (11 Dec 2020)', 'https://taibbi.substack.com/p/the-youtube-ban-is-un-american-wrong' ]
+ - [ 'YouTube Official Blog "Supporting the 2020 U.S. election" by The YouTube Team (9 Dec 2020)', 'archive.is/LppDR' ]
+ - [ 'Styxhexenhammer666 "Youtube to Remove Videos Critical of Beijing Biden "Winning" Election (My Most Important Video Ever)" on BitChute (9 Dec 2020)', 'www.bitchute.com/video/4h9x6DSJwX0/' ]
+ - [ 'Matt Taibbi "The YouTube Ban Is Un-American, Wrong, and Will Backfire" on Substack (11 Dec 2020)', 'taibbi.substack.com/p/the-youtube-ban-is-un-american-wrong' ]
 extra:
- - [ 'ZeroHedge "YouTube To Delete Content That ''Undermines'' 2020 US Election Results" by Tyler Durden (9 Dec 2020)', 'https://archive.is/Kmo5j' ]
- - [ 'twitter.com/JackPosobiec/status/1336687212226867206', 'https://archive.is/7WaWn' ]
+ - [ 'ZeroHedge "YouTube To Delete Content That ''Undermines'' 2020 US Election Results" by Tyler Durden (9 Dec 2020)', 'archive.is/Kmo5j' ]
+ - [ 'twitter.com/JackPosobiec/status/1336687212226867206', 'archive.is/7WaWn' ]
 ---
 
 [YouTube](/youtube/) announced via a blog post that they would be removing

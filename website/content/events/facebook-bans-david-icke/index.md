@@ -5,9 +5,9 @@ image: /img/people/david-icke.jpg
 corpos: [ facebook ]
 tags: [ banned, covid ]
 sources:
- - [ 'Twitter @davidicke - 1256123065051893765 (1 May 2020)', 'https://archive.vn/okspC' ]
- - [ 'Twitter @davidicke - 1256188667867037696 (1 May 2020)', 'https://archive.vn/ABr4b' ]
- - [ 'BitChute "DAVID ICKE BANNED ON FACEBOOK - THIS FIGHT IS REAL - WATCH ROSE/ICKE III SUN MAY 3 - DIGITAL FREED.." by London Real (1 May 2020)', 'https://www.bitchute.com/video/xeDHYewI_30/' ]
+ - [ 'Twitter @davidicke - 1256123065051893765 (1 May 2020)', 'archive.vn/okspC' ]
+ - [ 'Twitter @davidicke - 1256188667867037696 (1 May 2020)', 'archive.vn/ABr4b' ]
+ - [ 'BitChute "DAVID ICKE BANNED ON FACEBOOK - THIS FIGHT IS REAL - WATCH ROSE/ICKE III SUN MAY 3 - DIGITAL FREED.." by London Real (1 May 2020)', 'www.bitchute.com/video/xeDHYewI_30/' ]
 ---
 
 Just two days before Rose/Icke III was scheduled to air, Facebook banned David Icke.

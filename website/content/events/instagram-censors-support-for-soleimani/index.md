@@ -5,9 +5,9 @@ image: /img/people/soleimani.jpg
 corpos: [ facebook, instagram ]
 tags: [ content-removed, gov ]
 sources:
- - [ 'International Federation of Journalists "Iran: Journalists demand end to censorship of Iranian media on Instagram" (9 Jan 2020)', 'https://archive.vn/jeqyR' ]
- - [ 'RT "Facebook ''thought police'' censors pro-Iran posts ''to comply with US sanctions''... as Trump warns Tehran against censorship" (12 Jan 2020)', 'https://archive.vn/HRoIv' ]
- - [ 'The Hill "Instagram takes heat for removing pro-Soleimani content" by Chris Mills Rodrigo (16 Jan 2020)', 'https://archive.vn/askCP' ]
+ - [ 'International Federation of Journalists "Iran: Journalists demand end to censorship of Iranian media on Instagram" (9 Jan 2020)', 'archive.vn/jeqyR' ]
+ - [ 'RT "Facebook ''thought police'' censors pro-Iran posts ''to comply with US sanctions''... as Trump warns Tehran against censorship" (12 Jan 2020)', 'archive.vn/HRoIv' ]
+ - [ 'The Hill "Instagram takes heat for removing pro-Soleimani content" by Chris Mills Rodrigo (16 Jan 2020)', 'archive.vn/askCP' ]
 ---
 
 In order to comply with "US sanctions laws", Instagram started removing posts

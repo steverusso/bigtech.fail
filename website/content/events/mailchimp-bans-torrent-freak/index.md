@@ -5,7 +5,7 @@ image: /img/logos/torrent-freak.png
 corpos: [ mailchimp ]
 tags: [ banned ]
 sources:
- - [ 'TorrentFreak "Mailchimp Kicks Out TorrentFreak Because We’re ‘Too Risky’" by Ernesto Van der Sar (20 Oct 2019)', 'https://torrentfreak.com/mailchimp-kicks-out-torrentfreak-because-too-risky-191020/' ]
+ - [ 'TorrentFreak "Mailchimp Kicks Out TorrentFreak Because We’re ‘Too Risky’" by Ernesto Van der Sar (20 Oct 2019)', 'torrentfreak.com/mailchimp-kicks-out-torrentfreak-because-too-risky-191020/' ]
 ---
 
 Mailchimp banned [_TorrentFreak_](https://torrentfreak.com/about/), a news

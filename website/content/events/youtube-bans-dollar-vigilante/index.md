@@ -6,13 +6,13 @@ corpos: [ youtube ]
 tags: [ banned, covid ]
 profiles: [ tdv ]
 sources:
- - [ 'twitter.com/BerwickJeff/status/1336904324191051777', 'https://archive.is/VSqxP' ]
- - [ 'twitter.com/BerwickJeff/status/1336909001548828673', 'https://archive.is/GVfVq' ]
- - [ 'twitter.com/DollarVigilante/status/1336906067637395457', 'https://archive.is/ykp9R' ]
- - [ 'twitter.com/DollarVigilante/status/1337197577901649920', 'https://archive.is/adrVO' ]
- - [ 'altcensored.com/channel/UCpf2Lxgf10AjzBT4GIIgDJw', 'https://altcensored.com/channel/UCpf2Lxgf10AjzBT4GIIgDJw' ]
- - [ 'socialblade.com/youtube/channel/UCpf2Lxgf10AjzBT4GIIgDJw', 'https://socialblade.com/youtube/channel/UCpf2Lxgf10AjzBT4GIIgDJw' ]
- - [ 'Dollar Vigilante "TDV BANNED FROM YOUTUBE: And Kary Mullis, Inventor of PCR, Says Fraudci is a Fraud and Liar - The Dollar Vigilante" by Jeff Berwick (13 Dec 2020)', 'https://archive.is/cMrnZ' ]
+ - [ 'twitter.com/BerwickJeff/status/1336904324191051777', 'archive.is/VSqxP' ]
+ - [ 'twitter.com/BerwickJeff/status/1336909001548828673', 'archive.is/GVfVq' ]
+ - [ 'twitter.com/DollarVigilante/status/1336906067637395457', 'archive.is/ykp9R' ]
+ - [ 'twitter.com/DollarVigilante/status/1337197577901649920', 'archive.is/adrVO' ]
+ - [ 'altcensored.com/channel/UCpf2Lxgf10AjzBT4GIIgDJw', 'altcensored.com/channel/UCpf2Lxgf10AjzBT4GIIgDJw' ]
+ - [ 'socialblade.com/youtube/channel/UCpf2Lxgf10AjzBT4GIIgDJw', 'socialblade.com/youtube/channel/UCpf2Lxgf10AjzBT4GIIgDJw' ]
+ - [ 'Dollar Vigilante "TDV BANNED FROM YOUTUBE: And Kary Mullis, Inventor of PCR, Says Fraudci is a Fraud and Liar - The Dollar Vigilante" by Jeff Berwick (13 Dec 2020)', 'archive.is/cMrnZ' ]
 youtube:
  subs: 304525
  views: 37149967

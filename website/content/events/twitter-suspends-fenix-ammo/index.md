@@ -5,9 +5,9 @@ image: /img/logos/fenix-ammo.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
- - [ 'twitter.com/FenixAmmunition/status/1316700304273010688', 'https://archive.is/vSAi1' ]
- - [ 'twitter.com/FenixAmmunition/status/1316702536351522816', 'https://archive.is/GBVuj' ]
- - [ 'twitter.com/FenixAmmunition/status/1316712794272804865', 'https://archive.is/rHWgf' ]
+ - [ 'twitter.com/FenixAmmunition/status/1316700304273010688', 'archive.is/vSAi1' ]
+ - [ 'twitter.com/FenixAmmunition/status/1316702536351522816', 'archive.is/GBVuj' ]
+ - [ 'twitter.com/FenixAmmunition/status/1316712794272804865', 'archive.is/rHWgf' ]
 ---
 
 Twitter briefly suspended the official account for Fenix Ammunition amidst the

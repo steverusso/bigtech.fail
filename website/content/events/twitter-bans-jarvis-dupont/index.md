@@ -5,10 +5,10 @@ image: /img/misc/jarvis-dupont.jpg
 corpos: [ twitter ]
 tags: [ banned, humor ]
 sources:
- - [ 'Spectator USA "My open letter to Twitter" by Jarvis Dupont (19 Aug 2020)', 'https://spectator.us/open-letter-twitter-jarvis-dupont-banned/' ]
- - [ 'Jarvis Dupont''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'https://socialblade.com/twitter/user/jarvisdupont' ]
- - [ 'twitter.com/andrewdoyle_com/status/1295502499324067840', 'https://archive.is/UeqMq' ]
- - [ 'Last archive of "twitter.com/jarvisdupont"', 'http://archive.is/wZMja' ]
+ - [ 'Spectator USA "My open letter to Twitter" by Jarvis Dupont (19 Aug 2020)', 'spectator.us/open-letter-twitter-jarvis-dupont-banned/' ]
+ - [ 'Jarvis Dupont''s Twitter Stats Summary Profile (Social Blade Twitter Statistics)', 'socialblade.com/twitter/user/jarvisdupont' ]
+ - [ 'twitter.com/andrewdoyle_com/status/1295502499324067840', 'archive.is/UeqMq' ]
+ - [ 'Last archive of "twitter.com/jarvisdupont"', 'archive.is/wZMja' ]
 ---
 
 Twitter [permanently banned](notice.jpg) the satirical SJW account "Jarvis

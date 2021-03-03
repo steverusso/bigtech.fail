@@ -6,11 +6,11 @@ profiles: [ mark-dice ]
 corpos: [ facebook ]
 tags: [ content-removed, humor, gov ]
 sources:
- - [ 'twitter.com/MarkDice/status/1295884941125853184', 'http://archive.is/3JILq' ]
- - [ 'twitter.com/MarkDice/status/1296232702526418944', 'http://archive.is/D6ol4' ]
- - [ 'facebook.com/MarkDice/posts/3478556505523044', 'http://archive.is/qdiFB' ]
- - [ 'BitChute "At Least They Tried" by Mark Dice (19 Aug 2020)', 'https://www.bitchute.com/video/AQm2tgGjBHQ/' ]
- - [ 'Newsbusters "Facebook Censors Mark Dice''s Meme Mocking Kamala Harris" by Alexander Hall (21 Aug 2020)', 'http://archive.is/5JFP2' ]
+ - [ 'twitter.com/MarkDice/status/1295884941125853184', 'archive.is/3JILq' ]
+ - [ 'twitter.com/MarkDice/status/1296232702526418944', 'archive.is/D6ol4' ]
+ - [ 'facebook.com/MarkDice/posts/3478556505523044', 'archive.is/qdiFB' ]
+ - [ 'BitChute "At Least They Tried" by Mark Dice (19 Aug 2020)', 'www.bitchute.com/video/AQm2tgGjBHQ/' ]
+ - [ 'Newsbusters "Facebook Censors Mark Dice''s Meme Mocking Kamala Harris" by Alexander Hall (21 Aug 2020)', 'archive.is/5JFP2' ]
 ---
 
 Facebook gave media analyst Mark Dice a community guidelines strike for posting

@@ -5,11 +5,11 @@ image: /img/misc/guy-verhoftwat.jpg
 corpos: [ twitter ]
 tags: [ banned, humor ]
 sources:
- - [ 'share.par.pw/post/7943d363745f4345b945294df0205494', 'https://archive.is/738M7' ]
- - [ 'share.par.pw/post/0721cd6762b14da6bdb3751bd96003e0', 'https://archive.is/UWKv5' ]
- - [ 'share.par.pw/post/65d2d79acea54e6394a928d74b30212d', 'https://archive.is/AdZ5Q' ]
- - [ 'spiked "Twitter’s purge of the anti-woke satirists" (18 Aug 2020)', 'https://archive.is/oBmiV#selection-475.37-475.179' ]
- - [ 'Last archive of "twitter.com/GuyVerhoftwat"', 'http://archive.is/6COOk' ]
+ - [ 'share.par.pw/post/7943d363745f4345b945294df0205494', 'archive.is/738M7' ]
+ - [ 'share.par.pw/post/0721cd6762b14da6bdb3751bd96003e0', 'archive.is/UWKv5' ]
+ - [ 'share.par.pw/post/65d2d79acea54e6394a928d74b30212d', 'archive.is/AdZ5Q' ]
+ - [ 'spiked "Twitter’s purge of the anti-woke satirists" (18 Aug 2020)', 'archive.is/oBmiV#selection-475.37-475.179' ]
+ - [ 'Last archive of "twitter.com/GuyVerhoftwat"', 'archive.is/6COOk' ]
 ---
 
 As part of a multi-account satire purge, Twitter banned Guy Verhoftwat

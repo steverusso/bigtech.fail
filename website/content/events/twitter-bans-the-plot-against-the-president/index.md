@@ -5,10 +5,10 @@ image: /img/misc/patp.jpg
 corpos: [ twitter ]
 tags: [ banned, gov, election2020 ]
 sources:
- - [ 'The Epoch Times "Twitter ‘Indefinitely’ Suspends Account of ‘The Plot Against the President’" by Isabel van Brugen (26 Nov 2020)', 'https://archive.is/GarYR' ]
- - [ 'twitter.com/disclosetv/status/1332010479183663105', 'https://archive.is/fJgeM' ]
- - [ 'twitter.com/JackPosobiec/status/1332006441507573763', 'https://archive.is/tzqhZ' ]
- - [ 'twitter.com/ColumbiaBugle/status/1296181009877045250', 'https://archive.is/wpYUA' ]
+ - [ 'The Epoch Times "Twitter ‘Indefinitely’ Suspends Account of ‘The Plot Against the President’" by Isabel van Brugen (26 Nov 2020)', 'archive.is/GarYR' ]
+ - [ 'twitter.com/disclosetv/status/1332010479183663105', 'archive.is/fJgeM' ]
+ - [ 'twitter.com/JackPosobiec/status/1332006441507573763', 'archive.is/tzqhZ' ]
+ - [ 'twitter.com/ColumbiaBugle/status/1296181009877045250', 'archive.is/wpYUA' ]
 ---
 
 Twitter banned the official account for _The Plot Against the President_, a

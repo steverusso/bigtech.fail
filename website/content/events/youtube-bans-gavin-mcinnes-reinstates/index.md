@@ -6,8 +6,8 @@ profiles: [ gavin-mcinnes ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'Breitbart "Gavin McInnes Blacklisted from YouTube for ''Copyright Infringement''" (10 Dec 2018)', 'http://archive.is/Z4csx' ]
- - [ 'TheWrap "YouTube Reinstates Gavin McInnes Just Days After Ban: ''I''m Back, It Won''t Last''" by Jon Levine (13 Dec 2018)', 'http://archive.is/HQxqb' ]
+ - [ 'Breitbart "Gavin McInnes Blacklisted from YouTube for ''Copyright Infringement''" (10 Dec 2018)', 'archive.is/Z4csx' ]
+ - [ 'TheWrap "YouTube Reinstates Gavin McInnes Just Days After Ban: ''I''m Back, It Won''t Last''" by Jon Levine (13 Dec 2018)', 'archive.is/HQxqb' ]
 ---
 
 YouTube "terminated" the channel of Gavin McInnes "due to repeated claims of

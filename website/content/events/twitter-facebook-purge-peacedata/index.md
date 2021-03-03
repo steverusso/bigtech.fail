@@ -5,12 +5,12 @@ image: /img/misc/peacedata.png
 corpos: [ twitter, facebook ]
 tags: [ banned, gov, fbi ]
 sources:
- - [ 'twitter.com/TwitterSafety/status/1300848632120242181', 'https://archive.is/wyArd' ]
- - [ 'Facebook Newsroom "August 2020 Coordinated Inauthentic Behavior Report" (1 Sep 2020)', 'https://archive.is/CtCF9' ]
- - [ 'Twitter Blog "Disclosing networks to our state-linked information operations archive" (8 Oct 2020)', 'https://archive.is/ZYAJN' ]
- - [ 'ZDNet "Facebook and Twitter suspend Russian propaganda accounts following FBI tip" by Catalin Cimpanu (1 Sep 2020)', 'https://archive.is/ETSwL' ]
+ - [ 'twitter.com/TwitterSafety/status/1300848632120242181', 'archive.is/wyArd' ]
+ - [ 'Facebook Newsroom "August 2020 Coordinated Inauthentic Behavior Report" (1 Sep 2020)', 'archive.is/CtCF9' ]
+ - [ 'Twitter Blog "Disclosing networks to our state-linked information operations archive" (8 Oct 2020)', 'archive.is/ZYAJN' ]
+ - [ 'ZDNet "Facebook and Twitter suspend Russian propaganda accounts following FBI tip" by Catalin Cimpanu (1 Sep 2020)', 'archive.is/ETSwL' ]
 extra:
- - [ 'Some archives of the site', 'https://archive.is/https://peacedata.net/' ]
+ - [ 'Some archives of the site', 'archive.is/https://peacedata.net/' ]
 ---
 
 [Twitter](/twitter/) and [Facebook](/facebook/) purged accounts and pages

@@ -5,7 +5,7 @@ image: /img/misc/qanon.jpg
 corpos: [ facebook, instagram ]
 tags: [ banned, content-removed, gov ]
 sources:
- - [ 'Facebook Newsroom "An Update to How We Address Movements and Organizations Tied to Violence" (19 Aug 2020)', 'http://archive.is/QutUY' ]
+ - [ 'Facebook Newsroom "An Update to How We Address Movements and Organizations Tied to Violence" (19 Aug 2020)', 'archive.is/QutUY' ]
 ---
 
 Facebook released an update on how the platform has been dealing with "violent

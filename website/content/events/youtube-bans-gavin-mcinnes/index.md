@@ -6,8 +6,8 @@ profiles: [ gavin-mcinnes ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'Censored.TV "EXCLUSIVE: GAVIN MCINNES BANNED ON YOUTUBE"', 'http://archive.is/f9iUG' ]
- - [ 'The Post Millennial "BREAKING: Gavin McInnes banned from YouTube" by Roberto Wakerell-Cruz (22 Jun 2020)', 'http://archive.is/ALjJ9' ]
+ - [ 'Censored.TV "EXCLUSIVE: GAVIN MCINNES BANNED ON YOUTUBE"', 'archive.is/f9iUG' ]
+ - [ 'The Post Millennial "BREAKING: Gavin McInnes banned from YouTube" by Roberto Wakerell-Cruz (22 Jun 2020)', 'archive.is/ALjJ9' ]
 ---
 
 YouTube banned Gavin McInnes. His 15 year old channel more than **350k

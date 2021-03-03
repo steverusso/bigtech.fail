@@ -5,9 +5,9 @@ image: /img/misc/twitter-china.png
 corpos: [ twitter ]
 tags: [ china ]
 sources:
- - [ 'PR Newswire "Twitter Appoints Dr. Fei-Fei Li to Board of Directors" by Twitter, Inc. (11 May 2020)', 'https://archive.vn/urbqO' ]
- - [ 'Taiwan News "Petition calls for investigation into Twitter censorship after hiring of Li Fei-Fei" by Keoni Everington (25 May 2020)', 'https://archive.vn/HvJRm' ]
- - [ 'Radio Free Asia "Twitter''s Hiring of China-Linked AI Expert Sparks Concern" by Ng Yik-tung and Sing Man and Zheng Chongsheng (20 May 2020)', 'https://archive.vn/3Lb0L' ]
+ - [ 'PR Newswire "Twitter Appoints Dr. Fei-Fei Li to Board of Directors" by Twitter, Inc. (11 May 2020)', 'archive.vn/urbqO' ]
+ - [ 'Taiwan News "Petition calls for investigation into Twitter censorship after hiring of Li Fei-Fei" by Keoni Everington (25 May 2020)', 'archive.vn/HvJRm' ]
+ - [ 'Radio Free Asia "Twitter''s Hiring of China-Linked AI Expert Sparks Concern" by Ng Yik-tung and Sing Man and Zheng Chongsheng (20 May 2020)', 'archive.vn/3Lb0L' ]
 ---
 
 Twitter appointed Li Fei-Fei, former Vice President of Google, to its Board of Directors as an "independent director."

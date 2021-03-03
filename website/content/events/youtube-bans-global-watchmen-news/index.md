@@ -5,10 +5,10 @@ image: /img/misc/global-watchmen-news.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/GlobalWatchmen/status/1316814421105278977', 'https://archive.is/sKiUB' ]
- - [ 'twitter.com/GlobalWatchmen/status/1316897480760565760', 'https://archive.is/C2CZR' ]
- - [ 'youtube.com/channel/UCthxxdOYx6gK6ZkdZxoE3lA (archived channel removal notice)', 'https://archive.is/cFmEa/image' ]
- - [ 'socialblade.com/youtube/channel/UCthxxdOYx6gK6ZkdZxoE3lA', 'https://socialblade.com/youtube/channel/UCthxxdOYx6gK6ZkdZxoE3lA' ]
+ - [ 'twitter.com/GlobalWatchmen/status/1316814421105278977', 'archive.is/sKiUB' ]
+ - [ 'twitter.com/GlobalWatchmen/status/1316897480760565760', 'archive.is/C2CZR' ]
+ - [ 'youtube.com/channel/UCthxxdOYx6gK6ZkdZxoE3lA (archived channel removal notice)', 'archive.is/cFmEa/image' ]
+ - [ 'socialblade.com/youtube/channel/UCthxxdOYx6gK6ZkdZxoE3lA', 'socialblade.com/youtube/channel/UCthxxdOYx6gK6ZkdZxoE3lA' ]
 youtube:
  subs: 30900
  views: 3021005

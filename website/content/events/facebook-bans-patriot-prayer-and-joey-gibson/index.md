@@ -5,17 +5,17 @@ image: /img/misc/patriot-prayer.jpg
 corpos: [ facebook ]
 tags: [ banned, wtf ]
 sources:
- - [ 'The Gateway Pundit "Facebook Bans Patriot Prayer Six Days After One of Their Members Was Executed By Antifa" by Cassandra Fairbanks (4 Sep 2020)', 'https://archive.is/qRyIz' ]
- - [ 'ZeroHedge "Facebook Removes ''Patriot Prayer'' Pages Days After Member Killed By "100% Antifa" Gunman" by Tyler Durden (4 Sep 2020)', 'https://archive.is/DwnX9' ]
- - [ 'The Epoch Times "Facebook Removes Accounts of Patriot Prayer, Group’s Leader" by Zachary Stieber (6 Sep 2020)', 'https://archive.is/LOnvF' ]
- - [ 'The Libertarian Republic "Facebook Bans Friends Of Murdered Portland Man" by Squiggly Line Guy (7 Sep 2020)', 'https://thelibertarianrepublic.com/facebook-bans-friends-of-murdered-portland-man/' ]
- - [ 'twitter.com/seanmdav/status/1301990090336591874', 'https://archive.is/Hcahl' ]
- - [ 'twitter.com/CassandraRules/status/1301992586387824641', 'https://archive.is/rUdJg' ]
- - [ 'twitter.com/BrittPettibone/status/1301980971848343557', 'https://archive.is/1eejd' ]
- - [ 'twitter.com/daveyalba/status/1301982946115678208', 'https://archive.vn/6Qx5Y' ]
- - [ 'share.par.pw/post/b1d7c97919dd4a23bff4c9b96d2d4e9e', 'https://archive.is/c3mvC' ]
- - [ 'share.par.pw/post/23ea7740914b4001ac7f299596951424', 'https://archive.is/CGGUY' ]
- - [ 'Breitbart "Joe Biden Claims, Without Evidence, Portland Victim Incited His Own Death" by Joel B. Pollak (2 Sep 2020)', 'https://archive.is/QlKWw' ]
+ - [ 'The Gateway Pundit "Facebook Bans Patriot Prayer Six Days After One of Their Members Was Executed By Antifa" by Cassandra Fairbanks (4 Sep 2020)', 'archive.is/qRyIz' ]
+ - [ 'ZeroHedge "Facebook Removes ''Patriot Prayer'' Pages Days After Member Killed By "100% Antifa" Gunman" by Tyler Durden (4 Sep 2020)', 'archive.is/DwnX9' ]
+ - [ 'The Epoch Times "Facebook Removes Accounts of Patriot Prayer, Group’s Leader" by Zachary Stieber (6 Sep 2020)', 'archive.is/LOnvF' ]
+ - [ 'The Libertarian Republic "Facebook Bans Friends Of Murdered Portland Man" by Squiggly Line Guy (7 Sep 2020)', 'thelibertarianrepublic.com/facebook-bans-friends-of-murdered-portland-man/' ]
+ - [ 'twitter.com/seanmdav/status/1301990090336591874', 'archive.is/Hcahl' ]
+ - [ 'twitter.com/CassandraRules/status/1301992586387824641', 'archive.is/rUdJg' ]
+ - [ 'twitter.com/BrittPettibone/status/1301980971848343557', 'archive.is/1eejd' ]
+ - [ 'twitter.com/daveyalba/status/1301982946115678208', 'archive.vn/6Qx5Y' ]
+ - [ 'share.par.pw/post/b1d7c97919dd4a23bff4c9b96d2d4e9e', 'archive.is/c3mvC' ]
+ - [ 'share.par.pw/post/23ea7740914b4001ac7f299596951424', 'archive.is/CGGUY' ]
+ - [ 'Breitbart "Joe Biden Claims, Without Evidence, Portland Victim Incited His Own Death" by Joel B. Pollak (2 Sep 2020)', 'archive.is/QlKWw' ]
 ---
 
 On August 29, 2020, Patriot Prayer member Aaron Danielson (also known as "Jay

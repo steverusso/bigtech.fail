@@ -5,9 +5,9 @@ image: /img/misc/progressive-soapbox.jpg
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'twitter.com/theProgSoapbox/status/1357059115999252482', 'https://archive.is/BjkyX' ]
+ - [ 'twitter.com/theProgSoapbox/status/1357059115999252482', 'archive.is/BjkyX' ]
 extra:
- - [ 'twitter.com/theProgSoapbox/status/1357098310532820995', 'https://archive.is/YRkWV' ]
+ - [ 'twitter.com/theProgSoapbox/status/1357098310532820995', 'archive.is/YRkWV' ]
 ---
 
 [YouTube](/youtube/) demonetized _The Progressive Soapbox_, a progressive

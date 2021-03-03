@@ -5,9 +5,9 @@ image: /img/logos/google.png
 corpos: [ google ]
 tags: [ gov, policy ]
 sources:
- - [ 'Reclaim The Net "Google handed over to police data on everyone who searched for certain terms" by Carl Sinclair (9 Oct 2020)', 'https://reclaimthenet.org/google-keyword-warrants/' ]
- - [ 'Engadget "Google is sharing user data tied to search keywords with law enforcement" by Jon Fingas (8 Oct 2020)', 'https://archive.is/GNpPA' ]
- - [ 'The Free Thought Project "Court Records Show Google Gives Keyword Searches of Innocent People to Cops" by Matt Agorist (19 Oct 2020)', 'https://archive.is/LLwKT' ]
+ - [ 'Reclaim The Net "Google handed over to police data on everyone who searched for certain terms" by Carl Sinclair (9 Oct 2020)', 'reclaimthenet.org/google-keyword-warrants/' ]
+ - [ 'Engadget "Google is sharing user data tied to search keywords with law enforcement" by Jon Fingas (8 Oct 2020)', 'archive.is/GNpPA' ]
+ - [ 'The Free Thought Project "Court Records Show Google Gives Keyword Searches of Innocent People to Cops" by Matt Agorist (19 Oct 2020)', 'archive.is/LLwKT' ]
 ---
 
 ## Background

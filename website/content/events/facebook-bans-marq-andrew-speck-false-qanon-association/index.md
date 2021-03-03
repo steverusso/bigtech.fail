@@ -5,11 +5,11 @@ image: /img/misc/marq-andrew-speck.jpg
 corpos: [ facebook ]
 tags: [ banned ]
 sources:
- - [ 'facebook.com/1745580792128857/posts/this-is-marq-speck-my-personal-page-has-been-disabled-from-facebook-and-i-do-not/3648574335162817/', 'https://archive.is/Fai7i' ]
- - [ 'facebook.com/MarqAndrewSpeck/posts/3668073409879576', 'https://archive.is/ggUEh' ]
- - [ 'WXYZ Detroit "Facebook deletes multiple accounts after linking lead singer in Christian rock band to QAnon" by Kimberly Craig (27 Oct 2020)', 'https://archive.is/wx3qu' ]
- - [ 'Newsweek "Christian Rock Singer Says Facebook Deleted His Accounts Over False Links To QAnon" by Ewan Palmer (28 Oct 2020)', 'https://archive.is/AIHtg' ]
- - [ 'Freedom Outpost "Facebook Bans Christian Rock Band’s Accounts Because Singer’s Name is Spelled ‘Q AN’" by Warner Todd Huston (29 Oct 2020)', 'https://archive.is/8Z22w' ]
+ - [ 'facebook.com/1745580792128857/posts/this-is-marq-speck-my-personal-page-has-been-disabled-from-facebook-and-i-do-not/3648574335162817/', 'archive.is/Fai7i' ]
+ - [ 'facebook.com/MarqAndrewSpeck/posts/3668073409879576', 'archive.is/ggUEh' ]
+ - [ 'WXYZ Detroit "Facebook deletes multiple accounts after linking lead singer in Christian rock band to QAnon" by Kimberly Craig (27 Oct 2020)', 'archive.is/wx3qu' ]
+ - [ 'Newsweek "Christian Rock Singer Says Facebook Deleted His Accounts Over False Links To QAnon" by Ewan Palmer (28 Oct 2020)', 'archive.is/AIHtg' ]
+ - [ 'Freedom Outpost "Facebook Bans Christian Rock Band’s Accounts Because Singer’s Name is Spelled ‘Q AN’" by Warner Todd Huston (29 Oct 2020)', 'archive.is/8Z22w' ]
 ---
 
 Facebook banned Marq Andrew Speck, the lead singer of a Christian rock band,

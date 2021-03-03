@@ -5,8 +5,8 @@ image: /img/logos/youtube.png
 corpos: [ youtube ]
 tags: [ wtf ]
 sources:
- - [ 'twitter.com/YouTube/status/1332021330074595328', 'https://archive.is/daDuY' ]
- - [ 'Summit News "YouTube Gets Brutally Ratioed After Attempting Woke Takedown Of Thanksgiving" by Steve Watson (27 Nov 2020)', 'https://archive.is/nQeTk' ]
+ - [ 'twitter.com/YouTube/status/1332021330074595328', 'archive.is/daDuY' ]
+ - [ 'Summit News "YouTube Gets Brutally Ratioed After Attempting Woke Takedown Of Thanksgiving" by Steve Watson (27 Nov 2020)', 'archive.is/nQeTk' ]
 ---
 
 YouTube whipped out a new level of corporate pandering on Thanksgiving Day by

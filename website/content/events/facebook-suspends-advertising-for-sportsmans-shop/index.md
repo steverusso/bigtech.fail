@@ -5,7 +5,7 @@ image: /img/logos/the-sportsmans-shop.jpg
 corpos: [ facebook ]
 tags: [ advertising, firearms ]
 sources:
- - [ 'The Daily Caller "Facebook Removed This Small Town Business''s Ads For American Flags Because It Sell Guns" by Eric Lieberman (24 Nov 2017)', 'https://archive.vn/ERG21' ]
+ - [ 'The Daily Caller "Facebook Removed This Small Town Business''s Ads For American Flags Because It Sell Guns" by Eric Lieberman (24 Nov 2017)', 'archive.vn/ERG21' ]
 ---
 
 [The Sportsman's Shop](https://thesportsmansshop.com/), a small shooting and

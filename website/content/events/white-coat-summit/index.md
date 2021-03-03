@@ -6,17 +6,17 @@ image: /img/misc/white-coat-summit.jpg
 corpos: [ facebook, youtube, twitter ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'Breitbart "Facebook, Google/YouTube, Twitter Censor Viral Video of Doctors'' Capitol Hill Coronavirus Press Conference" by Allum Bokhari (27 Jul 2020)', 'http://archive.is/hAXb1' ]
- - [ 'Breitbart "Watch Live: Silenced Frontline Doctors Hold Capitol Hill Press Conference to Challenge Big Tech" by Amanda House (28 Jul 2020)', 'http://archive.is/tz6EQ' ]
- - [ 'BitChute "Big Tech CENSORED Trump Video About Doctors And COVID, This Is The BIGGEST Censorship Scandal EVER" by Tim Pool (28 Jul 2020)', 'https://www.bitchute.com/video/bxXE0Txdzzo/' ]
- - [ 'BitChute "Facebook, Google, Twitter and YouTube Are Now Your Doctors" by We Are Change (28 Jul 2020)', 'https://www.bitchute.com/video/6SIkbEv_Zd0/' ]
- - [ 'BitChute "The Big Tech CENSORSHIP SCANDAL is Going Just As Viral As The BANNED DOCTORS VIDEO!!" by Press For Truth (28 Jul 2020)', 'https://www.bitchute.com/video/3XH8zeWXtdBc/' ]
- - [ 'BitChute "Wrongthink Doctors Get Censored Again | No Second Opinions (Uncensored)" by Matt Christiansen (29 Jul 2020)', 'https://www.bitchute.com/video/c16AjNmVKj9N/' ]
- - [ 'Reclaim The Net "Facebook, YouTube, Twitter all censor videos of frontline doctors, call it "false information"" by Didi Rankovic (28 Jul 2020)', 'https://reclaimthenet.org/big-tech-censors-frontline-doctors/' ]
- - [ 'RealClear Politics "Facebook and YouTube Ban Video Of Doctors Talking COVID, Silenced Doctors Hold Press Conference" by Ian Schwartz (28 Jul 2020)', 'http://archive.is/XPYoG' ]
- - [ 'twitter.com/robbystarbuck/status/1287944649827590144', 'http://archive.is/vH3FY' ]
- - [ 'altCensored "America''s Frontline Doctors Summit- Session 2" by TPPatriots (27 Jul 2020)', 'https://altcensored.com/watch?v=aX_Q1FaY9pI' ]
- - [ 'BitChute "COVID-19 Censorship Has Killed People" by Akkad Daily (8 Aug 2020)', 'https://www.bitchute.com/video/Hj0LKciyhjU/' ]
+ - [ 'Breitbart "Facebook, Google/YouTube, Twitter Censor Viral Video of Doctors'' Capitol Hill Coronavirus Press Conference" by Allum Bokhari (27 Jul 2020)', 'archive.is/hAXb1' ]
+ - [ 'Breitbart "Watch Live: Silenced Frontline Doctors Hold Capitol Hill Press Conference to Challenge Big Tech" by Amanda House (28 Jul 2020)', 'archive.is/tz6EQ' ]
+ - [ 'BitChute "Big Tech CENSORED Trump Video About Doctors And COVID, This Is The BIGGEST Censorship Scandal EVER" by Tim Pool (28 Jul 2020)', 'www.bitchute.com/video/bxXE0Txdzzo/' ]
+ - [ 'BitChute "Facebook, Google, Twitter and YouTube Are Now Your Doctors" by We Are Change (28 Jul 2020)', 'www.bitchute.com/video/6SIkbEv_Zd0/' ]
+ - [ 'BitChute "The Big Tech CENSORSHIP SCANDAL is Going Just As Viral As The BANNED DOCTORS VIDEO!!" by Press For Truth (28 Jul 2020)', 'www.bitchute.com/video/3XH8zeWXtdBc/' ]
+ - [ 'BitChute "Wrongthink Doctors Get Censored Again | No Second Opinions (Uncensored)" by Matt Christiansen (29 Jul 2020)', 'www.bitchute.com/video/c16AjNmVKj9N/' ]
+ - [ 'Reclaim The Net "Facebook, YouTube, Twitter all censor videos of frontline doctors, call it "false information"" by Didi Rankovic (28 Jul 2020)', 'reclaimthenet.org/big-tech-censors-frontline-doctors/' ]
+ - [ 'RealClear Politics "Facebook and YouTube Ban Video Of Doctors Talking COVID, Silenced Doctors Hold Press Conference" by Ian Schwartz (28 Jul 2020)', 'archive.is/XPYoG' ]
+ - [ 'twitter.com/robbystarbuck/status/1287944649827590144', 'archive.is/vH3FY' ]
+ - [ 'altCensored "America''s Frontline Doctors Summit- Session 2" by TPPatriots (27 Jul 2020)', 'altcensored.com/watch?v=aX_Q1FaY9pI' ]
+ - [ 'BitChute "COVID-19 Censorship Has Killed People" by Akkad Daily (8 Aug 2020)', 'www.bitchute.com/video/Hj0LKciyhjU/' ]
 ---
 
 _America’s Frontline Doctors_ held a press conference in D.C. which featured a

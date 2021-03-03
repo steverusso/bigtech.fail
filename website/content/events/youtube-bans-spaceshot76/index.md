@@ -8,9 +8,9 @@ tags: [ banned ]
 sources:
  - [ 'Ban notice email from YouTube to SpaceShot76', 'notice.jpg' ]
  - [ 'Appeal rejection notice email from YouTube to SpaceShot76', 'appeal-rejection.jpg' ]
- - [ 'altcensored.com/channel/UCKpH2KFEngc9Csp2i71znYA', 'https://archive.is/KzKPZ' ]
- - [ 'socialblade.com/youtube/channel/UCKpH2KFEngc9Csp2i71znYA', 'https://archive.is/Yq43m' ]
- - [ 'twitter.com/Spaceshot76/status/1316813635570806786', 'http://web.archive.org/web/20201015190113/https://twitter.com/Spaceshot76/status/1316813635570806786' ]
+ - [ 'altcensored.com/channel/UCKpH2KFEngc9Csp2i71znYA', 'archive.is/KzKPZ' ]
+ - [ 'socialblade.com/youtube/channel/UCKpH2KFEngc9Csp2i71znYA', 'archive.is/Yq43m' ]
+ - [ 'twitter.com/Spaceshot76/status/1316813635570806786', 'web.archive.org/web/20201015190113/https://twitter.com/Spaceshot76/status/1316813635570806786' ]
 youtube:
  subs: 159874
  views: 32227188

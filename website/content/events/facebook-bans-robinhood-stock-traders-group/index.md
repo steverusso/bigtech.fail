@@ -5,8 +5,8 @@ image: /img/misc/robinhood-stock-traders-group.png
 corpos: [ facebook ]
 tags: [ banned, oops ]
 sources:
- - [ 'Reuters "Facebook temporarily shuts stock trading group after GameStop frenzy" by Paresh Dave (28 Jan 2021)', 'https://archive.is/ql5PB' ]
- - [ 'Summit News "Facebook Bans ‘Robinhood Stock Traders Group’ With 157,000 Members" by Paul Joseph Watson (29 Jan 2021)', 'https://archive.is/ql5PB' ]
+ - [ 'Reuters "Facebook temporarily shuts stock trading group after GameStop frenzy" by Paresh Dave (28 Jan 2021)', 'archive.is/ql5PB' ]
+ - [ 'Summit News "Facebook Bans ‘Robinhood Stock Traders Group’ With 157,000 Members" by Paul Joseph Watson (29 Jan 2021)', 'archive.is/ql5PB' ]
 ---
 
 [Facebook](/facebook/) banned the _Robinhood Stock Traders_ group, the largest

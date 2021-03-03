@@ -5,10 +5,10 @@ image: /img/misc/youtube-china.png
 corpos: [ youtube ]
 tags: [ china, oops ]
 sources:
- - [ 'Twitter Jennifer Zeng (@jenniferatntd) 1260557177711968257', 'https://archive.vn/E6zcI' ]
- - [ 'Taiwan News "YouTube automatically deletes Chinese epithet ''communist bandit''" by Keoni Everington (14 May 2020)', 'https://archive.vn/EBDdM' ]
- - [ 'The Epoch Times "YouTube Automatically Deletes Some Terms Critical of Chinese Regime" by Petr Svab (17 May 2020)', 'https://archive.vn/WJaZj' ]
- - [ 'Breitbart "YouTube Blames ''Error'' for Censoring Anti-China Phrases" by Allum Bokhari (26 May 2020)', 'https://archive.vn/p2La7' ]
+ - [ 'Twitter Jennifer Zeng (@jenniferatntd) 1260557177711968257', 'archive.vn/E6zcI' ]
+ - [ 'Taiwan News "YouTube automatically deletes Chinese epithet ''communist bandit''" by Keoni Everington (14 May 2020)', 'archive.vn/EBDdM' ]
+ - [ 'The Epoch Times "YouTube Automatically Deletes Some Terms Critical of Chinese Regime" by Petr Svab (17 May 2020)', 'archive.vn/WJaZj' ]
+ - [ 'Breitbart "YouTube Blames ''Error'' for Censoring Anti-China Phrases" by Allum Bokhari (26 May 2020)', 'archive.vn/p2La7' ]
 ---
 
 On May 13, it was discovered that YouTube would automatically delete certain phrases that are critical of the CCP (Chinese Communist Party).

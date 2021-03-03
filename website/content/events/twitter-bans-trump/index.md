@@ -5,12 +5,12 @@ image: /img/people/trump.jpg
 corpos: [ twitter ]
 tags: [ banned, gov, election2020, capitol-riot ]
 sources:
- - [ 'blog.twitter.com/en_us/topics/company/2020/suspension.html', 'https://archive.is/e8WIO' ]
- - [ 'twitter.com/mikehahn_/status/1347738633411899393', 'https://archive.is/jjFY3' ]
- - [ 'Reclaim The Net "President Trump responds to Twitter’s permanent suspension of his account" by Tom Parker (8 Jan 2021)', 'https://reclaimthenet.org/president-trump-twitter-censorship-response/' ]
- - [ 'ZeroHedge "Trump Tweets From POTUS Account, Twitter Then Immediately Deletes It" by Tyler Durden (8 Jan 2021)', 'https://archive.is/4O79S' ]
- - [ 'threadreaderapp.com/thread/1349510769268850690.html', 'https://archive.is/irQLm' ]
- - [ 'twitter.com/therecount/status/1359505558814998531', 'https://archive.is/NAYTq' ]
+ - [ 'blog.twitter.com/en_us/topics/company/2020/suspension.html', 'archive.is/e8WIO' ]
+ - [ 'twitter.com/mikehahn_/status/1347738633411899393', 'archive.is/jjFY3' ]
+ - [ 'Reclaim The Net "President Trump responds to Twitter’s permanent suspension of his account" by Tom Parker (8 Jan 2021)', 'reclaimthenet.org/president-trump-twitter-censorship-response/' ]
+ - [ 'ZeroHedge "Trump Tweets From POTUS Account, Twitter Then Immediately Deletes It" by Tyler Durden (8 Jan 2021)', 'archive.is/4O79S' ]
+ - [ 'threadreaderapp.com/thread/1349510769268850690.html', 'archive.is/irQLm' ]
+ - [ 'twitter.com/therecount/status/1359505558814998531', 'archive.is/NAYTq' ]
 ---
 
 [Twitter](/twitter/) permanmently banned President Trump shortly after [his 12

@@ -5,13 +5,13 @@ image: /img/people/trump.jpg
 corpos: [ twitter ]
 tags: [ restricted, gov, election2020 ]
 sources:
- - [ 'ZeroHedge "Twitter Blocks Users From Liking, Replying-To Trump Tweets As President Rages Over SCOTUS, Barr, & ''RINO'' Governors" by Tyler Durden (12 Dec 2020)', 'https://archive.is/rhyhK' ]
- - [ 'twitter.com/realDonaldTrump/status/1337743516294934529', 'https://archive.is/967gO' ]
- - [ 'twitter.com/realDonaldTrump/status/1337745268591259648', 'https://archive.is/ZOYXv' ]
- - [ 'twitter.com/realDonaldTrump/status/1337749020706549762', 'https://archive.is/AM6GR' ]
- - [ 'twitter.com/realDonaldTrump/status/1337755490563010560', 'https://archive.is/F0pKk' ]
- - [ 'twitter.com/realDonaldTrump/status/1337790419875352576', 'https://archive.is/6Gpan' ]
- - [ 'twitter.com/bennyjohnson/status/1337804092643676161', 'https://archive.is/5vgl3' ]
+ - [ 'ZeroHedge "Twitter Blocks Users From Liking, Replying-To Trump Tweets As President Rages Over SCOTUS, Barr, & ''RINO'' Governors" by Tyler Durden (12 Dec 2020)', 'archive.is/rhyhK' ]
+ - [ 'twitter.com/realDonaldTrump/status/1337743516294934529', 'archive.is/967gO' ]
+ - [ 'twitter.com/realDonaldTrump/status/1337745268591259648', 'archive.is/ZOYXv' ]
+ - [ 'twitter.com/realDonaldTrump/status/1337749020706549762', 'archive.is/AM6GR' ]
+ - [ 'twitter.com/realDonaldTrump/status/1337755490563010560', 'archive.is/F0pKk' ]
+ - [ 'twitter.com/realDonaldTrump/status/1337790419875352576', 'archive.is/6Gpan' ]
+ - [ 'twitter.com/bennyjohnson/status/1337804092643676161', 'archive.is/5vgl3' ]
 ---
 
 [Twitter](/twitter/) disabled the ability to like or reply to several of

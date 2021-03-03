@@ -6,12 +6,12 @@ profiles: [ owen-benjamin ]
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'YouTube "Owen Benjamin BANNED from Patreon Instagram Livestream 9/10/2019" by  Owen Benjamin Instagram Streams (10 Oct 2019)', 'https://www.youtube.com/watch?v=-RPGsyJ4iGI' ]
- - [ 'Reddit "Owen Benjamin finds out he''s been banned from Patreon (10/9/2019)" by u/MilkerNation (18 Jun 2020)', 'https://redd.it/hbrvz4' ]
- - [ 'twitter.com/Cernovich/status/1288868346859905024', 'http://archive.is/brMFR' ]
- - [ 'Cernovich.com "Patreon Loses Lawsuit Against Owen Benjamin Fans" by Mike Cernovich (13 Jul 2020)', 'https://www.cernovich.com/patreon-lawsuit-owen-benjamin/' ]
- - [ 'The Superior Court of California - County of San Francisco - Case Number CGC20584586', 'https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC20584586' ]
- - [ 'BitChute "Patreon Has to Pay the Legal Bills Of Owen Benjamin Fans Who Sued Them HAHAHA" by Styxhexenhammer666 (2 Aug 2020)', 'https://www.bitchute.com/video/l-labqTd9D8/' ]
+ - [ 'YouTube "Owen Benjamin BANNED from Patreon Instagram Livestream 9/10/2019" by  Owen Benjamin Instagram Streams (10 Oct 2019)', 'www.youtube.com/watch?v=-RPGsyJ4iGI' ]
+ - [ 'Reddit "Owen Benjamin finds out he''s been banned from Patreon (10/9/2019)" by u/MilkerNation (18 Jun 2020)', 'redd.it/hbrvz4' ]
+ - [ 'twitter.com/Cernovich/status/1288868346859905024', 'archive.is/brMFR' ]
+ - [ 'Cernovich.com "Patreon Loses Lawsuit Against Owen Benjamin Fans" by Mike Cernovich (13 Jul 2020)', 'www.cernovich.com/patreon-lawsuit-owen-benjamin/' ]
+ - [ 'The Superior Court of California - County of San Francisco - Case Number CGC20584586', 'webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC20584586' ]
+ - [ 'BitChute "Patreon Has to Pay the Legal Bills Of Owen Benjamin Fans Who Sued Them HAHAHA" by Styxhexenhammer666 (2 Aug 2020)', 'www.bitchute.com/video/l-labqTd9D8/' ]
 ---
 
 Patreon banned comedian Owen Benjamin for "hate speech." He did a live stream

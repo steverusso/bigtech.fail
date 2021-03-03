@@ -5,13 +5,13 @@ image: /img/people/lin-wood.jpg
 corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
- - [ 'share.par.pw/post/2f44c960beb74d3f9eaa6129baf7414d', 'https://archive.is/wPOUf' ]
- - [ 'twitter.com/CaliKidJMP/status/1300906857419223041', 'https://archive.is/1GwwH' ]
- - [ 'twitter.com/CaliKidJMP/status/1300907673395884033', 'https://archive.is/KUeeP' ]
- - [ 'twitter.com/MarinaMedvin/status/1300903692267409409', 'https://archive.is/a4XzM' ]
- - [ 'Fox News "Lin Wood, attorney for Kyle Rittenhouse, says he was locked out of Twitter account" by Marisa Schultz (2 Sep 2020)', 'https://archive.is/m4eh1' ]
- - [ 'twitter.com/LLinWood/status/1300990856741163009', 'https://archive.is/9y7Fo' ]
- - [ 'Breitbart "Twitter ‘Mistakenly’ Censors Lin Wood, Attorney to Kyle Rittenhouse, Nicholas Sandmann" by Allum Bokhari (2 Sep 2020)', 'https://archive.is/CUZi5' ]
+ - [ 'share.par.pw/post/2f44c960beb74d3f9eaa6129baf7414d', 'archive.is/wPOUf' ]
+ - [ 'twitter.com/CaliKidJMP/status/1300906857419223041', 'archive.is/1GwwH' ]
+ - [ 'twitter.com/CaliKidJMP/status/1300907673395884033', 'archive.is/KUeeP' ]
+ - [ 'twitter.com/MarinaMedvin/status/1300903692267409409', 'archive.is/a4XzM' ]
+ - [ 'Fox News "Lin Wood, attorney for Kyle Rittenhouse, says he was locked out of Twitter account" by Marisa Schultz (2 Sep 2020)', 'archive.is/m4eh1' ]
+ - [ 'twitter.com/LLinWood/status/1300990856741163009', 'archive.is/9y7Fo' ]
+ - [ 'Breitbart "Twitter ‘Mistakenly’ Censors Lin Wood, Attorney to Kyle Rittenhouse, Nicholas Sandmann" by Allum Bokhari (2 Sep 2020)', 'archive.is/CUZi5' ]
 ---
 
 Twitter [temporarily suspended](notice.jpg) attorney Lin Wood after he had

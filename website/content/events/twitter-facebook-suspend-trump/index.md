@@ -5,15 +5,15 @@ image: /img/people/trump.jpg
 corpos: [ twitter, facebook, instagram ]
 tags: [ suspended, content-removed, gov, election2020, capitol-riot ]
 sources:
- - [ 'twitter.com/TwitterSafety/status/1346970430062485505', 'https://archive.is/lvlJh' ]
- - [ 'facebook.com/zuck/posts/10112681480907401', 'https://archive.is/8RtvW' ]
- - [ 'twitter.com/guyro/status/1346950532372393985', 'https://archive.is/IeAgL' ]
- - [ 'ZeroHedge "Twitter Has Locked President Trump''s Account For 12 Hours, Threatens "Permanent Suspension"" by Tyler Durden (6 Jan 2021)', 'https://archive.is/YwkVd' ]
- - [ 'Reclaim The Net "Facebook bans videos and photos from protesters at the US Capitol" by Tom Parker (6 Jan 2021)', 'https://reclaimthenet.org/facebook-bans-capitol-protest-photos-videos/' ]
+ - [ 'twitter.com/TwitterSafety/status/1346970430062485505', 'archive.is/lvlJh' ]
+ - [ 'facebook.com/zuck/posts/10112681480907401', 'archive.is/8RtvW' ]
+ - [ 'twitter.com/guyro/status/1346950532372393985', 'archive.is/IeAgL' ]
+ - [ 'ZeroHedge "Twitter Has Locked President Trump''s Account For 12 Hours, Threatens "Permanent Suspension"" by Tyler Durden (6 Jan 2021)', 'archive.is/YwkVd' ]
+ - [ 'Reclaim The Net "Facebook bans videos and photos from protesters at the US Capitol" by Tom Parker (6 Jan 2021)', 'reclaimthenet.org/facebook-bans-capitol-protest-photos-videos/' ]
 extra:
- - [ 'twitter.com/Timcast/status/1346972300160204800', 'https://archive.is/r32RN' ]
- - [ 'twitter.com/Timcast/status/1346971321754816512', 'https://archive.is/4JVD2' ]
- - [ 'twitter.com/seanmdav/status/1346974574433468417', 'https://archive.is/tyYrS' ]
+ - [ 'twitter.com/Timcast/status/1346972300160204800', 'archive.is/r32RN' ]
+ - [ 'twitter.com/Timcast/status/1346971321754816512', 'archive.is/4JVD2' ]
+ - [ 'twitter.com/seanmdav/status/1346974574433468417', 'archive.is/tyYrS' ]
 ---
 
 Shortly after the rioting in the US capitol on Jan 6, 2020,

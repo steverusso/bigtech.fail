@@ -5,9 +5,9 @@ image: /img/people/steve-bannons-war-room.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov, election2020 ]
 sources:
- - [ 'twitter.com/RaheemKassam/status/1323767600963342344', 'https://archive.is/JcQ1Y' ]
- - [ 'twitter.com/WarRoomPandemic/status/1323983129095344128', 'https://archive.is/TaR5v' ]
- - [ 'twitter.com/WarRoomPandemic/status/1323988779875655681', 'https://archive.is/txxF9' ]
+ - [ 'twitter.com/RaheemKassam/status/1323767600963342344', 'archive.is/JcQ1Y' ]
+ - [ 'twitter.com/WarRoomPandemic/status/1323983129095344128', 'archive.is/TaR5v' ]
+ - [ 'twitter.com/WarRoomPandemic/status/1323988779875655681', 'archive.is/txxF9' ]
 ---
 
 [Twitter](/twitter/) temporarily suspended the account of _Steve Bannon's War

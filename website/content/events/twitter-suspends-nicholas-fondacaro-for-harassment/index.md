@@ -5,7 +5,7 @@ image: /img/people/nicholas-fondacaro.jpg
 corpos: [ twitter ]
 tags: [ suspended, wtf ]
 sources:
- - [ 'NewsBusters "NewsBusters Staffer Locked from Twitter for Mocking Drunk Don Lemon [UPDATED]" by Corinne Weaver (3 Jan 2019)', 'http://archive.vn/C7qsh' ]
+ - [ 'NewsBusters "NewsBusters Staffer Locked from Twitter for Mocking Drunk Don Lemon [UPDATED]" by Corinne Weaver (3 Jan 2019)', 'archive.vn/C7qsh' ]
 ---
 
 Twitter suspended NewsBusters reporter [Nicholas

@@ -5,9 +5,9 @@ image: /img/logos/youtube.png
 corpos: [ youtube ]
 tags: [ banned, policy ]
 sources:
- - [ 'YouTube Official Blog "Managing harmful conspiracy theories on YouTube" by The YouTube Team (15 Oct 2020)', 'https://archive.is/XAtuq' ]
- - [ 'twitter.com/bitchute/status/1316774341565009923', 'https://archive.is/AN7NX' ]
- - [ 'twitter.com/LBRYcom/status/1316750633500893186', 'https://archive.is/QVoA7' ]
+ - [ 'YouTube Official Blog "Managing harmful conspiracy theories on YouTube" by The YouTube Team (15 Oct 2020)', 'archive.is/XAtuq' ]
+ - [ 'twitter.com/bitchute/status/1316774341565009923', 'archive.is/AN7NX' ]
+ - [ 'twitter.com/LBRYcom/status/1316750633500893186', 'archive.is/QVoA7' ]
 ---
 
 In a blog post, [YouTube](/youtube/) bragged about how many conspiracy channels

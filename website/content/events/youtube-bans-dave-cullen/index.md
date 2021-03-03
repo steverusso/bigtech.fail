@@ -6,13 +6,13 @@ corpos: [ youtube ]
 tags: [ banned, content-removed ]
 profiles: [ dave-cullen ]
 sources:
- - [ 'minds.com/newsfeed/1194929439250440192', 'https://archive.is/S1tr5' ]
- - [ 'minds.com/newsfeed/1194932456675999744', 'https://archive.is/Hftf6' ]
- - [ 'minds.com/newsfeed/1194947979769659392', 'https://archive.is/vvexd' ]
- - [ 'Archive of channel removal notice', 'https://archive.is/NSqal/image' ]
- - [ 'Computing Forever "Goodbye YouTube" on BitChute (11 Jan 2021)', 'https://www.bitchute.com/video/kl2oj4kEFc7d/' ]
- - [ 'Styxhexenhammer666 "...And Then They Came for Computing Forever" on BitChute (10 Jan 2021)', 'https://www.bitchute.com/video/C9jEnppH26o/' ]
- - [ 'Computing Forever "How is This a Thing? 12th of January 2021" on BitChute (12 Jan 2021)', 'https://www.bitchute.com/video/H6Ag0s28P43i/' ]
+ - [ 'minds.com/newsfeed/1194929439250440192', 'archive.is/S1tr5' ]
+ - [ 'minds.com/newsfeed/1194932456675999744', 'archive.is/Hftf6' ]
+ - [ 'minds.com/newsfeed/1194947979769659392', 'archive.is/vvexd' ]
+ - [ 'Archive of channel removal notice', 'archive.is/NSqal/image' ]
+ - [ 'Computing Forever "Goodbye YouTube" on BitChute (11 Jan 2021)', 'www.bitchute.com/video/kl2oj4kEFc7d/' ]
+ - [ 'Styxhexenhammer666 "...And Then They Came for Computing Forever" on BitChute (10 Jan 2021)', 'www.bitchute.com/video/C9jEnppH26o/' ]
+ - [ 'Computing Forever "How is This a Thing? 12th of January 2021" on BitChute (12 Jan 2021)', 'www.bitchute.com/video/H6Ag0s28P43i/' ]
 extra:
  - 'https://altcensored.com/channel/UCT9D87j5W7PtE7NHOR5DUOQ'
 youtube:

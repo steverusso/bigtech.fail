@@ -5,11 +5,11 @@ image: /img/people/chrissie-mayr.jpg
 corpos: [ twitter ]
 tags: [ suspended, wtf ]
 sources:
- - [ 'twitter.com/FrankP614/status/1292860436308807683', 'https://archive.is/AWxhs' ]
- - [ 'twitter.com/hannwhich/status/1292884851574571008', 'https://archive.is/qdb6a' ]
- - [ 'twitter.com/ChrissieMayr/status/1292622302237138946', 'https://archive.is/Z6TlJ' ]
- - [ 'twitter.com/ChrissieMayr/status/1293208336456994817', 'https://archive.is/Usnqh' ]
- - [ 'YouTube "Chrissie Mayr - By The Slice - "YOUR WELCOME" Episode #118" by Michael Malice (27 Aug 2020)', 'https://www.youtube.com/watch?v=HI4pHc05muU' ]
+ - [ 'twitter.com/FrankP614/status/1292860436308807683', 'archive.is/AWxhs' ]
+ - [ 'twitter.com/hannwhich/status/1292884851574571008', 'archive.is/qdb6a' ]
+ - [ 'twitter.com/ChrissieMayr/status/1292622302237138946', 'archive.is/Z6TlJ' ]
+ - [ 'twitter.com/ChrissieMayr/status/1293208336456994817', 'archive.is/Usnqh' ]
+ - [ 'YouTube "Chrissie Mayr - By The Slice - "YOUR WELCOME" Episode #118" by Michael Malice (27 Aug 2020)', 'www.youtube.com/watch?v=HI4pHc05muU' ]
 ---
 
 Twitter suspended comedian and podcaster Chrissie Mayr after she tried to have

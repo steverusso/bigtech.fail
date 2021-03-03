@@ -5,11 +5,11 @@ image: /img/logos/unplanned.jpg
 corpos: [ twitter ]
 tags: [ suspended ]
 sources:
- - [ 'Twitter @LilaGraceRose 1112040588906393602', 'https://archive.vn/3X7Dd' ]
- - [ 'Twitter @PatriciaHeaton 1112569581460062208', 'https://archive.vn/AwLNk' ]
- - [ 'Breitbart "Twitter Suspends, Then Quickly Unsuspends Account of Pro-Life Movie ''Unplanned'' During Release Week" by Allum Bokhari (30 Mar 2019)', 'https://archive.vn/f16kc' ]
- - [ 'Christian Headlines "Twitter Suspends Unplanned Movie Account, Refuses to Let Twitter Users Follow the Account" by Kayla Koslosky (1 Apr 2019)', 'https://archive.vn/dLrdZ' ]
- - [ 'Townhall "Twitter Suspends, Quickly Reinstates Pro-Life Movie ''Unplanned'' On Opening Weekend" by Beth Baumann (30 Mar 2019)', 'https://archive.vn/5oJdc' ]
+ - [ 'Twitter @LilaGraceRose 1112040588906393602', 'archive.vn/3X7Dd' ]
+ - [ 'Twitter @PatriciaHeaton 1112569581460062208', 'archive.vn/AwLNk' ]
+ - [ 'Breitbart "Twitter Suspends, Then Quickly Unsuspends Account of Pro-Life Movie ''Unplanned'' During Release Week" by Allum Bokhari (30 Mar 2019)', 'archive.vn/f16kc' ]
+ - [ 'Christian Headlines "Twitter Suspends Unplanned Movie Account, Refuses to Let Twitter Users Follow the Account" by Kayla Koslosky (1 Apr 2019)', 'archive.vn/dLrdZ' ]
+ - [ 'Townhall "Twitter Suspends, Quickly Reinstates Pro-Life Movie ''Unplanned'' On Opening Weekend" by Beth Baumann (30 Mar 2019)', 'archive.vn/5oJdc' ]
 ---
 
 Twitter suspended the official account of _Unplanned_, a movie about the true

@@ -6,10 +6,10 @@ profiles: [ alex-jones ]
 corpos: [ mailchimp, linkedin ]
 tags: [ banned ]
 sources:
- - [ 'Breitbart "LinkedIn and MailChimp Join Social Media Purge of Infowars" by Charlie Nash (7 Aug 2018)', 'https://archive.is/6f2bT' ]
- - [ 'BitChute "Infowars Purge Day 3: Mailchimp, Disqus, LinkedIn Ban Big, Scary Alex Jones" by Styxhexenhammer666 (8 Aug 2018)', 'https://www.bitchute.com/video/PcpjsNZZNXY/' ]
- - [ 'The Hill "MailChimp removes accounts for Alex Jones, Infowars" by Justin Wise (7 Aug 2018)', 'https://archive.is/hr0ZS' ]
- - [ 'twitter.com/PrisonPlanet/status/1026892663855960064', 'https://archive.is/msdcj' ]
+ - [ 'Breitbart "LinkedIn and MailChimp Join Social Media Purge of Infowars" by Charlie Nash (7 Aug 2018)', 'archive.is/6f2bT' ]
+ - [ 'BitChute "Infowars Purge Day 3: Mailchimp, Disqus, LinkedIn Ban Big, Scary Alex Jones" by Styxhexenhammer666 (8 Aug 2018)', 'www.bitchute.com/video/PcpjsNZZNXY/' ]
+ - [ 'The Hill "MailChimp removes accounts for Alex Jones, Infowars" by Justin Wise (7 Aug 2018)', 'archive.is/hr0ZS' ]
+ - [ 'twitter.com/PrisonPlanet/status/1026892663855960064', 'archive.is/msdcj' ]
 ---
 
 Mailchimp and LinkedIn banned _Infowars_ the day after [they were

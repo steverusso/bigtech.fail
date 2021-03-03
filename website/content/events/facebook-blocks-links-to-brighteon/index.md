@@ -5,8 +5,8 @@ image: /img/logos/brighteon.png
 corpos: [ facebook ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'Natural News "After "Plandemic" video goes super viral on Brighteon.com, Facebook bans all Brighteon links, regardless of content" by Mike Adams (20 May 2020)', 'https://archive.vn/85iUm' ]
- - [ 'Reclaim The Net "Facebook bans users from linking to YouTube alternative Brighteon after it hosted Judy Mikovits Plandemic doc" by Fabrizio Bulleri (22 May 2020)', 'https://archive.vn/hSatA' ]
+ - [ 'Natural News "After "Plandemic" video goes super viral on Brighteon.com, Facebook bans all Brighteon links, regardless of content" by Mike Adams (20 May 2020)', 'archive.vn/85iUm' ]
+ - [ 'Reclaim The Net "Facebook bans users from linking to YouTube alternative Brighteon after it hosted Judy Mikovits Plandemic doc" by Fabrizio Bulleri (22 May 2020)', 'archive.vn/hSatA' ]
 ---
 
 Facebook started blocking the ability for users to share links to [Brighteon.com (a video hosting site)](/alttech/brighteon/) and NaturalNews.

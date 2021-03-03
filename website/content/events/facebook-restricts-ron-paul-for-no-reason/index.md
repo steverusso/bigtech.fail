@@ -5,14 +5,14 @@ image: /img/people/dr-ron-paul.jpg
 corpos: [ facebook ]
 tags: [ restricted, oops ]
 sources:
- - [ 'twitter.com/RonPaul/status/1348694943905308672', 'https://archive.is/G1xF5' ]
- - [ 'twitter.com/RonPaul/status/1348695284042366977', 'https://archive.is/fx5nv' ]
- - [ 'twitter.com/RandPaul/status/1348704640486014982', 'https://archive.is/9MQ7w' ]
- - [ 'twitter.com/LPNational/status/1348755097363349505', 'https://archive.is/4zx33' ]
- - [ 'Foundation for Economic Education "Facebook Locks Out Ron Paul Following Column Criticizing Big Tech Censorship, Cites ''Error''" by Jon Miltimore (11 Jan 2021)', 'https://archive.is/okHik' ]
- - [ 'Jonathan Turley "Ron Paul Posts Criticism of Censorship on Social Media Shortly Before Facebook Blocks Him" by Jonathan Turley (12 Jan 2021)', 'https://archive.is/2HtAO' ]
+ - [ 'twitter.com/RonPaul/status/1348694943905308672', 'archive.is/G1xF5' ]
+ - [ 'twitter.com/RonPaul/status/1348695284042366977', 'archive.is/fx5nv' ]
+ - [ 'twitter.com/RandPaul/status/1348704640486014982', 'archive.is/9MQ7w' ]
+ - [ 'twitter.com/LPNational/status/1348755097363349505', 'archive.is/4zx33' ]
+ - [ 'Foundation for Economic Education "Facebook Locks Out Ron Paul Following Column Criticizing Big Tech Censorship, Cites ''Error''" by Jon Miltimore (11 Jan 2021)', 'archive.is/okHik' ]
+ - [ 'Jonathan Turley "Ron Paul Posts Criticism of Censorship on Social Media Shortly Before Facebook Blocks Him" by Jonathan Turley (12 Jan 2021)', 'archive.is/2HtAO' ]
 extra:
- - [ 'twitter.com/RonPaul/status/1349465640642482176', 'https://archive.is/Olm9s' ]
+ - [ 'twitter.com/RonPaul/status/1349465640642482176', 'archive.is/Olm9s' ]
 ---
 
 [Facebook](/facebook/) restricted Ron Paul from creating new pages and managing

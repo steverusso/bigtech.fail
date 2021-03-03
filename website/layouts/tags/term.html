@@ -16,9 +16,8 @@
 					<details data-srcs><summary></summary>
 						<ol>
 							{{ range . }}
-								{{ $href := index . 1 }}
-								{{ $text := index . 0 | default $href }}
-								<li><a href="{{ $href }}" target="_blank">{{ $text }}</a></li>
+								{{ $url := index . 1 }}
+								<li><a href="https://{{ $url }}" target="_blank">{{ index . 0 | default $url }}</a></li>
 							{{ end }}
 						</ol>
 					</details>

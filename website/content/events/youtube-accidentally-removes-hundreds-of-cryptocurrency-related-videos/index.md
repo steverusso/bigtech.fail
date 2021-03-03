@@ -5,17 +5,17 @@ image: /img/logos/youtube.png
 corpos: [ youtube ]
 tags: [ content-removed ]
 sources:
- - [ 'Reclaim The Net "YouTube deals a massive blow to cryptocurrency community, calls it "harmful or dangerous", mass deletes videos" by Didi Rankovic (24 Dec 2019)', 'https://reclaimthenet.org/youtube-cryptocurrency-censorship/' ]
- - [ 'CoinTelegraph "Crypto YouTubers Allege Platform Is Censoring Their Content" by Marie Huillet (24 Dec 2019)', 'https://cointelegraph.com/news/crypto-youtubers-allege-platform-is-censoring-their-content' ]
- - [ 'CoinTelegraph "YouTube Crypto-Related Content Not Fully Restored, YouTubers Say "Nothing Has Changed"" by Rachel Wolfson (25 Dec 2019)', 'https://cointelegraph.com/news/youtube-crypto-related-content-not-fully-restored-youtubers-say-nothing-has-changed' ]
- - [ 'CoinDesk "YouTube Calls Crypto Purge a Mistake But Many Videos Still Missing" by Danny Nelson (26 Dec 2019)', 'https://www.coindesk.com/youtube-calls-crypto-purge-a-mistake-but-many-videos-still-missing' ]
- - [ 'Tim Pool - BitChute Video - "Youtube Has Begun PURGING Channels AGAIN, Crypto Channels Getting Wiped Out" (26 Dec 2019)', 'https://www.bitchute.com/video/Kr5r3SNYsmU/' ]
- - [ '@crypt0snews - Tweet 1209949215549345792', 'https://twitter.com/crypt0snews/status/1209949215549345792' ]
- - [ '@ChrisDunnTV - Tweet 1209213028731883525', 'https://twitter.com/ChrisDunnTV/status/1209213028731883525' ]
- - [ '@ChrisDunnTV - Tweet 1210267871038849028', 'https://twitter.com/ChrisDunnTV/status/1210267871038849028' ]
- - [ '@ChrisDunnTV - Tweet 1210601258509328384', 'https://twitter.com/ChrisDunnTV/status/1210601258509328384' ]
- - [ '@TeamYouTube - Tweet 1210425917648130050', 'https://twitter.com/TeamYouTube/status/1210425917648130050' ]
- - [ '@KimDotcom - Tweet 1210326917418586112', 'https://twitter.com/KimDotcom/status/1210326917418586112' ]
+ - [ 'Reclaim The Net "YouTube deals a massive blow to cryptocurrency community, calls it "harmful or dangerous", mass deletes videos" by Didi Rankovic (24 Dec 2019)', 'reclaimthenet.org/youtube-cryptocurrency-censorship/' ]
+ - [ 'CoinTelegraph "Crypto YouTubers Allege Platform Is Censoring Their Content" by Marie Huillet (24 Dec 2019)', 'cointelegraph.com/news/crypto-youtubers-allege-platform-is-censoring-their-content' ]
+ - [ 'CoinTelegraph "YouTube Crypto-Related Content Not Fully Restored, YouTubers Say "Nothing Has Changed"" by Rachel Wolfson (25 Dec 2019)', 'cointelegraph.com/news/youtube-crypto-related-content-not-fully-restored-youtubers-say-nothing-has-changed' ]
+ - [ 'CoinDesk "YouTube Calls Crypto Purge a Mistake But Many Videos Still Missing" by Danny Nelson (26 Dec 2019)', 'www.coindesk.com/youtube-calls-crypto-purge-a-mistake-but-many-videos-still-missing' ]
+ - [ 'Tim Pool - BitChute Video - "Youtube Has Begun PURGING Channels AGAIN, Crypto Channels Getting Wiped Out" (26 Dec 2019)', 'www.bitchute.com/video/Kr5r3SNYsmU/' ]
+ - [ '@crypt0snews - Tweet 1209949215549345792', 'twitter.com/crypt0snews/status/1209949215549345792' ]
+ - [ '@ChrisDunnTV - Tweet 1209213028731883525', 'twitter.com/ChrisDunnTV/status/1209213028731883525' ]
+ - [ '@ChrisDunnTV - Tweet 1210267871038849028', 'twitter.com/ChrisDunnTV/status/1210267871038849028' ]
+ - [ '@ChrisDunnTV - Tweet 1210601258509328384', 'twitter.com/ChrisDunnTV/status/1210601258509328384' ]
+ - [ '@TeamYouTube - Tweet 1210425917648130050', 'twitter.com/TeamYouTube/status/1210425917648130050' ]
+ - [ '@KimDotcom - Tweet 1210326917418586112', 'twitter.com/KimDotcom/status/1210326917418586112' ]
 ---
 
 YouTube removed hundreds of cryptocurrency related videos from dozens of channels without any warning whatsoever.

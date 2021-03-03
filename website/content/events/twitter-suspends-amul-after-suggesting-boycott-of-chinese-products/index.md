@@ -5,10 +5,10 @@ image: /img/logos/amul.jpg
 corpos: [ twitter ]
 tags: [ suspended, china ]
 sources:
- - [ 'Reclaim The Net "Indian dairy company locked out of Twitter after posting image about avoiding Chinese products" by Cindy Harper (6 Jun 2020)', 'https://archive.vn/sCpoV' ]
- - [ 'DNA India "Twitter deactivates Amul''s official account over ''Exit the dragon'' post, restores later" (6 Jun 2020)', 'https://archive.vn/nZ4kV' ]
- - [ 'Wion News "Amul account deactivated after ''boycott China'' post; Twitter says due to security concerns" (6 Jun 2020)', 'https://archive.vn/zpOwm' ]
- - [ 'The Free Press Journal "''Why did you block us?'': Amul asks Twitter over account ban; Netizens join the row" (6 Jun 2020)', 'https://archive.vn/OW1me' ]
+ - [ 'Reclaim The Net "Indian dairy company locked out of Twitter after posting image about avoiding Chinese products" by Cindy Harper (6 Jun 2020)', 'archive.vn/sCpoV' ]
+ - [ 'DNA India "Twitter deactivates Amul''s official account over ''Exit the dragon'' post, restores later" (6 Jun 2020)', 'archive.vn/nZ4kV' ]
+ - [ 'Wion News "Amul account deactivated after ''boycott China'' post; Twitter says due to security concerns" (6 Jun 2020)', 'archive.vn/zpOwm' ]
+ - [ 'The Free Press Journal "''Why did you block us?'': Amul asks Twitter over account ban; Netizens join the row" (6 Jun 2020)', 'archive.vn/OW1me' ]
 ---
 
 Twitter suspended the account of Amul, an Indian dairy company, the day after

@@ -5,13 +5,13 @@ image: /img/books/when-harry-became-sally.png
 corpos: [ amazon ]
 tags: [ content-removed, trans ]
 sources:
- - [ 'twitter.com/RyanTAnd/status/1363587820565184521', 'https://archive.is/aYfRq' ]
- - [ 'twitter.com/RyanTAnd/status/1363589307013955590', 'https://archive.is/IUWsi' ]
- - [ 'Archive of book listing (amazon.com/When-Harry-Became-Sally-Transgender/dp/1974919269)', 'https://archive.is/BtWw6' ]
- - [ 'Archive of book listing removed', 'https://archive.is/J7XG0' ]
- - [ 'Daily Caller "Amazon Exposes True Colors By Silencing ‘Dissent From A New Orthodoxy,’ Author Says" by Mary Margaret Olohan (22 Feb 2021)', 'https://archive.is/dVV88' ]
- - [ 'twitter.com/MarkDice/status/1363702132960976898', 'https://archive.is/kEV11' ]
- - [ 'twitter.com/MarkDice/status/1363987576659451905', 'https://archive.is/ZcfFr' ]
+ - [ 'twitter.com/RyanTAnd/status/1363587820565184521', 'archive.is/aYfRq' ]
+ - [ 'twitter.com/RyanTAnd/status/1363589307013955590', 'archive.is/IUWsi' ]
+ - [ 'Archive of book listing (amazon.com/When-Harry-Became-Sally-Transgender/dp/1974919269)', 'archive.is/BtWw6' ]
+ - [ 'Archive of book listing removed', 'archive.is/J7XG0' ]
+ - [ 'Daily Caller "Amazon Exposes True Colors By Silencing ‘Dissent From A New Orthodoxy,’ Author Says" by Mary Margaret Olohan (22 Feb 2021)', 'archive.is/dVV88' ]
+ - [ 'twitter.com/MarkDice/status/1363702132960976898', 'archive.is/kEV11' ]
+ - [ 'twitter.com/MarkDice/status/1363987576659451905', 'archive.is/ZcfFr' ]
 ---
 
 [Amazon](/amazon/) removed a book called _When Harry Became Sally_ by Ryan T.

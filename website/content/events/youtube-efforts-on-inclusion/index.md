@@ -5,7 +5,7 @@ image: /img/logos/youtube.png
 corpos: [ youtube ]
 tags: [ policy, wtf ]
 sources:
- - [ 'YouTube Official Blog "Updates on our efforts to make YouTube a more inclusive platform" by Johanna Wright (3 Dec 2020)', 'https://archive.is/adrP5' ]
+ - [ 'YouTube Official Blog "Updates on our efforts to make YouTube a more inclusive platform" by Johanna Wright (3 Dec 2020)', 'archive.is/adrP5' ]
 ---
 
 [YouTube](/youtube/) published a blog post talking about all the creepy steps

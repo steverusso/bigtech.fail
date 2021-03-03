@@ -6,11 +6,11 @@ profiles: [ praying-medic ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'altCensored - prayingmedic', 'https://archive.is/ROxQB' ]
- - [ 'Social Blade (prayingmedic) socialblade.com/youtube/channel/UCSio3E7kYvPeHKhfuYZWriA', 'https://archive.is/aOef0' ]
- - [ 'twitter.com/prayingmedic/status/1316816928799768577', 'https://archive.is/86Aap' ]
- - [ 'twitter.com/prayingmedic/status/1316818435314130946', 'https://archive.is/jPVlH' ]
- - [ 'twitter.com/prayingmedic/status/1316844935090323456', 'https://archive.is/iNgk0' ]
+ - [ 'altCensored - prayingmedic', 'archive.is/ROxQB' ]
+ - [ 'Social Blade (prayingmedic) socialblade.com/youtube/channel/UCSio3E7kYvPeHKhfuYZWriA', 'archive.is/aOef0' ]
+ - [ 'twitter.com/prayingmedic/status/1316816928799768577', 'archive.is/86Aap' ]
+ - [ 'twitter.com/prayingmedic/status/1316818435314130946', 'archive.is/jPVlH' ]
+ - [ 'twitter.com/prayingmedic/status/1316844935090323456', 'archive.is/iNgk0' ]
 youtube:
  subs: 391652
  views: 4254005

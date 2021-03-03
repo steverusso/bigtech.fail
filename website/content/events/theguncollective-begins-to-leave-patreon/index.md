@@ -6,8 +6,8 @@ summary: Patreon explicity says their ToS apply to your brand, both on AND OFF P
 corpos: [ patreon ]
 tags: [ walked-away, firearms ]
 sources:
- - [ 'TheGunCollective - YouTube Video (8/2/2019)', 'https://www.youtube.com/watch?v=Zw9seqXYfRY' ]
- - [ 'TheGunCollective - YouTube Video (8/21/2019)', 'https://www.youtube.com/watch?v=HuT5bz6cq4w' ]
+ - [ 'TheGunCollective - YouTube Video (8/2/2019)', 'www.youtube.com/watch?v=Zw9seqXYfRY' ]
+ - [ 'TheGunCollective - YouTube Video (8/21/2019)', 'www.youtube.com/watch?v=HuT5bz6cq4w' ]
  - [ 'Screenshot of the Message', '/img/events/tgc-patreon-notice.png' ]
 ---
 

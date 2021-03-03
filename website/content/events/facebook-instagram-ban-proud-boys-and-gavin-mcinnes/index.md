@@ -6,8 +6,8 @@ profiles: [ gavin-mcinnes ]
 corpos: [ facebook, instagram ]
 tags: [ banned ]
 sources:
- - [ 'Breitbart "Facebook Blacklists Conservative Commentator Gavin McInnes and Proud Boys Organization" by Lucas Nolan (30 Oct 2018)', 'http://archive.is/jtiub' ]
- - [ 'TheWrap "Facebook Bans Right-Wing Group the Proud Boys and Founder Gavin McInnes" by Sean Burch (31 Oct 2018)', 'http://archive.is/VVh6d' ]
+ - [ 'Breitbart "Facebook Blacklists Conservative Commentator Gavin McInnes and Proud Boys Organization" by Lucas Nolan (30 Oct 2018)', 'archive.is/jtiub' ]
+ - [ 'TheWrap "Facebook Bans Right-Wing Group the Proud Boys and Founder Gavin McInnes" by Sean Burch (31 Oct 2018)', 'archive.is/VVh6d' ]
 ---
 
 A Facebook spokesperson

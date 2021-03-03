@@ -5,12 +5,12 @@ image: /img/misc/hammer-of-glass.jpg
 corpos: [ twitter ]
 tags: [ suspended, trans ]
 sources:
- - [ 'twitter.com/HotHandLuke1/status/1282056763680993286', 'https://archive.is/7bC8K' ]
- - [ 'twitter.com/Hammer_Of_Glass/status/1282011086305271808', 'https://archive.is/Ai0sP' ]
- - [ 'twitter.com/Hammer_Of_Glass/status/1276198714072338432', 'https://archive.is/9ATlQ' ]
- - [ 'twitter.com/PankhurstEM/status/1282225319169200129', 'https://archive.is/g9gUB' ]
- - [ 'glinner.co.uk/a-week-in-the-war-on-women-monday-6th-july-sunday-12th-july/', 'https://archive.is/4iFyC#selection-1177.0-1189.2' ]
- - [ 'twitter.com/Hammer_Of_Glass (archived)', 'https://archive.is/7y3yI' ]
+ - [ 'twitter.com/HotHandLuke1/status/1282056763680993286', 'archive.is/7bC8K' ]
+ - [ 'twitter.com/Hammer_Of_Glass/status/1282011086305271808', 'archive.is/Ai0sP' ]
+ - [ 'twitter.com/Hammer_Of_Glass/status/1276198714072338432', 'archive.is/9ATlQ' ]
+ - [ 'twitter.com/PankhurstEM/status/1282225319169200129', 'archive.is/g9gUB' ]
+ - [ 'glinner.co.uk/a-week-in-the-war-on-women-monday-6th-july-sunday-12th-july/', 'archive.is/4iFyC#selection-1177.0-1189.2' ]
+ - [ 'twitter.com/Hammer_Of_Glass (archived)', 'archive.is/7y3yI' ]
 ---
 
 Twitter temporarily suspended a user by the name of _@Hammer_Of_Glass_ for

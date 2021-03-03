@@ -6,10 +6,10 @@ profiles: [ ford-fischer ]
 corpos: [ facebook ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/FordFischer/status/1302391363456176128', 'https://archive.is/SFBr3' ]
- - [ 'twitter.com/FordFischer/status/1302731723021709314', 'https://archive.is/z0nf1/image' ]
- - [ 'threadreaderapp.com/thread/1302391363456176128.html', 'https://archive.is/Y72Lb' ]
- - [ 'Reclaim The Net "Facebook is silent on why it disabled journalist Ford Fischer’s account after Louisville protest coverage" by Tom Parker (6 Sep 2020)', 'https://reclaimthenet.org/ford-fischer-facebook-deleted-louisville-protests/' ]
+ - [ 'twitter.com/FordFischer/status/1302391363456176128', 'archive.is/SFBr3' ]
+ - [ 'twitter.com/FordFischer/status/1302731723021709314', 'archive.is/z0nf1/image' ]
+ - [ 'threadreaderapp.com/thread/1302391363456176128.html', 'archive.is/Y72Lb' ]
+ - [ 'Reclaim The Net "Facebook is silent on why it disabled journalist Ford Fischer’s account after Louisville protest coverage" by Tom Parker (6 Sep 2020)', 'reclaimthenet.org/ford-fischer-facebook-deleted-louisville-protests/' ]
 ---
 
 Facebook banned journalist Ford Fischer for no reason and without giving an

@@ -6,9 +6,9 @@ profiles: [ owen-benjamin ]
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'altCensored "My Channel Has Been Demonetized" by Owen Benjamin (15 Mar 2019)', 'https://altcensored.com/watch?v=hjsWHwcaj5g' ]
- - [ '(archive / screenshot) YouTube "My Channel Has Been Demonetized" by Owen Benjamin (15 Mar 2019)', 'http://archive.is/eL7qh' ]
- - [ 'YouTube "Owen Benjamin Demonetized" by Revenge Of The Cis (19 Mar 2019)', 'https://www.youtube.com/watch?v=YeVUFMehNPI' ]
+ - [ 'altCensored "My Channel Has Been Demonetized" by Owen Benjamin (15 Mar 2019)', 'altcensored.com/watch?v=hjsWHwcaj5g' ]
+ - [ '(archive / screenshot) YouTube "My Channel Has Been Demonetized" by Owen Benjamin (15 Mar 2019)', 'archive.is/eL7qh' ]
+ - [ 'YouTube "Owen Benjamin Demonetized" by Revenge Of The Cis (19 Mar 2019)', 'www.youtube.com/watch?v=YeVUFMehNPI' ]
 ---
 
 YouTube completely demonetized Owen Benjamin. In the video he released about

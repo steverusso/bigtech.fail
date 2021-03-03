@@ -5,14 +5,14 @@ image: /img/logos/bitslide.jpg
 corpos: [ google ]
 tags: [ banned, app ]
 sources:
- - [ 'twitter.com/bitslide_app/status/1339500207936073728', 'https://archive.is/JNl7u' ]
- - [ 'twitter.com/bitslide_app/status/1339501363768778759', 'https://archive.is/XEGkR' ]
- - [ 'twitter.com/bitslide_app/status/1339511831786909697', 'https://archive.is/2MDvo' ]
- - [ 'twitter.com/bitslide_app/status/1339577027704352774', 'https://archive.is/bv0ye' ]
- - [ 'twitter.com/bitslide_app/status/1305939205571387394', 'https://archive.is/j91H8' ]
- - [ 'twitter.com/Styx666Official/status/1339525760512643072', 'https://archive.is/C9i52' ]
- - [ 'twitter.com/bitchute/status/1339557773646807042', 'https://archive.is/Q0Djp' ]
- - [ 'twitter.com/bitchute/status/1339646574977142784', 'https://archive.is/gDXIL' ]
+ - [ 'twitter.com/bitslide_app/status/1339500207936073728', 'archive.is/JNl7u' ]
+ - [ 'twitter.com/bitslide_app/status/1339501363768778759', 'archive.is/XEGkR' ]
+ - [ 'twitter.com/bitslide_app/status/1339511831786909697', 'archive.is/2MDvo' ]
+ - [ 'twitter.com/bitslide_app/status/1339577027704352774', 'archive.is/bv0ye' ]
+ - [ 'twitter.com/bitslide_app/status/1305939205571387394', 'archive.is/j91H8' ]
+ - [ 'twitter.com/Styx666Official/status/1339525760512643072', 'archive.is/C9i52' ]
+ - [ 'twitter.com/bitchute/status/1339557773646807042', 'archive.is/Q0Djp' ]
+ - [ 'twitter.com/bitchute/status/1339646574977142784', 'archive.is/gDXIL' ]
 ---
 
 BitSlide, an unofficial Android app for the video hosting platform

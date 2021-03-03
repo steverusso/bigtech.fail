@@ -6,9 +6,9 @@ summary: But this time, it's even worse...
 corpos: [ google ]
 tags: [ banned, app ]
 sources:
- - [ 'Breitbart "Google Blacklists Free Speech Platform Gab’s Latest App" by Lucas Nolan', 'https://www.breitbart.com/tech/2019/07/20/google-blacklists-free-speech-platform-gabs-latest-app/' ]
+ - [ 'Breitbart "Google Blacklists Free Speech Platform Gab’s Latest App" by Lucas Nolan', 'www.breitbart.com/tech/2019/07/20/google-blacklists-free-speech-platform-gabs-latest-app/' ]
  - [ 'Gab''s Ban Notice From Google', 'ban-notice.jpg' ]
- - [ 'Archive.is - https://twitter.com/getongab/status/1152391601810919424', 'https://archive.is/bxOln' ]
+ - [ 'Archive.is - https://twitter.com/getongab/status/1152391601810919424', 'archive.is/bxOln' ]
 ---
 
 Google removed the Gab Android app from the Play Store one week after they [demanded that Gab censor content](/e/google-gives-gab-a-week-to-censor-uncensorable-content/) that Gab couldn't even censor if they wanted to.

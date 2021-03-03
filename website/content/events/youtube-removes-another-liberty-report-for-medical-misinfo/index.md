@@ -5,7 +5,7 @@ image: /img/people/dr-ron-paul.jpg
 corpos: [ youtube ]
 tags: [ content-removed, covid, gov ]
 sources:
- - [ 'twitter.com/RonPaul/status/1341385036961116160', 'https://archive.is/nR1BI' ]
+ - [ 'twitter.com/RonPaul/status/1341385036961116160', 'archive.is/nR1BI' ]
 ---
 
 [YouTube](/youtube/) removed yet another episode of the _Ron Paul Liberty

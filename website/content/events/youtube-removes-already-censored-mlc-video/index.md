@@ -6,10 +6,10 @@ profiles: [ matt-christiansen ]
 corpos: [ youtube ]
 tags: [ content-removed, wtf, covid ]
 sources:
- - [ 'twitter.com/MLChristiansen/status/1288499049541206016', 'http://archive.is/ywfl2' ]
- - [ 'twitter.com/MLChristiansen/status/1288974863965622273', 'http://archive.is/UMK67' ]
- - [ 'twitter.com/MLChristiansen/status/1289194927105089537', 'http://archive.is/FSLS3' ]
- - [ 'BitChute "Wrongthink Doctors Get Censored Again | No Second Opinions (Uncensored)" by Matt Christiansen (29 Jul 2020)', 'https://www.bitchute.com/video/c16AjNmVKj9N/' ]
+ - [ 'twitter.com/MLChristiansen/status/1288499049541206016', 'archive.is/ywfl2' ]
+ - [ 'twitter.com/MLChristiansen/status/1288974863965622273', 'archive.is/UMK67' ]
+ - [ 'twitter.com/MLChristiansen/status/1289194927105089537', 'archive.is/FSLS3' ]
+ - [ 'BitChute "Wrongthink Doctors Get Censored Again | No Second Opinions (Uncensored)" by Matt Christiansen (29 Jul 2020)', 'www.bitchute.com/video/c16AjNmVKj9N/' ]
 ---
 
 Matt Christiansen released a video covering the

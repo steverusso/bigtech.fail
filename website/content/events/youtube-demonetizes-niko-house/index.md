@@ -5,12 +5,12 @@ image: /img/misc/niko-house.jpg
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'twitter.com/nikoCSFB/status/1357386129092333572', 'https://archive.is/PoqZf' ]
- - [ 'twitter.com/nikoCSFB/status/1357537871897505792', 'https://archive.is/f4qpi' ]
- - [ 'twitter.com/nikoCSFB/status/1357501767500587010', 'https://archive.is/3fLcC' ]
+ - [ 'twitter.com/nikoCSFB/status/1357386129092333572', 'archive.is/PoqZf' ]
+ - [ 'twitter.com/nikoCSFB/status/1357537871897505792', 'archive.is/f4qpi' ]
+ - [ 'twitter.com/nikoCSFB/status/1357501767500587010', 'archive.is/3fLcC' ]
 extra:
- - [ 'twitter.com/nikoCSFB/status/1357503472761995272', 'https://archive.is/sS5BY' ]
- - [ 'twitter.com/nikoCSFB/status/1357544988872224770', 'https://archive.is/E4xcQ' ]
+ - [ 'twitter.com/nikoCSFB/status/1357503472761995272', 'archive.is/sS5BY' ]
+ - [ 'twitter.com/nikoCSFB/status/1357544988872224770', 'archive.is/E4xcQ' ]
 ---
 
 [YouTube](/youtube/) demonetized Niko House, a progressive political

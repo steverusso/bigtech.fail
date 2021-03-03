@@ -5,9 +5,9 @@ image: /img/logos/facebook.png
 corpos: [ facebook ]
 tags: [ gov ]
 sources:
- - [ 'Reuters "Exclusive: Facebook agreed to censor posts after Vietnam slowed traffic - sources" by James Pearson (21 Apr 2020)', 'https://archive.vn/fwUxl' ]
- - [ 'Gizmodo "Facebook Agreed to Censor More ''Anti-State'' Posts in Vietnam After State Telcos Tanked Its Traffic" by Tom McKay (22 Apr 2020)', 'https://archive.vn/sRXhl' ]
- - [ 'Human Rights Watch "Vietnam: Facebook, Pressured, Censors Dissent" (23 Apr 2020)', 'https://archive.vn/Ur7Us' ]
+ - [ 'Reuters "Exclusive: Facebook agreed to censor posts after Vietnam slowed traffic - sources" by James Pearson (21 Apr 2020)', 'archive.vn/fwUxl' ]
+ - [ 'Gizmodo "Facebook Agreed to Censor More ''Anti-State'' Posts in Vietnam After State Telcos Tanked Its Traffic" by Tom McKay (22 Apr 2020)', 'archive.vn/sRXhl' ]
+ - [ 'Human Rights Watch "Vietnam: Facebook, Pressured, Censors Dissent" (23 Apr 2020)', 'archive.vn/Ur7Us' ]
 ---
 
 Two Facebook sources told Reuters that the company agreed to start censoring anti-state content in Vietnam after facing pressure from the government.

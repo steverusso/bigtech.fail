@@ -5,10 +5,10 @@ image: /img/logos/unity4j.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:
- - [ 'Twitter @ElizabethleaVos 1149371121747103744', 'https://archive.vn/cVHXp' ]
- - [ 'Twitter @ElizabethleaVos 1149693296702181376', 'https://archive.vn/w8iEe' ]
- - [ 'Medium.com "Top Assange Defense Account Deleted By Twitter" by Caitlin Johnstone (12 Jul 2019)', 'https://archive.vn/2vZUx' ]
- - [ 'Twitter @Unity4J 1151975818136080384', 'https://archive.vn/79BLV' ]
+ - [ 'Twitter @ElizabethleaVos 1149371121747103744', 'archive.vn/cVHXp' ]
+ - [ 'Twitter @ElizabethleaVos 1149693296702181376', 'archive.vn/w8iEe' ]
+ - [ 'Medium.com "Top Assange Defense Account Deleted By Twitter" by Caitlin Johnstone (12 Jul 2019)', 'archive.vn/2vZUx' ]
+ - [ 'Twitter @Unity4J 1151975818136080384', 'archive.vn/79BLV' ]
 ---
 
 Twitter suspended [@Unity4J](https://twitter.com/Unity4J), one of the primary

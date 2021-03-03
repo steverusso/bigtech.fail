@@ -6,13 +6,13 @@ profiles: [ blonde ]
 corpos: [ twitter ]
 tags: [ suspended ]
 sources:
- - [ 'Beauty and the Beta Sunday Stream #78 @ 14m13s', 'https://youtu.be/ErYLKC-jSHg?t=853' ]
- - [ '@TheLaurenChen - Tweet 930213131137310720', 'https://archive.vn/kpwGc' ]
- - [ 'Blonde - BitChute Video "Twitter | Censorship, Suspensions & the Future"', 'https://www.bitchute.com/video/JC0oI3dxfglk/' ]
- - [ 'JihadWatch.org "UK: Police vow "You can’t hide from us if your spewing abuse from behind a computer screen" by Robert Spencer', 'https://www.jihadwatch.org/2017/07/uk-police-vow-you-cant-hide-from-us-if-your-spewing-abuse-from-behind-a-computer-screen' ]
- - [ '@wiltshirepolice - Tweet 889581106474962944', 'https://twitter.com/wiltshirepolice/status/889581106474962944' ]
- - [ '@wiltshirepolice - Tweet 889583568674050048', 'https://twitter.com/wiltshirepolice/status/889583568674050048' ]
- - [ '@wiltshirepolice - Tweet 889585359297945602', 'https://twitter.com/wiltshirepolice/status/889585359297945602' ]
+ - [ 'Beauty and the Beta Sunday Stream #78 @ 14m13s', 'youtu.be/ErYLKC-jSHg?t=853' ]
+ - [ '@TheLaurenChen - Tweet 930213131137310720', 'archive.vn/kpwGc' ]
+ - [ 'Blonde - BitChute Video "Twitter | Censorship, Suspensions & the Future"', 'www.bitchute.com/video/JC0oI3dxfglk/' ]
+ - [ 'JihadWatch.org "UK: Police vow "You can’t hide from us if your spewing abuse from behind a computer screen" by Robert Spencer', 'www.jihadwatch.org/2017/07/uk-police-vow-you-cant-hide-from-us-if-your-spewing-abuse-from-behind-a-computer-screen' ]
+ - [ '@wiltshirepolice - Tweet 889581106474962944', 'twitter.com/wiltshirepolice/status/889581106474962944' ]
+ - [ '@wiltshirepolice - Tweet 889583568674050048', 'twitter.com/wiltshirepolice/status/889583568674050048' ]
+ - [ '@wiltshirepolice - Tweet 889585359297945602', 'twitter.com/wiltshirepolice/status/889585359297945602' ]
 ---
 
 Twitter suspended Blonde for the second time in two weeks for saying something to the effect of 'Muslims perpetuate a rape culture.'

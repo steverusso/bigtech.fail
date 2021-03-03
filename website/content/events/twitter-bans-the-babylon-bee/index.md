@@ -5,13 +5,13 @@ image: /img/logos/the-babylon-bee.jpg
 corpos: [ twitter ]
 tags: [ banned, oops ]
 sources:
- - [ 'Disrn "Twitter suspends The Babylon Bee, then reinstates with 0 followers" by Adam Ford (17 Aug 2020)', 'https://disrn.com/news/twitter-suspends-the-babylon-bee' ]
- - [ 'twitter.com/TheBabylonBee/status/1295503102510903297', 'http://archive.is/FbRLy' ]
- - [ 'twitter.com/The_Kyle_Mann/status/1295482632025698304', 'http://archive.is/Zt6pw' ]
- - [ 'twitter.com/SethDillon/status/1295486091873615874', 'http://archive.is/jkOnt' ]
- - [ 'twitter.com/CountDankulaTV/status/1295499130891120641', 'http://archive.is/u1YFj' ]
- - [ 'ZeroHedge "Twitter ''Accidentally'' Suspends Babylon Bee" by Tyler Durden (17 Aug 2020)', 'http://archive.is/jWXBT' ]
- - [ 'BitChute "The Babylon Bee Was SUSPENDED From Twitter, Right-Leaning Satire Is Under Threat From Social Media" by @Timcast (18 Aug 2020)', 'https://www.bitchute.com/video/AYaIbDLga6Y/' ]
+ - [ 'Disrn "Twitter suspends The Babylon Bee, then reinstates with 0 followers" by Adam Ford (17 Aug 2020)', 'disrn.com/news/twitter-suspends-the-babylon-bee' ]
+ - [ 'twitter.com/TheBabylonBee/status/1295503102510903297', 'archive.is/FbRLy' ]
+ - [ 'twitter.com/The_Kyle_Mann/status/1295482632025698304', 'archive.is/Zt6pw' ]
+ - [ 'twitter.com/SethDillon/status/1295486091873615874', 'archive.is/jkOnt' ]
+ - [ 'twitter.com/CountDankulaTV/status/1295499130891120641', 'archive.is/u1YFj' ]
+ - [ 'ZeroHedge "Twitter ''Accidentally'' Suspends Babylon Bee" by Tyler Durden (17 Aug 2020)', 'archive.is/jWXBT' ]
+ - [ 'BitChute "The Babylon Bee Was SUSPENDED From Twitter, Right-Leaning Satire Is Under Threat From Social Media" by @Timcast (18 Aug 2020)', 'www.bitchute.com/video/AYaIbDLga6Y/' ]
 ---
 
 Twitter [permanently banned](notice.jpg) The Babylon Bee, a satirical news

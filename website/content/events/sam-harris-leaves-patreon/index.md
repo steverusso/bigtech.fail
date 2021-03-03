@@ -5,7 +5,7 @@ image: /img/people/sam-harris.jpg
 corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
- - [ '@SamHarrisOrg - Tweet 1074504882210562048', 'https://web.archive.org/web/20181217053016/https:/twitter.com/SamHarrisOrg/status/1074504882210562048' ]
+ - [ '@SamHarrisOrg - Tweet 1074504882210562048', 'web.archive.org/web/20181217053016/https:/twitter.com/SamHarrisOrg/status/1074504882210562048' ]
 ---
 
 After Patreon banned several members for wrongthink, Sam Harris decided to protect himself and his funding by deleting his Patreon account.

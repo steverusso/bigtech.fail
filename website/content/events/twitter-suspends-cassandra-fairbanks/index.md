@@ -6,13 +6,13 @@ corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 profiles: [ cassandra-fairbanks ]
 sources:
- - [ 'twitter.com/JackPosobiec/status/1300108564636278786', 'https://archive.is/hUXRp' ]
- - [ 'twitter.com/ElijahSchaffer/status/1300207189475446784', 'https://archive.is/Hkv3Q' ]
- - [ 'twitter.com/Timcast/status/1300109128275316738', 'https://archive.is/zie6R' ]
- - [ 'twitter.com/CassandraRules/status/1300280653053865985', 'https://archive.is/Bny8f' ]
- - [ 'twitter.com/CassandraRules/status/1300557813450780675', 'https://archive.is/MxO7j' ]
- - [ 'BitChute "Conservative Journalist SUSPENDED For Defending The Kenosha Kid, Antifa Granted Impunity" by Tim Pool (30 Aug 2020)', 'https://www.bitchute.com/video/fb47tz1wsok/' ]
- - [ 'Breitbart "Journalist Cassandra Fairbanks Suspended from Twitter over Kyle Rittenhouse Support" by Lucas Nolan (30 Aug 2020)', 'https://archive.is/tRnFk' ]
+ - [ 'twitter.com/JackPosobiec/status/1300108564636278786', 'archive.is/hUXRp' ]
+ - [ 'twitter.com/ElijahSchaffer/status/1300207189475446784', 'archive.is/Hkv3Q' ]
+ - [ 'twitter.com/Timcast/status/1300109128275316738', 'archive.is/zie6R' ]
+ - [ 'twitter.com/CassandraRules/status/1300280653053865985', 'archive.is/Bny8f' ]
+ - [ 'twitter.com/CassandraRules/status/1300557813450780675', 'archive.is/MxO7j' ]
+ - [ 'BitChute "Conservative Journalist SUSPENDED For Defending The Kenosha Kid, Antifa Granted Impunity" by Tim Pool (30 Aug 2020)', 'www.bitchute.com/video/fb47tz1wsok/' ]
+ - [ 'Breitbart "Journalist Cassandra Fairbanks Suspended from Twitter over Kyle Rittenhouse Support" by Lucas Nolan (30 Aug 2020)', 'archive.is/tRnFk' ]
 ---
 
 Twitter [temporarily suspended](notice.jpg) Cassandra Fairbanks

@@ -5,7 +5,7 @@ image: /img/logos/instagram.png
 corpos: [ instagram ]
 tags: [ policy, wtf ]
 sources:
- - [ 'Instagram "An update on our work to tackle abuse on Instagram" (10 Feb 2021)', 'https://archive.is/l7jJ6' ]
+ - [ 'Instagram "An update on our work to tackle abuse on Instagram" (10 Feb 2021)', 'archive.is/l7jJ6' ]
 ---
 
 [Instagram](/instagram/) announced that they would be [disabling the

@@ -5,9 +5,9 @@ image: /img/people/bret-weinstein.jpg
 corpos: [ facebook ]
 tags: [ banned, oops ]
 sources:
- - [ 'twitter.com/BretWeinstein/status/1319355932388675584', 'https://archive.is/RWJz1' ]
- - [ 'twitter.com/TulsiGabbard/status/1319441947866509312', 'https://archive.is/BoDcy' ]
- - [ 'twitter.com/Liz_Shepherd/status/1319451084859953154', 'https://archive.is/N87QY' ]
+ - [ 'twitter.com/BretWeinstein/status/1319355932388675584', 'archive.is/RWJz1' ]
+ - [ 'twitter.com/TulsiGabbard/status/1319441947866509312', 'archive.is/BoDcy' ]
+ - [ 'twitter.com/Liz_Shepherd/status/1319451084859953154', 'archive.is/N87QY' ]
 ---
 
 Facebook banned Bret Weinstein suddenly and without reason. The

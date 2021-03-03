@@ -6,9 +6,9 @@ profiles: [ mark-dice ]
 corpos: [ facebook ]
 tags: [ content-removed, restricted, kyle-rittenhouse ]
 sources:
- - [ 'twitter.com/MarkDice/status/1300970053307740160', 'https://archive.is/AOOOT' ]
- - [ 'BitChute "⚠️ No Truth Allowed ⚠️" by Mark Dice (2 Sep 2020)', 'https://www.bitchute.com/video/Tj-WjV2dtmI/' ]
- - [ 'Breitbart "Facebook Declares Kyle Rittenhouse''s Actions ''Mass Murder,'' Won''t Allow Posts in Support" by Allum Bokhari (2 Sep 2020)', 'https://archive.is/jYQvR' ]
+ - [ 'twitter.com/MarkDice/status/1300970053307740160', 'archive.is/AOOOT' ]
+ - [ 'BitChute "⚠️ No Truth Allowed ⚠️" by Mark Dice (2 Sep 2020)', 'www.bitchute.com/video/Tj-WjV2dtmI/' ]
+ - [ 'Breitbart "Facebook Declares Kyle Rittenhouse''s Actions ''Mass Murder,'' Won''t Allow Posts in Support" by Allum Bokhari (2 Sep 2020)', 'archive.is/jYQvR' ]
 ---
 
 Media analyist Mark Dice posted a video on Facebook of [Kyle

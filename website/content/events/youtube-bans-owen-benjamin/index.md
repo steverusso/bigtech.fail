@@ -6,10 +6,10 @@ profiles: [ owen-benjamin ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/Cernovich/status/1202050252695429121', 'http://archive.vn/1iYwi' ]
- - [ 'Owen Benjamin - altCensored', 'https://altcensored.com/channel/UCyQsQSKayfcZoHaCjqxxSlg' ]
- - [ 'Owen Benjamin Live - altCensored', 'https://altcensored.com/channel/UCfOn5gum8PiwxSfa2DETW8Q' ]
- - [ 'BitChute "Owen Benjamin Banned from Youtube: But He''s on Bitchute!" by Styxhexenhammer666 (5 Dec 2019)', 'https://www.bitchute.com/video/6E94UpsYucI/' ]
+ - [ 'twitter.com/Cernovich/status/1202050252695429121', 'archive.vn/1iYwi' ]
+ - [ 'Owen Benjamin - altCensored', 'altcensored.com/channel/UCyQsQSKayfcZoHaCjqxxSlg' ]
+ - [ 'Owen Benjamin Live - altCensored', 'altcensored.com/channel/UCfOn5gum8PiwxSfa2DETW8Q' ]
+ - [ 'BitChute "Owen Benjamin Banned from Youtube: But He''s on Bitchute!" by Styxhexenhammer666 (5 Dec 2019)', 'www.bitchute.com/video/6E94UpsYucI/' ]
 ---
 
 Owen Benjamin had two YouTube channels deleted, "Owen Benjamin" and "Owen

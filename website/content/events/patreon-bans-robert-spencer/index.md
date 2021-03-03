@@ -6,12 +6,12 @@ summary: Turns out Patreon is actually Mastercard's bitch, believe it or not
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'Jihad Watch "Patreon and Mastercard ban Robert Spencer without explanation" by Robert Spencer (15 Aug 2018)', 'https://www.jihadwatch.org/2018/08/patreon-and-mastercard-ban-robert-spencer-without-explanation' ]
- - [ 'Jihad Watch "SPLC, ‘Color of Change’ played role smearing Robert Spencer as “white supremacist” for Mastercard blacklisting" by Robert Spencer (21 Aug 2018)', 'https://www.jihadwatch.org/2018/08/splc-color-of-change-played-role-smearing-robert-spencer-as-white-supremacist-for-mastercard-blacklisting' ]
- - [ 'Breibart "Mastercard Forces Patreon to Blacklist Jihad Watch’s Robert Spencer" by Charlie Nash (15 Aug 2018)', 'https://archive.is/bJwME' ]
- - [ 'LifeSite News "GoFundMe blocks Islam scholar Robert Spencer after ban by Mastercard, Patreon" by Calvin Freiburger (22 Aug 2018)', 'https://archive.is/9NDxn' ]
- - [ 'twitter.com/Patreon/status/1029551216886341634', 'https://archive.is/pLz7R' ]
- - [ 'twitter.com/Patreon/status/1029554474547728391', 'https://archive.is/SRYfa' ]
+ - [ 'Jihad Watch "Patreon and Mastercard ban Robert Spencer without explanation" by Robert Spencer (15 Aug 2018)', 'www.jihadwatch.org/2018/08/patreon-and-mastercard-ban-robert-spencer-without-explanation' ]
+ - [ 'Jihad Watch "SPLC, ‘Color of Change’ played role smearing Robert Spencer as “white supremacist” for Mastercard blacklisting" by Robert Spencer (21 Aug 2018)', 'www.jihadwatch.org/2018/08/splc-color-of-change-played-role-smearing-robert-spencer-as-white-supremacist-for-mastercard-blacklisting' ]
+ - [ 'Breibart "Mastercard Forces Patreon to Blacklist Jihad Watch’s Robert Spencer" by Charlie Nash (15 Aug 2018)', 'archive.is/bJwME' ]
+ - [ 'LifeSite News "GoFundMe blocks Islam scholar Robert Spencer after ban by Mastercard, Patreon" by Calvin Freiburger (22 Aug 2018)', 'archive.is/9NDxn' ]
+ - [ 'twitter.com/Patreon/status/1029551216886341634', 'archive.is/pLz7R' ]
+ - [ 'twitter.com/Patreon/status/1029554474547728391', 'archive.is/SRYfa' ]
 ---
 
 Patreon banned Robert Spencer, best selling author and Director of [Jihad

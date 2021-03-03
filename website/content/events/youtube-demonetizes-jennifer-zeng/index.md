@@ -6,11 +6,11 @@ corpos: [ youtube ]
 tags: [ defunded, china ]
 profiles: [ jennifer-zeng ]
 sources:
- - [ 'twitter.com/jenniferatntd/status/1258605217056161793', 'https://archive.is/UuTjc' ]
- - [ 'twitter.com/jenniferatntd/status/1258739822954459136', 'https://archive.is/wWSVe' ]
- - [ 'twitter.com/jenniferatntd/status/1258745751078752256', 'https://archive.is/FXxnm' ]
- - [ 'twitter.com/jenniferatntd/status/1258753487548157957', 'https://archive.is/laSJf' ]
- - [ 'Reclaim The Net "YouTube strips human rights activist Jennifer Zeng of income" by Didi Rankovic (8 May 2020)', 'https://reclaimthenet.org/jennifer-zeng-demonetized/' ]
+ - [ 'twitter.com/jenniferatntd/status/1258605217056161793', 'archive.is/UuTjc' ]
+ - [ 'twitter.com/jenniferatntd/status/1258739822954459136', 'archive.is/wWSVe' ]
+ - [ 'twitter.com/jenniferatntd/status/1258745751078752256', 'archive.is/FXxnm' ]
+ - [ 'twitter.com/jenniferatntd/status/1258753487548157957', 'archive.is/laSJf' ]
+ - [ 'Reclaim The Net "YouTube strips human rights activist Jennifer Zeng of income" by Didi Rankovic (8 May 2020)', 'reclaimthenet.org/jennifer-zeng-demonetized/' ]
 ---
 
 [YouTube](/youtube/) demonetized _Inconvenient Truths by Jennifer Zeng_, a

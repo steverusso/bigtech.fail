@@ -5,11 +5,11 @@ image: /img/people/sgtreport.jpg
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'twitter.com/SGTreport/status/1319334165544914947', 'https://archive.is/7ugdV' ]
- - [ 'twitter.com/SGTreport/status/1319345583216332800', 'https://archive.is/IqgWk' ]
- - [ 'twitter.com/SGTreport/status/1319356045819609094', 'https://archive.is/mXAzK' ]
- - [ 'twitter.com/SGTreport/status/1319363047669059587', 'https://archive.is/EZyPT' ]
- - [ 'twitter.com/SGTreport/status/1319363047669059587', 'https://archive.is/EZyPT' ]
+ - [ 'twitter.com/SGTreport/status/1319334165544914947', 'archive.is/7ugdV' ]
+ - [ 'twitter.com/SGTreport/status/1319345583216332800', 'archive.is/IqgWk' ]
+ - [ 'twitter.com/SGTreport/status/1319356045819609094', 'archive.is/mXAzK' ]
+ - [ 'twitter.com/SGTreport/status/1319363047669059587', 'archive.is/EZyPT' ]
+ - [ 'twitter.com/SGTreport/status/1319363047669059587', 'archive.is/EZyPT' ]
 ---
 
 [Patreon](/patreon/) banned _SGTreport_ in an effort to purge QAnon-related

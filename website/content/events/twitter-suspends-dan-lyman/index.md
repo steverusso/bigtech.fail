@@ -5,8 +5,8 @@ image: /img/people/dan-lyman.jpg
 corpos: [ twitter ]
 tags: [ suspended, kyle-rittenhouse ]
 sources:
- - [ 'twitter.com/Harrison_of_TX/status/1301601592089759748', 'https://archive.is/kIKqf' ]
- - [ 'twitter.com/CitizenAnalyst/status/1301745920657231872', 'https://archive.is/iuWBe' ]
+ - [ 'twitter.com/Harrison_of_TX/status/1301601592089759748', 'archive.is/kIKqf' ]
+ - [ 'twitter.com/CitizenAnalyst/status/1301745920657231872', 'archive.is/iuWBe' ]
 ---
 
 Twitter temporarily suspended Dan Lyman (@CitizenAnalyst), foreign

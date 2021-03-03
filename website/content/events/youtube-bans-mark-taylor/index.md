@@ -5,9 +5,9 @@ image: /img/people/mark-taylor.jpg
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'Social Blade (Mark Taylor OFFICIAL) socialblade.com/youtube/channel/UCOcxxWkbqDn6TiFcez9XUPQ/', 'https://archive.is/zuYm8' ]
- - [ 'twitter.com/patton6966/status/1316889613890453505', 'https://archive.is/PUAWY' ]
- - [ 'twitter.com/patton6966/status/1317132892695334912', 'https://archive.is/gAAm1' ]
+ - [ 'Social Blade (Mark Taylor OFFICIAL) socialblade.com/youtube/channel/UCOcxxWkbqDn6TiFcez9XUPQ/', 'archive.is/zuYm8' ]
+ - [ 'twitter.com/patton6966/status/1316889613890453505', 'archive.is/PUAWY' ]
+ - [ 'twitter.com/patton6966/status/1317132892695334912', 'archive.is/gAAm1' ]
 ---
 
 [YouTube](/youtube/) banned [Mark Taylor](https://sordrescue.com/) in an effort

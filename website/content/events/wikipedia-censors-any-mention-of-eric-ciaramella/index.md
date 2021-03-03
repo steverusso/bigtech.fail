@@ -5,16 +5,16 @@ image: /img/misc/ciar.jpg
 corpos: [ wikipedia ]
 tags: [ content-removed, gov, policy ]
 sources:
- - [ 'Breitbart "Wikipedia Admins Censor Name of Alleged Ukraine ‘Whistleblower’" by T.D. Adler (10 Nov 2019)', 'https://www.breitbart.com/tech/2019/11/10/wikipedia-admins-censor-name-of-alleged-ukraine-whistleblower/' ]
- - [ 'https://en.wikipedia.org/wiki/Special:Log?type=&user=&page=Eric_Ciaramella&wpdate=&tagfilter=&subtype=', 'https://archive.is/uBOk9' ]
- - [ 'https://en.wikipedia.org/wiki/Special:Log?type=delete&user=&page=Trump–Ukraine+scandal&wpdate=&tagfilter=&subtype=revision', 'https://archive.is/hM8su' ]
- - [ 'https://en.wikipedia.org/w/index.php?title=Whistleblower&diff=924038684&oldid=924027171', 'https://archive.is/VhNLc' ]
- - [ 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators''_noticeboard/Incidents&oldid=925441613#Filter', 'https://archive.is/WwOLr' ]
- - [ 'https://en.wikipedia.org/w/index.php?title=User_talk:Wumbolo&diff=925437987&oldid=925431012', 'https://archive.is/S6eVq' ]
- - [ 'https://en.wikipedia.org/w/index.php?title=User_talk:WoodElf&type=revision&diff=925364584&oldid=893441199', 'https://archive.is/vEsFR' ]
- - [ 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Arbitration/Requests/Case&diff=925399016&oldid=925398271', 'https://archive.vn/br8fC' ]
- - [ 'reddit.com/r/WikiInAction/comments/du2nnn/wikipedia_wont_allow_anyone_to_talk_about_eric/', 'https://archive.is/7vUZW' ]
- - [ 'https://en.wikipedia.org/w/index.php?title=User_talk:Wumbolo', 'https://archive.is/kwahO' ]
+ - [ 'Breitbart "Wikipedia Admins Censor Name of Alleged Ukraine ‘Whistleblower’" by T.D. Adler (10 Nov 2019)', 'www.breitbart.com/tech/2019/11/10/wikipedia-admins-censor-name-of-alleged-ukraine-whistleblower/' ]
+ - [ 'https://en.wikipedia.org/wiki/Special:Log?type=&user=&page=Eric_Ciaramella&wpdate=&tagfilter=&subtype=', 'archive.is/uBOk9' ]
+ - [ 'https://en.wikipedia.org/wiki/Special:Log?type=delete&user=&page=Trump–Ukraine+scandal&wpdate=&tagfilter=&subtype=revision', 'archive.is/hM8su' ]
+ - [ 'https://en.wikipedia.org/w/index.php?title=Whistleblower&diff=924038684&oldid=924027171', 'archive.is/VhNLc' ]
+ - [ 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators''_noticeboard/Incidents&oldid=925441613#Filter', 'archive.is/WwOLr' ]
+ - [ 'https://en.wikipedia.org/w/index.php?title=User_talk:Wumbolo&diff=925437987&oldid=925431012', 'archive.is/S6eVq' ]
+ - [ 'https://en.wikipedia.org/w/index.php?title=User_talk:WoodElf&type=revision&diff=925364584&oldid=893441199', 'archive.is/vEsFR' ]
+ - [ 'https://en.wikipedia.org/w/index.php?title=Wikipedia:Arbitration/Requests/Case&diff=925399016&oldid=925398271', 'archive.vn/br8fC' ]
+ - [ 'reddit.com/r/WikiInAction/comments/du2nnn/wikipedia_wont_allow_anyone_to_talk_about_eric/', 'archive.is/7vUZW' ]
+ - [ 'https://en.wikipedia.org/w/index.php?title=User_talk:Wumbolo', 'archive.is/kwahO' ]
 ---
 
 Wikipedia admins used their editorial power to censor any mention of the name

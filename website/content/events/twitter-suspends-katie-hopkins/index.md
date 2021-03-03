@@ -6,9 +6,9 @@ profiles: [ katie-hopkins ]
 corpos: [ twitter ]
 tags: [ suspended ]
 sources:
- - [ 'Independent "Katie Hopkins'' Twitter account suspended" by Lizzie Dearden (30 Jan 2020)', 'https://archive.vn/KRwYL' ]
- - [ 'Twitter @RachelRileyRR 1222676355948720129', 'https://archive.vn/ipZff' ]
- - [ 'Breitbart "Twitter Blacklists Katie Hopkins After Pressure from ''Anti-Hate'' Group" by Allum Bokhari (30 Jan 2020)', 'https://archive.vn/bFO5w' ]
+ - [ 'Independent "Katie Hopkins'' Twitter account suspended" by Lizzie Dearden (30 Jan 2020)', 'archive.vn/KRwYL' ]
+ - [ 'Twitter @RachelRileyRR 1222676355948720129', 'archive.vn/ipZff' ]
+ - [ 'Breitbart "Twitter Blacklists Katie Hopkins After Pressure from ''Anti-Hate'' Group" by Allum Bokhari (30 Jan 2020)', 'archive.vn/bFO5w' ]
 ---
 
 After facing pressure from activists, Twitter temporarily suspended the account

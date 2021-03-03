@@ -5,12 +5,12 @@ image: /img/people/meghan-murphy.jpg
 corpos: [ twitter ]
 tags: [ banned, trans ]
 sources:
- - [ 'Meghan Murphy''s Post on Feminist Current', 'https://www.feministcurrent.com/2018/11/20/twitter-wants-shut-right-wants-join-dont-think-either/' ]
- - [ 'Meghan Murphy - YouTube Video', 'https://www.youtube.com/watch?v=sqRyAoSzGrI' ]
- - [ 'Wikipedia - Meghan Murphy', 'https://en.wikipedia.org/wiki/Meghan_Murphy' ]
- - [ 'The Federalist', 'https://thefederalist.com/2018/11/25/twitter-permanently-bans-feminist-writing-men-arent-women/' ]
- - [ 'American Power', 'https://americanpowerblog.blogspot.com/2018/11/leading-canadian-feminist-meghan-murphy.html' ]
- - [ 'Graham Linehan - Tweet', 'https://twitter.com/Glinner/status/1066662588510072832' ]
+ - [ 'Meghan Murphy''s Post on Feminist Current', 'www.feministcurrent.com/2018/11/20/twitter-wants-shut-right-wants-join-dont-think-either/' ]
+ - [ 'Meghan Murphy - YouTube Video', 'www.youtube.com/watch?v=sqRyAoSzGrI' ]
+ - [ 'Wikipedia - Meghan Murphy', 'en.wikipedia.org/wiki/Meghan_Murphy' ]
+ - [ 'The Federalist', 'thefederalist.com/2018/11/25/twitter-permanently-bans-feminist-writing-men-arent-women/' ]
+ - [ 'American Power', 'americanpowerblog.blogspot.com/2018/11/leading-canadian-feminist-meghan-murphy.html' ]
+ - [ 'Graham Linehan - Tweet', 'twitter.com/Glinner/status/1066662588510072832' ]
 ---
 
 After being repeatedly suspended and unsuspended from Twitter, Meghan Murphy was finally perma-banned for the high crime of misgendering.

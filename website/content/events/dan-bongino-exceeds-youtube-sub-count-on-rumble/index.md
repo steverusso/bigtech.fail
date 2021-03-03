@@ -5,12 +5,12 @@ image: /img/people/dan-bongino.jpg
 corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:
- - [ 'twitter.com/dbongino/status/1336449459778150405', 'https://archive.is/nBe1E' ]
- - [ 'twitter.com/dbongino/status/1336396421868769283', 'https://archive.is/5WWHi' ]
- - [ 'twitter.com/rumblevideo/status/1336454274541383681', 'https://archive.is/mkNN2' ]
+ - [ 'twitter.com/dbongino/status/1336449459778150405', 'archive.is/nBe1E' ]
+ - [ 'twitter.com/dbongino/status/1336396421868769283', 'archive.is/5WWHi' ]
+ - [ 'twitter.com/rumblevideo/status/1336454274541383681', 'archive.is/mkNN2' ]
 extra:
- - [ 'Archive of YouTube videos tab', 'https://archive.is/UB9ni' ]
- - [ 'Archive of Rumble page', 'https://archive.is/uYOXW' ]
+ - [ 'Archive of YouTube videos tab', 'archive.is/UB9ni' ]
+ - [ 'Archive of Rumble page', 'archive.is/uYOXW' ]
 ---
 
 Dan Bongino, a political commentator and author, surpassed his YouTube

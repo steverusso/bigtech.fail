@@ -6,12 +6,12 @@ profiles: [ max-igan ]
 corpos: [ youtube ]
 tags: [ content-removed, banned ]
 sources:
- - [ 'twitter.com/maxigan/status/1280687788900249600', 'http://archive.is/XtAby' ]
- - [ 'twitter.com/maxigan/status/1281173003544326144', 'http://archive.is/d9Iwx' ]
- - [ 'BitChute "TheCrowhouse YouTube Channel Terminated" by TheCrowhouse (9 Jul 2020)', 'https://www.bitchute.com/video/Hx4oYPuZSIY/' ]
- - [ 'thecrowhouse - altCensored', 'https://www.altcensored.com/channel/UCegOTmclzjfKuQh0SHflqww' ]
- - [ 'thecrowhouse''s YouTube Stats (Summary Profile) - Social Blade Stats', 'https://socialblade.com/youtube/user/thecrowhouse' ]
- - [ 'BitChute "Max Igan Banned, CDC Says Epidemic Is Over and Occult Ritual of Facemasks and Socialist Distancing" by Dollar_Vigilante (9 Jul 2020)', 'https://www.bitchute.com/video/sRm0JRIJ56sX/' ]
+ - [ 'twitter.com/maxigan/status/1280687788900249600', 'archive.is/XtAby' ]
+ - [ 'twitter.com/maxigan/status/1281173003544326144', 'archive.is/d9Iwx' ]
+ - [ 'BitChute "TheCrowhouse YouTube Channel Terminated" by TheCrowhouse (9 Jul 2020)', 'www.bitchute.com/video/Hx4oYPuZSIY/' ]
+ - [ 'thecrowhouse - altCensored', 'www.altcensored.com/channel/UCegOTmclzjfKuQh0SHflqww' ]
+ - [ 'thecrowhouse''s YouTube Stats (Summary Profile) - Social Blade Stats', 'socialblade.com/youtube/user/thecrowhouse' ]
+ - [ 'BitChute "Max Igan Banned, CDC Says Epidemic Is Over and Occult Ritual of Facemasks and Socialist Distancing" by Dollar_Vigilante (9 Jul 2020)', 'www.bitchute.com/video/sRm0JRIJ56sX/' ]
 ---
 
 After removing most of his prior month's videos, YouTube outright deleted Max

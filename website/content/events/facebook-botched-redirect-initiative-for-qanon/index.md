@@ -5,11 +5,11 @@ image: /img/logos/facebook.png
 corpos: [ facebook ]
 tags: [ wtf, oops, election2020 ]
 sources:
- - [ 'about.fb.com/news/2020/08/addressing-movements-and-organizations-tied-to-violence/ (Update from 21 Oct 2020)', 'https://archive.is/NYpoa#selection-1779.0-1817.273' ]
- - [ 'twitter.com/OffGuardian0/status/1319329041300791296', 'https://archive.is/Hy0Nd' ]
- - [ 'twitter.com/fbnewsroom/status/1318987328220729345', 'https://archive.is/dW5Ar' ]
- - [ 'twitter.com/fbnewsroom/status/1319367628331323392', 'https://archive.is/FFJ1b' ]
- - [ 'The Federalist "Facebook Falsely Flags Christian Worship Group As Associated With QAnon Conspiracy Theorists" by Madeline Osburn (26 Oct 2020)', 'https://archive.is/I0tYA' ]
+ - [ 'about.fb.com/news/2020/08/addressing-movements-and-organizations-tied-to-violence/ (Update from 21 Oct 2020)', 'archive.is/NYpoa#selection-1779.0-1817.273' ]
+ - [ 'twitter.com/OffGuardian0/status/1319329041300791296', 'archive.is/Hy0Nd' ]
+ - [ 'twitter.com/fbnewsroom/status/1318987328220729345', 'archive.is/dW5Ar' ]
+ - [ 'twitter.com/fbnewsroom/status/1319367628331323392', 'archive.is/FFJ1b' ]
+ - [ 'The Federalist "Facebook Falsely Flags Christian Worship Group As Associated With QAnon Conspiracy Theorists" by Madeline Osburn (26 Oct 2020)', 'archive.is/I0tYA' ]
 ---
 
 Facebook announced the launch of the [_Redirect Initiative for

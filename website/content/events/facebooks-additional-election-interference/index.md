@@ -5,8 +5,8 @@ image: /img/logos/facebook.png
 corpos: [ facebook ]
 tags: [ gov ]
 sources:
- - [ 'facebook.com/zuck/posts/10112270823363411', 'https://archive.is/0bIXK' ]
- - [ 'Facebook Newsroom "New Steps to Protect the US Elections" (3 Sep 2020)', 'https://archive.is/0QmuN' ]
+ - [ 'facebook.com/zuck/posts/10112270823363411', 'archive.is/0bIXK' ]
+ - [ 'Facebook Newsroom "New Steps to Protect the US Elections" (3 Sep 2020)', 'archive.is/0QmuN' ]
 ---
 
 Facebook's CEO Mark Zuckerberg detailed 11 additional steps that the company

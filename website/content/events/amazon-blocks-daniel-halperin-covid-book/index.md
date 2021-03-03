@@ -5,8 +5,8 @@ image: /img/books/12-covid.png
 corpos: [ amazon ]
 tags: [ content-removed, covid ]
 sources:
- - [ 'twitter.com/AlexBerenson/status/1278876720217624576', 'https://archive.is/ERoKz' ]
- - [ 'Reclaim The Net "Amazon refuses to publish book by epidemiologist professor Daniel Halperin" by Didi Rankovic (4 Jul 2020)', 'https://reclaimthenet.org/daniel-halperin-amazon-censorship/' ]
+ - [ 'twitter.com/AlexBerenson/status/1278876720217624576', 'archive.is/ERoKz' ]
+ - [ 'Reclaim The Net "Amazon refuses to publish book by epidemiologist professor Daniel Halperin" by Didi Rankovic (4 Jul 2020)', 'reclaimthenet.org/daniel-halperin-amazon-censorship/' ]
 ---
 
 Amazon blocked the publication of _Coping With Covid-19: 12 Common Myths and 12

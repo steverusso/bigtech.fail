@@ -5,10 +5,10 @@ image: /img/people/rand-paul.jpg
 corpos: [ youtube ]
 tags: [ content-removed, gov ]
 sources:
- - [ 'Twitter @RandPaul 1227975800928063490', 'https://archive.vn/uO11Q' ]
- - [ 'The Hill "YouTube removes video of Rand Paul reading alleged whistleblower''s name on Senate floor" by Justin Wise (13 Feb 2020)', 'https://archive.vn/6bmlL' ]
- - [ 'The Epoch Times "YouTube Removes Video of Rand Paul Mentioning Alleged Whistleblower''s Name" by Jack Phillips (13 Feb 2020)', 'https://archive.vn/XTCWe' ]
- - [ 'The Federalist "YouTube Removes Video Of Rand Paul Naming Alleged Ukraine Whistleblower On Senate Floor" by Tristan Justice (13 Feb 2020)', 'https://archive.vn/xYXDW' ]
+ - [ 'Twitter @RandPaul 1227975800928063490', 'archive.vn/uO11Q' ]
+ - [ 'The Hill "YouTube removes video of Rand Paul reading alleged whistleblower''s name on Senate floor" by Justin Wise (13 Feb 2020)', 'archive.vn/6bmlL' ]
+ - [ 'The Epoch Times "YouTube Removes Video of Rand Paul Mentioning Alleged Whistleblower''s Name" by Jack Phillips (13 Feb 2020)', 'archive.vn/XTCWe' ]
+ - [ 'The Federalist "YouTube Removes Video Of Rand Paul Naming Alleged Ukraine Whistleblower On Senate Floor" by Tristan Justice (13 Feb 2020)', 'archive.vn/xYXDW' ]
 ---
 
 YouTube continued its policy of [purging any mention of Eric

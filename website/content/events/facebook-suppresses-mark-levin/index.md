@@ -5,9 +5,9 @@ image: /img/people/mark-levin.jpg
 corpos: [ facebook ]
 tags: [ restricted ]
 sources:
- - [ 'share.par.pw/post/87ab02a4b5d14f4f9b1d8a063a4e0418', 'https://archive.is/zb3N0' ]
- - [ 'twitter.com/marklevinshow/status/1313096765336420352', 'https://archive.is/UXteW' ]
- - [ 'CNS News "Facebook Flags Conservative Scholar Mark Levin, Claims ‘Repeated Distribution of False News’" by Lucy Collins (5 Oct 2020)', 'https://archive.is/gUU9w' ]
+ - [ 'share.par.pw/post/87ab02a4b5d14f4f9b1d8a063a4e0418', 'archive.is/zb3N0' ]
+ - [ 'twitter.com/marklevinshow/status/1313096765336420352', 'archive.is/UXteW' ]
+ - [ 'CNS News "Facebook Flags Conservative Scholar Mark Levin, Claims ‘Repeated Distribution of False News’" by Lucy Collins (5 Oct 2020)', 'archive.is/gUU9w' ]
 ---
 
 Facebook restricted Mark Levin's page [due to](notice.jpg) "repeated sharing of

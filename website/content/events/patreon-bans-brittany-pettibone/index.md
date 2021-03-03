@@ -5,9 +5,9 @@ image: /img/people/brittany-sellner.jpg
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'Archive.is - https://twitter.com/BrittPettibone/status/1011584813973868544', 'https://archive.is/PhHSW' ]
+ - [ 'Archive.is - https://twitter.com/BrittPettibone/status/1011584813973868544', 'archive.is/PhHSW' ]
  - [ 'Brittany Pettibone - Patreon Ban Notice', 'ban-notice.jpg' ]
- - [ 'Breitbart "Stripe, PayPal, Patreon: The Right Is Being Banned from Online Fundraising" by Allum Bokhari (24 Jul 2018)', 'https://www.breitbart.com/tech/2018/07/24/stripe-paypal-patreon-the-right-is-being-banned-from-online-fundraising/' ]
+ - [ 'Breitbart "Stripe, PayPal, Patreon: The Right Is Being Banned from Online Fundraising" by Allum Bokhari (24 Jul 2018)', 'www.breitbart.com/tech/2018/07/24/stripe-paypal-patreon-the-right-is-being-banned-from-online-fundraising/' ]
 ---
 
 Patreon banned author and journalist Brittany Pettibone due to her association with Defend Europe, a Generation Identity campaign that has disavowed political violence.

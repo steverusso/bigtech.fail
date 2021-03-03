@@ -5,8 +5,8 @@ image: /img/misc/ukrainian-gas-expert-poso.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov, hunters-laptop ]
 sources:
- - [ 'twitter.com/LibertarianBlue/status/1316528162638049280', 'https://archive.is/EdSoz' ]
- - [ 'twitter.com/RaheemKassam/status/1316527451242143746', 'https://archive.is/tZxlQ' ]
+ - [ 'twitter.com/LibertarianBlue/status/1316528162638049280', 'archive.is/EdSoz' ]
+ - [ 'twitter.com/RaheemKassam/status/1316527451242143746', 'archive.is/tZxlQ' ]
 ---
 
 Twitter suspended journalist Jack Posobiec shortly after he changed his profile

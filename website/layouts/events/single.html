@@ -27,7 +27,7 @@
 				<ol>
 					{{ range .Params.sources }}
 						{{ $url := index . 1 }}
-						<li><a href="{{ $url }}" target="_blank">{{ index . 0 | default $url }}</a></li>
+						<li><a href="https://{{ $url }}" target="_blank">{{ index . 0 | default $url }}</a></li>
 					{{ end }}
 				</ol>
 			</details>

@@ -5,11 +5,11 @@ image: /img/misc/inthematrixxx.jpg
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:
- - [ 'twitter.com/intheMatrixxx/status/1319345449573228545', 'https://archive.is/fmRmC' ]
- - [ 'twitter.com/intheMatrixxx/status/1319651370882879488', 'https://archive.is/fILPj' ]
- - [ 'twitter.com/intheMatrixxx/status/1319654363531513856', 'https://archive.is/eF6OC' ]
- - [ 'graphtreon.com/creator/inthematrixxx (archived)', 'https://archive.is/Kkc9Y' ]
- - [ 'patreon.com/inthematrixxx (archived removal notice)', 'https://archive.is/clAE4' ]
+ - [ 'twitter.com/intheMatrixxx/status/1319345449573228545', 'archive.is/fmRmC' ]
+ - [ 'twitter.com/intheMatrixxx/status/1319651370882879488', 'archive.is/fILPj' ]
+ - [ 'twitter.com/intheMatrixxx/status/1319654363531513856', 'archive.is/eF6OC' ]
+ - [ 'graphtreon.com/creator/inthematrixxx (archived)', 'archive.is/Kkc9Y' ]
+ - [ 'patreon.com/inthematrixxx (archived removal notice)', 'archive.is/clAE4' ]
 ---
 
 [Patreon](/patreon/) banned [_InTheMatrixxx_](https://inthematrixxx.com/), an

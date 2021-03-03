@@ -6,10 +6,10 @@ profiles: [ alex-jones ]
 corpos: [ twitter ]
 tags: [ suspended ]
 sources:
- - [ 'Joe Rogan Podcast Clip (with Jack Dorsey, Vijaya Gadde, and Tim Pool)', 'https://www.youtube.com/watch?v=K-6n46X__WQ' ]
- - [ 'YouTube "Joe Rogan Experience #1258 - Jack Dorsey, Vijaya Gadde & Tim Pool"', 'https://www.youtube.com/watch?v=DZCBRHOg3PQ' ]
- - [ 'USA Today "Twitter suspends Alex Jones for one week after violating company rules" by Charles Ventura (15 Aug 2018)', 'https://archive.vn/X5Nn9' ]
- - [ 'Breitbart "Twitter Suspends Alex Jones After CNN Blacklist Campaign" by Lucas Nolan (15 Aug 2018)', 'https://archive.vn/bW7Bw' ]
+ - [ 'Joe Rogan Podcast Clip (with Jack Dorsey, Vijaya Gadde, and Tim Pool)', 'www.youtube.com/watch?v=K-6n46X__WQ' ]
+ - [ 'YouTube "Joe Rogan Experience #1258 - Jack Dorsey, Vijaya Gadde & Tim Pool"', 'www.youtube.com/watch?v=DZCBRHOg3PQ' ]
+ - [ 'USA Today "Twitter suspends Alex Jones for one week after violating company rules" by Charles Ventura (15 Aug 2018)', 'archive.vn/X5Nn9' ]
+ - [ 'Breitbart "Twitter Suspends Alex Jones After CNN Blacklist Campaign" by Lucas Nolan (15 Aug 2018)', 'archive.vn/bW7Bw' ]
 ---
 
 About a week after Jones was [banned from several major

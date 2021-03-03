@@ -5,9 +5,9 @@ image: /img/people/trump.jpg
 corpos: [ youtube ]
 tags: [ banned, content-removed, gov, election2020, capitol-riot ]
 sources:
- - [ 'twitter.com/YouTubeInsider/status/1349205688694812672', 'https://archive.is/9tYF4' ]
- - [ 'twitter.com/YouTubeInsider/status/1349205689395245056', 'https://archive.is/awDGL' ]
- - [ 'Summit News "YouTube Suspends Trump" by Steve Watson (13 Jan 2021)', 'https://summit.news/2021/01/13/youtube-suspends-trump/' ]
+ - [ 'twitter.com/YouTubeInsider/status/1349205688694812672', 'archive.is/9tYF4' ]
+ - [ 'twitter.com/YouTubeInsider/status/1349205689395245056', 'archive.is/awDGL' ]
+ - [ 'Summit News "YouTube Suspends Trump" by Steve Watson (13 Jan 2021)', 'summit.news/2021/01/13/youtube-suspends-trump/' ]
 ---
 
 [YouTube](/youtube/) removed some videos from President Trump's channel and

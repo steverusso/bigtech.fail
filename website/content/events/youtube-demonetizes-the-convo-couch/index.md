@@ -5,7 +5,7 @@ image: /img/misc/the-convo-couch.jpg
 corpos: [ youtube ]
 tags: [ defunded ]
 sources:
- - [ 'twitter.com/Fiorella_im/status/1357061435600244736', 'https://archive.is/cTx25' ]
+ - [ 'twitter.com/Fiorella_im/status/1357061435600244736', 'archive.is/cTx25' ]
 ---
 
 [YouTube](/youtube/) demonetized _The Convo Couch_, a progressive political

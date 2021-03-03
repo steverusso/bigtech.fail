@@ -5,10 +5,10 @@ image: /img/misc/inverted-red-triangle.png
 corpos: [ facebook ]
 tags: [ advertising, gov, content-removed ]
 sources:
- - [ 'twitter.com/TrumpWarRoom/status/1273638710022680576', 'https://archive.is/2ug7u' ]
- - [ 'ZeroHedge "Facebook Removed Trump Campaign Ad For "Organized Hate" Violation" by Tyler Durden (18 Jun 2020)', 'https://archive.is/VNLxe' ]
- - [ 'Summit News "Facebook Bans Trump Ad For Using ANTIFA Symbol" by Steve Watson (19 Jun 2020)', 'https://archive.is/F9z2r' ]
- - [ 'BitChute "Media Gets Trump Facebook Ads Banned Over Use Of Red Triangle Symbol" by Tom Pool (18 Jun 2020)', 'https://www.bitchute.com/video/Zd_UGQNmtPE/' ]
+ - [ 'twitter.com/TrumpWarRoom/status/1273638710022680576', 'archive.is/2ug7u' ]
+ - [ 'ZeroHedge "Facebook Removed Trump Campaign Ad For "Organized Hate" Violation" by Tyler Durden (18 Jun 2020)', 'archive.is/VNLxe' ]
+ - [ 'Summit News "Facebook Bans Trump Ad For Using ANTIFA Symbol" by Steve Watson (19 Jun 2020)', 'archive.is/F9z2r' ]
+ - [ 'BitChute "Media Gets Trump Facebook Ads Banned Over Use Of Red Triangle Symbol" by Tom Pool (18 Jun 2020)', 'www.bitchute.com/video/Zd_UGQNmtPE/' ]
 ---
 
 At [the behest of the Washington

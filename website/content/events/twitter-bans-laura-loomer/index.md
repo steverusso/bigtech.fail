@@ -6,12 +6,12 @@ corpos: [ twitter ]
 tags: [ banned, gov ]
 profiles: [ laura-loomer ]
 sources:
- - [ 'twitter.com/rooshv/status/1065406443430469632', 'https://archive.is/4tGB2' ]
- - [ 'twitter.com/PrisonPlanet/status/1065397780330569734', 'https://archive.is/PnkIr' ]
- - [ 'The Gateway Pundit "Twitter Bans Conservative Jew Laura Loomer but Farrakhan, Islamists, Anti-Semites and Threats Against Trump Family Still Allowed" by Jim Hoft (22 Nov 2018)', 'https://archive.is/AcwE3' ]
- - [ 'Breitbart "Conservative Activist Laura Loomer Banned From Twitter After Criticizing Congresswoman-Elect Ilhan Omar" by Alana Mastrangelo (22 Nov 2018)', 'https://archive.is/g4B7n' ]
- - [ 'The Right Scoop "Even Laura Loomer’s critics can’t understand why Twitter banned her…" (23 Nov 2020)', 'https://archive.is/uZdBA' ]
- - [ 'RT "Twitter bans right-wing conspiracist Laura Loomer, renewing free speech debate" (22 Nov 2020)', 'https://archive.is/9sQaU' ]
+ - [ 'twitter.com/rooshv/status/1065406443430469632', 'archive.is/4tGB2' ]
+ - [ 'twitter.com/PrisonPlanet/status/1065397780330569734', 'archive.is/PnkIr' ]
+ - [ 'The Gateway Pundit "Twitter Bans Conservative Jew Laura Loomer but Farrakhan, Islamists, Anti-Semites and Threats Against Trump Family Still Allowed" by Jim Hoft (22 Nov 2018)', 'archive.is/AcwE3' ]
+ - [ 'Breitbart "Conservative Activist Laura Loomer Banned From Twitter After Criticizing Congresswoman-Elect Ilhan Omar" by Alana Mastrangelo (22 Nov 2018)', 'archive.is/g4B7n' ]
+ - [ 'The Right Scoop "Even Laura Loomer’s critics can’t understand why Twitter banned her…" (23 Nov 2020)', 'archive.is/uZdBA' ]
+ - [ 'RT "Twitter bans right-wing conspiracist Laura Loomer, renewing free speech debate" (22 Nov 2020)', 'archive.is/9sQaU' ]
 ---
 
 [Twitter](/twitter/) banned journalist Laura Loomer for a tweet criticizing

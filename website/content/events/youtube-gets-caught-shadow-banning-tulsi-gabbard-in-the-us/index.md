@@ -5,11 +5,11 @@ image: /img/people/tulsi-gabbard.jpg
 corpos: [ youtube ]
 tags: [ shadow-banned ]
 sources:
- - [ 'LouderWithCrowder - BitChute Video (10/22/2019)' , 'https://www.bitchute.com/video/-T0RyYMSNWc/' ]
- - [ 'LouderWithCrowder - Full BitChute Video (10/22/2019)' , 'https://www.bitchute.com/video/YHHQl3ND6bk/' ]
- - [ 'LouderWithCrowder.com' , 'https://www.louderwithcrowder.com/breaking-youtube-election-meddling-of-tulsi-gabbard/' ]
- - [ 'InfoWars' , 'https://www.infowars.com/bombshell-google-caught-blacklisting-tulsi-gabbard/' ]
- - [ 'SGT Report' , 'https://www.sgtreport.com/2019/10/tulsis-youtube-suppressed/' ]
+ - [ 'LouderWithCrowder - BitChute Video (10/22/2019)' , 'www.bitchute.com/video/-T0RyYMSNWc/' ]
+ - [ 'LouderWithCrowder - Full BitChute Video (10/22/2019)' , 'www.bitchute.com/video/YHHQl3ND6bk/' ]
+ - [ 'LouderWithCrowder.com' , 'www.louderwithcrowder.com/breaking-youtube-election-meddling-of-tulsi-gabbard/' ]
+ - [ 'InfoWars' , 'www.infowars.com/bombshell-google-caught-blacklisting-tulsi-gabbard/' ]
+ - [ 'SGT Report' , 'www.sgtreport.com/2019/10/tulsis-youtube-suppressed/' ]
 ---
 
 On September 30, Steven Crowder [released evidence](/e/crowder-confirms-youtube-shadow-ban/) that YouTube was shadow banning his channel exclusively in the US.

@@ -6,8 +6,8 @@ profiles: [ lporiginalg ]
 corpos: [ facebook ]
 tags: [ banned ]
 sources:
- - [ 'twitter.com/lporiginalg/status/1319294896906252288', 'https://archive.is/xDqyF' ]
- - [ 'twitter.com/lporiginalg/status/1319366789554343936', 'https://archive.is/zIKz3' ]
+ - [ 'twitter.com/lporiginalg/status/1319294896906252288', 'archive.is/xDqyF' ]
+ - [ 'twitter.com/lporiginalg/status/1319366789554343936', 'archive.is/zIKz3' ]
 ---
 
 Facebook banned Lyndon Perry, the founder and operator of _I,Hypocrite_, and

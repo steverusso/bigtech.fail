@@ -5,8 +5,8 @@ image: /img/logos/mailchimp.png
 corpos: [ mailchimp ]
 tags: [ policy ]
 sources:
- - [ 'Reclaim The Net "MailChimp has banned anti-vax newsletters" by Didi Rankovic (17 Jun 2019)', 'https://reclaimthenet.org/newsletter-mailchimp-banned-anti-vax-content/' ]
- - [ 'The Hill "Mailchimp cracks down on anti-vaccination content" by Rebecca Klar (13 Jun 2019)', 'https://archive.is/puZWV' ]
+ - [ 'Reclaim The Net "MailChimp has banned anti-vax newsletters" by Didi Rankovic (17 Jun 2019)', 'reclaimthenet.org/newsletter-mailchimp-banned-anti-vax-content/' ]
+ - [ 'The Hill "Mailchimp cracks down on anti-vaccination content" by Rebecca Klar (13 Jun 2019)', 'archive.is/puZWV' ]
 ---
 
 Mailchimp reached out to NBC to let everyone know that they had terminated

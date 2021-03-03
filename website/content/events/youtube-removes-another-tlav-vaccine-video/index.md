@@ -6,8 +6,8 @@ corpos: [ youtube ]
 tags: [ content-removed, covid ]
 profiles: [ tlav ]
 sources:
- - [ 'twitter.com/TLAVagabond/status/1339947558333001730', 'https://archive.is/1mGer' ]
- - [ 'The Last American Vagabond "The Alarmingly Blind Trust In Vaccines/Health Authorities, Understanding MRNA & Jail For No Mask" on BitChute (18 Dec 2020)', 'https://www.bitchute.com/video/boJGumYk80hm/' ]
+ - [ 'twitter.com/TLAVagabond/status/1339947558333001730', 'archive.is/1mGer' ]
+ - [ 'The Last American Vagabond "The Alarmingly Blind Trust In Vaccines/Health Authorities, Understanding MRNA & Jail For No Mask" on BitChute (18 Dec 2020)', 'www.bitchute.com/video/boJGumYk80hm/' ]
 ---
 
 [YouTube](/youtube/) removed yet another video by _The Last American Vagabond_

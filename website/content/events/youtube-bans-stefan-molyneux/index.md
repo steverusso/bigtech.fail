@@ -6,13 +6,13 @@ profiles: [ stefan-molyneux ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
- - [ 'BitChute "BANNED FROM YOUTUBE! I REGRET NOTHING!" by Stefan Molyneux (30 Jun 2020)', 'https://www.bitchute.com/video/ttWAc3XmzAMl/' ]
- - [ 'BitChute "I''VE BEEN BANNED FROM YOUTUBE! Stefan Molyneux Livestream" by Stefan Molyneux (30 Jun 2020)', 'https://www.bitchute.com/video/ttWAc3XmzAMl/' ]
- - [ 'Twitter @StefanMolyneux 1277720270304919552', 'http://archive.is/n8XDD' ]
- - [ 'Twitter @StefanMolyneux 1277659351570882560', 'http://archive.is/rfiPT' ]
- - [ 'Stefan Molyneux''s YouTube Stats (Summary Profile) - Social Blade Stats', 'https://socialblade.com/youtube/user/stefbot' ]
- - [ 'Stefan Molyneux - altCensored', 'https://www.altcensored.com/channel/UCC3L8QaxqEGUiBC252GHy3w' ]
- - [ 'Reclaim The Net "YouTube bans Stefan Molyneux for "hate speech" after almost 14 years on the platform" by Tom Parker (29 Jun 2020)', 'http://archive.is/6fCyd' ]
+ - [ 'BitChute "BANNED FROM YOUTUBE! I REGRET NOTHING!" by Stefan Molyneux (30 Jun 2020)', 'www.bitchute.com/video/ttWAc3XmzAMl/' ]
+ - [ 'BitChute "I''VE BEEN BANNED FROM YOUTUBE! Stefan Molyneux Livestream" by Stefan Molyneux (30 Jun 2020)', 'www.bitchute.com/video/ttWAc3XmzAMl/' ]
+ - [ 'Twitter @StefanMolyneux 1277720270304919552', 'archive.is/n8XDD' ]
+ - [ 'Twitter @StefanMolyneux 1277659351570882560', 'archive.is/rfiPT' ]
+ - [ 'Stefan Molyneux''s YouTube Stats (Summary Profile) - Social Blade Stats', 'socialblade.com/youtube/user/stefbot' ]
+ - [ 'Stefan Molyneux - altCensored', 'www.altcensored.com/channel/UCC3L8QaxqEGUiBC252GHy3w' ]
+ - [ 'Reclaim The Net "YouTube bans Stefan Molyneux for "hate speech" after almost 14 years on the platform" by Tom Parker (29 Jun 2020)', 'archive.is/6fCyd' ]
 ---
 
 YouTube banned Stefan Molyneux, host of Freedomain, as a part of a coordinated,

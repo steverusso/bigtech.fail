@@ -5,10 +5,10 @@ image: /img/misc/gab-ai-wut.png
 corpos: [ google ]
 tags: [ app, alttech-growth ]
 sources:
- - [ 'Archive.is - https://twitter.com/getongab/status/1149824743098339328', 'https://archive.is/zZcXf' ]
- - [ 'Archive.is - https://twitter.com/getongab/status/1149826815013208064', 'https://archive.is/MFtt2' ]
- - [ 'Archive.is - https://twitter.com/getongab/status/1149827471321120769', 'https://archive.is/OAcGQ' ]
- - [ 'Reclaim the Net "Google bans Gab app, gives the decentralized social network an impossible list of demands" by Tom Parker', 'https://reclaimthenet.org/google-play-bans-gab-app/' ]
+ - [ 'Archive.is - https://twitter.com/getongab/status/1149824743098339328', 'archive.is/zZcXf' ]
+ - [ 'Archive.is - https://twitter.com/getongab/status/1149826815013208064', 'archive.is/MFtt2' ]
+ - [ 'Archive.is - https://twitter.com/getongab/status/1149827471321120769', 'archive.is/OAcGQ' ]
+ - [ 'Reclaim the Net "Google bans Gab app, gives the decentralized social network an impossible list of demands" by Tom Parker', 'reclaimthenet.org/google-play-bans-gab-app/' ]
 ---
 
 Just minutes after Gab started trending at #1 in the Play Store, Google warned them that their app would be banned in one week if the "objectionable user generated content" was not removed.

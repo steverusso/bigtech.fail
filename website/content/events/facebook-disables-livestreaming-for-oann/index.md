@@ -5,8 +5,8 @@ image: /img/logos/oann.jpg
 corpos: [ facebook ]
 tags: [ restricted, defunded, election2020 ]
 sources:
- - [ 'twitter.com/OANN/status/1337508673464147968', 'https://archive.is/PV4qD' ]
- - [ 'facebook.com/OneAmericaNewsNetwork/posts/2353616441450125', 'https://archive.is/2QDeR' ]
+ - [ 'twitter.com/OANN/status/1337508673464147968', 'archive.is/PV4qD' ]
+ - [ 'facebook.com/OneAmericaNewsNetwork/posts/2353616441450125', 'archive.is/2QDeR' ]
 ---
 
 [Facebook](/facebook/) removed the ability for _One America News Network_ to
