@@ -13,7 +13,8 @@
 				{{ .Content }}
 
 				{{ with .Params.sources }}
-					<details data-srcs><summary></summary>
+					<details>
+						<summary>Sources / Relevant Material</summary>
 						{{ partial "srcs-list" . }}
 					</details>
 				{{ end }}

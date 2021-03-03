@@ -23,7 +23,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
 	font-weight: normal;
 }
 h1 {
@@ -91,15 +91,10 @@ tr:nth-child(odd) {
 	background-color: var(--cardBg);
 }
 
-h4.srcs:after, [data-srcs] summary:after {
-	content: "Sources / Relevant Material";
-	display: inline-block;
-	font-weight: normal;
-}
-h4.srcs + ol, [data-srcs] ol {
+.srcs {
 	overflow: hidden;
 }
-h4.srcs + ol li, [data-srcs] li {
+.srcs li {
 	font-size: 0.95rem;
 	margin-bottom: 0.5rem;
 	line-height: 1.75;
@@ -228,6 +223,10 @@ h3[data-count] {
 .evtpg section > article {
 	border-bottom: var(--border1);
 	margin-bottom: 2rem;
+}
+
+.evtpg section > h4:after {
+	content: "Sources / Relevant Material";
 }
 .profiles > a:not(:first-child) {
 	margin-top: 1rem;
