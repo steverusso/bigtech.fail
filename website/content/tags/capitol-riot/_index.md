@@ -17,7 +17,7 @@ extra:
  - [ 'New York Post "Who are the five people who died in the DC protest at the Capitol?" by Gabrielle Fonrouge, Laura Italiano, Aaron Feis, Lia Eustachewich, Natalie O’Neill (7 Jan 2021)', 'https://archive.is/m6tKP' ]
 quotes:
  - person: Glenn Greenwald (@ggreenwald)
-   date: '7 Jan 2020'
+   date: '7 Jan 2021'
    src: https://archive.is/x6PVi
    q: 'A handful of Silicon Valley oligarchs decide who can and cannot be heard,
        including the President of the United States. They exert this power
@@ -26,7 +26,7 @@ quotes:
        Politics now is begging them to silence adversaries or permit allies to
        speak:'
  - person: Jimmy Dore
-   date: '17 Jan 2020'
+   date: '17 Jan 2021'
    src: https://youtu.be/je3tfciJtvY?t=175
    q: 'The capitol riot did not happen because we didn''t have enough censorship.
        That is a ridiculous idea. [...] I don''t understand how the left has to keep
