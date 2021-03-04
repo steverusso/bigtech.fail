@@ -1,5 +1,5 @@
 ---
-title: Twitter Will Use Strike System to Combat "Vaccine Misinformation"
+title: Twitter Announces Further Restrictions on Vaccine Dialogue
 date: 2021-03-01
 image: /img/logos/twitter.png
 corpos: [ twitter ]
