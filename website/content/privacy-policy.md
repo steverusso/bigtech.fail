@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 date: 2020-05-16
+lastmod: 2021-03-05
 ---
 
 We don't collect anything.
@@ -16,7 +17,9 @@ We don't collect anything.
 ### Final Thoughts
 
 * Government regulation can never lead to true privacy protection online. It
-  will only increase the size and scope of government, as well as legitimize
-  government attempts to get a strangle hold on the Internet.
-* If you truly care about privacy, _learn_ about technologies such as
-  [Tor](https://www.torproject.org/) and [i2p](https://geti2p.net/en/).
+	will only increase the size and scope of government, as well as legitimize
+	government attempts to get a strangle hold on the Internet.
+* If you truly care about privacy, consider taking the following actions to
+  learn more and protect yourself:
+  * Checkout this ["awesome-privacy" repository on GitHub](https://github.com/pluja/awesome-privacy) which lists privacy-respecting alternatives to many common technologies and services.
+  * Learn about network anonymization tools such as [Tor](https://www.torproject.org/) and [i2p](https://geti2p.net/en/).
