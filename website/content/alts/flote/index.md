@@ -18,7 +18,8 @@ As far as money, the platform currently offers the option to use Bitcoin, and
 there are plans to support additional cryptocurrencies as well.
 
 Flote does not codify concepts like "hate speech" or "hateful content" or
-"misleading information." In fact, there are only seven rules on Flote:
+"misleading information." In fact, there are only seven [rules on
+Flote](https://flote.app/en/rules):
 
 > 1. No spam
 > 2. No doxxing
