@@ -5,12 +5,9 @@
 				<h3>{{ .title }}</h3>
 
 				{{ range .links }}
-					<a href="{{ .href }}">
-						{{ with .logo }}
-							<img src="{{ . }}" width="20" height="20" loading="lazy">
-						{{ end }}
-
-						{{ .text }}
+					<a href="{{ index . 1 }}">
+						{{ with index . 2 }}<img src="{{ . }}" loading="lazy">{{ end }}
+						{{ index . 0 }}
 					</a>
 				{{ end }}
 			</div>

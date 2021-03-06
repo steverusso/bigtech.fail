@@ -1,26 +1,16 @@
 - title: Connect
   links:
-  - text: GitHub
-    href: https://github.com/steverusso/bigtech.fail/
-    logo: /img/logos/github.png
-  - text: E-mail
-    href: mailto:info@bigtech.fail
-    logo: /img/icons/email.png
-  - text: Minds
-    href: https://www.minds.com/bigtechfail
-    logo: /img/logos/minds.png
+  - [ E-mail, 'mailto:info@bigtech.fail', /img/icons/email.png ]
+  - [ Minds, 'https://minds.com/bigtechfail', /img/logos/minds.png ]
+  - [ GitHub, 'https://github.com/steverusso/bigtech.fail/', /img/logos/github.png ]
+  - [ Flote, 'https://flote.app/user/bigtechfail', /img/logos/flote.png ]
 
 - title: About
   links:
-  - text: Privacy Policy
-    href: /privacy-policy/
-  - text: Contributing
-    href: /help/
-  - text: Credits
-    href: /credits/
+  - [ Privacy Policy, /privacy-policy/ ]
+  - [ Contributing, /help/ ]
+  - [ Credits, /credits/ ]
 
 - title: Miscellaneous
   links:
-  - text: Monero
-    href: /monero/
-    logo: /img/logos/monero.png
+  - [ Monero, /monero/, /img/logos/monero.png ]

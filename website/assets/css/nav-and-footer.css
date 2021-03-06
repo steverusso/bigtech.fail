@@ -112,6 +112,8 @@ footer a {
 }
 footer a > img {
 	margin-right: 0.75rem;
+	width: 20px !important;
+	height: 20px !important;
 }
 footer > img:last-child {
 	margin: auto;
