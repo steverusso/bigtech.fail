@@ -6,7 +6,7 @@
 <nav>
 	<a href="/">
 		{{ if .IsHome }}
-			{{ $img := (resources.Get "static/favicon-96.png").Resize "64x" }}
+			{{ $img := (resources.Get "favicon-96.png").Resize "64x" }}
 			<img src="data:image/png;base64,{{ $img.Content | base64Encode }}" height="36" width="36">
 		{{ else }}
 			<img src="/logo.png" height="36" width="auto" loading="lazy">
