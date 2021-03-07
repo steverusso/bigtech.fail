@@ -3,7 +3,7 @@ title: Google Play Suspends Element (Reinstated)
 date: 2021-01-30
 image: /img/logos/element.png
 corpos: [ google ]
-tags: [ suspended, app ]
+tags: [ suspended, app, privacy ]
 sources:
  - [ 'Element Blog "Element suspended on Google Play Store: now resolved." by Matthew Hodgson (30 Jan 2021)', 'archive.is/xPXk6' ]
  - [ 'twitter.com/element_hq/status/1355290296947499013', 'archive.is/yP73a' ]

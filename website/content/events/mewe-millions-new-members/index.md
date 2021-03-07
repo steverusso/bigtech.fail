@@ -3,7 +3,7 @@ title: Facebook Alternative MeWe Experiences Record Growth
 date: 2021-01-18
 image: /img/logos/mewe.png
 corpos: [ facebook ]
-tags: [ alttech-growth, capitol-riot ]
+tags: [ alttech-growth, capitol-riot, privacy ]
 sources:
  - [ 'twitter.com/mewe/status/1351247260038934533', 'archive.is/UqKn5' ]
  - [ 'ZDNet "''Anti-Facebook'' MeWe social network adds 2.5 million new members in one week" by Eileen Brown (19 Jan 2021)', 'archive.is/kyEzu' ]

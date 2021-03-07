@@ -3,7 +3,7 @@ title: Signal & Telegram See Record Growth Amid WhatsApp Privacy Concerns
 date: 2021-01-12
 image: /img/logos/signal.png
 corpos: [ facebook ]
-tags: [ alttech-growth ]
+tags: [ alttech-growth, privacy ]
 sources:
  - [ 'Engadget "WhatsApp: Let us share your data with Facebook or else" by Chris Velazco (7 Jan 2021)', 'archive.is/bYPHF' ]
  - [ 'twitter.com/elonmusk/status/1347165127036977153', 'archive.is/l7v1x' ]

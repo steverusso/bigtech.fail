@@ -3,7 +3,7 @@ title: Instagram Further Penalizes Private Messages
 date: 2021-02-10
 image: /img/logos/instagram.png
 corpos: [ instagram ]
-tags: [ policy, wtf ]
+tags: [ policy, privacy ]
 sources:
  - [ 'Instagram "An update on our work to tackle abuse on Instagram" (10 Feb 2021)', 'archive.is/l7jJ6' ]
 ---

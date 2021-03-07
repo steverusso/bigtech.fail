@@ -3,7 +3,7 @@ title: Facebook Proactively Works With FBI Regarding the Capitol Riot
 date: 2021-01-19
 image: /img/logos/facebook.png
 corpos: [ facebook ]
-tags: [ gov, fbi, capitol-riot ]
+tags: [ gov, fbi, capitol-riot, privacy ]
 sources:
  - [ 'Forbes "Facebook Confirms It’s Preserving Account Data Related To Capitol Hill Riot Investigations" by Thomas Brewster (19 Jan 2021)', 'archive.is/DfXQf' ]
  - [ 'Forbes "Facebook Gives FBI Private Messages Of Users Discussing Capitol Hill Riot" by Thomas Brewster (21 Jan 2021)', 'archive.is/Uzp5i' ]

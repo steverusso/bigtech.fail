@@ -3,7 +3,7 @@ title: Court Docs Show Google Hands Over Blanket Search Data to Gov't
 date: 2020-10-08
 image: /img/logos/google.png
 corpos: [ google ]
-tags: [ gov, policy ]
+tags: [ gov, policy, privacy ]
 sources:
  - [ 'Reclaim The Net "Google handed over to police data on everyone who searched for certain terms" by Carl Sinclair (9 Oct 2020)', 'reclaimthenet.org/google-keyword-warrants/' ]
  - [ 'Engadget "Google is sharing user data tied to search keywords with law enforcement" by Jon Fingas (8 Oct 2020)', 'archive.is/GNpPA' ]
