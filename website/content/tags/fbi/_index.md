@@ -11,4 +11,9 @@ quotes:
 			 of America today, and it''s like number 100 on everybody''s list. They do
 			 not understand the danger that comes from that. Go read the Stasi, go
 			 read the NKVD, I know that sounds extreme, that''s how that ends.'
+ - person: Glenn Greenwald (@ggreenwald)
+   date: '5 Mar 2021'
+   src: https://archive.is/cOSLk#selection-565.0-565.134
+   q: 'The FBI has always been, still is, and always will be one of the prime
+	     enemies of the civil liberties and privacy rights of Americans.'
 ---
