@@ -1,6 +1,6 @@
 <div class="timeline">
 	{{ range . }}
-		{{ $id := substr (.RelPermalink | sha1) 0 5 }}
+		{{ $id := substr .File.UniqueID 0 5 }}
 
 		<div id="{{ $id }}">
 			<!-- This is what forms the line with the anchor link in the circle. -->
