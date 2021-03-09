@@ -7,7 +7,7 @@
 			<u><a href="#{{ $id }}"></a></u>
 
 			<!-- This is the content of the timeline item. -->
-			<div>{{ partialCached "cards/event" . .RelPermalink }}</div>
+			<div>{{ partialCached "cards/event" . .File.UniqueID }}</div>
 		</div>
 	{{ end }}
 </div>
