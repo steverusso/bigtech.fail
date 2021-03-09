@@ -65,6 +65,6 @@
 {{ define "partials/cards/corpo" }}
 	<a class="card" href="/{{ . }}/">
 		<img src="/img/logos/{{ . }}.png" loading="lazy">
-		{{ index site.Data.bigtechNames . | default (. | title) }}
+		<u>{{ index site.Data.bigtechNames . | default (. | humanize | title) }}</u>
 	</a>
 {{ end }}

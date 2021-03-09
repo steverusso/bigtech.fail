@@ -176,6 +176,9 @@
 	top: 0;
 	left: 0;
 }
+.corpos .card u {
+	max-width: 100%;
+}
 .corpos > div {
 	padding: 0.25rem !important;
 }
@@ -191,9 +194,11 @@
 	height: 24px;
 }
 .alttrs .card u {
-	display: block;
 	font-size: 0.87rem;
 	padding-right: 1.5rem;
+}
+.alttrs .card u, .corpos .card u {
+	display: block;
 	text-decoration: none;
 	text-overflow: ellipsis;
 	white-space: nowrap;
