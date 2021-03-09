@@ -1,5 +1,5 @@
 ---
-title: X22report Reaches 100,000 Subscribers on BitChute
+title: X22report Reaches 100k Subscribers on BitChute!
 date: 2020-12-01
 image: /img/people/x22report.jpg
 corpos: [ youtube ]
