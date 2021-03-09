@@ -168,7 +168,7 @@
 				{{ range (site.GetPage "/events").Pages | first 6 }}
 					<div>
 						<u><i></i></u>
-						<div>{{ partialCached "cards/event" . .RelPermalink }}</div>
+						<div>{{ partialCached "cards/event" . .File.UniqueID }}</div>
 					</div>
 				{{ end }}
 			</div>
