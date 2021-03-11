@@ -6,7 +6,6 @@
 - { key: subscribestar, text: SubscribeStar, prefix: subscribestar.com }
 - { key: minds,         text: Minds,         prefix: www.minds.com }
 - { key: bitchute,      text: Bitchute,      prefix: bitchute.com }
-- { key: brighteon,     text: Brighteon,     prefix: brighteon.com }
 - { key: dlive,         text: DLive,         prefix: dlive.tv }
 - { key: lbry,          text: LBRY,          prefix: lbry.tv }
 - { key: odysee,        text: Odysee,        prefix: odysee.com }
@@ -15,5 +14,7 @@
 - { key: gab,           text: Gab,           prefix: gab.com }
 - { key: telegram,      text: Telegram,      prefix: t.me }
 - { key: mewe,          text: MeWe,          prefix: mewe.com }
+- { key: brighteon,     text: Brighteon,     prefix: brighteon.com }
+- { key: brandnewtube,  text: BrandNewTube,  prefix: brandnewtube.com }
 
 #- { key: parler,        text: Parler,        prefix: parler.com }
