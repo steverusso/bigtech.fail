@@ -1,9 +1,10 @@
 ---
-title: Netflix & YouTube Suppress UpperEchelon Review of "I Care A Lot"
+title: Netflix & YouTube Suppress Upper Echelon's Review of "I Care A Lot"
 date: 2021-03-03
-image: /img/logos/upper-echelon.jpg
+image: /img/people/upper-echelon-gamers.jpg
 corpos: [ netflix, youtube ]
 tags: [ restricted, copyright ]
+profiles: [ upperechelon ]
 sources:
  - [ 'twitter.com/UE_UpperEchelon/status/1367204378684325891', 'archive.is/4qfUl' ]
  - [ 'twitter.com/UE_UpperEchelon/status/1367205639873830912', 'archive.is/xOQre' ]
