@@ -2,7 +2,7 @@
 title: LBRY
 site: lbry.com
 alttrs: [ video-hosting, monetization ]
-weight: 1
+weight: 3
 summary: LBRY is a protocol for managing digital content in a decentralized marketplace.
 ---
 
