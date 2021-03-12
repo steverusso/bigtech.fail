@@ -31,3 +31,6 @@ Odysee](https://odysee.com/@UpperEchelonGamers:3/massively-over-hyped-i-care-a-l
 > mean one of your tech monkeys can illegally strike it down.
 >
 > -- Upper Echelon Gaming (@UE_UpperEchelon) [3 Mar 2021](https://archive.is/xOQre)
+
+_Upper Echelon_ disputed the copyright claim, and Netflix released the claim
+about a week later.
