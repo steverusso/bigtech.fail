@@ -39,5 +39,3 @@ The BitChute project is entirely community funded. Users can donate via
 [SubscribeStar](https://www.subscribestar.com/bitchute) or various
 crypingtocurrencies (including Bitcoin and Ethereum). [Learn
 more](https://www.bitchute.com/help-us-grow/).
-
-[![](crowd-funding.png)](https://www.subscribestar.com/bitchute)
