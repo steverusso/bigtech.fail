@@ -214,7 +214,7 @@ h3[data-count] {
 	background: var(--bodyBg);
 }
 .evtpg section > header h1:after {
-	content: attr(data-date);
+	content: "Occurred on " attr(data-date);
 	color: var(--caption);
 	display: block;
 	font-size: 1.05rem;
