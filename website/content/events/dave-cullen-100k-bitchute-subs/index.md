@@ -8,6 +8,7 @@ profiles: [ dave-cullen ]
 sources:
  - [ 'Archive of Computing Forever channel (bitchute.com/channel/hybM74uIHJKf) passing 100k subscribers', 'archive.is/pwfu3' ]
  - [ 'minds.com/newsfeed/1215955168042057728', 'archive.is/BMHq0' ]
+ - [ 'twitter.com/Bitchute/status/1369364064346988544', 'archive.is/0HZof' ]
 ---
 
 Dave Cullen of [_Computing
