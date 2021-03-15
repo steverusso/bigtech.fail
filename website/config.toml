@@ -11,13 +11,14 @@ summaryLength = 25
 	minifyOutput = true
 
 [taxonomies]
-	tag = "tags"
-	profile = "profiles"
 	corpos = "corpos"
 	alttr = "alttrs"
+	tag = "tags"
+	profile = "profiles"
 
 [permalinks]
 	corpos = "/:slug/"
+	posts = "/p/:filename/"
 	events = "/e/:filename/"
 	tags = "/t/:slug/"
 	alttrs = "/alt/:slug/"

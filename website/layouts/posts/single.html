@@ -1,0 +1,18 @@
+{{ define "main" }}
+	<div class="cntr w900">
+		<h1>{{ .Title }}</h1>
+
+		<span class="caption">By: {{ .Params.author | default "Steve Russo" }}</span>
+
+		{{ with .Date }}
+			| <span class="caption">Published: {{ .Format "Jan 2, 2006" }}</span>
+		{{ end }}
+
+		{{ with .Lastmod }}
+			| <span class="caption">Updated: {{ .Format "Jan 2, 2006" }}</span>
+		{{ end }}
+		<hr>
+
+		<article>{{ .Content }}</article>
+	</div>
+{{ end }}
