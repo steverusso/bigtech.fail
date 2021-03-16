@@ -1,6 +1,10 @@
 {{ define "main" }}
-	<div class="cntr w900">
-		<h1>{{ .Title }}</h1>
+	{{ with .Resources.GetMatch "banner*" }}
+		<img src="{{ . }}" style="max-width: 100%; width: 850px; margin: auto;" loading="lazy">
+	{{ end }}
+
+	<div class="cntr w800">
+		<h1 style="margin-top: 0;">{{ .Title }}</h1>
 
 		<span class="caption">By: {{ .Params.author | default "Steve Russo" }}</span>
 

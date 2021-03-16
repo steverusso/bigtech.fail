@@ -147,9 +147,8 @@ h3[data-count] {
 		padding: 1rem;
 	}
 }
-.cntr.w900 {
-	width: 900px;
-}
+.cntr.w800 { width: 800px }
+.cntr.w900 { width: 900px }
 
 .grid {
 	--c: 12; /* columns */
