@@ -1,4 +1,4 @@
-{{ define "ogimg" }}{{ with .Resources.GetMatch "banner*" }}{{ . }}{{ end }}{{ end }}
+{{ define "ogimg" }}{{ with .Resources.GetMatch "banner*" }}http://bigtech.fail/p/{{ $.File.ContentBaseName }}/{{ . }}{{ end }}{{ end }}
 
 {{ define "ogdesc" }}{{ .Summary | plainify }}{{ end }}
 
