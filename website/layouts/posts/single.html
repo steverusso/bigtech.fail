@@ -1,3 +1,7 @@
+{{ define "ogimg" }}{{ with .Resources.GetMatch "banner*" }}{{ . }}{{ end }}{{ end }}
+
+{{ define "ogdesc" }}{{ .Summary | plainify }}{{ end }}
+
 {{ define "main" }}
 	{{ with .Resources.GetMatch "banner*" }}
 		<img src="{{ . }}" style="max-width: 100%; width: 850px; margin: auto;" loading="lazy">
