@@ -4,7 +4,7 @@ links:
   website: www.jenniferzengblog.com
   subscribestar: inconvenient-truths-by-jennifer-zeng
   parler: profile/JenniferZeng
-  lbry: '@InconvenientTruths:c'
+  odysee: '@InconvenientTruths:c'
   telegram: InconvenientTruthsByJenniferZeng
   mewe: i/jenniferzeng
   gab: JenniferZeng

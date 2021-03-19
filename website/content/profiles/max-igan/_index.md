@@ -4,7 +4,7 @@ links:
   website: thecrowhouse.com
   support: thecrowhouse.com/contribute.html
   bitchute: channel/TheCrowhouse
-  lbry: '@thecrowhouse'
+  odysee: '@thecrowhouse:2'
   minds: maxiganscrowhouse
 ---
 

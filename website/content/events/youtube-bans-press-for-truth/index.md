@@ -16,7 +16,7 @@ sources:
  - [ 'Press For Truth "The Press For Truth YouTube Channel HAS BEEN REINSTATED…SORT OF" on BitChute (22 Jan 2021)', 'www.bitchute.com/video/UTedM6e2t3ht/' ]
  - [ 'Press For Truth "Wow Guess Who’s Back!!! What’s The Plan For This Channel?…" on BitChute (9 Feb 2021)', 'www.bitchute.com/video/Fc7IWyW3veQ/' ]
 extra:
- - [ '', 'lbry.tv/@PressForTruth:4/PFT-Terminated-VIDEO:a' ]
+ - [ '', 'odysee.com/@PressForTruth:4/PFT-Terminated-VIDEO:a' ]
 ---
 
 [YouTube](/youtube/) "permanently disabled" _Press For Truth_, an independent
@@ -36,7 +36,7 @@ The last video he published on YouTube before being permanently banned was
 titled **The WAYFAIR CONSPIRACY Is A PSYOP RED HERRING Designed To DISTRACT YOU
 FROM THE TRUTH!!!** which can still be viewed [on
 BitChute](https://www.bitchute.com/video/93VJREXyewE/) and [on
-LBRY](https://lbry.tv/@PressForTruth:4/the-wayfair-conspiracy-is-a-psyop-red:8).
+Odysee](https://odysee.com/@PressForTruth:4/the-wayfair-conspiracy-is-a-psyop-red:8).
 
 **About six months later** (and less than two days after Biden's inauguration),
 YouTube reached out to Dan Dicks and said that this was a "mistake" and that

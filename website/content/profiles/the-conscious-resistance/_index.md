@@ -6,7 +6,7 @@ links:
   support: theconsciousresistance.com/invest/
   merch: theconsciousresistance.com/product-category/clothing/
   bitchute: channel/v4jgxgSNfpCX/
-  lbry: '@theconsciousresistance:7'
+  odysee: '@theconsciousresistance:7'
   flote: ConsciousResistance
   minds: theconsciousresistancenetwork
   telegram: theconsciousresistance

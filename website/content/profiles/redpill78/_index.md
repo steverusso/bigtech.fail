@@ -3,7 +3,7 @@ title: RedPill78
 links:
   merch: teespring.com/stores/redpill78
   subscribestar: redpill78
-  lbry: '@RedPill78:e'
+  odysee: '@RedPill78:e'
   bitchute: channel/ckAsk0HlOn5w/
   brighteon: channels/redpill78
   rumble: c/c-294651
