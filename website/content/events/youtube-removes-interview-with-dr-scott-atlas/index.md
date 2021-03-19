@@ -25,5 +25,5 @@ COVID-19 advisor to President Trump on August 10.
 > -- Avik Roy (@Avik) [13 Sep 2020](https://archive.is/bBOML)
 
 The full interview is still available on freer sections of the internet, such
-as [on LBRY](https://lbry.tv/@NoNewAbnormal:4/The-Doctor-is-in:f) and [on
+as [on Odysee](https://odysee.com/@NoNewAbnormal:4/The-Doctor-is-in:f) and [on
 NewTube](https://newtube.app/user/anthony/OhF2gDu).
