@@ -60,3 +60,13 @@ content hosting in regards to trust:
 
 Check out [Odysee's Twitter account](https://twitter.com/OdyseeTeam) to learn
 more and stay up to date!
+
+> The notion that humans should be free to express things to one another isn't
+> radical.
+>
+> It's the idea that a small number of people should control who gets to
+> express things that is radical.
+>
+> Don't let them flip the script.
+>
+> -- LBRY (@LBRYcom) [16 Feb 2021](https://archive.is/c6uyU)
