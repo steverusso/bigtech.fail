@@ -10,7 +10,7 @@ extra:
  - [ '', 'https://odysee.com/@lbry:3f/levelsonodysee:c' ]
 ---
 
-Odysee is a video-hosting platform that uses the [LBRY protocol](/alt/lbry/).
+Odysee is a video-hosting platform that uses the LBRY protocol.
 <!--more-->
 
 The platform is a bit more centralized than if you were to interact with the
