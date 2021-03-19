@@ -7,7 +7,7 @@ links:
   subscribestar: freedomain
   minds: StefanMolyneux
   bitchute: channel/freedomainradio
-  lbry: '@freedomain'
+  odysee: '@freedomain:b'
   dlive: freedomain
   telegram: freedomainradio
   parler: profile/stefanmolyneux

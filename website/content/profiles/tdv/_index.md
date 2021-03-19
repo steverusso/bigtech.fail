@@ -5,7 +5,7 @@ links:
   website: dollarvigilante.tv
   bitchute: channel/DkNYbFJKDPpX/
   brighteon: channels/thedollarvigilante
-  lbry: '@DollarVigilante:b'
+  odysee: '@DollarVigilante:b'
 ---
 
 [The Dollar Vigilante](https://dollarvigilante.com/what-is-tdv/) is a financial

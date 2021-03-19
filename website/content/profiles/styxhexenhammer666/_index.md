@@ -8,7 +8,7 @@ links:
   minds: Styxhexenhammer/
   bitchute: profile/Za8Dc9idFh5M/
   brighteon: channel/styxhexenhammer666
-  lbry: '@Styxhexenhammer666'
+  odysee: '@Styxhexenhammer666:2'
   gab: Styx666Official
 ---
 

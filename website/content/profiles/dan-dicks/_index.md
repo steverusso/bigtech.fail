@@ -5,7 +5,7 @@ links:
  support: pressfortruth.ca/donate/
  subscribestar: pressfortruth
  bitchute: channel/uMyXWmHMxzx4/
- lbry: '@PressForTruth'
+ odysee: '@PressForTruth:4'
  dlive: PressForTruth
  flote: DanDicksPFT
 ---
