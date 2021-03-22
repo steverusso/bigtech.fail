@@ -1,6 +1,5 @@
 ---
 title: Support
-url: /support/
 ---
 
 ## Without Giving Money!
