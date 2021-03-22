@@ -21,7 +21,7 @@ nav a:first-child {
 	margin-right: auto;
 }
 nav a:not(:first-child) {
-	border-left: 1px solid #555;
+	border-left: 1px solid #444;
 }
 nav a:not(:first-child):hover {
 	background: #333;
