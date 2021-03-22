@@ -3,9 +3,6 @@ nav a, footer a {
 	align-items: center;
 	font-size: 1rem;
 }
-nav a:hover, footer a:hover {
-	color: #888;
-}
 nav, #tn + label + div:before {
 	background: var(--navBg);
 	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
@@ -22,6 +19,13 @@ nav a {
 }
 nav a:first-child {
 	margin-right: auto;
+}
+nav a:not(:first-child) {
+	border-left: 1px solid #555;
+}
+nav a:not(:first-child):hover {
+	background: #333;
+	text-decoration: none;
 }
 #tn + label:before {
 	background-color: rgba(34,34,34,0.6);
@@ -85,6 +89,8 @@ nav a:first-child {
 		display: none;
 	}
 }
+nav a[href="/alts/"]:after, #tn + label + div a[href="/alts/"]:after { content: "Alternative Tech" }
+nav a[href="/events/"]:after, #tn + label + div a[href="/events/"]:after { content: "Event Archives" }
 
 footer {
 	background: var(--navBg);
@@ -109,6 +115,9 @@ footer h3 {
 footer a {
 	display: flex;
 	margin: 1rem 0 0 0.5rem;
+}
+footer a:hover {
+	color: #888;
 }
 footer a > img {
 	margin-right: 0.75rem;
