@@ -250,3 +250,10 @@ h3[data-count] {
 		content: "Event Info";
 	}
 }
+
+.easy-select {
+	cursor: pointer;
+	-webkit-user-select: all !important;
+	user-select: all !important;
+	word-break: break-all;
+}
