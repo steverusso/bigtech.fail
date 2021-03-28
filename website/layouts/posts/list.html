@@ -1,0 +1,49 @@
+{{ define "style" }}
+<style>
+h1 {
+	border-bottom: var(--border1);
+	margin-bottom: 3rem;
+	padding-bottom: 1rem;
+}
+.p {
+	display: flex;
+	align-items: center;
+	margin-bottom: 4rem;
+}
+.p:hover {
+	text-decoration: none;
+}
+.p h2 {
+	color: var(--bodyColor);
+	font-weight: 600;
+}
+.p:hover h2 {
+	text-decoration: underline;
+}
+.p span {
+	color: var(--caption);
+}
+@media (max-width: 500px) {
+	.p img {
+		display: none;
+	}
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+	<div class="cntr w800">
+		<h1>{{ .Title }}</h1>
+
+		{{ range .Pages }}
+			<a class="p" href="{{ .RelPermalink }}">
+				<img src="/p/{{ .File.ContentBaseName }}/pic.png" width="150" height="150">
+				<div>
+					<h2>{{ .Title }}</h2>
+					<span>{{ .Date.Format "02 Jan 2006" }}</span>
+					<p>{{ .Summary }}</p>
+				</div>
+			</a>
+		{{ end }}
+	</div>
+{{ end }}
