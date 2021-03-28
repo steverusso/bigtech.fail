@@ -1,5 +1,4 @@
 ---
 title: Alternatives
-url: /alts/
 ---
 
