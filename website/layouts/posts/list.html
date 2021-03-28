@@ -37,7 +37,10 @@ h1 {
 
 		{{ range .Pages }}
 			<a class="p" href="{{ .RelPermalink }}">
-				<img src="/p/{{ .File.ContentBaseName }}/pic.png" width="150" height="150">
+				{{ with .Resources.GetMatch "pic*" }}
+					<img src="{{ .RelPermalink }}" width="150" height="150">
+				{{ end }}
+
 				<div>
 					<h2>{{ .Title }}</h2>
 					<span>{{ .Date.Format "02 Jan 2006" }}</span>
