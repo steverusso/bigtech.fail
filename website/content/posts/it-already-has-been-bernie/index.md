@@ -1,6 +1,7 @@
 ---
 title: '"Tomorrow, It Could Be Somebody Else": It Already Has Been, Bernie!'
 date: 2021-03-27
+summary: Bernie Sanders said he's not comfy with Trump's Twitter ban because it could be someone else tomorrow... not realizing it already has been "someone else," and mostly his supporters lol.
 ---
 
 In [an interview a few days ago](https://archive.is/VDzVC), Bernie Sanders was
