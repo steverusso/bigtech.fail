@@ -89,8 +89,9 @@ nav a:not(:first-child):hover {
 		display: none;
 	}
 }
-nav a[href="/alts/"]:after, #tn + label + div a[href="/alts/"]:after { content: "Alternative Tech" }
-nav a[href="/events/"]:after, #tn + label + div a[href="/events/"]:after { content: "Event Archives" }
+nav a[href="/alts/"]:after, #tn + label + div a[href="/alts/"]:after { content: "Alternatives" }
+nav a[href="/events/"]:after, #tn + label + div a[href="/events/"]:after { content: "Event Records" }
+nav a[href="/posts/"]:after, #tn + label + div a[href="/posts/"]:after { content: "Posts" }
 
 footer {
 	background: var(--navBg);
