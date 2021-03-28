@@ -38,7 +38,7 @@ h1 {
 		{{ range .Pages }}
 			<a class="p" href="{{ .RelPermalink }}">
 				{{ with .Resources.GetMatch "pic*" }}
-					<img src="{{ .RelPermalink }}" width="150" height="150">
+					<img src="{{ .RelPermalink }}" width="150" height="150" loading="lazy">
 				{{ end }}
 
 				<div>
