@@ -79,7 +79,7 @@
 }
 
 .condensed {
-	max-width: 650px;
+	max-width: 550px;
 }
 .condensed > .timeline .card {
 	--imgSize: 72px;
