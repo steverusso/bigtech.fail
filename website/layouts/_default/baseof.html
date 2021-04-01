@@ -15,10 +15,6 @@
 		<link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="/favicon-180.png">
 
-		<meta property="og:image" content="{{ block `ogimg` . }}http://bigtech.fail/img/social-media-share.png{{ end }}">
-		<meta property="og:description" content="{{ block `ogdesc` . }}The censorship, propaganda, and mass surveillance from today's technology corporations and governments.{{ end }}">
-		<meta name="twitter:card" content="summary_large_image">
-
 		<title>{{ block "title" . }} {{ with .Title }} {{ . }} | {{ end }} {{ end }} {{ .Site.Title }}</title>
 	</head>
 
