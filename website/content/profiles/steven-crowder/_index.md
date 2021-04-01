@@ -7,6 +7,6 @@ links:
 ---
 
 Steven Crowder is a comedian and host of the number one conservative late night
-comedy show, "Louder With Crowder." Crowder, via his half-Asian lawyer Bill
-Richmond, is a leader in challenging BigTech to enfore the rules _fairly_
-instead of _selectively_.
+comedy show _Louder With Crowder_. Crowder, via his half-Asian lawyer Bill
+Richmond, is a leader in challenging BigTech to enforce their own rules
+_fairly_ instead of _selectively_.
