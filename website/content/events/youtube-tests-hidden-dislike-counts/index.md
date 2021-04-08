@@ -11,6 +11,7 @@ sources:
 extra:
  - [ 'Styxhexenhammer666 "Youtube to Shelter Loser Users and Lamestream Swill By Getting Rid of Dislike Function" on Odysee (1 Apr 2021)', 'odysee.com/@Styxhexenhammer666:2/youtube-to-shelter-loser-users-and:3' ]
  - [ 'The Epoch Times "YouTube to Test Hiding ‘Dislikes’ Following Massive ‘Dislike’ Counts on White House Channel Videos" by Samuel Allegri (31 Mar 2021)', 'archive.ph/FEaLI' ]
+ - [ 'Breitbart "Bokhari: YouTube’s Plan to Stop Users Expressing Disapproval of Elites" by Allum Bokhari (3 Apr 2021)', 'archive.ph/GgSMA' ]
 ---
 
 [YouTube](/youtube/) started rolling out hidden dislikes to a small group of
