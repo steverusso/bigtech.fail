@@ -18,6 +18,13 @@ quotes:
    q: 'lol #BoycottAmazon brought to you by the same people who demanded this
 	     entire country be shut down in perpetuity thus destroying main street
 			 and making Amazon the only choice for many Americans.'
+ - person: Glenn Greenwald (@ggreenwald)
+   date: '9 Apr 2021'
+   src: https://archive.ph/40z5l#selection-905.0-905.269
+   q: 'If Google''s policy -- that you get banned for saying *anything* about
+       COVID-19 that deviates from the views of WHO, Dr. Fauci & friends -- were
+       in place in March, 2020, then you''d have been banned for *urging people
+       to wear masks*. That''s when WHO/Fauci were anti-mask.'
 ---
 
 BigTech will heavily censor material, even if factual and true, that runs
