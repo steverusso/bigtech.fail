@@ -12,11 +12,10 @@ Below are some of our AltTech affiliate links. If you register on those
 platforms by clicking on the links below, we receive a small reward for
 referring / inviting you!
 
-* [Join Minds](https://www.minds.com/register?referrer=bigtechfail)
 * [Join Odysee](https://odysee.com/$/invite/@BigTech.fail:9)
 
 
 ## ![](/img/icons/support.png) Donate
 
-* <span style="user-select: none;">Monero: [(QR Code)](/xmr-qr.png) <code class="easy-select">43prPAaZbSfSF2yNzWJ5asJYMS8PVDf5vjcqRwkf2YkER84XKqiNQ6mGPNLF57JfVEUSGCkQ8sSHV6tWnPAXcwGmCgeUiCu</code></span>
-* <span style="user-select: none;">Bitcoin: [(QR Code)](/btc-qr.png) <code class="easy-select">bc1qkgk8na3gglpcdcr9gygmj8tqnwe35v3xs24md6</code></span>
+* <span style="user-select: none;">Monero: [(QR Code)](/xmr-qr.png) <code class="easy-select">48c67XF15rNHD3KXVHh5aGFWNMn1JhcZ1JCaqMhCioeidaigiE3433bJU1JknQrpB2AwThoMZrtTuK1nRJ35geV5HnVHneY</code></span>
+* <span style="user-select: none;">Bitcoin: [(QR Code)](/btc-qr.png) <code class="easy-select">bc1qjmn3u6qlxftvjw9ecxyn7g9t8rapp2ue6l2gn7</code></span>
