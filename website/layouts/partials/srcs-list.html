@@ -1,8 +1,15 @@
 <ol class="srcs">
 	{{ range $ }}
-		{{ $p := index . 1 }}
-		{{ $isLocal := hasPrefix $p "./" }}
-		{{ $url := cond $isLocal (substr $p 2) (printf "https://%s" $p) }}
-		<li><a href="{{ $url }}"{{ if not $isLocal }} target="_blank"{{ end }}>{{ index . 0 | default $p }}</a></li>
+		{{ $isSlice := reflect.IsSlice . }}
+		{{ $url := cond $isSlice (index . 1) . }}
+		{{ $txt := cond $isSlice (index . 0) . }}
+
+		<li>
+			{{ if hasPrefix $url "./" }}
+				<a href="{{ substr $url 2 }}">{{ $txt }}</a>
+			{{ else }}
+				<a href="https://{{ $url }}" target="_blank">{{ $txt | default $url }}</a>
+			{{ end }}
+		</li>
 	{{ end }}
 </ol>
