@@ -9,7 +9,7 @@ sources:
  - [ 'twitter.com/IPOT1776/status/1316764736445243392', 'archive.is/oVj3Y' ]
  - [ 'twitter.com/IPOT1776/status/1316922156786307072', 'archive.is/OyEtk' ]
  - [ 'altcensored.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ', 'altcensored.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ' ]
- - [ 'socialblade.com/youtube/channel/UCAyrKoW31y5UcsRjh2ItvxQ (archived)', 'archive.is/TMi4E' ]
+ - [ 'socialblade.com/youtube/channel/UCAyrKoW31y5UcsRjh2ItvxQ', 'archive.is/TMi4E' ]
  - [ 'youtube.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ (archived channel removal notice)', 'archive.is/0omjC/image' ]
 youtube:
  subs: 242952

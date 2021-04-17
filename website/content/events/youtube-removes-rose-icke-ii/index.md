@@ -6,7 +6,7 @@ corpos: [ youtube, vimeo ]
 tags: [ content-removed, covid ]
 sources:
  - [ 'BitChute "David Icke''s Explosive Interview With London Real - The Video That Youtube Doesn''t Want You To See" by DavidIcke (6 Apr 2020)', 'www.bitchute.com/video/H4W7FwBy0Ukh/' ]
- - [ 'Instagram - therealbrianrose (7 Apr 2020) (archived)', 'archive.vn/3iBgr' ]
+ - [ 'Instagram - therealbrianrose (7 Apr 2020)', 'archive.vn/3iBgr' ]
  - [ 'BitChute "DI3" by London Real (10 May 2020)', 'www.bitchute.com/video/BFA8mH7wxjE1/' ]
  - [ 'Reclaim The Net "YouTube censors popular David Icke interview which had 339,000 views in 30 minutes" by Tom Parker (7 Apr 2020)', 'reclaimthenet.org/youtube-censors-david-icke-london-real/' ]
 ---

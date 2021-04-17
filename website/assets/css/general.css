@@ -99,6 +99,9 @@ tr:nth-child(odd) {
 	margin-bottom: 0.5rem;
 	line-height: 1.75;
 }
+.srcs a[href^="https://archive."]:after {
+	content: " \00a0\00a0(archived)";
+}
 
 [data-count]:after {
 	content: attr(data-count) " ";

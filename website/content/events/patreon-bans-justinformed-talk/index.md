@@ -8,7 +8,7 @@ sources:
  - [ 'twitter.com/JustInformU/status/1319346634782748672', 'archive.is/PVwer' ]
  - [ 'twitter.com/JustInformU/status/1319352201983062016', 'archive.is/QYbe8' ]
  - [ 'twitter.com/JustInformU/status/1319795258570371072', 'archive.is/N2QhL' ]
- - [ 'graphtreon.com/creator/justinformedtalk (archived)', 'archive.is/fI5Uw' ]
+ - [ 'graphtreon.com/creator/justinformedtalk', 'archive.is/fI5Uw' ]
  - [ 'patreon.com/justinformedtalk (archived removal notice)', 'archive.is/644KC' ]
 ---
 

@@ -7,7 +7,7 @@ tags: [ banned ]
 sources:
  - [ 'twitter.com/MouthyBuddha/status/1316767591126519810', 'archive.is/KMnr3' ]
  - [ 'altcensored.com/channel/UCKEt1xKVBLuL175dkk8rqLg', 'archive.is/yVGkd' ]
- - [ 'socialblade.com/youtube/channel/UCKEt1xKVBLuL175dkk8rqLg (archived)', 'archive.is/IF0M6' ]
+ - [ 'socialblade.com/youtube/channel/UCKEt1xKVBLuL175dkk8rqLg', 'archive.is/IF0M6' ]
  - [ 'youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg (archived channel removal notice)', 'archive.is/sinvd/image' ]
 extra:
  - [ 'twitter.com/MouthyBuddha/status/1339669814487506947', 'archive.is/uvhV8' ]

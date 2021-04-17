@@ -6,7 +6,7 @@ profiles: [ tim-pool ]
 corpos: [ patreon ]
 tags: [ walked-away ]
 sources:
- - [ 'Tim Pool''s Last Patreon Post (archived) - https://www.patreon.com/posts/please-read-23584421', 'archive.vn/70pUr' ]
+ - [ 'Tim Pool''s Last Patreon Post - patreon.com/posts/please-read-23584421', 'archive.vn/70pUr' ]
 ---
 
 In December of 2018, Patreon purged several accounts for political reasons, which not only caused massive losses for other creators, but also severely underminded many creators' confidence in the platform.

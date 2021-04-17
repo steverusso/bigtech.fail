@@ -6,7 +6,7 @@ profiles: [ carey-wedler ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'socialblade.com/twitter/user/careywedler (archived)', 'web.archive.org/web/20201113142127/https://socialblade.com/twitter/user/careywedler' ]
+ - [ 'socialblade.com/twitter/user/careywedler', 'web.archive.org/web/20201113142127/https://socialblade.com/twitter/user/careywedler' ]
  - [ 'YouTube "THE PURGE IS HERE: Hundreds of political social media pages deleted without warning" by Carey Wedler (11 Oct 2018)', 'youtu.be/q4zu_QS6hK4' ]
  - [ 'twitter.com/CareyWedler (archive of profile suspension notice)', 'archive.is/ZIORY' ]
  - [ 'minds.com/newsfeed/899784365716287488', 'archive.is/Za9Sg' ]
