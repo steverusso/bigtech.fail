@@ -6,8 +6,8 @@ corpos: [ youtube ]
 tags: [ banned ]
 sources:
  - [ 'twitter.com/ThePatriotHour/status/1316767376243855361', 'archive.is/JEp14' ]
- - [ 'socialblade.com/youtube/channel/UCwJq9pqEEUr5_OmwBWQxDKA (archived)', 'archive.is/winCF' ]
- - [ 'socialblade.com/youtube/channel/UC1h1a4IkUVc4fumhmRpqXSA (backup channel) (archived)', 'archive.is/Par9T' ]
+ - [ 'socialblade.com/youtube/channel/UCwJq9pqEEUr5_OmwBWQxDKA', 'archive.is/winCF' ]
+ - [ 'socialblade.com/youtube/channel/UC1h1a4IkUVc4fumhmRpqXSA (backup channel)', 'archive.is/Par9T' ]
  - [ 'youtube.com/channel/UCwJq9pqEEUr5_OmwBWQxDKA (archived channel removal notice)', 'archive.is/4IcZy/image' ]
 youtube:
  subs: 249000

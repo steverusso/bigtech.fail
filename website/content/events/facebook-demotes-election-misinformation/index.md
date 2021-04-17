@@ -5,9 +5,9 @@ image: /img/logos/facebook.png
 corpos: [ facebook, instagram ]
 tags: [ policy, gov, election2020 ]
 sources:
- - [ 'forbes.com/sites/rachelsandler/2020/11/05/facebook-will-temporarily-demote-posts-that-spread-election-misinformation/ (archived)', 'archive.is/9hBxU' ]
- - [ 'breitbart.com/tech/2020/11/06/facebook-censorship-platform-will-temporarily-demote-posts-that-share-election-misinformation/ (archived)', 'archive.is/XvBlV' ]
- - [ 'nytimes.com/2020/11/05/technology/facebook-election-misinformation.html (archived)', 'archive.is/Fn8vJ' ]
+ - [ 'forbes.com/sites/rachelsandler/2020/11/05/facebook-will-temporarily-demote-posts-that-spread-election-misinformation/', 'archive.is/9hBxU' ]
+ - [ 'breitbart.com/tech/2020/11/06/facebook-censorship-platform-will-temporarily-demote-posts-that-share-election-misinformation/', 'archive.is/XvBlV' ]
+ - [ 'nytimes.com/2020/11/05/technology/facebook-election-misinformation.html', 'archive.is/Fn8vJ' ]
  - [ '', 'reclaimthenet.org/facebook-to-add-more-friction-to-the-election-fraud-conversation/' ]
 ---
 

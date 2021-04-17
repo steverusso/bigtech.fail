@@ -7,7 +7,7 @@ tags: [ suspended, gov ]
 sources:
  - [ 'Austin Peterson Facebook Post (30 Jul 2018)', 'archive.is/Y8bNh' ]
  - [ 'KCTV5 "Twitter gives 12-hour ban to GOP Senate candidate in Missouri" by Caroline Sweeney and Nick Sloan (30 Jul 2018)', 'archive.vn/z4uhL' ]
- - [ 'Twitter - @CarolineKCTV5 - 1024005423244996609 (30 Jul 2018) (archived)', 'archive.vn/rppps' ]
+ - [ 'Twitter - @CarolineKCTV5 - 1024005423244996609 (30 Jul 2018)', 'archive.vn/rppps' ]
  - [ 'Daily Caller "Twitter Issued GOP Candidate Temporary Ban Week Before Election" by Kyle Perisic (31 Jul 2018)', 'archive.vn/YEN8z' ]
 ---
 

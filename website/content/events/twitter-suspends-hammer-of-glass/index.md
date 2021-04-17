@@ -10,7 +10,7 @@ sources:
  - [ 'twitter.com/Hammer_Of_Glass/status/1276198714072338432', 'archive.is/9ATlQ' ]
  - [ 'twitter.com/PankhurstEM/status/1282225319169200129', 'archive.is/g9gUB' ]
  - [ 'glinner.co.uk/a-week-in-the-war-on-women-monday-6th-july-sunday-12th-july/', 'archive.is/4iFyC#selection-1177.0-1189.2' ]
- - [ 'twitter.com/Hammer_Of_Glass (archived)', 'archive.is/7y3yI' ]
+ - [ 'twitter.com/Hammer_Of_Glass', 'archive.is/7y3yI' ]
 ---
 
 Twitter temporarily suspended a user by the name of _@Hammer_Of_Glass_ for

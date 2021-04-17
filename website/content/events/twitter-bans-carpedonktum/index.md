@@ -6,7 +6,7 @@ profiles: [ carpedonktum ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
- - [ 'CarpeDonktum Locals.com post (archived)', 'archive.is/F92fs' ]
+ - [ 'CarpeDonktum Locals.com post', 'archive.is/F92fs' ]
  - [ 'CarpeDonktum Minds post', 'www.minds.com/newsfeed/1122612088517787648' ]
  - [ 'ZeroHedge "Twitter Bans Trump''s Favorite Meme-Maker As Election Heats Up" by Tyler Durden (23 Jun 2020)', 'archive.is/57mFa' ]
 ---

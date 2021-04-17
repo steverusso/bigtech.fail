@@ -8,7 +8,7 @@ sources:
  - [ 'facebook.com/BlessedToTeach/posts/986755651831552/', 'archive.is/MOW7B' ]
  - [ 'twitter.com/BlessedToTeach/status/1316774024471613442', 'archive.is/QPh8P' ]
  - [ 'twitter.com/BlessedToTeach/status/1316823230552969217', 'archive.is/aKzGx' ]
- - [ 'socialblade.com/youtube/channel/UC3yCYDoc70dMMQGKL364wHQ (archived)', 'archive.is/o6lU3' ]
+ - [ 'socialblade.com/youtube/channel/UC3yCYDoc70dMMQGKL364wHQ', 'archive.is/o6lU3' ]
  - [ 'youtube.com/channel/UC3yCYDoc70dMMQGKL364wHQ (archive of channel removal notice)', 'archive.is/UwF3u/image' ]
 youtube:
  subs: 109000
