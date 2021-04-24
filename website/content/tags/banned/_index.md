@@ -1,7 +1,7 @@
 ---
 aliases: [ /tags/banned/ ]
 title: Banned
-image: /img/icons/banned.png
+image: /icons/banned.png
 ---
 
 We define a **ban** as an individual or organization being **permanently**

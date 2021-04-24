@@ -1,7 +1,7 @@
 ---
 aliases: [ /tags/shadow-banned/ ]
 title: Shadow Banned
-image: /img/icons/shadow-banned.png
+image: /icons/shadow-banned.png
 extra:
  - [ 'twitter.com/jack/status/1316537705023578115', 'https://archive.is/Z6eKB' ]
 ---

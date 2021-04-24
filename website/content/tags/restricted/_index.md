@@ -1,7 +1,7 @@
 ---
 aliases: [ /tags/restricted/ ]
 title: Restricted
-image: /img/icons/restricted.png
+image: /icons/restricted.png
 ---
 
 Restrictions are broadly defined to be any actions against a user's account

@@ -1,7 +1,7 @@
 ---
 aliases: [ /tags/covid/ ]
 title: COVID-19
-image: /img/icons/beaker.png
+image: /icons/beaker.png
 quotes:
  - person: Rep. Eric Swalwell (@RepSwalwell)
    date: '4 Mar 2020'

@@ -2,7 +2,7 @@
 aliases: [ /tags/trans/ ]
 slug: trans
 title: Transgenderism
-image: /img/icons/trans.png
+image: /icons/trans.png
 extra:
  - [ 'twitter.com/DrDebraSoh/status/1364646879305293827', 'https://archive.is/wY64V' ]
 ---

@@ -39,7 +39,7 @@
 
 {{ define "partials/cards/alttr" }}
 	<a class="card" href="{{ .RelPermalink }}">
-		<img src="/img/{{ .Params.image }}.png" loading="lazy">
+		<img src="/{{ .Params.image }}.png" loading="lazy">
 		<u>{{ .Title }}</u>
 	</a>
 {{ end }}

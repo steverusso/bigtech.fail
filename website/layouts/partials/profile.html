@@ -40,8 +40,8 @@
 				{{ $href := printf "https://%s/%s%s" $prefix . $suffix }}
 
 				<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">
-					{{ $type := cond (isset $v "icon") "icons" "logos" }}
-					<img src="/img/{{ $type }}/{{ $v.key }}.png" loading="lazy">
+					{{ $type := cond (isset $v "icon") "icons" "img/logos" }}
+					<img src="/{{ $type }}/{{ $v.key }}.png" loading="lazy">
 				</a>
 			{{ end }}
 		{{ end }}
