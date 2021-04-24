@@ -1,7 +1,7 @@
 ---
 aliases: [ /tags/alttech-growth/ ]
 title: AltTech Growth
-image: /img/icons/alttech-growth.png
+image: /icons/alttech-growth.png
 quotes:
  - person: Styxhexenhammer666 (@Styxhexenhammer666)
    date: '15 Mar 2021'

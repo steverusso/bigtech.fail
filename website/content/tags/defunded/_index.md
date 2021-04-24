@@ -1,7 +1,7 @@
 ---
 aliases: [ /tags/defunded/ ]
 title: Defunded
-image: /img/icons/money.png
+image: /icons/money.png
 ---
 
 Defunding occurs when a BigTech platform **interferes with a content creator's

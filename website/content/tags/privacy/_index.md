@@ -1,6 +1,6 @@
 ---
 title: Privacy
-image: /img/icons/privacy.png
+image: /icons/privacy.png
 ---
 
 BigTech works diligently to ensure that multi-national corporations, state
