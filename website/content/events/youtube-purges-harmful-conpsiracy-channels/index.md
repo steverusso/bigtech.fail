@@ -3,7 +3,7 @@ title: YouTube Purges Channels Spreading "Harmful Conpsiracy Theories"
 date: 2020-10-15
 image: /img/logos/youtube.png
 corpos: [ youtube ]
-tags: [ banned, policy ]
+tags: [ banned, policy, gov, hunters-laptop ]
 sources:
  - [ 'YouTube Official Blog "Managing harmful conspiracy theories on YouTube" by The YouTube Team (15 Oct 2020)', 'archive.is/XAtuq' ]
  - [ 'twitter.com/bitchute/status/1316774341565009923', 'archive.is/AN7NX' ]
@@ -20,6 +20,10 @@ purge of channels they deemed to be spreading "harmful conspiracy theories":
 > that have been used to justify real-world violence. One example would be
 > content that threatens or harrasses someone by suggesting they are complicit
 > in  one of these harmful conspiracies, such as QAnon or Pizzagate.
+
+This occurred _the very next day_ after the _New York Post_ published its
+exposé on Hunter Biden resulting in Twitter and Facebook taking action to
+suppress its reach.
 
 Below are just the channels we were able to identify as part of this purge,
 listed in order of subscriber count. One week later, many of these same
