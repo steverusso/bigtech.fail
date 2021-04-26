@@ -1,10 +1,10 @@
 <footer>
 	<div class="cntr">
-		{{ range site.Data.footerLinks }}
+		{{ range slice "Connect" "About" "Miscellaneous" }}
 			<div>
-				<h3>{{ .title }}</h3>
+				<h3>{{ . }}</h3>
 
-				{{ range .links }}
+				{{ range index site.Data.footerLinks . }}
 					<a href="{{ index . 1 }}">
 						{{ with index . 2 }}<img src="{{ . }}" loading="lazy">{{ end }}
 						{{ index . 0 }}
