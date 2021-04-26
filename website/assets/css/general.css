@@ -133,6 +133,13 @@ h3[data-count] {
 	--fs: 15px;
 }
 
+.easy-select {
+	cursor: pointer;
+	-webkit-user-select: all !important;
+	user-select: all !important;
+	word-break: break-all;
+}
+
 .caption {
 	font-size: 0.9rem;
 	color: var(--caption);
@@ -146,13 +153,13 @@ h3[data-count] {
 	padding: 1.5rem;
 	max-width: 100% !important;
 }
+.cntr.w800 { width: 800px }
+.cntr.w900 { width: 900px }
 @media (max-width: 500px) {
 	.cntr, main {
 		padding: 1rem;
 	}
 }
-.cntr.w800 { width: 800px }
-.cntr.w900 { width: 900px }
 
 .grid {
 	--c: 12; /* columns */
@@ -253,11 +260,4 @@ h3[data-count] {
 	.evtpg aside:before {
 		content: "Event Info";
 	}
-}
-
-.easy-select {
-	cursor: pointer;
-	-webkit-user-select: all !important;
-	user-select: all !important;
-	word-break: break-all;
 }
