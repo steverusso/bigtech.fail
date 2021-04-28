@@ -35,3 +35,6 @@ The new feature was completely rolled out about three weeks later!
 > :partying_face: :hugging_face:
 >
 > -- Odysee (@OdyseeTeam) [22 Apr 2021](https://archive.ph/8RhMR)
+
+[Odysee added "hyperchats"](/e/odysee-hyperchats/) (think superchats) a few
+days after that.
