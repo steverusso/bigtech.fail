@@ -1,42 +1,35 @@
 {{ define "main" }}
-	<input id="sbToggle" type="checkbox">
-	<label for="sbToggle"></label>
-
 	<main>
-		<section>
-			<header>
-				<img src="{{ .Params.image }}" width="72" height="72" loading="lazy">
-				<h1>{{ .LinkTitle | default (.Data.Term | title) }}</h1>
-			</header>
+		<header>
+			<img src="{{ .Params.image }}" width="72" height="72" loading="lazy">
+			<h1>{{ .LinkTitle | default (.Data.Term | title) }}</h1>
+		</header>
 
-			<article>
-				{{ .Content }}
+		<article>
+			{{ .Content }}
 
-				{{ with .Params.sources }}
-					<details>
-						<summary>Sources / Relevant Material</summary>
-						{{ partial "srcs-list" . }}
-					</details>
-				{{ end }}
+			{{ with .Params.sources }}
+				<details>
+					<summary>Sources / Relevant Material</summary>
+					{{ partial "srcs-list" . }}
+				</details>
+			{{ end }}
 
-				{{ with .Params.quotes }}
-					<details>
-						<summary>Some Quotes</summary>
-						{{ range . }}
-							<blockquote>
-								{{ range split .q "\n" }}<p>{{ . }}</p>{{ end }}
-								<p>– {{ .person }}, <a href="{{ .src }}">{{ .date }}</a></p>
-							</blockquote>
-						{{ end }}
-					</details>
-				{{ end }}
-			</article>
+			{{ with .Params.quotes }}
+				<details>
+					<summary>Some Quotes</summary>
+					{{ range . }}
+						<blockquote>
+							{{ range split .q "\n" }}<p>{{ . }}</p>{{ end }}
+							<p>– {{ .person }}, <a href="{{ .src }}">{{ .date }}</a></p>
+						</blockquote>
+					{{ end }}
+				</details>
+			{{ end }}
+		</article>
 
-			<h2 data-count="{{ len .Pages }}">Events</h2>
-			<hr>
-			{{ partial "timeline" .Pages }}
-		</section>
-
-		{{ partialCached "sidebar" . }}
+		<h2 data-count="{{ len .Pages }}">Events</h2>
+		<hr>
+		{{ partial "timeline" .Pages }}
 	</main>
 {{ end }}

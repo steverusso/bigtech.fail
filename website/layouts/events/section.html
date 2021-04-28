@@ -1,16 +1,9 @@
 {{ define "main" }}
-	<input id="sbToggle" type="checkbox">
-	<label for="sbToggle"></label>
-
 	<main>
-		<section>
-			<h1 data-count="{{ len .Pages }}">Events</h1>
-			<article>{{ .Content }}</article>
-			<hr>
+		<h1 data-count="{{ len .Pages }}">Events</h1>
+		<article>{{ .Content }}</article>
+		<hr>
 
-			{{ partial "timeline" .Pages }}
-		</section>
-
-		{{ partialCached "sidebar" . }}
+		{{ partial "timeline" .Pages }}
 	</main>
 {{ end }}
