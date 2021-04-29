@@ -1,9 +1,12 @@
+nav {
+	padding-right: calc(2.5rem + 36px);
+}
 nav a, footer a {
 	color: var(--navColor);
 	align-items: center;
 	font-size: 1rem;
 }
-nav, #tn + label + div:before {
+nav, aside:before {
 	background: var(--navBg);
 	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
 	display: flex;
@@ -20,16 +23,25 @@ nav a {
 nav a:first-child {
 	margin-right: auto;
 }
-nav a:not(:first-child) {
-	border-left: 1px solid #444;
-}
 nav a:not(:first-child):hover {
 	background: #333;
 	text-decoration: none;
 }
+#tn {
+	display: none;
+}
 #tn + label:before {
+	content: "";
 	background-color: rgba(34,34,34,0.6);
+	position: fixed;
+	left: 0;
+	top: 0;
 	width: 100% !important;
+	height: 100%;
+	opacity: 0;
+	transition: 0.3s cubic-bezier(0.25,0.75,0.5,1);
+	visibility: hidden;
+	z-index: -1;
 }
 #tn:checked + label:before {
 	opacity: 1;
@@ -39,6 +51,7 @@ nav a:not(:first-child):hover {
 #tn + label:after {
 	content: "☰";
 	color: #ddd;
+	background: #222;
 	font-size: 36px;
 	line-height: var(--navHeight);
 	padding: 0 1.25rem;
@@ -47,12 +60,17 @@ nav a:not(:first-child):hover {
 	top: 0;
 	z-index: 10;
 }
-#tn + label + div {
+#tn:checked ~ aside {
+	transform: translateX(0);
+}
+aside {
 	background: var(--navBg);
-	border-left: none;
+	border-left: var(--border1);
 	box-shadow: none;
+	padding: 0 !important;
+	scrollbar-width: none;
 
-	width: 325px;
+	width: 400px;
 	max-width: 100%;
 	height: 100%;
 	max-height: 100%;
@@ -67,25 +85,82 @@ nav a:not(:first-child):hover {
 	top: 0;
 	z-index: 9 !important;
 }
-#tn + label + div:before {
+aside:before {
 	content: "";
 }
-#tn + label + div > a {
+aside::-webkit-scrollbar {
+	width: 0 !important;
+}
+aside > a {
 	color: var(--navColor);
 	display: block;
-	text-align: right;
 	padding: 1.5rem;
+}
+aside > div {
+	border-top: var(--border1);
+	padding: 0 1.5rem 8rem;
+	overflow-y: auto;
+}
+aside > div > h3 {
+	display: flex;
+	align-items: center;
+	font-size: 1.1rem;
+	margin: 0.75rem 0;
+}
+aside > div > h3:before {
+	content: "";
+	background: var(--caption);
+	display: inline-flex;
+	margin: 0 0.75rem 0 0.5rem;
+	width: 10px;
+	height: 10px;
+}
+aside > div > div:not(:last-child) {
+	border-bottom: var(--border1);
+	margin-bottom: 2rem;
+	padding-bottom: 2rem;
+}
+@media (max-width: 1249px) {
+	aside > div {
+		padding-bottom: 11rem;
+		top: 0;
+	}
+}
+aside .tags {
+	position: relative;
+}
+aside .tags > #seeMore,
+aside .tags > #seeMore ~ div > .card:nth-child(n+8) {
+	display: none;
+}
+aside .tags > #seeMore + label {
+	color: var(--link);
+	position: absolute;
+	bottom: 1.25rem;
+	left: 0;
+	text-align: center;
+	width: 100%;
+	z-index: 1;
+}
+aside .tags > #seeMore + label:after {
+	content: "(Show All)";
+}
+aside .tags > #seeMore ~ div {
+	padding-bottom: 2.75rem;
+}
+aside .tags > #seeMore:checked + label:after {
+	content: "(Show Fewer)";
+}
+aside .tags > #seeMore:checked ~ div > .card:nth-child(n+8) {
+	display: flex;
 }
 @media (max-width: 599px) {
 	nav > a:not(:first-child) {
 		display: none;
 	}
-	#tn:checked + label + div {
-		transform: translateX(0);
-	}
 }
 @media (min-width: 600px) {
-	#tn + label, #tn + label + div {
+	#tn:checked ~ aside > a {
 		display: none;
 	}
 }
