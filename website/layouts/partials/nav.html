@@ -22,4 +22,36 @@
 	{{ range $links }}
 		<a href="{{ . }}"></a>
 	{{ end }}
+
+	<div>
+		<h3>Corporations:</h3>
+		<div class="corpos grid xs-3">
+			{{ range site.Data.orderCorps }}
+				<div>
+					<a class="card" href="/{{ .k }}/">
+						<i class="img {{ .k }}"></i>
+						{{ index site.Data.bigtechNames .k | default (.k | title) }}
+					</a>
+				</div>
+			{{ end }}
+		</div>
+
+		<h3>Tags:</h3>
+		<div class="tags">
+			<input type="checkbox" id="seeMore">
+			<label for="seeMore"></label>
+			<div>
+				{{ range site.Data.tagsMeta.general }}
+					{{ partialCached "cards/tag-count" . . }}
+				{{ end }}
+			</div>
+		</div>
+
+		<h3>Specifc Tags:</h3>
+		<div class="tags">
+			{{ range site.Data.tagsMeta.specific }}
+				{{ partialCached "cards/tag" . . }}
+			{{ end }}
+		</div>
+	</div>
 </div>
