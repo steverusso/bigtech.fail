@@ -9,23 +9,6 @@
 	</a>
 {{ end }}
 
-<!--
- A profile card is a card link immediately followed by the profile's online
- links. The card has two top level sections: the header (propic, name, optional
- nickname) and the short bio preview. The profile's online links must follow
- the card since it's illegal for `a` elements to contain other `a` elements.
--->
-{{ define "partials/cards/profile" }}
-	<a class="card" href="{{ .RelPermalink }}">
-		<div>
-			{{ partialCached `profile/pic` . .Title }}
-			<b title="{{ .Title }}">{{ .Params.aka | default "" }}</b>
-		</div>
-	</a>
-
-	{{ partialCached "profile/links" .Params.links .Title }}
-{{ end }}
-
 {{ define "partials/cards/alt" }}
 	<a class="alttech card" href="{{ .RelPermalink }}">
 		<div>
