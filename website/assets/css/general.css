@@ -156,6 +156,11 @@ h3[data-count] {
 main {
 	width: 1000px !important;
 }
+main > header {
+	border-bottom: var(--border1);
+	padding-bottom: 1.75rem;
+	margin-bottom: 2rem;
+}
 .cntr.w800 { width: 800px }
 .cntr.w900 { width: 900px }
 @media (max-width: 500px) {
@@ -223,9 +228,10 @@ main {
 	width: 900px !important;
 }
 .evtpg > header {
-	margin-bottom: 2rem;
+	border-bottom: none;
+	margin-bottom: 0.25rem;
 }
-.evtpg > header > img {
+.evtpg > header img {
 	width: 128px !important;
 	height: 128px !important;
 }
@@ -262,7 +268,7 @@ main {
 	}
 }
 
-.tag {
+.tags > a {
 	background: var(--cardTitleBg);
 	border-radius: 16px;
 	color: var(--bodyColor);
@@ -273,10 +279,10 @@ main {
 	margin-bottom: 0.5rem;
 	padding: 0.5rem 0.75rem;
 }
-.tag:hover {
+.tags > a:hover {
 	text-decoration: none;
 }
-.tag img {
+.tags > a img {
 	width: 16px;
 	height: 16px;
 	margin-right: 0.5rem;

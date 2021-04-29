@@ -9,9 +9,9 @@
 			<h1 data-date="{{ .Date.Format `2 Jan 2006` }}">{{ .Title }}</h1>
 		</header>
 
-		<div class="meta">
+		<div class="tags">
 			{{ range .Params.corpos }}
-				<a class="tag" href="/{{ . }}/">
+				<a href="/{{ . }}/">
 					<img src="/img/logos/{{ . }}.png" loading="lazy">
 					{{ index site.Data.bigtechNames . | default (. | humanize | title) }}
 				</a>
@@ -19,7 +19,7 @@
 
 			{{ range .Params.tags }}
 				{{ with site.GetPage (printf "/tags/%s" .) }}
-					<a class="tag" href="{{ .RelPermalink }}">
+					<a href="{{ .RelPermalink }}">
 						<img src="{{ .Params.image }}" loading="lazy">
 						{{ .LinkTitle | default ($ | title) }}
 					</a>
@@ -28,7 +28,7 @@
 
 			{{ range .Params.profiles }}
 				{{ with site.GetPage (printf "/profiles/%s" .) }}
-					<a class="tag" href="{{ .RelPermalink }}">
+					<a href="{{ .RelPermalink }}">
 						{{ partialCached `profile/pic` . .Title }}
 						{{ .Title }}
 					</a>
