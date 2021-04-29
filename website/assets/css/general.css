@@ -153,6 +153,9 @@ h3[data-count] {
 	padding: 1.5rem;
 	max-width: 100% !important;
 }
+main {
+	width: 1000px !important;
+}
 .cntr.w800 { width: 800px }
 .cntr.w900 { width: 900px }
 @media (max-width: 500px) {
@@ -216,6 +219,9 @@ h3[data-count] {
 .btn.blue { --clr: #2196f3 }
 .btn.light-blue { --clr: #03a9f4 }
 
+.evtpg {
+	width: 1250px !important;
+}
 .evtpg > section > header > img {
 	width: 128px !important;
 	height: 128px !important;
