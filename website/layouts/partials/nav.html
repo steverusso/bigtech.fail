@@ -49,9 +49,11 @@
 
 		<h3>Specifc Tags:</h3>
 		<div class="tags">
-			{{ range site.Data.tagsMeta.specific }}
-				{{ partialCached "cards/tag" . . }}
-			{{ end }}
+			<div>
+				{{ range site.Data.tagsMeta.specific }}
+					{{ partialCached "cards/tag" . . }}
+				{{ end }}
+			</div>
 		</div>
 	</div>
 </aside>
