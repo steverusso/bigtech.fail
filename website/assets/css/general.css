@@ -220,50 +220,64 @@ main {
 .btn.light-blue { --clr: #03a9f4 }
 
 .evtpg {
-	width: 1250px !important;
+	width: 900px !important;
 }
-.evtpg > section > header > img {
+.evtpg > header {
+	margin-bottom: 2rem;
+}
+.evtpg > header > img {
 	width: 128px !important;
 	height: 128px !important;
 }
-.evtpg aside {
-	background: var(--bodyBg);
-}
-.evtpg section > header h1:after {
+.evtpg > header h1:after {
 	content: "Occurred on " attr(data-date);
 	color: var(--caption);
 	display: block;
 	font-size: 1.05rem;
 	margin-top: 1rem;
 }
-.evtpg section > article {
+.evtpg > article {
 	border-bottom: var(--border1);
 	margin-bottom: 2rem;
 }
-
-.evtpg section > h4:after {
+.evtpg > h4:after {
 	content: "Sources / Relevant Material";
 	font-weight: 600;
 }
-.profiles > a:not(:first-child) {
-	margin-top: 1rem;
-}
-@media (max-width: 450px) {
-	.evtpg section > header {
+@media (max-width: 500px) {
+	.evtpg > header {
 		flex-direction: column;
 		text-align: center;
 	}
-	.evtpg section > header h1 {
+	.evtpg > header h1 {
 		margin-top: 2rem;
+	}
+	.evtpg .meta {
+		text-align: center;
 	}
 }
 @media (min-width: 850px) and (max-width:1249px) {
 	.evtpg {
-		width: 850px !important;
+		width: 750px !important;
 	}
 }
-@media (max-width: 1249px) {
-	.evtpg aside:before {
-		content: "Event Info";
-	}
+
+.tag {
+	background: var(--cardTitleBg);
+	border-radius: 16px;
+	color: var(--bodyColor);
+	display: inline-flex;
+	align-items: center;
+	font-size: 14px;
+	height: 32px;
+	margin-bottom: 0.5rem;
+	padding: 0.5rem 0.75rem;
+}
+.tag:hover {
+	text-decoration: none;
+}
+.tag img {
+	width: 16px;
+	height: 16px;
+	margin-right: 0.5rem;
 }
