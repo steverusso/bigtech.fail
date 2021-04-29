@@ -280,7 +280,7 @@ main > header {
 	padding: 0.5rem 0.75rem;
 }
 .tags > a:hover {
-	text-decoration: none;
+	background: var(--cardBg);
 }
 .tags > a img {
 	width: 16px;
