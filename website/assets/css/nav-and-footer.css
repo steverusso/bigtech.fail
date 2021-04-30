@@ -119,12 +119,6 @@ aside > div > div:not(:last-child) {
 	margin-bottom: 2rem;
 	padding-bottom: 2rem;
 }
-@media (max-width: 1249px) {
-	aside > div {
-		padding-bottom: 11rem;
-		top: 0;
-	}
-}
 aside .tagls {
 	position: relative;
 }
