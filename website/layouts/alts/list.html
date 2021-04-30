@@ -1,11 +1,7 @@
 {{ define "style" }}
 <style>
-.alttrs > div {
-	display: inline-flex;
-	margin: 0.4rem;
-}
-@media (max-width: 450px) {
-	.alttrs > div {
+@media (max-width: 385px) {
+	.alttrs > a {
 		display: flex;
 	}
 }
@@ -17,10 +13,10 @@
 		<h1>{{ .Title }}</h1>
 		<hr>
 
-		<div class="alttrs">
+		<div class="alttrs tags">
 			<h3>By Category / Feature:</h3>
 			{{ range site.Taxonomies.alttrs.ByCount }}
-				<div>{{ partial "cards/alttr" .Page }}</div>
+				{{ partial "tags/alttr" .Page }}
 			{{ end }}
 		</div>
 		<hr>

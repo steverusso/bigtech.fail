@@ -146,34 +146,13 @@
 	left: 0;
 }
 .corpos .card u {
-	max-width: 100%;
-}
-.corpos > div {
-	padding: 0.25rem !important;
-}
-
-.alttrs .card, .alttrs .card u {
-	display: flex;
-	align-items: center;
-	padding: 0 0.25rem;
-}
-.alttrs .card img {
-	margin: 0.5rem;
-	width: 24px;
-	height: 24px;
-}
-.alttrs .card u {
-	font-size: 0.87rem;
-	padding-right: 1.5rem;
-}
-.alttrs .card u, .corpos .card u {
 	display: block;
+	max-width: 100%;
 	text-decoration: none;
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	overflow: hidden;
 }
-.alttrs .card u:after {
-	right: 0.5rem;
-	font-size: 0.8rem;
+.corpos > div {
+	padding: 0.25rem !important;
 }

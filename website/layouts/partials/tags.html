@@ -22,3 +22,10 @@
 		</a>
 	{{ end }}
 {{ end }}
+
+{{ define "partials/tags/alttr" }}
+	<a href="{{ .RelPermalink }}">
+		<img src="/{{ .Params.image }}.png" loading="lazy">
+		{{ .Title }}
+	</a>
+{{ end }}

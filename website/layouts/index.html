@@ -61,15 +61,9 @@
 	padding-bottom: 5.5rem;
 	text-align: center;
 }
-.alttrs .grid {
+.alttrs .tags {
 	margin-top: 1.25rem;
 	margin-bottom: 1.75rem;
-}
-.alttrs .grid > div {
-	padding: 0.5rem;
-}
-@media (min-width: 500px) {
-	.alttrs .grid { --c: 6 }
 }
 @media (max-width: 949px) {
 	.use-alts {
@@ -148,9 +142,9 @@
 		<div class="alttrs">
 			<b>Alt Categories / Features:</b>
 
-			<div class="grid">
+			<div class="tags">
 				{{ range site.Taxonomies.alttrs.ByCount | first 6 }}
-					<div>{{ partial "cards/alttr" .Page }}</div>
+					{{ partial "tags/alttr" .Page }}
 				{{ end }}
 			</div>
 
