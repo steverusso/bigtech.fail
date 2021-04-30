@@ -271,20 +271,20 @@ main > header {
 .tags > a {
 	background: var(--cardTitleBg);
 	border: var(--border2);
-	border-radius: 16px;
+	border-radius: 18px;
 	color: var(--bodyColor);
 	display: inline-flex;
 	align-items: center;
 	font-size: 14px;
-	height: 32px;
+	height: 36px;
 	margin-bottom: 0.5rem;
-	padding: 0.5rem 0.75rem;
+	padding: 0.5rem 0.85rem;
 }
 .tags > a:hover {
 	background: var(--cardBg);
 }
 .tags > a img {
-	width: 16px;
-	height: 16px;
+	width: 20px;
+	height: 20px;
 	margin-right: 0.5rem;
 }
