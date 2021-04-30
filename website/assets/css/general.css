@@ -270,6 +270,7 @@ main > header {
 
 .tags > a {
 	background: var(--cardTitleBg);
+	border: var(--border2);
 	border-radius: 16px;
 	color: var(--bodyColor);
 	display: inline-flex;
