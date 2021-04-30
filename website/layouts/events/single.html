@@ -11,28 +11,15 @@
 
 		<div class="tags">
 			{{ range .Params.corpos }}
-				<a href="/{{ . }}/">
-					<img src="/img/logos/{{ . }}.png" loading="lazy">
-					{{ index site.Data.bigtechNames . | default (. | humanize | title) }}
-				</a>
+				{{ partialCached "tags/corpo" . . }}
 			{{ end }}
 
 			{{ range .Params.tags }}
-				{{ with site.GetPage (printf "/tags/%s" .) }}
-					<a href="{{ .RelPermalink }}">
-						<img src="{{ .Params.image }}" loading="lazy">
-						{{ .LinkTitle | default ($ | title) }}
-					</a>
-				{{ end }}
+				{{ partialCached "tags/tag" . . }}
 			{{ end }}
 
 			{{ range .Params.profiles }}
-				{{ with site.GetPage (printf "/profiles/%s" .) }}
-					<a href="{{ .RelPermalink }}">
-						{{ partialCached `profile/pic` . .Title }}
-						{{ .Title }}
-					</a>
-				{{ end }}
+				{{ partialCached "tags/profile" . . }}
 			{{ end }}
 		</div>
 		<hr>

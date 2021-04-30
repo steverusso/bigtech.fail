@@ -1,0 +1,24 @@
+{{ define "partials/tags/tag" }}
+	{{ with site.GetPage (printf "/tags/%s" .) }}
+		<a href="{{ .RelPermalink }}">
+			<img src="{{ .Params.image }}" loading="lazy">
+			{{ .LinkTitle | default ($ | title) }}
+		</a>
+	{{ end }}
+{{ end }}
+
+{{ define "partials/tags/corpo" }}
+	<a href="/{{ . }}/">
+		<img src="/img/logos/{{ . }}.png" loading="lazy">
+		{{ index site.Data.bigtechNames . | default (. | humanize | title) }}
+	</a>
+{{ end }}
+
+{{ define "partials/tags/profile" }}
+	{{ with site.GetPage (printf "/profiles/%s" .) }}
+		<a href="{{ .RelPermalink }}">
+			{{ partialCached `profile/pic` . .Title }}
+			{{ .Title }}
+		</a>
+	{{ end }}
+{{ end }}
