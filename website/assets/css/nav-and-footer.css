@@ -51,7 +51,6 @@ nav a:not(:first-child):hover {
 #tn + label:after {
 	content: "☰";
 	color: #ddd;
-	background: #222;
 	font-size: 36px;
 	line-height: var(--navHeight);
 	padding: 0 1.25rem;
@@ -106,9 +105,7 @@ aside > a:hover {
 	text-decoration: none;
 }
 aside > div {
-	border-top: var(--border1);
 	padding: 1rem 1.5rem 8rem;
-	margin-top: 1rem;
 	overflow-y: auto;
 }
 aside > div > h3 {
@@ -158,6 +155,10 @@ aside .tagls > #seeMore:checked ~ div > .card:nth-child(n+8) {
 	display: flex;
 }
 @media (max-width: 699px) {
+	aside > div {
+		border-top: var(--border1);
+		margin-top: 1rem;
+	}
 	nav > a:not(:first-child) {
 		display: none;
 	}
