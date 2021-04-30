@@ -70,37 +70,6 @@
 	padding: 0.75rem;
 }
 
-.profiles .card {
-	border-radius: var(--radius) var(--radius) 0 0;
-}
-.profiles .card > :first-child {
-	border-bottom: none;
-}
-.profiles .card + div {
-	background: var(--cardBg);
-	border: var(--border1);
-	border-top: none;
-	border-radius: 0 0 4px 4px;
-	padding: 0.25rem;
-	display: flex;
-	flex-flow: row wrap;
-	align-items: center;
-}
-.profiles .card + div a {
-	padding: 0.5rem;
-	border-radius: 50%;
-}
-.profiles .card + div a:hover {
-	background: var(--shadowColor);
-}
-.profiles .card + div a img {
-	width: 24px !important;
-	height: 24px !important;
-}
-.profiles .card b:before {
-	margin: 0 0 0.25rem 0;
-}
-
 .tagls .card {
 	display: flex;
 	align-items: center;
@@ -144,15 +113,15 @@
 	margin: 0;
 }
 
-.alttech.card div:after, .profiles .card div:after, .alttrs .card u:after {
-	content: "\2794";
-	color: var(--caption);
-	position: absolute;
-}
-.alttech.card div:after, .profiles .card div:after {
+.alttech.card div:after {
 	font-size: 1.1rem;
 	top: 0.25rem;
 	right: 0.5rem;
+}
+.alttech.card div:after, .alttrs .card u:after {
+	content: "\2794";
+	color: var(--caption);
+	position: absolute;
 }
 
 .corpos {
