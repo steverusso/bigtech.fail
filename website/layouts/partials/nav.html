@@ -37,7 +37,7 @@
 		</div>
 
 		<h3>Tags:</h3>
-		<div class="tags">
+		<div class="tagls">
 			<input type="checkbox" id="seeMore">
 			<label for="seeMore"></label>
 			<div>
@@ -48,12 +48,10 @@
 		</div>
 
 		<h3>Specifc Tags:</h3>
-		<div class="tags">
-			<div>
-				{{ range site.Data.tagsMeta.specific }}
-					{{ partialCached "cards/tag" . . }}
-				{{ end }}
-			</div>
+		<div class="tagls">
+			{{ range site.Data.tagsMeta.specific }}
+				{{ partialCached "cards/tag" . . }}
+			{{ end }}
 		</div>
 	</div>
 </aside>

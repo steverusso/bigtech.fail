@@ -126,14 +126,14 @@ aside > div > div:not(:last-child) {
 		top: 0;
 	}
 }
-aside .tags {
+aside .tagls {
 	position: relative;
 }
-aside .tags > #seeMore,
-aside .tags > #seeMore ~ div > .card:nth-child(n+8) {
+aside .tagls > #seeMore,
+aside .tagls > #seeMore ~ div > .card:nth-child(n+8) {
 	display: none;
 }
-aside .tags > #seeMore + label {
+aside .tagls > #seeMore + label {
 	color: var(--link);
 	position: absolute;
 	bottom: 1.25rem;
@@ -142,16 +142,16 @@ aside .tags > #seeMore + label {
 	width: 100%;
 	z-index: 1;
 }
-aside .tags > #seeMore + label:after {
+aside .tagls > #seeMore + label:after {
 	content: "(Show All)";
 }
-aside .tags > #seeMore ~ div {
+aside .tagls > #seeMore ~ div {
 	padding-bottom: 0.75rem;
 }
-aside .tags > #seeMore:checked + label:after {
+aside .tagls > #seeMore:checked + label:after {
 	content: "(Show Fewer)";
 }
-aside .tags > #seeMore:checked ~ div > .card:nth-child(n+8) {
+aside .tagls > #seeMore:checked ~ div > .card:nth-child(n+8) {
 	display: flex;
 }
 @media (max-width: 599px) {

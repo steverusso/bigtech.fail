@@ -101,13 +101,13 @@
 	margin: 0 0 0.25rem 0;
 }
 
-.tags .card {
+.tagls .card {
 	display: flex;
 	align-items: center;
 	font-size: 0.9rem;
 	margin-bottom: 0.6rem;
 }
-.tags .card > :first-child {
+.tagls .card > :first-child {
 	background: var(--cardTitleBg);
 	border-right: var(--border1);
 	border-top-right-radius: 0;
@@ -117,26 +117,26 @@
 	width: 40px !important;
 	height: 40px !important;
 }
-.tags .card > :last-child:not([data-count]):after {
+.tagls .card > :last-child:not([data-count]):after {
 	content: "\2794";
 	color: var(--caption);
 	position: absolute;
 	right: 0.75rem;
 }
-.tags .card > u {
+.tagls .card > u {
 	display: flex;
 	align-items: center;
 	padding: 0;
 	text-decoration: none;
 }
-.tags .card div[data-count] {
+.tagls .card div[data-count] {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 	padding: 0 0.75rem 0 0;
 	width: 100%;
 }
-.tags .card div[data-count]:after {
+.tagls .card div[data-count]:after {
 	--h: 21px;
 	--fs: 15px;
 	background: var(--bodyBg);
