@@ -96,6 +96,7 @@ aside > a {
 }
 aside > a:after {
 	content: "\2794";
+	color: var(--caption);
 	margin-left: auto;
 }
 aside > a:hover {
