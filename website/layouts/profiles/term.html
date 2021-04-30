@@ -1,42 +1,67 @@
 {{ define "style" }}
 <style>
-.cntr > header > img {
-	width: 120px !important;
-	height: 120px !important;
+main > header {
+	border-bottom: none !important;
+	margin-bottom: 0 !important;
+	padding-bottom: 0.5rem;
 }
-.links > div {
+main > header > img {
+	width: 116px !important;
+	height: 116px !important;
+}
+.links {
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;
-	margin-bottom: 2rem;
 }
 .links a {
-	margin: 0.5rem 1.5rem 0.5rem 0;
+	border-radius: 50%;
+	padding: 0.8rem;
+}
+.links a:hover {
+	background: var(--shadowColor);
 }
 .links a img {
 	width: 32px !important;
 	height: 32px !important;
 }
-[data-aka]:after {
-	content: attr(data-aka) " ";
-	color: var(--caption);
-	display: block;
-	font-size: 0.95rem;
-	margin: 0.75rem 0 0 0;
-}
 </style>
 {{ end }}
 
 {{ define "main" }}
-	<div class="cntr w900">
+	<main class="w900">
 		<header>
 			{{ partialCached `profile/pic` . .Title }}
-			<h1 {{ with .Params.aka }}data-aka="{{ . }}"{{ end }}>{{ .Title }}</h1>
+			<div>
+				<h1>{{ .Title }}</h1>
+				{{ with .Params.aka }}
+					<span class="caption">{{ . }}</span>
+				{{ end }}
+			</div>
 		</header>
 
+		<!--
+			A Profile's independent / alt tech links. Range over the link meta data, not
+			the links themselves, so that:
+				1) the order is consistent, every time, no matter what links a profile provides.
+				2) to change the order, or remove a link, a change is only needed in one place.
+		-->
 		<div class="links">
-			{{ partialCached "profile/links" .Params.links .Title }}
+			{{ range $v := site.Data.profileLinksMeta }}
+				<!-- Proceed if the profile provides this link. -->
+				{{ with index $.Params.links .key }}
+					{{ $prefix := $v.prefix | default "" }}
+					{{ $suffix := $v.suffix | default "" }}
+					{{ $href := printf "https://%s/%s%s" $prefix . $suffix }}
+
+					<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">
+						{{ $type := cond (isset $v "icon") "icons" "img/logos" }}
+						<img src="/{{ $type }}/{{ $v.key }}.png" loading="lazy">
+					</a>
+				{{ end }}
+			{{ end }}
 		</div>
+		<hr>
 
 		<article>{{ .Content }}</article>
 		<hr>
@@ -44,5 +69,5 @@
 		<div class="condensed">
 			{{ partial "timeline" .Pages }}
 		</div>
-	</div>
+	</main>
 {{ end }}

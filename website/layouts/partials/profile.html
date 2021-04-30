@@ -23,27 +23,3 @@
 
 	<img src="{{ $p }}" loading="lazy">
 {{ end }}
-
-<!--
-	A Profile's independent / alt tech links. Range over the link meta data, not
-	the links themselves, so that:
-	 1) the order is consistent, every time, no matter what links a profile provides.
-	 2) to change the order, or remove a link, a change is only needed in one place.
--->
-{{ define "partials/profile/links" }}
-	<div>
-		{{ range $v := site.Data.profileLinksMeta }}
-			<!-- Proceed if the profile provides this link. -->
-			{{ with index $ .key }}
-				{{ $prefix := $v.prefix | default "" }}
-				{{ $suffix := $v.suffix | default "" }}
-				{{ $href := printf "https://%s/%s%s" $prefix . $suffix }}
-
-				<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">
-					{{ $type := cond (isset $v "icon") "icons" "img/logos" }}
-					<img src="/{{ $type }}/{{ $v.key }}.png" loading="lazy">
-				</a>
-			{{ end }}
-		{{ end }}
-	</div>
-{{ end }}
