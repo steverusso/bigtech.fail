@@ -1,4 +1,8 @@
-{{ $links := slice "/posts/" "/alts/" "/events/" }}
+{{ $links := dict
+	"posts" "Posts"
+	"alts" "Alternatives"
+	"events" "Event Archives"
+}}
 
 <nav>
 	<a href="/">
@@ -10,8 +14,8 @@
 		{{ end }}
 	</a>
 
-	{{ range $links }}
-		<a href="{{ . }}"></a>
+	{{ range slice "posts" "alts" "events" }}
+		<a href="/{{ . }}/">{{ index $links . }}</a>
 	{{ end }}
 </nav>
 
@@ -19,8 +23,8 @@
 <label for="tn"></label>
 
 <aside>
-	{{ range $links }}
-		<a href="{{ . }}"></a>
+	{{ range slice "events" "alts" "posts" }}
+		<a href="/{{ . }}/">{{ index $links . }}</a>
 	{{ end }}
 
 	<div>

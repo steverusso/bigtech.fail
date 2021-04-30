@@ -92,28 +92,31 @@ aside::-webkit-scrollbar {
 	width: 0 !important;
 }
 aside > a {
-	color: var(--navColor);
-	display: block;
+	color: var(--bodyColor);
+	display: flex;
+	align-items: center;
 	padding: 1.5rem;
+}
+aside > a:after {
+	content: "\2794";
+	margin-left: auto;
+}
+aside > a:hover {
+	background: var(--bodyBg2);
+	text-decoration: none;
 }
 aside > div {
 	border-top: var(--border1);
-	padding: 0 1.5rem 8rem;
+	padding: 1rem 1.5rem 8rem;
+	margin-top: 1rem;
 	overflow-y: auto;
 }
 aside > div > h3 {
+	color: var(--caption);
 	display: flex;
 	align-items: center;
 	font-size: 1.1rem;
-	margin: 0.75rem 0;
-}
-aside > div > h3:before {
-	content: "";
-	background: var(--caption);
-	display: inline-flex;
-	margin: 0 0.75rem 0 0.5rem;
-	width: 10px;
-	height: 10px;
+	margin: 0.75rem default;
 }
 aside > div > div:not(:last-child) {
 	border-bottom: var(--border1);
@@ -154,19 +157,16 @@ aside .tagls > #seeMore:checked + label:after {
 aside .tagls > #seeMore:checked ~ div > .card:nth-child(n+8) {
 	display: flex;
 }
-@media (max-width: 599px) {
+@media (max-width: 699px) {
 	nav > a:not(:first-child) {
 		display: none;
 	}
 }
-@media (min-width: 600px) {
+@media (min-width: 700px) {
 	#tn:checked ~ aside > a {
 		display: none;
 	}
 }
-nav a[href="/alts/"]:after, #tn + label + div a[href="/alts/"]:after { content: "Alternatives" }
-nav a[href="/events/"]:after, #tn + label + div a[href="/events/"]:after { content: "Event Records" }
-nav a[href="/posts/"]:after, #tn + label + div a[href="/posts/"]:after { content: "Posts" }
 
 footer {
 	background: var(--navBg);

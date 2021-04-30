@@ -147,14 +147,14 @@ h3[data-count] {
 
 .mb-8 { margin-bottom: 2rem !important }
 
-.cntr, main {
+main, .cntr {
 	width: 1200px;
 	margin: auto;
 	padding: 1.5rem;
 	max-width: 100% !important;
 }
 main {
-	width: 1000px !important;
+	width: 1000px;
 }
 main > header {
 	border-bottom: var(--border1);
@@ -164,7 +164,7 @@ main > header {
 .cntr.w800 { width: 800px }
 .cntr.w900 { width: 900px }
 @media (max-width: 500px) {
-	.cntr, main {
+	main, .cntr {
 		padding: 1rem;
 	}
 }
