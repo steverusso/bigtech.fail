@@ -22,7 +22,7 @@
 <input id="tn" type="checkbox">
 <label for="tn"></label>
 
-<aside>
+<aside style="transform: translateX(110%)">
 	{{ range slice "events" "alts" "posts" }}
 		<a href="/{{ . }}/">{{ index $links . }}</a>
 	{{ end }}

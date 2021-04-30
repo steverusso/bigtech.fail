@@ -60,7 +60,7 @@ nav a:not(:first-child):hover {
 	z-index: 10;
 }
 #tn:checked ~ aside {
-	transform: translateX(0);
+	transform: translateX(0) !important;
 }
 aside {
 	background: var(--bodyBg);
@@ -76,12 +76,10 @@ aside {
 	overflow-y: auto;
 	overflow-x: hidden;
 
-	transition: transform 0.35s;
-	transform: translateX(110%);
-
 	position: fixed;
 	right: 0;
 	top: 0;
+	transition: transform 0.35s;
 	z-index: 9 !important;
 }
 aside:before {
