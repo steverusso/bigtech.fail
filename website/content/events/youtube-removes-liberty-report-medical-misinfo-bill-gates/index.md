@@ -9,9 +9,12 @@ sources:
  - [ 'twitter.com/RonPaul/status/1384550354507812866', 'archive.ph/4MNX9' ]
 ---
 
-YouTube removed [yet]() [another]() episode of the _Ron Paul Liberty Report_
-for "medical misinformation." This time, it was a video partially dedicated to
-questioning the motives of ~~psychopath~~ Bill Gates.
+YouTube removed
+[yet](/e/youtube-removes-liberty-report-episode-covid-whistleblowers/)
+[another](/e/youtube-removes-another-liberty-report-for-medical-misinfo/)
+episode of the _Ron Paul Liberty Report_ for "medical misinformation." This
+time, it was a video partially dedicated to questioning the motives of
+~~psychopath~~ Bill Gates.
 
 > ATTN: Ron Paul Liberty Report Viewers! @YouTube has notified us we violated
 > their "community guidelines" over a recent show about Bill Gates. If our
