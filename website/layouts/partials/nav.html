@@ -1,4 +1,8 @@
-{{ $links := slice "/posts/" "/alts/" "/events/" }}
+{{ $links := dict
+	"posts" "Posts"
+	"alts" "Alternatives"
+	"events" "Event Archives"
+}}
 
 <nav>
 	<a href="/">
@@ -10,16 +14,48 @@
 		{{ end }}
 	</a>
 
-	{{ range $links }}
-		<a href="{{ . }}"></a>
+	{{ range slice "posts" "alts" "events" }}
+		<a href="/{{ . }}/">{{ index $links . }}</a>
 	{{ end }}
 </nav>
 
 <input id="tn" type="checkbox">
 <label for="tn"></label>
 
-<div>
-	{{ range $links }}
-		<a href="{{ . }}"></a>
+<aside style="transform: translateX(110%)">
+	{{ range slice "events" "alts" "posts" }}
+		<a href="/{{ . }}/">{{ index $links . }}</a>
 	{{ end }}
-</div>
+
+	<div>
+		<h3>Corporations:</h3>
+		<div class="corpos grid xs-3">
+			{{ range site.Data.orderCorps }}
+				<div>
+					<a class="card" href="/{{ .k }}/">
+						<i class="img {{ .k }}"></i>
+						{{ index site.Data.bigtechNames .k | default (.k | title) }}
+					</a>
+				</div>
+			{{ end }}
+		</div>
+
+		<h3>Tags:</h3>
+		<div class="tagls">
+			<input type="checkbox" id="seeMore">
+			<label for="seeMore"></label>
+			<div>
+				{{ range site.Data.tagsMeta.general }}
+					{{ partialCached "cards/tag-count" . . }}
+				{{ end }}
+			</div>
+		</div>
+
+		<h3>Specifc Tags:</h3>
+		<div class="tagls">
+			{{ range site.Data.tagsMeta.specific }}
+				{{ partialCached "cards/tag" . . }}
+			{{ end }}
+		</div>
+	</div>
+</aside>

@@ -1,9 +1,12 @@
+nav {
+	padding-right: calc(2.5rem + 36px);
+}
 nav a, footer a {
 	color: var(--navColor);
 	align-items: center;
 	font-size: 1rem;
 }
-nav, #tn + label + div:before {
+nav, aside:before {
 	background: var(--navBg);
 	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
 	display: flex;
@@ -20,16 +23,25 @@ nav a {
 nav a:first-child {
 	margin-right: auto;
 }
-nav a:not(:first-child) {
-	border-left: 1px solid #444;
-}
 nav a:not(:first-child):hover {
 	background: #333;
 	text-decoration: none;
 }
+#tn {
+	display: none;
+}
 #tn + label:before {
+	content: "";
 	background-color: rgba(34,34,34,0.6);
+	position: fixed;
+	left: 0;
+	top: 0;
 	width: 100% !important;
+	height: 100%;
+	opacity: 0;
+	transition: 0.3s cubic-bezier(0.25,0.75,0.5,1);
+	visibility: hidden;
+	z-index: -1;
 }
 #tn:checked + label:before {
 	opacity: 1;
@@ -47,51 +59,108 @@ nav a:not(:first-child):hover {
 	top: 0;
 	z-index: 10;
 }
-#tn + label + div {
-	background: var(--navBg);
-	border-left: none;
+#tn:checked ~ aside {
+	transform: translateX(0) !important;
+}
+aside {
+	background: var(--bodyBg);
+	border-left: var(--border1);
 	box-shadow: none;
+	padding: 0 !important;
+	scrollbar-width: none;
 
-	width: 325px;
+	width: 400px;
 	max-width: 100%;
 	height: 100%;
 	max-height: 100%;
 	overflow-y: auto;
 	overflow-x: hidden;
 
-	transition: transform 0.35s;
-	transform: translateX(110%);
-
 	position: fixed;
 	right: 0;
 	top: 0;
+	transition: transform 0.35s;
 	z-index: 9 !important;
 }
-#tn + label + div:before {
+aside:before {
 	content: "";
 }
-#tn + label + div > a {
-	color: var(--navColor);
-	display: block;
-	text-align: right;
+aside::-webkit-scrollbar {
+	width: 0 !important;
+}
+aside > a {
+	color: var(--bodyColor);
+	display: flex;
+	align-items: center;
 	padding: 1.5rem;
 }
-@media (max-width: 599px) {
+aside > a:after {
+	content: "\2794";
+	color: var(--caption);
+	margin-left: auto;
+}
+aside > a:hover {
+	background: var(--bodyBg2);
+	text-decoration: none;
+}
+aside > div {
+	padding: 1rem 1.5rem 8rem;
+	overflow-y: auto;
+}
+aside > div > h3 {
+	color: var(--caption);
+	display: flex;
+	align-items: center;
+	font-size: 1.1rem;
+	margin: 0.75rem default;
+}
+aside > div > div:not(:last-child) {
+	border-bottom: var(--border1);
+	margin-bottom: 2rem;
+	padding-bottom: 2rem;
+}
+aside .tagls {
+	position: relative;
+}
+aside .tagls > #seeMore,
+aside .tagls > #seeMore ~ div > .card:nth-child(n+8) {
+	display: none;
+}
+aside .tagls > #seeMore + label {
+	color: var(--link);
+	position: absolute;
+	bottom: 1.25rem;
+	left: 0;
+	text-align: center;
+	width: 100%;
+	z-index: 1;
+}
+aside .tagls > #seeMore + label:after {
+	content: "(Show All)";
+}
+aside .tagls > #seeMore ~ div {
+	padding-bottom: 0.75rem;
+}
+aside .tagls > #seeMore:checked + label:after {
+	content: "(Show Fewer)";
+}
+aside .tagls > #seeMore:checked ~ div > .card:nth-child(n+8) {
+	display: flex;
+}
+@media (max-width: 699px) {
+	aside > div {
+		border-top: var(--border1);
+		margin-top: 1rem;
+	}
 	nav > a:not(:first-child) {
 		display: none;
 	}
-	#tn:checked + label + div {
-		transform: translateX(0);
-	}
 }
-@media (min-width: 600px) {
-	#tn + label, #tn + label + div {
+@media (min-width: 700px) {
+	#tn:checked ~ aside > a {
 		display: none;
 	}
 }
-nav a[href="/alts/"]:after, #tn + label + div a[href="/alts/"]:after { content: "Alternatives" }
-nav a[href="/events/"]:after, #tn + label + div a[href="/events/"]:after { content: "Event Records" }
-nav a[href="/posts/"]:after, #tn + label + div a[href="/posts/"]:after { content: "Posts" }
 
 footer {
 	background: var(--navBg);

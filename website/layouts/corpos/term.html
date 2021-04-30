@@ -2,25 +2,18 @@
 	{{ $slug := .Title | anchorize }}
 	{{ $img := $slug | printf "/img/logos/%s.png" }}
 
-	<input id="sbToggle" type="checkbox">
-	<label for="sbToggle"></label>
-
 	<main>
-		<section>
-			<header>
-				<img src="{{ $img }}" width="64" height="64" loading="lazy">
-				<h1>{{ .Title | title }}</h1>
-			</header>
+		<header>
+			<img src="{{ $img }}" width="64" height="64" loading="lazy">
+			<h1>{{ .Title | title }}</h1>
+		</header>
 
-			{{ with .Content }}
-				<article>{{ . }}</article>
-			{{ end }}
+		{{ with .Content }}
+			<article>{{ . }}</article>
+		{{ end }}
 
-			<h2 data-count="{{ len .Pages }}">Events</h2>
-			<hr>
-			{{ partial "timeline" .Pages }}
-		</section>
-
-		{{ partialCached "sidebar" . }}
+		<h2 data-count="{{ len .Pages }}">Events</h2>
+		<hr>
+		{{ partial "timeline" .Pages }}
 	</main>
 {{ end }}

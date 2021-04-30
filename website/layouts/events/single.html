@@ -2,54 +2,31 @@
 	{{ .Summary | truncate 69 | plainify }}
 {{ end }}
 
-{{ define "partials/event-profiles" }}
-	{{ range . }}
-		{{ with site.GetPage (printf "/profiles/%s" .) }}
-			{{ partialCached "cards/profile" . . }}
-		{{ end }}
-	{{ end }}
-{{ end }}
-
 {{ define "main" }}
-	<input id="sbToggle" type="checkbox">
-	<label for="sbToggle"></label>
-
 	<main class="evtpg">
-		<section>
-			<header>
-				<img src="{{ .Params.image }}" loading="lazy">
-				<h1 data-date="{{ .Date.Format `2 Jan 2006` }}">{{ .Title }}</h1>
-			</header>
+		<header>
+			<img src="{{ .Params.image }}" loading="lazy">
+			<h1 data-date="{{ .Date.Format `2 Jan 2006` }}">{{ .Title }}</h1>
+		</header>
 
-			<article>{{ .Content }}</article>
+		<div class="tags">
+			{{ range .Params.corpos }}
+				{{ partialCached "tags/corpo" . . }}
+			{{ end }}
 
-			<h4></h4>
-			{{ partial "srcs-list" .Params.sources }}
-		</section>
+			{{ range .Params.tags }}
+				{{ partialCached "tags/tag" . . }}
+			{{ end }}
 
-		<aside>
-			<div data-stuff>
-				<h3>Corporations:</h3>
-				<div class="corpos grid xs-3">
-					{{ range .Params.corpos }}
-						<div>{{ partialCached "cards/corpo" . . }}</div>
-					{{ end }}
-				</div>
+			{{ range .Params.profiles }}
+				{{ partialCached "tags/profile" . . }}
+			{{ end }}
+		</div>
+		<hr>
 
-				<h3>Tags:</h3>
-				<div class="tags">
-					{{ range .Params.tags }}
-						{{ partialCached "cards/tag" . . }}
-					{{ end }}
-				</div>
+		<article>{{ .Content }}</article>
 
-				{{ with .Params.profiles }}
-					<h3>Profiles:</h3>
-					<div class="profiles">
-						{{ partialCached "event-profiles" . . }}
-					</div>
-				{{ end }}
-			</div>
-		</aside>
+		<h4></h4>
+		{{ partial "srcs-list" .Params.sources }}
 	</main>
 {{ end }}
