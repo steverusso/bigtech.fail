@@ -64,7 +64,7 @@ nav a:not(:first-child):hover {
 	transform: translateX(0);
 }
 aside {
-	background: var(--navBg);
+	background: var(--bodyBg);
 	border-left: var(--border1);
 	box-shadow: none;
 	padding: 0 !important;
@@ -146,7 +146,7 @@ aside .tags > #seeMore + label:after {
 	content: "(Show All)";
 }
 aside .tags > #seeMore ~ div {
-	padding-bottom: 2.75rem;
+	padding-bottom: 0.75rem;
 }
 aside .tags > #seeMore:checked + label:after {
 	content: "(Show Fewer)";
