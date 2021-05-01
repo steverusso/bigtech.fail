@@ -1,6 +1,6 @@
 ---
 title: The Dollar Vigilante
-image: /img/logos/tdv.jpg
+image: /logos/tdv.jpg
 links:
   website: dollarvigilante.tv
   bitchute: channel/DkNYbFJKDPpX/
