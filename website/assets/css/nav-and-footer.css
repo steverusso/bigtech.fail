@@ -107,13 +107,6 @@ aside > div {
 	padding: 1rem 1.5rem 8rem;
 	overflow-y: auto;
 }
-aside > div > h3 {
-	color: var(--caption);
-	display: flex;
-	align-items: center;
-	font-size: 1.1rem;
-	margin: 0.75rem default;
-}
 aside > div > div:not(:last-child) {
 	border-bottom: var(--border1);
 	margin-bottom: 2rem;
@@ -122,6 +115,16 @@ aside > div > div:not(:last-child) {
 aside .tagls {
 	position: relative;
 }
+aside .corpos:before, aside .tagls:before {
+	color: var(--caption);
+	display: block !important;
+	font-size: 1.1rem;
+	margin: 0.75rem 0;
+	width: 100%;
+}
+aside .corpos:before { content: "Corporations:" }
+aside .tagls:before { content: "Tags:" }
+aside .tagls.s:before { content: "Specific Tags:" }
 aside .tagls > #seeMore,
 aside .tagls > #seeMore ~ div > .card:nth-child(n+8) {
 	display: none;

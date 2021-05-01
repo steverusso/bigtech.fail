@@ -28,7 +28,6 @@
 	{{ end }}
 
 	<div>
-		<h3>Corporations:</h3>
 		<div class="corpos grid xs-3">
 			{{ range site.Data.orderCorps }}
 				<div>
@@ -40,7 +39,6 @@
 			{{ end }}
 		</div>
 
-		<h3>Tags:</h3>
 		<div class="tagls">
 			<input type="checkbox" id="seeMore">
 			<label for="seeMore"></label>
@@ -51,8 +49,7 @@
 			</div>
 		</div>
 
-		<h3>Specifc Tags:</h3>
-		<div class="tagls">
+		<div class="tagls s">
 			{{ range site.Data.tagsMeta.specific }}
 				{{ partialCached "cards/tag" . . }}
 			{{ end }}
