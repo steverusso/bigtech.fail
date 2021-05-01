@@ -1,7 +1,7 @@
 ---
 title: Twitter Suspends Fenix Ammunition Over Hunter Biden Drug Paraphernalia Picture
 date: 2020-10-15
-image: /img/logos/fenix-ammo.jpg
+image: /logos/fenix-ammo.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:

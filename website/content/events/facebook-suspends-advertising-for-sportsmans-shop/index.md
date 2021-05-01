@@ -1,7 +1,7 @@
 ---
 title: Facebook Suspends Advertising For The Sportsman's Shop
 date: 2017-11-24
-image: /img/logos/the-sportsmans-shop.jpg
+image: /logos/the-sportsmans-shop.jpg
 corpos: [ facebook ]
 tags: [ advertising, firearms ]
 sources:

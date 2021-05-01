@@ -1,7 +1,7 @@
 ---
 title: Facebook Blocks Image Previews on Links to altCensored
 date: 2020-05-29
-image: /img/logos/altcensored.png
+image: /logos/altcensored.png
 corpos: [ facebook ]
 tags: [ content-removed, covid ]
 sources:

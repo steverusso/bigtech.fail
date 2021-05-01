@@ -1,6 +1,6 @@
 ---
 title: Monero
-img: /img/logos/xmr.png
+img: /logos/xmr.png
 ---
 
 [Monero](https://getmonero.org/) is peer-to-peer, digital cash that allows for

@@ -1,7 +1,7 @@
 ---
 title: Facebook Botches Launch of Redirect Initiative for QAnon
 date: 2020-10-21
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ wtf, oops, election2020 ]
 sources:

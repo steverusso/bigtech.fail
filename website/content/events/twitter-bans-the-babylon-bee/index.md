@@ -1,7 +1,7 @@
 ---
 title: Twitter Bans The Babylon Bee (Reinstated)
 date: 2020-08-17
-image: /img/logos/the-babylon-bee.jpg
+image: /logos/the-babylon-bee.jpg
 corpos: [ twitter ]
 tags: [ banned, oops ]
 sources:

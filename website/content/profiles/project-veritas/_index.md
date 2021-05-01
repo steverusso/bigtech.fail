@@ -1,6 +1,6 @@
 ---
 title: Project Veritas
-image: /img/logos/project-veritas.jpg
+image: /logos/project-veritas.jpg
 links:
   website: www.projectveritas.com
   support: www.projectveritas.com/donate/

@@ -1,7 +1,7 @@
 ---
 title: Facebook Blocks Links to Brighteon
 date: 2020-05-20
-image: /img/logos/brighteon.png
+image: /logos/brighteon.png
 corpos: [ facebook ]
 tags: [ content-removed, covid ]
 sources:

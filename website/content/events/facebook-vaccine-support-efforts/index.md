@@ -1,7 +1,7 @@
 ---
 title: Facebook Announces Support for Vaccine Efforts
 date: 2020-10-13
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ policy, covid, gov ]
 sources:

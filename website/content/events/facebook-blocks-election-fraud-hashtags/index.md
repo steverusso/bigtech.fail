@@ -1,7 +1,7 @@
 ---
 title: Facebook Blocks Hashtags About Election Fraud
 date: 2020-11-05
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ restricted, gov, election2020 ]
 sources:

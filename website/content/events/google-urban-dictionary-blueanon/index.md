@@ -1,7 +1,7 @@
 ---
 title: Urban Dictionary Removes "Blue Anon" Entry & Google Scrubs Search Results
 date: 2021-03-07
-image: /img/logos/urban-dictionary.png
+image: /logos/urban-dictionary.png
 corpos: [ google, urban-dictionary ]
 tags: [ content-removed ]
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Signal & Telegram See Record Growth Amid WhatsApp Privacy Concerns
 date: 2021-01-12
-image: /img/logos/signal.png
+image: /logos/signal.png
 corpos: [ facebook ]
 tags: [ alttech-growth, privacy ]
 sources:

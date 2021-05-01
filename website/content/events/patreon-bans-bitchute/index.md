@@ -1,7 +1,7 @@
 ---
 date: 2018-11-29
 title: Patreon Bans BitChute
-image: /img/logos/bitchute.png
+image: /logos/bitchute.png
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:

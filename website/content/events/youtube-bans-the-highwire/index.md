@@ -1,7 +1,7 @@
 ---
 title: YouTube Bans The Highwire
 date: 2020-07-30
-image: /img/logos/the-highwire.jpg
+image: /logos/the-highwire.jpg
 profiles: [ del-bigtree ]
 corpos: [ youtube ]
 tags: [ banned, covid ]

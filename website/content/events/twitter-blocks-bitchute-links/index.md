@@ -1,7 +1,7 @@
 ---
 title: Twitter Completely Blocks BitChute Links
 date: 2021-03-10
-image: /img/logos/bitchute.png
+image: /logos/bitchute.png
 corpos: [ twitter ]
 tags: [ restricted, policy ]
 sources:

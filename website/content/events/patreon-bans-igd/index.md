@@ -1,7 +1,7 @@
 ---
 title: Patreon Bans IGD
 date: 2017-07-28
-image: /img/logos/igd.jpg
+image: /logos/igd.jpg
 corpos: [ patreon ]
 tags: [ banned, defunded ]
 sources:

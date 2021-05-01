@@ -1,7 +1,7 @@
 ---
 title: Facebook Employees Concerned About Chinese Propaganda
 date: 2021-04-02
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ gov, china ]
 sources:

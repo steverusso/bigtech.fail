@@ -1,7 +1,7 @@
 ---
 date: 2019-11-20
 title: Twitter Bans BNL After Tweeting Link to Biden-Ukraine Article
-image: /img/logos/breakingnlive.jpg
+image: /logos/breakingnlive.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:

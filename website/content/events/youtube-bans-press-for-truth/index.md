@@ -1,7 +1,7 @@
 ---
 title: YouTube Bans Press For Truth (Reinstated)
 date: 2020-07-14
-image: /img/logos/press-for-truth.jpg
+image: /logos/press-for-truth.jpg
 profiles: [ dan-dicks ]
 corpos: [ youtube ]
 tags: [ banned, oops ]

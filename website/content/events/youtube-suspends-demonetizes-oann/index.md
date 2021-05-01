@@ -1,7 +1,7 @@
 ---
 title: YouTube Suspends and Demonetizes One America News Network (OANN)
 date: 2020-11-24
-image: /img/logos/oann.jpg
+image: /logos/oann.jpg
 corpos: [ youtube ]
 tags: [ suspended, defunded, covid, election2020 ]
 sources:

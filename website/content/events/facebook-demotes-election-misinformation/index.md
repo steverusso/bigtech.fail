@@ -1,7 +1,7 @@
 ---
 title: Facebook Demotes What They "Predict May Be Misinformation" About Election
 date: 2020-11-06
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook, instagram ]
 tags: [ policy, gov, election2020 ]
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Facebook Alternative MeWe Experiences Record Growth
 date: 2021-01-18
-image: /img/logos/mewe.png
+image: /logos/mewe.png
 corpos: [ facebook ]
 tags: [ alttech-growth, capitol-riot, privacy ]
 sources:

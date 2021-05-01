@@ -1,7 +1,7 @@
 ---
 title: Apple Removes Parler's App & Amazon Disables Parler's Servers
 date: 2021-01-09
-image: /img/logos/parler.png
+image: /logos/parler.png
 corpos: [ apple, amazon ]
 tags: [ banned, app, gov, election2020, capitol-riot ]
 sources:

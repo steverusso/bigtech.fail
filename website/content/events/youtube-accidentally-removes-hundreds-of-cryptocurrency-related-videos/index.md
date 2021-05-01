@@ -1,7 +1,7 @@
 ---
 date: 2019-12-24
 title: YouTube Accidentally Removes Hundreds of CryptoCurrency Related Videos
-image: /img/logos/youtube.png
+image: /logos/youtube.png
 corpos: [ youtube ]
 tags: [ content-removed ]
 sources:

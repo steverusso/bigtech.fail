@@ -1,7 +1,7 @@
 ---
 title: YouTube Removes Trump's CPAC Speech & Suspends RSBN
 date: 2021-03-04
-image: /img/logos/rsbn.jpg
+image: /logos/rsbn.jpg
 corpos: [ youtube ]
 tags: [ suspended, content-removed, gov ]
 sources:

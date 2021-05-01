@@ -1,7 +1,7 @@
 ---
 title: Google Restricts Advertising for Zerohedge and The Federalist
 date: 2020-06-16
-image: /img/logos/zerohedge-thefederalist.png
+image: /logos/zerohedge-thefederalist.png
 corpos: [ google ]
 tags: [ defunded ]
 sources:

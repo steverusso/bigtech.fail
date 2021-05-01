@@ -1,7 +1,7 @@
 ---
 date: 2018-05-10
 title: Spotify Partners With the SPLC and ADL to Police Hate Content
-image: /img/logos/spotify.png
+image: /logos/spotify.png
 summary: What could possibly go wrong
 corpos: [ spotify ]
 sources:

@@ -1,7 +1,7 @@
 ---
 date: 2018-04-17
 title: Twitter Bans The Red Elephants Without Reason
-image: /img/logos/the-red-elephants.png
+image: /logos/the-red-elephants.png
 corpos: [ twitter ]
 tags: [ banned ]
 sources:

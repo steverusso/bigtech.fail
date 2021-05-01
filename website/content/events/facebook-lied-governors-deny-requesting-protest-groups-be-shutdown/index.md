@@ -1,7 +1,7 @@
 ---
 title: 'Facebook Lied: Governors Deny Requesting Protest Groups Be Shutdown'
 date: 2020-04-20
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 summary: They say Facebook actually reached out to them ...
 corpos: [ facebook ]
 tags: [ covid, gov, policy ]

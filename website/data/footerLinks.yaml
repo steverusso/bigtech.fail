@@ -1,7 +1,7 @@
 Connect:
-- [ Flote, 'https://flote.app/user/bigtechfail', /img/logos/flote.png ]
+- [ Flote, 'https://flote.app/user/bigtechfail', /logos/flote.png ]
 - [ E-mail, 'mailto:info@bigtech.fail', /icons/email.png ]
-- [ Minds, 'https://minds.com/bigtechfail', /img/logos/minds.png ]
+- [ Minds, 'https://minds.com/bigtechfail', /logos/minds.png ]
 
 About:
 - [ Privacy Policy, /privacy-policy/ ]
@@ -9,4 +9,4 @@ About:
 - [ Credits, /credits/ ]
 
 Miscellaneous:
-- [ Monero, /monero/, /img/logos/xmr.png ]
+- [ Monero, /monero/, /logos/xmr.png ]

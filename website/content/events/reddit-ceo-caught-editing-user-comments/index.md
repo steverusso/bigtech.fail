@@ -1,7 +1,7 @@
 ---
 title: Reddit CEO Gets Caught Editing User Comments
 date: 2016-11-23
-image: /img/logos/reddit.png
+image: /logos/reddit.png
 corpos: [ reddit ]
 sources:
  - [ 'The Verge "Reddit''s CEO edited comments that criticized him" by Rich McCormick (23 Nov 2016)', 'archive.is/mBlnH' ]

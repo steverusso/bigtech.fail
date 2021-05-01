@@ -1,7 +1,7 @@
 ---
 title: Twitter Suspends PragerU
 date: 2020-07-29
-image: /img/logos/prageru.jpg
+image: /logos/prageru.jpg
 corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:

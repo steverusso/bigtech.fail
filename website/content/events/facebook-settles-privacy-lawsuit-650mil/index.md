@@ -1,7 +1,7 @@
 ---
 title: Facebook Settles Privacy Lawsuit for $650 Million
 date: 2021-02-26
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ privacy ]
 sources:

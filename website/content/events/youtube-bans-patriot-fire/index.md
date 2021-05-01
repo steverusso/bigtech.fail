@@ -1,7 +1,7 @@
 ---
 date: 2019-10-29
 title: YouTube Bans Patriot Fire
-image: /img/logos/patriot-fire.png
+image: /logos/patriot-fire.png
 corpos: [ youtube ]
 tags: [ banned ]
 sources:

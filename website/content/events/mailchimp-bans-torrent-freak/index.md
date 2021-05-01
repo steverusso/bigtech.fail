@@ -1,7 +1,7 @@
 ---
 title: Mailchimp Bans TorrentFreak
 date: 2019-10-20
-image: /img/logos/torrent-freak.png
+image: /logos/torrent-freak.png
 corpos: [ mailchimp ]
 tags: [ banned ]
 sources:

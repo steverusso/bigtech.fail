@@ -1,7 +1,7 @@
 ---
 title: Bitchute Reaches 75% of Its Funding Goal
 date: 2020-07-31
-image: /img/logos/bitchute.png
+image: /logos/bitchute.png
 corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:

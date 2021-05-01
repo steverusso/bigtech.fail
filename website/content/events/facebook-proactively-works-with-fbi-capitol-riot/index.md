@@ -1,7 +1,7 @@
 ---
 title: Facebook Proactively Works With FBI Regarding the Capitol Riot
 date: 2021-01-19
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ gov, fbi, capitol-riot, privacy ]
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Reddit Blocks BitChute Links
 date: 2020-10-30
-image: /img/logos/bitchute.png
+image: /logos/bitchute.png
 corpos: [ reddit ]
 tags: [ restricted, policy ]
 sources:

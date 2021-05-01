@@ -1,7 +1,7 @@
 ---
 title: Court Docs Show Google Hands Over Blanket Search Data to Gov't
 date: 2020-10-08
-image: /img/logos/google.png
+image: /logos/google.png
 corpos: [ google ]
 tags: [ gov, policy, privacy ]
 sources:

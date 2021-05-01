@@ -1,7 +1,7 @@
 ---
 title: London Real and David Icke Have Content Removed From Several Major Platforms
 date: 2020-04-07
-image: /img/logos/london-real.jpg
+image: /logos/london-real.jpg
 corpos: [ instagram, facebook, vimeo, dropbox ]
 tags: [ content-removed, covid ]
 sources:

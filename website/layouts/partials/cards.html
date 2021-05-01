@@ -12,7 +12,7 @@
 {{ define "partials/cards/alt" }}
 	<a class="alttech card" href="{{ .RelPermalink }}">
 		<div>
-			<img src="/img/logos/{{ anchorize .Title }}.png" loading="lazy">
+			<img src="/logos/{{ anchorize .Title }}.png" loading="lazy">
 			<h2>{{ .Title }}</h2>
 		</div>
 
@@ -40,7 +40,7 @@
 
 {{ define "partials/cards/corpo" }}
 	<a class="card" href="/{{ . }}/">
-		<img src="/img/logos/{{ . }}.png" loading="lazy">
+		<img src="/logos/{{ . }}.png" loading="lazy">
 		<u>{{ index site.Data.bigtechNames . | default (. | humanize | title) }}</u>
 	</a>
 {{ end }}

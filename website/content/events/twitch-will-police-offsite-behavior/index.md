@@ -1,7 +1,7 @@
 ---
 title: Twitch Announces That It Will Police Off-Site Behavior
 date: 2021-04-07
-image: /img/logos/twitch.png
+image: /logos/twitch.png
 corpos: [ twitch ]
 tags: [ policy ]
 sources:
