@@ -9,7 +9,7 @@
 
 {{ define "partials/tags/corpo" }}
 	<a href="/{{ . }}/">
-		<img src="/img/logos/{{ . }}.png" loading="lazy">
+		<img src="/logos/{{ . }}.png" loading="lazy">
 		{{ index site.Data.bigtechNames . | default (. | humanize | title) }}
 	</a>
 {{ end }}
