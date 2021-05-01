@@ -1,7 +1,7 @@
 ---
 date: 2019-12-20
 title: Google Removes MetaMask dApp Browser From Play Store
-image: /img/logos/metamask.jpg
+image: /logos/metamask.jpg
 corpos: [ google ]
 tags: [ app ]
 sources:

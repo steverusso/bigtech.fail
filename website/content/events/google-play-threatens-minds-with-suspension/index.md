@@ -1,7 +1,7 @@
 ---
 title: Minds Reduces App Functionality to Avoid Google Play Suspension
 date: 2021-01-15
-image: /img/logos/minds.png
+image: /logos/minds.png
 corpos: [ google ]
 tags: [ app, election2020, capitol-riot ]
 sources:

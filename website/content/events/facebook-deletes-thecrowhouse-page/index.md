@@ -1,7 +1,7 @@
 ---
 title: Facebook Deletes Thecrowhouse Page
 date: 2020-05-05
-image: /img/logos/thecrowhouse.jpg
+image: /logos/thecrowhouse.jpg
 profiles: [ max-igan ]
 corpos: [ facebook ]
 tags: [ banned ]

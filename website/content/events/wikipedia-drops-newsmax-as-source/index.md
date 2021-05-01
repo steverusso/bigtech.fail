@@ -1,7 +1,7 @@
 ---
 title: Wikipedia Drops Newsmax As Source After US Election
 date: 2020-11-30
-image: /img/logos/newsmax.jpg
+image: /logos/newsmax.jpg
 corpos: [ wikipedia ]
 tags: [ policy, gov, election2020 ]
 sources:

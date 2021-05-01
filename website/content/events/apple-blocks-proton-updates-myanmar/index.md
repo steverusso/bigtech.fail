@@ -1,7 +1,7 @@
 ---
 title: Apple Blocks ProtonVPN Updates During Fallout From Myanmar Coup
 date: 2021-03-17
-image: /img/logos/protonvpn.png
+image: /logos/protonvpn.png
 corpos: [ apple ]
 tags: [ gov, app, privacy ]
 sources:

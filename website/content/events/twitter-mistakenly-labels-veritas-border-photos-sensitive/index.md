@@ -1,7 +1,7 @@
 ---
 title: Twitter "Mistakenly" Hides Project Veritas Border Photos as "Potentially Sensitive"
 date: 2021-03-24
-image: /img/logos/project-veritas.jpg
+image: /logos/project-veritas.jpg
 corpos: [ twitter ]
 tags: [ restricted, gov, oops ]
 profiles: [ project-veritas ]

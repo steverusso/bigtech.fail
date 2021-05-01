@@ -2,7 +2,7 @@
 date: 2019-06-11
 order: 1
 title: Pinterest Caught Shadow Banning Conservative Content
-image: /img/logos/pinterest.png
+image: /logos/pinterest.png
 corpos: [ pinterest ]
 tags: [ shadow-banned, exposed ]
 sources:

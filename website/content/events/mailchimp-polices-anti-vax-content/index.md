@@ -1,7 +1,7 @@
 ---
 title: Mailchimp Polices Anti-Vaccine Content
 date: 2019-06-13
-image: /img/logos/mailchimp.png
+image: /logos/mailchimp.png
 corpos: [ mailchimp ]
 tags: [ policy ]
 sources:

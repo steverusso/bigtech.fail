@@ -1,7 +1,7 @@
 ---
 title: Twitter Bans ZeroHedge
 date: 2020-01-31
-image: /img/logos/zerohedge.jpg
+image: /logos/zerohedge.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Twitter Suspends Julian Assange Defense Account (Reinstated)
 date: 2019-07-11
-image: /img/logos/unity4j.jpg
+image: /logos/unity4j.jpg
 corpos: [ twitter ]
 tags: [ suspended, gov ]
 sources:

@@ -1,7 +1,7 @@
 ---
 title: YouTube Purges Channels Spreading "Harmful Conpsiracy Theories"
 date: 2020-10-15
-image: /img/logos/youtube.png
+image: /logos/youtube.png
 corpos: [ youtube ]
 tags: [ banned, policy, gov, hunters-laptop ]
 sources:

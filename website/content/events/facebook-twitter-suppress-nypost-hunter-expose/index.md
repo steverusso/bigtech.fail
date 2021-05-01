@@ -1,7 +1,7 @@
 ---
 title: Facebook and Twitter Suppress NY Post Exposé on Hunter Biden
 date: 2020-10-14
-image: /img/logos/nypost.png
+image: /logos/nypost.png
 corpos: [ facebook, twitter ]
 tags: [ content-removed, gov, hunters-laptop ]
 sources:

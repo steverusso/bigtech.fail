@@ -1,7 +1,7 @@
 ---
 title: Gab Shows Resilience and Sees Record Growth
 date: 2021-01-10
-image: /img/logos/gab.png
+image: /logos/gab.png
 corpos: [ twitter, facebook, instagram ]
 tags: [ alttech-growth, election2020, capitol-riot ]
 sources:

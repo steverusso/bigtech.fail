@@ -1,7 +1,7 @@
 ---
 title: Facebook Suspends London Real Ad Capabilities
 date: 2020-04-28
-image: /img/logos/london-real.jpg
+image: /logos/london-real.jpg
 corpos: [ facebook ]
 tags: [ advertising, covid ]
 sources:

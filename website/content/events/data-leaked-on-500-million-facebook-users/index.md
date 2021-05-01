@@ -1,7 +1,7 @@
 ---
 title: Data Leaked on Over 500 Million Facebook Users
 date: 2021-04-03
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ privacy ]
 sources:

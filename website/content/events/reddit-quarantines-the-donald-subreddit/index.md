@@ -1,7 +1,7 @@
 ---
 date: 2019-06-26
 title: Reddit Quarantines r/The_Donald
-image: /img/logos/reddit-the-donald.png
+image: /logos/reddit-the-donald.png
 corpos: [ reddit ]
 tags: [ restricted ]
 sources:

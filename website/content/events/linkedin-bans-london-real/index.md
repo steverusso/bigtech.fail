@@ -1,7 +1,7 @@
 ---
 title: LinkedIn Bans London Real
 date: 2020-04-12
-image: /img/logos/london-real.jpg
+image: /logos/london-real.jpg
 corpos: [ linkedin ]
 tags: [ banned, covid ]
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Twitch Adds "just wanted a shoutout" As Reason to Refund Subscription
 date: 2021-03-08
-image: /img/logos/twitch.png
+image: /logos/twitch.png
 corpos: [ twitch ]
 tags: [ policy, wtf ]
 sources:

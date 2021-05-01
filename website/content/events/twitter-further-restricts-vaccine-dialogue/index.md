@@ -1,7 +1,7 @@
 ---
 title: Twitter Announces Further Restrictions on Vaccine Dialogue
 date: 2021-03-01
-image: /img/logos/twitter.png
+image: /logos/twitter.png
 corpos: [ twitter ]
 tags: [ policy, covid ]
 sources:

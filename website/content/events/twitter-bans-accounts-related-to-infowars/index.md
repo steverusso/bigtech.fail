@@ -1,7 +1,7 @@
 ---
 date: 2018-10-22
 title: Twitter Confirms Removal of Remaining InfoWars Accounts
-image: /img/logos/infowars-censored.jpg
+image: /logos/infowars-censored.jpg
 profiles: [ alex-jones ]
 corpos: [ twitter ]
 tags: [ banned ]

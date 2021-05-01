@@ -1,7 +1,7 @@
 ---
 title: Reddit Purges 2k Subreddits Including r/The_Donald and r/ChapoTrapHouse
 date: 2020-06-29
-image: /img/logos/reddit.png
+image: /logos/reddit.png
 corpos: [ reddit ]
 tags: [ banned ]
 sources:

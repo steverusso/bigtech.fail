@@ -1,7 +1,7 @@
 ---
 title: Amazon Delivery Drivers Must Sign 'Biometric Consent' Form to Keep Jobs
 date: 2021-03-23
-image: /img/logos/amazon.png
+image: /logos/amazon.png
 corpos: [ amazon ]
 tags: [ policy, privacy ]
 sources:

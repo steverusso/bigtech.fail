@@ -1,7 +1,7 @@
 ---
 date: 2018-12-19
 title: Wranglerstar Leaves Patreon
-image: /img/logos/wranglerstar.png
+image: /logos/wranglerstar.png
 summary: '"As of this morning, I have pulled all support from Patreon"'
 corpos: [ patreon ]
 tags: [ walked-away ]

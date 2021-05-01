@@ -1,7 +1,7 @@
 ---
 title: Facebook Announces Additional Steps to "Protect" the 2020 Election
 date: 2020-09-03
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ gov ]
 sources:

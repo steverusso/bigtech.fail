@@ -1,7 +1,7 @@
 ---
 title: Apple and Google Remove Fortnite
 date: 2020-08-13
-image: /img/logos/epic-games.png
+image: /logos/epic-games.png
 corpos: [ apple ]
 tags: [ content-removed, app ]
 sources:

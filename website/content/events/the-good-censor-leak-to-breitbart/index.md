@@ -2,7 +2,7 @@
 aliases: [ /the-good-censor/ ]
 title: '"The Good Censor" Leak to Breitbart'
 date: 2018-10-09
-image: /img/logos/breitbart.png
+image: /logos/breitbart.png
 corpos: [ google ]
 tags: [ exposed ]
 sources:

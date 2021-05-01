@@ -1,7 +1,7 @@
 ---
 title: YouTube Demonetizes The Epoch Times
 date: 2021-01-20
-image: /img/logos/the-epoch-times.png
+image: /logos/the-epoch-times.png
 corpos: [ youtube ]
 tags: [ defunded, china, election2020 ]
 sources:

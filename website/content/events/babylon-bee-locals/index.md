@@ -1,7 +1,7 @@
 ---
 title: The Babylon Bee Joins Locals!
 date: 2021-02-16
-image: /img/logos/the-babylon-bee.jpg
+image: /logos/the-babylon-bee.jpg
 corpos: [ patreon ]
 tags: [ alttech-growth ]
 sources:

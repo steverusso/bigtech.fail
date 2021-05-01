@@ -1,7 +1,7 @@
 ---
 title: YouTube Removes 8hr RSBN Video Over 16s of Copyright Music
 date: 2020-07-04
-image: /img/logos/rsbn.jpg
+image: /logos/rsbn.jpg
 corpos: [ youtube ]
 tags: [ content-removed, copyright, wtf ]
 sources:

@@ -1,7 +1,7 @@
 ---
 date: 2019-08-21
 title: TheGunCollective Officially Begins to Leave Patreon
-image: /img/logos/theguncollective.jpg
+image: /logos/theguncollective.jpg
 summary: Patreon explicity says their ToS apply to your brand, both on AND OFF Patreon
 corpos: [ patreon ]
 tags: [ walked-away, firearms ]

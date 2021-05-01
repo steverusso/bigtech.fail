@@ -1,7 +1,7 @@
 ---
 title: Twitter Announces Rules for World Leaders
 date: 2019-10-15
-image: /img/logos/twitter.png
+image: /logos/twitter.png
 corpos: [ twitter ]
 sources:
  - [ 'Twitter Blog "World Leaders on Twitter: principles & approach" by Twitter Inc. (15 Oct 2019)', 'archive.is/FNXCZ' ]

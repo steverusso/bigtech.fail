@@ -1,7 +1,7 @@
 ---
 title: Instagram Further Penalizes Private Messages
 date: 2021-02-10
-image: /img/logos/instagram.png
+image: /logos/instagram.png
 corpos: [ instagram ]
 tags: [ policy, privacy ]
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Gab Launches GabTV (a YouTube Alternative)
 date: 2020-12-21
-image: /img/logos/gab.png
+image: /logos/gab.png
 corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:

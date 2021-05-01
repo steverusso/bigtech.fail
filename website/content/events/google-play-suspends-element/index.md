@@ -1,7 +1,7 @@
 ---
 title: Google Play Suspends Element (Reinstated)
 date: 2021-01-30
-image: /img/logos/element.png
+image: /logos/element.png
 corpos: [ google ]
 tags: [ suspended, app, privacy ]
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Facebook Agrees to Censor Anti-State Content in Vietnam
 date: 2020-04-21
-image: /img/logos/facebook.png
+image: /logos/facebook.png
 corpos: [ facebook ]
 tags: [ gov ]
 sources:

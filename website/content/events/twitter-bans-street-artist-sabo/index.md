@@ -1,7 +1,7 @@
 ---
 date: 2018-04-13
 title: Twitter Bans LA Street Artist Sabo Without Reason
-image: /img/logos/unsavory-agents.jpg
+image: /logos/unsavory-agents.jpg
 corpos: [ twitter ]
 tags: [ banned ]
 sources:

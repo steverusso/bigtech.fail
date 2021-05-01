@@ -1,7 +1,7 @@
 ---
 title: Odysee Adds Hyperchats to Livestreaming
 date: 2021-04-26
-image: /img/logos/odysee.png
+image: /logos/odysee.png
 corpos: [ youtube ]
 tags: [ alttech-growth ]
 sources:

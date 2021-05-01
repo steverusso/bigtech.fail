@@ -1,7 +1,7 @@
 ---
 title: YouTube Announces Efforts to Be More Inclusive
 date: 2020-12-03
-image: /img/logos/youtube.png
+image: /logos/youtube.png
 corpos: [ youtube ]
 tags: [ policy, wtf ]
 sources:

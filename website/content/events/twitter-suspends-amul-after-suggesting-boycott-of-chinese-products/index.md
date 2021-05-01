@@ -1,7 +1,7 @@
 ---
 title: Twitter Suspends Amul After Suggesting Boycott of Chinese Products (Reinstates)
 date: 2020-06-04
-image: /img/logos/amul.jpg
+image: /logos/amul.jpg
 corpos: [ twitter ]
 tags: [ suspended, china ]
 sources:

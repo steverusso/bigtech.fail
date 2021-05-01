@@ -1,7 +1,7 @@
 ---
 title: Twitter Suspends Breitbart News
 date: 2020-07-28
-image: /img/logos/breitbart.png
+image: /logos/breitbart.png
 corpos: [ twitter ]
 tags: [ suspended, covid ]
 sources:

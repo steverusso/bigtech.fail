@@ -1,7 +1,7 @@
 ---
 title: YouTube Re-Demonetizes News2Share
 date: 2019-12-23
-image: /img/logos/news2share.jpg
+image: /logos/news2share.jpg
 profiles: [ ford-fischer ]
 corpos: [ youtube ]
 tags: [ defunded ]

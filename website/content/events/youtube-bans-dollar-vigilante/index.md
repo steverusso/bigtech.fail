@@ -1,7 +1,7 @@
 ---
 title: YouTube Bans The Dollar Vigilante
 date: 2020-12-09
-image: /img/logos/tdv.jpg
+image: /logos/tdv.jpg
 corpos: [ youtube ]
 tags: [ banned, covid ]
 profiles: [ tdv ]

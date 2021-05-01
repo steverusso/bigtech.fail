@@ -1,7 +1,7 @@
 ---
 title: Facebook Bans Press for Truth
 date: 2018-10-11
-image: /img/logos/press-for-truth.jpg
+image: /logos/press-for-truth.jpg
 profiles: [ dan-dicks ]
 corpos: [ facebook ]
 tags: [ banned ]

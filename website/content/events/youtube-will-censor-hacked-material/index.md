@@ -1,7 +1,7 @@
 ---
 title: YouTube Will Censor Hacked Material
 date: 2020-08-13
-image: /img/logos/youtube.png
+image: /logos/youtube.png
 corpos: [ youtube ]
 tags: [ policy, gov ]
 sources:
