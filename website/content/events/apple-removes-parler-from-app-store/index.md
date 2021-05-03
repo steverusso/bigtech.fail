@@ -11,7 +11,7 @@ sources:
  - [ 'ZeroHedge ""This Was A Coordinated Attack": Parler CEO Speaks Out After Amazon Boots From AWS, Vows To Rebuild ''From Scratch''" by Tyler Durden (9 Jan 2021)', 'archive.is/uAHMi' ]
 ---
 
-[Apple](/apple/) removed the Parler app (a Twitter alternative) from the App
+Apple removed the Parler app (a Twitter alternative) from the App
 Store the day after the app was [removed from the Google Play
 Store](/e/google-removes-parler-from-play-store/). This move from Apple
 came a few days after the rioting in the US capitol, and after Parler saw
