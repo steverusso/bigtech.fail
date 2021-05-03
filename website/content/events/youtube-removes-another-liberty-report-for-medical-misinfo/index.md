@@ -8,7 +8,7 @@ sources:
  - [ 'twitter.com/RonPaul/status/1341385036961116160', 'archive.is/nR1BI' ]
 ---
 
-[YouTube](/youtube/) removed yet another episode of the _Ron Paul Liberty
+YouTube removed yet another episode of the _Ron Paul Liberty
 Report_ [due to "medical misinformation."](removal-screenshot.jpg) The video had been published for
 nearly two months. It was removed about three months after [YouTube removed a
 different

@@ -12,7 +12,7 @@ extra:
  - [ 'twitter.com/JasonLiosatos/status/1350177444746158084', 'archive.is/oZiS9' ]
 ---
 
-[YouTube](/youtube/) banned [Jason Liosatos](https://jasonliosatos.com/), an
+YouTube banned [Jason Liosatos](https://jasonliosatos.com/), an
 author, artist and host of a weekly show called _Outside the Box_ where he has
 been an outspoken critic of lockdowns, mandatory vaccines and censorship. His
 11 year old channel had **20,700 subscribers** and **over 1.8 million total

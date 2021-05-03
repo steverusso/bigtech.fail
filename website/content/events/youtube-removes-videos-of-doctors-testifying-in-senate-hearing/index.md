@@ -13,7 +13,7 @@ sources:
  - [ 'Reclaim The Net "YouTube deletes videos of doctors testifying in Senate Homeland Committee as “coronavirus misinformation”" by Christina Maas  (29 Jan 2021)', 'reclaimthenet.org/youtube-deletes-videos-of-doctors-testifying-in-senate-homeland-committee/' ]
 ---
 
-[YouTube](/youtube/) removed two videos from Senator Ron Johnson's channel for
+YouTube removed two videos from Senator Ron Johnson's channel for
 violating [YouTube's COVID-19
 policies](/e/youtube-says-contradicting-who-will-violate-guidelines/). The
 videos were of doctors testifying at a US Senate hearing about different

@@ -9,7 +9,7 @@ sources:
  - [ 'twitter.com/TLAVagabond/status/1336573253054238721', 'archive.is/ooNND' ]
 ---
 
-[YouTube](/youtube/) removed a video from _The Last American Vagabond's_ backup
+YouTube removed a video from _The Last American Vagabond's_ backup
 channel titled "_FDA Admits 2 People Died In Pfizer Trials, Vaccines And
 Nanoparticles & Debunking Another Mask Study_", [claiming it
 violated](notice.jpg) YouTube's "medical misinformation policy."

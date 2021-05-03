@@ -11,7 +11,7 @@ sources:
  - [ 'BitChute "BREAKING: YouTube Just Directly Attacked This Channel" by We Are Change (7 Apr 2020)', 'www.bitchute.com/video/F-QOb-lvSx8/' ]
 ---
 
-[YouTube](/youtube/) demonetized _We Are Change_, the independent media outlet
+YouTube demonetized _We Are Change_, the independent media outlet
 lead by Luke Rudkowski. The channel had **no active strikes** and was **not
 given an explanation**.
 

@@ -14,7 +14,7 @@ extra:
  - [ 'Breitbart "Bokhari: YouTube’s Plan to Stop Users Expressing Disapproval of Elites" by Allum Bokhari (3 Apr 2021)', 'archive.ph/GgSMA' ]
 ---
 
-[YouTube](/youtube/) started rolling out hidden dislikes to a small group of
+YouTube started rolling out hidden dislikes to a small group of
 creators for testing:
 
 > In response to creator feedback around well-being and targeted dislike

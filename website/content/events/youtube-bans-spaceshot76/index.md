@@ -17,7 +17,7 @@ youtube:
  videos: 791
 ---
 
-[YouTube](/youtube/) banned [_Spaceshot76_](/profiles/spaceshot76/), a
+YouTube banned [_Spaceshot76_](/profiles/spaceshot76/), a
 political content creator, in an attempt to purge channels that the platform
 claimed were spreading "harmful conspiracy theories." The year and a half old
 channel had about **160k subscribers** and over **32.2 million total views**

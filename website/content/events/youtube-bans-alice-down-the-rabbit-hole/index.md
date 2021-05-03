@@ -15,7 +15,7 @@ youtube:
  videos: 294
 ---
 
-[YouTube](/youtube/) banned [_Alice Down the Rabbit
+YouTube banned [_Alice Down the Rabbit
 Hole_](https://www.bitchute.com/channel/uwiaOStnHXwB/), a political commentary
 channel, in an attempt to purge channels that the platform claimed were
 spreading "harmful conspiracy theories." The year and a half old channel had

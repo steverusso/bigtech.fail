@@ -28,7 +28,7 @@ youtube:
  videos: 1705
 ---
 
-[YouTube](/youtube/) banned _World Alternative Media_ in an attempt to purge
+YouTube banned _World Alternative Media_ in an attempt to purge
 channels that the platform claimed were spreading "harmful conspiracy
 theories." The seven and a half year old channel had over **154k subscribers**
 and more than **21.5 million total views** across 1700 videos.

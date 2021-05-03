@@ -19,7 +19,7 @@ BitSlide, an unofficial Android app for the video hosting platform
 [BitChute](/alttech/bitchute/), was removed from the [Google](/google/) Play
 Store [for violating](notice.png) Google's "User Generated Content" policy. At
 the time of this writing, at least one of the offending videos cited by Google
-has been available for over a year on [YouTube](/youtube/), a video publishing
+has been available for over a year on YouTube, a video publishing
 site owned by Google, without so much as an adult content notice.
 
 > Google has suspended the @bitslide_app from their play store. If there is a

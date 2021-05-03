@@ -10,7 +10,7 @@ sources:
  - [ 'twitter.com/UE_UpperEchelon/status/1367205639873830912', 'archive.is/xOQre' ]
 ---
 
-[YouTube](/youtube/) honored a copyright complaint manually filed by
+YouTube honored a copyright complaint manually filed by
 [Netflix](/netflix/) against a video published by _Upper Echelon Gaming_ that
 was a review of the recent Netflix movie _I Care A Lot_. The video simply
 played clips of the movie in the background without audio. YouTube suppressed

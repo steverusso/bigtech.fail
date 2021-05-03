@@ -10,7 +10,7 @@ sources:
  - [ 'twitter.com/LBRYcom/status/1316750633500893186', 'archive.is/QVoA7' ]
 ---
 
-In a blog post, [YouTube](/youtube/) bragged about how many conspiracy channels
+In a blog post, YouTube bragged about how many conspiracy channels
 and videos had been removed up until this point, and then
 [announced](https://archive.is/XAtuq#selection-1163.0-1171.307) the further
 purge of channels they deemed to be spreading "harmful conspiracy theories":

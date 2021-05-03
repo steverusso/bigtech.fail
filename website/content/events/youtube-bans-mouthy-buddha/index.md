@@ -17,7 +17,7 @@ youtube:
  videos: 90
 ---
 
-[YouTube](/youtube/) banned [_Mouthy
+YouTube banned [_Mouthy
 Buddha_](https://www.bitchute.com/channel/wnuZEpMvRZs6/), a political content
 creator, in an attempt to purge channels that the platform claimed were
 spreading "harmful conspiracy theories." The year and a half old channel had

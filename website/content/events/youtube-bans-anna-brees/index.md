@@ -21,7 +21,7 @@ youtube:
  videos: 444
 ---
 
-[YouTube](/youtube/) banned Anna Brees, an independent journalist, due to a
+YouTube banned Anna Brees, an independent journalist, due to a
 video that was published three months prior which violated YouTube's policy on
 not contradicting health "authorities." The video (still available [on
 BitChute](https://www.bitchute.com/video/lRJt4Cw4lC8/)) is simply Brees

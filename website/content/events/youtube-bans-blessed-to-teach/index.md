@@ -16,7 +16,7 @@ youtube:
  videos: 785
 ---
 
-[YouTube](/youtube/) banned [_Blessed To
+YouTube banned [_Blessed To
 Teach_](https://blessed2teach.com/about/), a Christian news channel, in an
 attempt to purge channels that the platform claimed were spreading "harmful
 conspiracy theories." The five year old channel had about **109k subscribers**

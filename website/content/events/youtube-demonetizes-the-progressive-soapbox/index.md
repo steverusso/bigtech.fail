@@ -10,7 +10,7 @@ extra:
  - [ 'twitter.com/theProgSoapbox/status/1357098310532820995', 'archive.is/YRkWV' ]
 ---
 
-[YouTube](/youtube/) demonetized _The Progressive Soapbox_, a progressive
+YouTube demonetized _The Progressive Soapbox_, a progressive
 political commentary channel, without providing specific examples of guidelines
 violations.
 

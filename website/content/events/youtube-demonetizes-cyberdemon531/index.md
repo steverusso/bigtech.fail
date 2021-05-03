@@ -9,7 +9,7 @@ sources:
  - [ 'YouTube "UPDATE: What YouTube Demonetization Means And How You Can Help Me" by Cyberdemon531 (4 Feb 2021)', 'www.youtube.com/watch?v=jR6suSK912Y' ]
 ---
 
-[YouTube](/youtube/) demonetized _CyberDemon531_, an anarcho-communist who
+YouTube demonetized _CyberDemon531_, an anarcho-communist who
 hosts a show called _Above It All_. YouTube did not provide specific examples
 of which content caused this.
 

@@ -13,7 +13,7 @@ sources:
  - [ 'twitter.com/B43Franco/status/1357123993476726785', 'archive.is/ClZzE' ]
 ---
 
-[YouTube](/youtube/) demonetized _Franc Analysis_, a progressive political talk
+YouTube demonetized _Franc Analysis_, a progressive political talk
 show, even though the channel wasn't even monetized to begin with.
 
 > I haven't even been monetized for 2 months and @YouTube just demonetized me.

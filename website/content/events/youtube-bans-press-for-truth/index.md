@@ -19,7 +19,7 @@ extra:
  - [ '', 'odysee.com/@PressForTruth:4/PFT-Terminated-VIDEO:a' ]
 ---
 
-[YouTube](/youtube/) "permanently disabled" _Press For Truth_, an independent
+YouTube "permanently disabled" _Press For Truth_, an independent
 media channel run by Dan Dicks. His **14 year old channel** had about **272k
 subscribers** and over **35 million lifetime views**, and it was removed
 without any warning, guidelines strike, or explanation.

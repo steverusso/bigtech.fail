@@ -15,7 +15,7 @@ youtube:
  videos: 890
 ---
 
-[YouTube](/youtube/) permanently banned [_JustInformed
+YouTube permanently banned [_JustInformed
 Talk_](https://justinformednews.com/), a political satire and opinionated
 editorial review, in an attempt to purge channels that the platform claimed
 were spreading "harmful conspiracy theories." The five and a half year old

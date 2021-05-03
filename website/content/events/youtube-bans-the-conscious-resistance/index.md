@@ -20,7 +20,7 @@ youtube:
  videos: 1820
 ---
 
-[YouTube](/youtube/) banned _The Conscious Resistance Network_ after the
+YouTube banned _The Conscious Resistance Network_ after the
 channel received a third strike [due to](notice.png) violating the platform's
 "sale of regulated goods policy." The seven year old channel had over **64k
 subscribers** and more than **5 million total views** across 1820 videos.

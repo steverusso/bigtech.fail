@@ -22,7 +22,7 @@ youtube:
  videos: 864
 ---
 
-[YouTube](/youtube/) banned _TRUreporting_ in an attempt to purge channels that
+YouTube banned _TRUreporting_ in an attempt to purge channels that
 the platform claimed were spreading "harmful conspiracy theories." The 15 year
 old channel had nearly **217k subscribers** and over **23.5 million total
 views** across almost 900 videos.

@@ -13,7 +13,7 @@ extra:
  - [ 'twitter.com/JackPosobiec/status/1336687212226867206', 'archive.is/7WaWn' ]
 ---
 
-[YouTube](/youtube/) announced via a blog post that they would be removing
+YouTube announced via a blog post that they would be removing
 content that alleges "that widespread fraud or errors changed the outcome of
 the 2020 U.S. Presidential election." An excerpt from the blog post
 [reads](https://archive.is/LppDR#selection-1203.0-1203.450):

@@ -10,7 +10,7 @@ sources:
  - [ 'Breitbart "YouTube Demonetizes the Epoch Times" by Allum Bokhari (27 Jan 2021)', 'archive.is/N8N6L' ]
 ---
 
-[YouTube](/youtube/) demonetized _The Epoch Times_, an independent news outlet.
+YouTube demonetized _The Epoch Times_, an independent news outlet.
 While YouTube did not provide a reason or explanation, [the outlet was founded
 by Chinese-Americans](https://www.theepochtimes.com/about-us) who fled
 communist China and now take a strong stance against the CCP (Chinese Communist

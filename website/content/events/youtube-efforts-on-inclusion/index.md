@@ -8,7 +8,7 @@ sources:
  - [ 'YouTube Official Blog "Updates on our efforts to make YouTube a more inclusive platform" by Johanna Wright (3 Dec 2020)', 'archive.is/adrP5' ]
 ---
 
-[YouTube](/youtube/) published a blog post talking about all the creepy steps
+YouTube published a blog post talking about all the creepy steps
 they will start taking in order to be more "inclusive." For example, the
 article [detailed](https://archive.is/adrP5#selection-1423.0-1423.580) how
 YouTube would be asking creators to, on "a voluntary basis", provide personal

@@ -21,7 +21,7 @@ youtube:
  videos: 752
 ---
 
-[YouTube](/youtube/) banned [_Titus
+YouTube banned [_Titus
 Frost_](https://www.bitchute.com/channel/2Zo51w9MJ8db/), a political content
 creator, in an attempt to purge channels that the platform claimed were
 spreading "harmful conspiracy theories." The five year old channel had about
