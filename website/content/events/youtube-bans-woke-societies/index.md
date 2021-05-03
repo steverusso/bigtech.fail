@@ -15,7 +15,7 @@ sources:
  - [ 'youtube.com/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'archive.is/1Oa5R/image' ]
 ---
 
-[YouTube](/youtube/) banned _Woke Societies_ in an attempt to purge channels
+YouTube banned _Woke Societies_ in an attempt to purge channels
 that the platform claimed were spreading "harmful conspiracy theories." The
 year and a half old channel had about **108k subscribers** and over **4.5
 million total views** across 192 videos.

@@ -9,7 +9,7 @@ sources:
  - [ 'facebook.com/OneAmericaNewsNetwork/posts/2353616441450125', 'archive.is/2QDeR' ]
 ---
 
-[Facebook](/facebook/) removed the ability for _One America News Network_ to
+Facebook removed the ability for _One America News Network_ to
 livestream to the network's paid supporters and canceled all payments.
 
 > At this time, Facebook is no longer allowing One America News to live stream

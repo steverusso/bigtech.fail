@@ -10,7 +10,7 @@ sources:
  - [ 'twitter.com/WarRoomPandemic/status/1323988779875655681', 'archive.is/txxF9' ]
 ---
 
-[Twitter](/twitter/) temporarily suspended the account of _Steve Bannon's War
+Twitter temporarily suspended the account of _Steve Bannon's War
 Room_ for 12 hours on the night of the US 2020 Presidential Election. [The
 reason](notice.jpg) was simply "violating the Twitter Rules."
 

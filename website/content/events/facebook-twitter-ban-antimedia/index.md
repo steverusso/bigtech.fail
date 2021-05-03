@@ -11,7 +11,7 @@ sources:
  - [ 'reddit.com/r/conspiracy/comments/9ndg1w/facebook_bans_free_thought_project_press_for/', 'archive.is/8lIaQ' ]
 ---
 
-[Facebook](/facebook/) and [Twitter](/twitter/) permanently banned _The
+Facebook and Twitter permanently banned _The
 Anti-Media_, an independent media outlet, as part of a widespread purge of
 political groups and pages. Their Facebook page had over **2.1 million
 followers**, and their six year old Twitter account had nearly **48k

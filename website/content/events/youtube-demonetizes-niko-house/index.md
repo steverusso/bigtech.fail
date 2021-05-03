@@ -13,7 +13,7 @@ extra:
  - [ 'twitter.com/nikoCSFB/status/1357544988872224770', 'archive.is/E4xcQ' ]
 ---
 
-[YouTube](/youtube/) demonetized Niko House, a progressive political
+YouTube demonetized Niko House, a progressive political
 commentator and host of a show called _Mi Casa Es Su Casa_.
 
 > Guess who got his channel demonetized by YouTube w/ no explanation as to what

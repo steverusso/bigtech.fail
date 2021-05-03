@@ -15,7 +15,7 @@ youtube:
  videos: 2051
 ---
 
-[YouTube](/youtube/) banned [_The Patriot Hour_](https://thepatriothour.com/),
+YouTube banned [_The Patriot Hour_](https://thepatriothour.com/),
 a political commentary channel, in an attempt to purge channels that the
 platform claimed were spreading "harmful conspiracy theories." The two and a
 half year old channel had about **249k subscribers** and over **54.3 million

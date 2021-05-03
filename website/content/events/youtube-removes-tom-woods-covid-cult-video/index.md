@@ -13,7 +13,7 @@ sources:
  - [ 'Mises Institute "YouTube Attempts to Silence the Mises Institute" by Jeff Deist (25 Nov 2020)', 'mises.org/power-market/youtube-attempts-silence-mises-institute' ]
 ---
 
-[YouTube](/youtube/) removed a video from [_The Mises
+YouTube removed a video from [_The Mises
 Institute_](https://mises.org/), a non-profit that promotes Austrian economics
 and freedom. The video, titled _The Covid Cult | Thomas E. Woods, Jr._,
 accumulated **1.5 million views** before YouTube [removed it](notice.jpg)

@@ -19,7 +19,7 @@ extra:
  - [ 'twitter.com/signalapp/status/1348079223701794819', 'archive.is/RPLW2' ]
 ---
 
-In an update to their Terms of Service, the [Facebook](/facebook/) owned
+In an update to their Terms of Service, the Facebook owned
 messenging app WhatsApp announced that they would be requiring users to consent
 to having their data and information shared with Facebook. As [Engadget
 reported](https://archive.is/bYPHF#selection-1489.0-1493.163):

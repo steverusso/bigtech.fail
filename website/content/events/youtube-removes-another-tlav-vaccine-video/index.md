@@ -10,7 +10,7 @@ sources:
  - [ 'The Last American Vagabond "The Alarmingly Blind Trust In Vaccines/Health Authorities, Understanding MRNA & Jail For No Mask" on BitChute (18 Dec 2020)', 'www.bitchute.com/video/boJGumYk80hm/' ]
 ---
 
-[YouTube](/youtube/) removed yet another video by _The Last American Vagabond_
+YouTube removed yet another video by _The Last American Vagabond_
 regarding COVID and trust in the vaccine. This one was titled "The Alarmingly
 Blind Trust In Vaccines/Health Authorities, Understanding MRNA & Jail For No
 Mask", and it can still be viewed [on

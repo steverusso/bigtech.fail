@@ -16,7 +16,7 @@ youtube:
  views: 21810131
 ---
 
-[YouTube](/youtube/) deleted the channel _Patriots' Soapbox News Network LIVE_
+YouTube deleted the channel _Patriots' Soapbox News Network LIVE_
 in an effort to purge channels that the platform claimed were spreading
 "harmful conspiracy theories." The two and a half year old channel had **80k
 subscribers** and nearly **22 million total views**.
@@ -32,4 +32,4 @@ subscribers** and nearly **22 million total views**.
 > -- NotPSB (@NotPsb) [15 Oct 2020](https://archive.is/XNBM9)
 
 _Patriots' Soapbox_ [was banned](/e/patreon-bans-patriots-soapbox/) from
-[Patreon](/patreon/) one week later.
+Patreon one week later.

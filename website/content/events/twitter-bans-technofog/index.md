@@ -11,7 +11,7 @@ sources:
  - [ 'twitter.com/Techno_Fog/status/1349575367762317317', 'archive.is/a41t9' ]
 ---
 
-[Twitter](/twitter/) banned **@Techno_fog**, a lawyer who provides dry and
+Twitter banned **@Techno_fog**, a lawyer who provides dry and
 factual political commentary and updates, for violating the Twitter Rules
 against "platform manipulation and spam."
 

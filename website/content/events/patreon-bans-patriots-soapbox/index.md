@@ -12,7 +12,7 @@ sources:
  - [ 'graphtreon.com/creator/PatriotsSoapbox', 'archive.is/QIpnm' ]
 ---
 
-[Patreon](/patreon/) banned _Patriots' Soapbox News_ in an effort to purge
+Patreon banned _Patriots' Soapbox News_ in an effort to purge
 QAnon-related accounts shortly after Media Matters published an article titled
 "Patreon is profiting from QAnon." The account had **62 patrons**.
 
@@ -28,4 +28,4 @@ QAnon-related accounts shortly after Media Matters published an article titled
 > -- NotPSB (@NotPsb) [22 Oct 2020](https://archive.is/vzQgy)
 
 _Patriots' Soapbox_ [was banned](/e/youtube-bans-patriots-soapbox/) from
-[YouTube](/youtube/) one week prior.
+YouTube one week prior.

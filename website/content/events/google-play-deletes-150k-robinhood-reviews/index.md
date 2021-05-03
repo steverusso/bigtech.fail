@@ -10,7 +10,7 @@ sources:
  - [ 'Gizmodo "Google Deletes 100,000 Negative Reviews of Robinhood App From Angry Users" by Matt Novak (29 Jan 2021)', 'archive.is/bemOq' ]
 ---
 
-The [Google](/google/) Play Store purged over 150,000 negative reviews from
+The Google Play Store purged over 150,000 negative reviews from
 Robinhood, one of the most popular trading apps. These reviews poured in after
 Robinhood restricted the ability to buy certain stocks (like GameStop) that
 were selected by the online trading group r/wallstreetbets as targets for

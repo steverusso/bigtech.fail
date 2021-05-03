@@ -9,7 +9,7 @@ sources:
  - [ 'twitter.com/grahamelwood/status/1356152540711301120', 'archive.is/iVo2s' ]
 ---
 
-[YouTube](/youtube/) demonetized Graham Elwood's channel, a stand-up comic and
+YouTube demonetized Graham Elwood's channel, a stand-up comic and
 progressive political commentator. The video he published the day prior was
 titled _JFK Assassination Part 2, Wall Street Turned Upside Down, & Oil
 Subsidies - Gov't Secrets Ep. 027_.

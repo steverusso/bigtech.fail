@@ -12,7 +12,7 @@ sources:
  - [ 'patreon.com/inthematrixxx (archived removal notice)', 'archive.is/clAE4' ]
 ---
 
-[Patreon](/patreon/) banned [_InTheMatrixxx_](https://inthematrixxx.com/), an
+Patreon banned [_InTheMatrixxx_](https://inthematrixxx.com/), an
 independent media outlet, in an effort to purge QAnon-related accounts shortly
 after Media Matters published an article titled "Patreon is profiting from
 QAnon." The account had **369 patrons**.

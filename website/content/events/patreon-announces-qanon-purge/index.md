@@ -9,7 +9,7 @@ sources:
 ---
 
 Two days after Media Matters published [an article](https://archive.is/fSkGj)
-criticizing [Patreon](/patreon/) for not banning QAnon related accounts,
+criticizing Patreon for not banning QAnon related accounts,
 Patreon announced [in a blog
 post](https://archive.is/LAzfQ#selection-365.0-365.571) that they would be
 removing accounts that spread "QAnon disinformation":

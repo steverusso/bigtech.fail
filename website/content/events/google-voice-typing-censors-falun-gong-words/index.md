@@ -11,7 +11,7 @@ sources:
 ---
 
 Human rights activist Jennifer Zeng tweeted a video recorded by someone who was
-attempting to use [Google](/google/) Voice Typing for words and phrases related
+attempting to use Google Voice Typing for words and phrases related
 to Falun Gong, a spiritual practice [persecuted by the
 CCP](https://faluninfo.net/violent-suppression-of-100-million-people/) (Chinese
 Communist Party):

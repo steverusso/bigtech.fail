@@ -19,7 +19,7 @@ youtube:
  videos: 569
 ---
 
-[YouTube](/youtube/) banned [_Know More
+YouTube banned [_Know More
 News_,](https://www.knowmorenews.org/about-me) an independent media channel run
 by journalist Adam Green. No specific reason was given [other than](notice.png)
 "a violation of YouTube's Terms of Service." The six year old channel had over

@@ -16,7 +16,7 @@ sources:
  - [ 'Archive of page removed (patreon.com/TheLastAmericanVagabond)', 'archive.is/vS6CO' ]
 ---
 
-[Patreon](/patreon/) banned _The Last American Vagabond_ for "spreading medical
+Patreon banned _The Last American Vagabond_ for "spreading medical
 misinformation" about a week after Patreon's "Trust & Safety" team threatened
 him with account removal unless all of the "medical misinformation" content was
 removed. Patreon only gave one examle of such violative content, but that

@@ -10,7 +10,7 @@ sources:
  - [ 'twitter.com/patton6966/status/1317132892695334912', 'archive.is/gAAm1' ]
 ---
 
-[YouTube](/youtube/) banned [Mark Taylor](https://sordrescue.com/) in an effort
+YouTube banned [Mark Taylor](https://sordrescue.com/) in an effort
 to purge channels that the platform claimed were spreading "harmful conspiracy
 theories." The two year old channel had **109k subscribers** and **4.6 million
 total views**.

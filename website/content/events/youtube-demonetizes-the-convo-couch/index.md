@@ -8,7 +8,7 @@ sources:
  - [ 'twitter.com/Fiorella_im/status/1357061435600244736', 'archive.is/cTx25' ]
 ---
 
-[YouTube](/youtube/) demonetized _The Convo Couch_, a progressive political
+YouTube demonetized _The Convo Couch_, a progressive political
 show hosted by Fiorella Isabel. YouTube only gave [a vague
 explanation](notice.jpg) of "harmful content" and did not cite specific
 guideline violations.

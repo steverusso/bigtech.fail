@@ -12,7 +12,7 @@ extra:
  - [ 'Forbes "The FBI Investigated Parler User’s Call For Proud Boys To Violently Attack Government Officials—Three Weeks Before The Capitol Hill Siege" by Thomas Brewster (14 Jan 2021)', 'archive.is/N5P2K' ]
 ---
 
-[Facebook](/facebook/) proactively worked with law enforcement by preserving
+Facebook proactively worked with law enforcement by preserving
 and providing the account data of users who were at the [US capitol
 riot](/t/us-capitol-riot/). A couple later, it was discovered that the company
 was even handing over the private messages of those users as well. As Thomas

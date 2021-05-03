@@ -12,7 +12,7 @@ sources:
  - [ 'patreon.com/justinformedtalk (archived removal notice)', 'archive.is/644KC' ]
 ---
 
-[Patreon](/patreon/) banned [_JustInformed
+Patreon banned [_JustInformed
 Talk_](https://justinformednews.com/), a political satire and opinionated
 editorial review, in an effort to [purge QAnon-related](notice.png) accounts
 shortly after Media Matters published an article titled "Patreon is profiting

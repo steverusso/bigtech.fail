@@ -12,7 +12,7 @@ sources:
  - [ 'twitter.com/SGTreport/status/1319363047669059587', 'archive.is/EZyPT' ]
 ---
 
-[Patreon](/patreon/) banned _SGTreport_ in an effort to purge QAnon-related
+Patreon banned _SGTreport_ in an effort to purge QAnon-related
 accounts shortly after Media Matters published an article titled "Patreon is
 profiting from QAnon." The account had over **1k patrons**.
 

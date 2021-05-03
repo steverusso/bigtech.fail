@@ -22,7 +22,7 @@ youtube:
  videos: 2040
 ---
 
-[YouTube](/youtube/) banned _The Last American Vagabond_ during a live stream.
+YouTube banned _The Last American Vagabond_ during a live stream.
 The seven and a half year old channel had nearly **103k subscribers** and over
 **14.5 million total views** across more than 2,000 videos.
 
@@ -35,7 +35,7 @@ The seven and a half year old channel had nearly **103k subscribers** and over
 > -- LastAmericanVagabond (@TLAVagabond) [19 Oct 2020](https://archive.is/gMfyZ)
 
 _The Last American Vagabond_ pushed back when YouTube attempted their usual,
-two-faced customer service a couple days later on [Twitter](/twitter/), saying
+two-faced customer service a couple days later on Twitter, saying
 they were "Sorry to hear about the trouble" and that he could contact them if
 he thought his channel "was terminated by mistake."
 

@@ -31,7 +31,7 @@ Deadline_. Fairbanks tweeted a link to the article with the following text:
 >
 >  -- Cassandra Fairbanks (@CassandraRules) [5 Feb 2021](https://archive.is/TeegJ)
 
-[Twitter](/twitter/) almost immediately restricted that tweet (meaning no one
+Twitter almost immediately restricted that tweet (meaning no one
 could like, retweet, or reply to it) as well as placed a warning on it that
 read **"This claim of election fraud is disputed, and this Tweet can’t be
 replied to, Retweeted, or liked due to a risk of violence."** While the article

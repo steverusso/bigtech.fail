@@ -16,7 +16,7 @@ extra:
  - [ '', 'archive.is/wip/r6LyA' ]
 ---
 
-[Twitter](/twitter/) banned Mike Lindell (**@realMikeLindell**), the CEO of My
+Twitter banned Mike Lindell (**@realMikeLindell**), the CEO of My
 Pillow, for violating Twitter's Civic Integrity Policy by spreading "election
 misinformation." Lindell [told the
 StarTribune](https://archive.is/py6Ob#selection-1949.0-1949.168) that he had

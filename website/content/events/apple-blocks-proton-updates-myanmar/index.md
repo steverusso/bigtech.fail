@@ -14,7 +14,7 @@ than 2,500. On March 17, the United Nations asked Myanmar citizens to gather
 and submit any evidence of "crimes against humanity." They even [explicitly
 recommended using ProtonMail and
 Signal](https://archive.is/Zvh3i#selection-749.0-749.272). _On that same day_,
-[Apple](/apple/) blocked updates for the ProtonVPN app, which saw exponential
+Apple blocked updates for the ProtonVPN app, which saw exponential
 growth during and after the coup, because of the language used in its
 description, specifically the "challenging governments" part. Andy Yen, one of
 the founders of Proton Technologies,

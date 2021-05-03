@@ -14,7 +14,7 @@ sources:
  - [ 'twitter.com/bennyjohnson/status/1337804092643676161', 'archive.is/5vgl3' ]
 ---
 
-[Twitter](/twitter/) disabled the ability to like or reply to several of
+Twitter disabled the ability to like or reply to several of
 President Trump's tweets as he was ranting about the Supreme Court, Attorney
 General Bill Barr, and the Republican establishment. A few hours later, Twitter
 re-enabled the ability to like and reply to the tweets in question while

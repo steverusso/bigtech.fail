@@ -15,7 +15,7 @@ extra:
  - [ 'twitter.com/RonPaul/status/1349465640642482176', 'archive.is/Olm9s' ]
 ---
 
-[Facebook](/facebook/) restricted Ron Paul from creating new pages and managing
+Facebook restricted Ron Paul from creating new pages and managing
 his existing pages without citing a specific reason why. The notice on his
 account said it was "Due to repeatedly going against [Facebook's] Community
 Standards [...]", however, Ron Paul has never had any community standards

@@ -14,7 +14,7 @@ extra:
  - [ 'YouTube "The REAL reason for the coming wave of bans and censorship: what you aren''t being told" by Carey Wedler (19 Sep 2018)', 'www.youtube.com/watch?v=xN8k22F1Wfw' ]
 ---
 
-[Twitter](/twitter/) permanently banned Carey Wedler (@CareyWedler) for no
+Twitter permanently banned Carey Wedler (@CareyWedler) for no
 reason on the same day that _The Anti-Media_ (the outlet where she served as
 editor-in-chief) was [banned by both Facebook and
 Twitter](/e/facebook-twitter-ban-antimedia/). Her nine year old account

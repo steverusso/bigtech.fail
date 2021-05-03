@@ -10,7 +10,7 @@ sources:
  - [ 'twitter.com/realDonaldTrump/status/1313449844413992961', 'archive.is/c7ViI' ]
 ---
 
-[Facebook](/facebook/) and [Twitter](/twitter/) suppressed the following post
+Facebook and Twitter suppressed the following post
 made by President Trump after his release from the hospital due to COVID-19.
 
 > Flu season is coming up! Many people every year, sometimes over 100,000, and

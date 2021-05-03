@@ -10,7 +10,7 @@ sources:
  - [ 'Summit News "YouTube Suspends Trump" by Steve Watson (13 Jan 2021)', 'summit.news/2021/01/13/youtube-suspends-trump/' ]
 ---
 
-[YouTube](/youtube/) removed some videos from President Trump's channel and
+YouTube removed some videos from President Trump's channel and
 then permanently banned him without giving a specific reason or citing specific
 content.
 

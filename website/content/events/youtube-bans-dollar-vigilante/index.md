@@ -19,7 +19,7 @@ youtube:
  videos: 1003
 ---
 
-[YouTube](/youtube/) banned _The Dollar Vigilante_, a financial newsletter and
+YouTube banned _The Dollar Vigilante_, a financial newsletter and
 political commentary channel, after they were issued a third strike within a 90
 day period. The third strike was for violating YouTube's "medical
 misinformation policy." The channel had over **304k subscribers** and more than

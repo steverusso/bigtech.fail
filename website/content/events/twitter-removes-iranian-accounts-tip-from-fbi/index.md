@@ -9,7 +9,7 @@ sources:
  - [ 'ZDNet "Twitter removes 130 Iranian accounts for trying to disrupt the US Presidential Debate" by Catalin Cimpanu (1 Oct 2020)', 'archive.is/2o2q7' ]
 ---
 
-[Twitter](/twitter/) announced the removal of 130 accounts that they said
+Twitter announced the removal of 130 accounts that they said
 "appeared" to be Iranian and that were trying to **"disrupt the public
 conversation during the first 2020 US Presidential Debate."** Twitter did this
 based on a lead from the FBI.

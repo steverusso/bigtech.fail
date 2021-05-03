@@ -14,7 +14,7 @@ youtube:
  videos: 464
 ---
 
-[YouTube](/youtube/) banned [_InTheMatrixxx_](https://inthematrixxx.com/), an
+YouTube banned [_InTheMatrixxx_](https://inthematrixxx.com/), an
 independent media outlet, in an attempt to purge channels that the platform
 claimed were spreading "harmful conspiracy theories." The seven year old
 channel had about **77k subscribers** and over **4.6 million total views**

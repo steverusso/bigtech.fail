@@ -11,7 +11,7 @@ sources:
  - [ 'ZeroHedge ""This Was A Coordinated Attack": Parler CEO Speaks Out After Amazon Boots From AWS, Vows To Rebuild ''From Scratch''" by Tyler Durden (9 Jan 2021)', 'archive.is/uAHMi' ]
 ---
 
-[Apple](/apple/) removed the Parler app (a Twitter alternative) from the App
+Apple removed the Parler app (a Twitter alternative) from the App
 Store the day after the app was [removed from the Google Play
 Store](/e/google-removes-parler-from-play-store/). This move from Apple
 came a few days after the rioting in the US capitol, and after Parler saw
@@ -22,7 +22,7 @@ spokesperson gave a statement that included the following:
 > threats to people’s safety. We have suspended Parler from the App Store until
 > they resolve these issues.
 
-Towards the end of the day, [Amazon](/amazon/) announced that they would be
+Towards the end of the day, Amazon announced that they would be
 terminating Parler's servers on Amazon Web Services (AWS). John Matze, the CEO
 of Parler, made [the following statement](https://archive.is/EmECm):
 

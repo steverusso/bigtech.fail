@@ -12,7 +12,7 @@ sources:
 
 [_X22report_](/profiles/x22report/) became the 3rd channel to reach **100k
 subscribers** on [BitChute](/alttech/bitchute/), a video hosting platform
-similar to [YouTube](/youtube/).
+similar to YouTube.
 
 > Congratulations to @X22Report for reaching 100,000 subscribers! The 3rd
 > channel to do so 🏆 🚀

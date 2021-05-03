@@ -13,7 +13,7 @@ extra:
  - [ 'zerohedge.com/political/youtube-suspends-pro-trump-news-network-oann-completely-demonetizes-channel-over-covid-19', 'archive.is/Krbp5' ]
 ---
 
-[YouTube](/youtube/) demonetized _One America News_, a right wing media outlet,
+YouTube demonetized _One America News_, a right wing media outlet,
 and gave them a one week suspension shortly after activists from several
 corporate media organizations published articles
 ([CNN](https://archive.is/7yBhT), [CNBC](https://archive.is/SC9Vb),

@@ -15,7 +15,7 @@ youtube:
  videos: 461
 ---
 
-[YouTube](/youtube/) banned _Global Watchmen News_, an alternative news
+YouTube banned _Global Watchmen News_, an alternative news
 channel, in an attempt to purge channels that the platform claimed were
 spreading "harmful conspiracy theories." The five year old channel had about
 **30.9k subscribers** and over **3 million total views** across 461 videos.

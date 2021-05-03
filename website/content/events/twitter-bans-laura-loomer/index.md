@@ -14,7 +14,7 @@ sources:
  - [ 'RT "Twitter bans right-wing conspiracist Laura Loomer, renewing free speech debate" (22 Nov 2020)', 'archive.is/9sQaU' ]
 ---
 
-[Twitter](/twitter/) banned journalist Laura Loomer for a tweet criticizing
+Twitter banned journalist Laura Loomer for a tweet criticizing
 Ilhan Omar, a US congresswoman. The account had about 265k followers at the
 time. The offending tweet was the following:
 

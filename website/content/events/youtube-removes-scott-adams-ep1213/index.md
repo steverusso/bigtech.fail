@@ -11,7 +11,7 @@ extra:
  - [ '', 'socialblade.com/youtube/channel/UCfpnY5NnBl-8L7SvICuYkYQ' ]
 ---
 
-[YouTube](/youtube/) removed _Episode 1213 Scott Adams: Biden COVID Plan,
+YouTube removed _Episode 1213 Scott Adams: Biden COVID Plan,
 Swalwell's Chinese Spy, Pelosi Still a Steaming Pile_. The video was removed
 [for violating](notice.jpg) YouTube's "spam, deceptive practices and scam
 policy."

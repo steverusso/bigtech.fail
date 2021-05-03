@@ -21,7 +21,7 @@ youtube:
  videos: 1812
 ---
 
-[YouTube](/youtube/) banned Dave Cullen of _Computing Forever_ after issuing
+YouTube banned Dave Cullen of _Computing Forever_ after issuing
 his channel its [third and final strike](https://archive.is/vvexd) for a video
 that was published three months prior. The video, titled _This is a Spiritual
 Battle_, is still available [on

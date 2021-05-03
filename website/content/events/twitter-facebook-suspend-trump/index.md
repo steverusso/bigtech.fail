@@ -17,7 +17,7 @@ extra:
 ---
 
 Shortly after the rioting in the US capitol on Jan 6, 2020,
-[Twitter](/twitter/) and [Facebook](/facebook/) took several drastic actions
+Twitter and Facebook took several drastic actions
 including suspending the President himself.
 
 Twitter removed three of Trump's tweets (including ones that told the rioters

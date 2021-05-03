@@ -17,7 +17,7 @@ youtube:
  videos: 619
 ---
 
-[YouTube](/youtube/) banned [_In Pursuit of Truth
+YouTube banned [_In Pursuit of Truth
 (IPOT)_](https://www.bitchute.com/channel/Xe2ztraIRXRX/), a political
 commentary channel, in an attempt to purge channels that the platform claimed
 were spreading "harmful conspiracy theories." The two and a half year old

@@ -12,7 +12,7 @@ sources:
  - [ 'Archive of profile page removal', 'archive.is/c3iDa' ]
 ---
 
-[Twitter](/twitter/) banned _RedPill78_, an independent journalist, about a
+Twitter banned _RedPill78_, an independent journalist, about a
 week after they were [banned from YouTube](/e/youtube-bans-redpill78/).
 The ten year old account had over **158k followers**.
 

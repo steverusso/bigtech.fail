@@ -14,7 +14,7 @@ sources:
  - [ 'Reclaim The Net "YouTube removes Alex Jones Tim Pool podcast for “harassment and bullying”" by Tom Parker (13 Nov 2020)', 'reclaimthenet.org/youtube-removes-alex-jones-tim-pool-podcast-episode/' ]
 ---
 
-[YouTube](/youtube/) removed a nearly four hour-long episode of the _Timcast
+YouTube removed a nearly four hour-long episode of the _Timcast
 IRL_ podcast that featured Alex Jones and Michael Malice. YouTube
 misinterpreted a single comment made by Jones that they claimed was a Community
 Guidelines violation.

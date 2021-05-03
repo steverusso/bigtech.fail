@@ -13,7 +13,7 @@ sources:
  - [ 'twitter.com/joshdcaplan/status/1358196234897530881', 'archive.is/qvsBz' ]
 ---
 
-[Twitter](/twitter/) banned Jim Hoft, founder of the Gateway Pundit, for
+Twitter banned Jim Hoft, founder of the Gateway Pundit, for
 violating their "Civic Integrity Policy" shortly after he published [an
 article](https://archive.is/ehruB) titled _Exclusive: The TCF Center Election
 Fraud – Newly Discovered Video Shows Late Night Deliveries of Tens of Thousands
