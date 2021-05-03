@@ -1,10 +1,7 @@
 {{ define "main" }}
-	{{ $slug := .Title | anchorize }}
-	{{ $img := $slug | printf "/logos/%s.png" }}
-
 	<main>
 		<div>
-			<img src="{{ $img }}" width="64" height="64" loading="lazy">
+			<img src="/logos/{{ .Title | anchorize }}.png" width="64" height="64" loading="lazy">
 			<h1>{{ .Title | title }}</h1>
 		</div>
 		<hr>
