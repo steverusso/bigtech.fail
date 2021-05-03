@@ -1,7 +1,7 @@
 ---
 title: Flote
 site: flote.app
-alttrs: [ public-posting ]
+alttrs: [ public-posting, secure-messaging, paid-subscriptions ]
 summary: Flote is strongly free speech social media with cryptocurrency support.
 weight: 2
 ---

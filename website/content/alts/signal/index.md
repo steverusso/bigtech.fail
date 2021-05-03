@@ -1,7 +1,7 @@
 ---
 title: Signal
 site: signal.org
-alttrs: [ secure-messaging ]
+alttrs: [ messenger ]
 ---
 
 [Signal](https://signal.org/download/) is a simple, end-to-end encrypted
