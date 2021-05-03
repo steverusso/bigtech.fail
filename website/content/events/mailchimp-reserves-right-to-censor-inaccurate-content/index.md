@@ -9,7 +9,7 @@ sources:
  - [ 'Reclaim The Net "Mailchimp makes its censorship rules official, outlines right to ban users for “inaccurate” content" by Didi Rankovic (29 Oct 2020)', 'reclaimthenet.org/mailchimp-misinformation-censorship/' ]
 ---
 
-[Mailchimp](/mailchimp/) updated their approximately 6,200 word Terms of
+Mailchimp updated their approximately 6,200 word Terms of
 Service to include [the following gem](https://archive.is/spOEk#selection-2883.0-2883.230):
 
 > Mailchimp also does not allow the distribution of Content that is, in our
