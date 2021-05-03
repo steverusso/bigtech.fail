@@ -14,7 +14,7 @@ sources:
  - [ 'facebook.com/groups/stopthesteal2020 (archived removal)', 'archive.vn/ptPSu' ]
 ---
 
-[Facebook](/facebook/) removed a group named _Stop The Steal_ that was formed
+Facebook removed a group named _Stop The Steal_ that was formed
 to help organize efforts to prevent cheating in the 2020 US election. The group
 was less than two days old and had accumulated over **350k members**.
 

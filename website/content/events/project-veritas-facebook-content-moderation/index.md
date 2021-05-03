@@ -14,7 +14,7 @@ sources:
 ---
 
 Project Veritas released a report on their insider investigation into
-[Facebook](/facebook/)'s political content moderation practices in regards to
+Facebook's political content moderation practices in regards to
 the upcoming election. One of the main takeaways, as Facebook insider Zach
 McElroy said, is that Facebook is "essentially in charge of what gets said and
 what gets stifled", which is illustrated by the following [excerpt from the

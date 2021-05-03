@@ -13,7 +13,7 @@ extra:
  - [ 'twitter.com/WebCoderz/status/1347595502033002498', 'archive.is/jgnDq' ]
 ---
 
-[Facebook](/facebook/) banned the [#WalkAway
+Facebook banned the [#WalkAway
 Campaign](https://www.walkawaycampaign.com/about-more), as well as every one of
 its team members, following [a hitpiece](https://archive.is/Wvuz8) being
 published by ABC about the group. This move by Facebook came shortly after the

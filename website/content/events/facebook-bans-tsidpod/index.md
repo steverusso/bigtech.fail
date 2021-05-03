@@ -15,7 +15,7 @@ sources:
  - [ 'twitter.com/tsidpod/status/1347658911378272259', 'archive.is/iDsby' ]
 ---
 
-[Facebook](/facebook/) took drastic action against Dan Smotz, host of a podcast
+Facebook took drastic action against Dan Smotz, host of a podcast
 called [_The System Is Down_](/profiles/tsid/), after he published an episode
 titled _204: Is Cue A-non Dead? Is Epstein Alive? Where's The Kraken?
 #TrustThePlan? w. Scott McElroy_. Facebook not only banned Smotz's personal

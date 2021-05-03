@@ -9,7 +9,7 @@ sources:
  - [ 'Summit News "Facebook Bans ‘Robinhood Stock Traders Group’ With 157,000 Members" by Paul Joseph Watson (29 Jan 2021)', 'archive.is/ql5PB' ]
 ---
 
-[Facebook](/facebook/) banned the _Robinhood Stock Traders_ group, the largest
+Facebook banned the _Robinhood Stock Traders_ group, the largest
 community of Robinhood traders on Facebook, for "adult sexual exploitation"
 violations. The group had a number of members who were participating in the
 coordinated short squeezing efforts of the r/wallstreetbets sub-reddit.

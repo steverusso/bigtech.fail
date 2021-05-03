@@ -10,7 +10,7 @@ extra:
  - [ 'ZeroHedge "WHO Concludes That Coronavirus "Came From Animal," Not Wuhan Lab" by Tyler Durden (9 Feb 2021)', 'archive.is/HZRc3' ]
 ---
 
-[Facebook](/facebook/) announced the expansion of their efforts to "limit
+Facebook announced the expansion of their efforts to "limit
 misinformation about COVID-19" to include, among other things, removing content
 that claims the virus is "manufactured":
 

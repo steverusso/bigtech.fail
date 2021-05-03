@@ -11,7 +11,7 @@ sources:
  - [ 'gab.com/MarkDice/posts/105629657057880226', 'gab.com/MarkDice/posts/105629657057880226' ]
 ---
 
-[Facebook](/facebook/) removed a post made by media analyst and political
+Facebook removed a post made by media analyst and political
 commentator Mark Dice, restricted the distribution of his page, and threatened
 to outright ban him:
 
