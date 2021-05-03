@@ -30,6 +30,15 @@ h1 {
 	font-size: 2.25rem;
 }
 
+main, .cntr {
+	width: 1200px;
+	margin: auto;
+	padding: 1.5rem;
+	max-width: 100% !important;
+}
+main {
+	width: 1000px;
+}
 main > div:first-child {
 	display: flex;
 	align-items: center;
@@ -40,15 +49,6 @@ main > div:first-child img {
 }
 main > div:first-child h1 {
 	margin: 0;
-}
-main, .cntr {
-	width: 1200px;
-	margin: auto;
-	padding: 1.5rem;
-	max-width: 100% !important;
-}
-main {
-	width: 1000px;
 }
 .w800 { width: 800px }
 .w900 { width: 900px }
