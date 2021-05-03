@@ -14,7 +14,7 @@ extra:
  - [ '', 'twitter.com/FrankFigliuzzi1/status/1324485819042705408' ]
 ---
 
-[Twitter](/twitter/) permanently banned _Steve Bannon's War Room_ after he made
+Twitter permanently banned _Steve Bannon's War Room_ after he made
 the following comments during one of the War Room's podcasts:
 
 > Second term kicks off with firing Wray, firing Fauci. Nah, actually I wanna

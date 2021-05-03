@@ -13,7 +13,7 @@ extra:
  - [ 'Some archives of the site', 'archive.is/https://peacedata.net/' ]
 ---
 
-[Twitter](/twitter/) and [Facebook](/facebook/) purged accounts and pages
+Twitter and [Facebook](/facebook/) purged accounts and pages
 related to _PeaceData_, a website that was allegedly a Russian-backed
 "information campaign." Twitter and Facebook both took these enforcement
 actions based on information they received from the United States FBI (Federal

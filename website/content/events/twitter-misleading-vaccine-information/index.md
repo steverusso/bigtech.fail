@@ -8,7 +8,7 @@ sources:
  - [ 'Twitter Blog "COVID-19: Our approach to misleading vaccine information" by Twitter Safety (16 Dec 2020)', 'archive.is/wnYXB' ]
 ---
 
-[Twitter](/twitter/) announced in a blog post that they would be removing
+Twitter announced in a blog post that they would be removing
 tweets that contain "harmful false or misleading information" about COVID-19
 vaccines and labeling tweets that "advance unsubstantiated rumors." [From the
 announcement](https://archive.is/wnYXB#selection-763.0-803.166):

@@ -12,7 +12,7 @@ sources:
  - [ 'twitter.com/ByMikeBaker/status/1352037060421402629', 'archive.is/kQJJE' ]
 ---
 
-[Twitter](/twitter/) banned several far left / Antifa accounts the day after
+Twitter banned several far left / Antifa accounts the day after
 far left groups protested Biden's inauguration and attacked the Democratic
 Party headquarters in Portland, Oregon.
 

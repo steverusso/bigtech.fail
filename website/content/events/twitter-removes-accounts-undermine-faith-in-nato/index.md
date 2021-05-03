@@ -11,7 +11,7 @@ sources:
  - [ 'The Grayzone "‘No one cares if we die’: Ex-Syrian rebels recount Nagorno-Karabakh nightmare as ‘disposable force for Turkey’" by Lindsey Snell (26 Feb 2021)', 'archive.is/VcZOg' ]
 ---
 
-[Twitter](/twitter/) announced the [permanent removal of 373 "state-affiliated"
+Twitter announced the [permanent removal of 373 "state-affiliated"
 accounts](https://archive.is/NdkNb#selection-589.87-593.10) that they
 attributed to Armenia, Russia and Iran:
 

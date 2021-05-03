@@ -12,7 +12,7 @@ sources:
  - [ 'Archive of profile page removal', 'archive.is/RaOCU' ]
 ---
 
-[Twitter](/twitter/) banned _Press For Truth_ (@PressForTruth), an independent
+Twitter banned _Press For Truth_ (@PressForTruth), an independent
 media outlet run by journalist Dan Dicks, [for violating Twitter's
 rules](notice.jpg) against "platform manipulation and spam." The eight year old
 account had over **20k followers**.

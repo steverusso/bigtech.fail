@@ -20,7 +20,7 @@ extra:
  - [ 'Styxhexenhammer666 "Twitter Deplatforms Project Veritas, Because They Are Afraid of Them (Bitchute Exclusive)" on BitChute (14 Feb 2021)', 'www.bitchute.com/video/MLKWVPTmeaXl/' ]
 ---
 
-[Twitter](/twitter/) permanently banned Project Veritas and temporarily
+Twitter permanently banned Project Veritas and temporarily
 suspended its founder, James O'Keefe, for violating the policies against
 "posting private information." This happened after Project Veritas published a
 video of one of their journalists confronting the VP of Facebook in front of

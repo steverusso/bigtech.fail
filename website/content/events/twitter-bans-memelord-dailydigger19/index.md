@@ -16,7 +16,7 @@ sources:
  - [ 'OnlyBans "MemeLord (@dailydigger19) Banned From Twitter" (18 Oct 2020)', 'archive.is/bK69Q' ]
 ---
 
-[Twitter](/twitter/) banned _Memelord_ (@dailydigger19) likely as part of their
+Twitter banned _Memelord_ (@dailydigger19) likely as part of their
 efforts to [suppress the Hunter Biden laptop scandal](/t/hunters-laptop/) since
 all of this account's tweets just prior to being banned are about the laptop
 and the censorship surrounding it. The account, along with many others, even

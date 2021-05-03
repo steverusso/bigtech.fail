@@ -38,7 +38,7 @@ sources:
  - [ 'twitter.com/andymstone/status/1316395902479872000', 'archive.is/eZu88' ]
 ---
 
-[Facebook](/facebook/) and [Twitter](/twitter/) suppressed [an
+[Facebook](/facebook/) and Twitter suppressed [an
 exposé](https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/)
 published by the New York Post about Hunter Biden's corruption. Facebook
 spokesperson (and former Democrat Party opertative) Andy Stone confirmed that
