@@ -61,7 +61,7 @@
 	padding-bottom: 5.5rem;
 	text-align: center;
 }
-.alttrs .tags {
+.alttrs.tags {
 	margin-top: 1.25rem;
 	margin-bottom: 1.75rem;
 }
@@ -139,10 +139,10 @@
 			</article>
 		</div>
 
-		<div class="alttrs">
+		<div>
 			<b>Alt Categories / Features:</b>
 
-			<div class="tags">
+			<div class="alttrs tags">
 				{{ range site.Taxonomies.alttrs.ByCount | first 6 }}
 					{{ partial "tags/alttr" .Page }}
 				{{ end }}
