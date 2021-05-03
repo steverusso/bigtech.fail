@@ -1,4 +1,4 @@
 ---
-title: Search Engines
+title: Search Engine
 image: icons/search
 ---

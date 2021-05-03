@@ -1,4 +1,4 @@
 ---
-title: Web Browsers
+title: Web Browser
 image: icons/website
 ---

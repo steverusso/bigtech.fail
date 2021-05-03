@@ -1,4 +1,4 @@
 ---
-title: Basic Social Media
+title: Newsfeed
 image: icons/notes
 ---
