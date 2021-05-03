@@ -24,8 +24,14 @@
 {{ end }}
 
 {{ define "partials/tags/alttr" }}
-	<a href="{{ .RelPermalink }}">
-		<img src="/{{ .Params.image }}.png" loading="lazy">
-		{{ .Title }}
-	</a>
+	{{ if eq "string" (printf "%T" .) }}
+		{{ with index site.Taxonomies.alttrs . }}
+			{{ partialCached "tags/alttr" .Page .Page }}
+		{{ end }}
+	{{ else }}
+		<a href="{{ .RelPermalink }}">
+			<img src="/{{ .Params.image }}.png" loading="lazy">
+			{{ .Title }}
+		</a>
+	{{ end }}
 {{ end }}

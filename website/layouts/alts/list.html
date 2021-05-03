@@ -16,7 +16,7 @@
 		<div class="alttrs tags">
 			<h3>By Category / Feature:</h3>
 			{{ range site.Taxonomies.alttrs.ByCount }}
-				{{ partial "tags/alttr" .Page }}
+				{{ partialCached "tags/alttr" .Page .Page }}
 			{{ end }}
 		</div>
 		<hr>
