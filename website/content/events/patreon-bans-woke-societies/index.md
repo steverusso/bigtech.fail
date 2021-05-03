@@ -13,7 +13,7 @@ sources:
  - [ 'patreon.com/wokesocieties1111 (archived page removed)', 'archive.is/iSldz' ]
 ---
 
-[Patreon](/patreon/) banned _Woke Societies_ in an effort to [purge
+Patreon banned _Woke Societies_ in an effort to [purge
 QAnon-related](notice.jpg) accounts shortly after Media Matters published an
 article titled "Patreon is profiting from QAnon." The account had over **236
 patrons**.
