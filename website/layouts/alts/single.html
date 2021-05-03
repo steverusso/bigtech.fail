@@ -3,23 +3,17 @@
 .cntr > header h1 {
 	margin-bottom: 0.75rem;
 }
-.cntr > article {
-	margin-top: 3rem;
-}
 </style>
 {{ end }}
 
 {{ define "main" }}
-	{{ $site := .Params.site }}
-	{{ $href := printf "https://%s" $site }}
-
 	<div class="cntr w900">
 		<header>
 			<img src="/logos/{{ .Title | anchorize }}.png" width="96" height="96" loading="lazy">
 
 			<div>
 				<h1>{{ .Title }}</h1>
-				<a href="{{ $href }}" target="_blank">{{ $site }}</a>
+				{{ with .Params.site }}<a href="https://{{ . }}" target="_blank">{{ . }}</a>{{ end }}
 			</div>
 		</header>
 
