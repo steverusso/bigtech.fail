@@ -9,7 +9,7 @@ sources:
  - [ 'Styxhexenhammer666 "Google Targets Minds.com As the Billionaires'' Fascist Moves Continue" on BitChute (16 Jan 2021)', 'www.bitchute.com/video/0EcA6WqpYPw/' ]
 ---
 
-[Google](/google/) threatened the free-speech platform [Minds](/alttech/minds/)
+Google threatened the free-speech platform [Minds](/alttech/minds/)
 with removal from the Play Store due to the app hosting what Google deemed to
 be controversial content. In order to avoid being removed from the Play Store,
 Minds had to significantly reduce their mobile app functionality. The CEO Bill

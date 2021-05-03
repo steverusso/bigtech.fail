@@ -15,7 +15,7 @@ sources:
  - [ 'twitter.com/bitchute/status/1321877439253934081', 'archive.is/RVmaj' ]
 ---
 
-[Google](/google/) removed a third-party [BitChute](/alttech/bitchute/) app (by
+Google removed a third-party [BitChute](/alttech/bitchute/) app (by
 a developer named _Hexagod_) from the Play Store claiming that it violated the
 "Webviews and Affiliate Spam Policy." The app had **220k installations** before
 it was removed.

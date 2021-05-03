@@ -13,7 +13,7 @@ extra:
  - [ 'blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/', 'archive.is/5gLNb' ]
 ---
 
-[Google](/google/) removed the Parler app (a Twitter alternative) from the Play
+Google removed the Parler app (a Twitter alternative) from the Play
 Store shortly after it saw record traffic due to Twitter banning Trump. A
 spokesperson for Google gave the following statement:
 

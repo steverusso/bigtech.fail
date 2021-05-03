@@ -16,7 +16,7 @@ sources:
 ---
 
 BitSlide, an unofficial Android app for the video hosting platform
-[BitChute](/alttech/bitchute/), was removed from the [Google](/google/) Play
+[BitChute](/alttech/bitchute/), was removed from the Google Play
 Store [for violating](notice.png) Google's "User Generated Content" policy. At
 the time of this writing, at least one of the offending videos cited by Google
 has been available for over a year on YouTube, a video publishing
