@@ -12,7 +12,7 @@ sources:
  - [ 'Reclaim The Net "Facebook and Instagram ban BlazeTV reporter Elijah Schaffer" by Tom Parker (8 Jan 2021)', 'reclaimthenet.org/facebook-instagram-ban-elijah-schaffer/' ]
 ---
 
-Facebook and [Instagram](/instagram/) permanently banned
+Facebook and Instagram permanently banned
 independent journalist Elijah Schaffer. There was no stated reason, but it was
 likely due to him simply being on the ground and reporting on the US capitol
 riots of January 6, 2020.

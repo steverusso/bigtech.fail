@@ -8,7 +8,7 @@ sources:
  - [ 'Instagram "An update on our work to tackle abuse on Instagram" (10 Feb 2021)', 'archive.is/l7jJ6' ]
 ---
 
-[Instagram](/instagram/) announced that they would be [disabling the
+Instagram announced that they would be [disabling the
 accounts](https://archive.is/l7jJ6#selection-421.0-421.510) of users who "break
 the rules" in their direct (private) messages:
 
