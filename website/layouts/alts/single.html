@@ -1,25 +1,21 @@
 {{ define "style" }}
 <style>
-.cntr > header {
-	border-bottom: none !important;
-	margin-bottom: 0rem !important;
-}
-.cntr > header h1 {
+main h1 {
 	margin-bottom: 0.75rem;
 }
 </style>
 {{ end }}
 
 {{ define "main" }}
-	<div class="cntr w900">
-		<header>
+	<main class="w900">
+		<div>
 			<img src="/logos/{{ .Title | anchorize }}.png" width="96" height="96" loading="lazy">
 
 			<div>
 				<h1>{{ .Title }}</h1>
 				{{ with .Params.site }}<a href="https://{{ . }}" target="_blank">{{ . }}</a>{{ end }}
 			</div>
-		</header>
+		</div>
 
 		<div class="tags">
 			{{ range .Params.alttrs }}
@@ -29,5 +25,5 @@
 		<hr>
 
 		<article>{{ .Content }}</article>
-	</div>
+	</main>
 {{ end }}

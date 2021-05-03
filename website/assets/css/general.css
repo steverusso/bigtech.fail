@@ -30,11 +30,12 @@ h1 {
 	font-size: 2.25rem;
 }
 
-header {
+main > div:first-child, main > header {
 	display: flex;
 	align-items: center;
+	padding-bottom: 1.5rem;
 }
-header img {
+main > div:first-child img, header img {
 	margin-right: 1.5rem;
 }
 .cntr > header:first-child {
@@ -42,8 +43,28 @@ header img {
 	margin-bottom: 1rem;
 	padding-bottom: 1.5rem;
 }
-header h1 {
+main > div:first-child h1, header h1 {
 	margin: 0;
+}
+main, .cntr {
+	width: 1200px;
+	margin: auto;
+	padding: 1.5rem;
+	max-width: 100% !important;
+}
+main {
+	width: 1000px;
+}
+main > header {
+	border-bottom: var(--border1);
+	margin-bottom: 2rem;
+}
+.w800 { width: 800px }
+.w900 { width: 900px }
+@media (max-width: 500px) {
+	main, .cntr {
+		padding: 1rem;
+	}
 }
 
 hr {
@@ -147,28 +168,6 @@ h3[data-count] {
 
 .mb-8 { margin-bottom: 2rem !important }
 
-main, .cntr {
-	width: 1200px;
-	margin: auto;
-	padding: 1.5rem;
-	max-width: 100% !important;
-}
-main {
-	width: 1000px;
-}
-main > header {
-	border-bottom: var(--border1);
-	padding-bottom: 1.75rem;
-	margin-bottom: 2rem;
-}
-.cntr.w800 { width: 800px }
-.cntr.w900 { width: 900px }
-@media (max-width: 500px) {
-	main, .cntr {
-		padding: 1rem;
-	}
-}
-
 .grid {
 	--c: 12; /* columns */
 	display: flex;
@@ -226,11 +225,7 @@ main > header {
 .evtpg {
 	width: 900px;
 }
-.evtpg > header {
-	border-bottom: none;
-	margin-bottom: 0.25rem;
-}
-.evtpg > header img {
+.evtpg > div:first-child img {
 	width: 128px !important;
 	height: 128px !important;
 }
@@ -264,7 +259,7 @@ main > header {
 	align-items: center;
 	font-size: 14px;
 	height: 36px;
-	margin-bottom: 0.5rem;
+	margin: 0.25rem 0;
 	padding: 0.5rem 0.85rem;
 }
 .tags a:hover {
