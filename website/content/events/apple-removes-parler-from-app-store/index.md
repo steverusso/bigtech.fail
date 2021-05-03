@@ -22,7 +22,7 @@ spokesperson gave a statement that included the following:
 > threats to people’s safety. We have suspended Parler from the App Store until
 > they resolve these issues.
 
-Towards the end of the day, [Amazon](/amazon/) announced that they would be
+Towards the end of the day, Amazon announced that they would be
 terminating Parler's servers on Amazon Web Services (AWS). John Matze, the CEO
 of Parler, made [the following statement](https://archive.is/EmECm):
 

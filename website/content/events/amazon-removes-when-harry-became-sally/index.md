@@ -14,7 +14,7 @@ sources:
  - [ 'twitter.com/MarkDice/status/1363987576659451905', 'archive.is/ZcfFr' ]
 ---
 
-[Amazon](/amazon/) removed a book called _When Harry Became Sally_ by Ryan T.
+Amazon removed a book called _When Harry Became Sally_ by Ryan T.
 Anderson without sending a single notification or providing any explanation:
 
 > I hope you’ve already bought your copy, cause Amazon just removed my book

@@ -12,7 +12,7 @@ sources:
 ---
 
 [Twitch](/twitch/) is an online streaming platform, owned by
-[Amazon](/amazon/), where users can "subscribe" to their favorite streamers by
+Amazon, where users can "subscribe" to their favorite streamers by
 paying a monthly subscription fee in exchange for various perks. Typically when
 someone subscribes, the streamer will thank that person on stream. Twitch
 offers users the ability to terminate their subscription and refund them the
