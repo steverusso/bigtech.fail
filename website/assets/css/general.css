@@ -30,20 +30,15 @@ h1 {
 	font-size: 2.25rem;
 }
 
-main > div:first-child, main > header {
+main > div:first-child {
 	display: flex;
 	align-items: center;
-	padding-bottom: 1.5rem;
+	margin-bottom: 1.5rem;
 }
-main > div:first-child img, header img {
+main > div:first-child img {
 	margin-right: 1.5rem;
 }
-.cntr > header:first-child {
-	border-bottom: var(--border1);
-	margin-bottom: 1rem;
-	padding-bottom: 1.5rem;
-}
-main > div:first-child h1, header h1 {
+main > div:first-child h1 {
 	margin: 0;
 }
 main, .cntr {
@@ -54,10 +49,6 @@ main, .cntr {
 }
 main {
 	width: 1000px;
-}
-main > header {
-	border-bottom: var(--border1);
-	margin-bottom: 2rem;
 }
 .w800 { width: 800px }
 .w900 { width: 900px }
@@ -241,11 +232,11 @@ h3[data-count] {
 	font-weight: 600;
 }
 @media (max-width: 500px) {
-	.evtpg > header {
+	.evtpg > div:first-child {
 		flex-direction: column;
 		text-align: center;
 	}
-	.evtpg > header h1 {
+	.evtpg > div:first-child h1 {
 		margin-top: 2rem;
 	}
 }

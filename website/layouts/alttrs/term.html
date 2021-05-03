@@ -7,11 +7,12 @@
 {{ end }}
 
 {{ define "main" }}
-	<div class="cntr">
-		<header>
+	<main class="cntr">
+		<div>
 			<img loading="lazy" width="40" height="40" src="/{{ .Params.image }}.png">
 			<h1>{{ .Title }}</h1>
-		</header>
+		</div>
+		<hr>
 
 		{{ with .Content }}
 			<article>{{ . }}</article>
@@ -25,5 +26,5 @@
 				</div>
 			{{ end }}
 		</div>
-	</div>
+	</main>
 {{ end }}

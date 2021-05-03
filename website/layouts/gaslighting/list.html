@@ -1,8 +1,5 @@
 {{ define "style" }}
 <style>
-header {
-	border-bottom: none !important;
-}
 .cntr {
 	position: relative;
 	width: 1050px;
@@ -79,35 +76,36 @@ header {
 {{ end }}
 
 {{ define "main" }}
-	<div class="cntr">
-		<header>
+	<main>
+		<div>
 			<img src="/img/emoji/face-wtf.png" width="64" height="64">
 			<h1>{{ .Title }}</h1>
-		</header>
+		</div>
+		<hr>
 
 		<article>{{ .Content }}</article>
-	</div>
 
-	<div class="gasl">
-		{{ range .Pages.ByDate }}
-			{{ $img := printf "/%s%s" .File.Dir .Params.img }}
-			{{ $id := substr (.File.Dir | sha1) 0 5 }}
+		<div class="gasl">
+			{{ range .Pages.ByDate }}
+				{{ $img := printf "/%s%s" .File.Dir .Params.img }}
+				{{ $id := substr (.File.Dir | sha1) 0 5 }}
 
-			<div id="{{ $id }}">
-				<div class="cntr row">
-					<div>
-						<h2>
-							<img loading="lazy" width="32" height="32" src="/logos/{{ .Params.corpo }}.png">
-							<a href="#{{ $id }}">{{ .Title }}...</a>
-						</h2>
-						<article>{{ .Content }}</article>
+				<div id="{{ $id }}">
+					<div class="cntr row">
+						<div>
+							<h2>
+								<img loading="lazy" width="32" height="32" src="/logos/{{ .Params.corpo }}.png">
+								<a href="#{{ $id }}">{{ .Title }}...</a>
+							</h2>
+							<article>{{ .Content }}</article>
+						</div>
+
+						<a href="{{ $img }}">
+							<img src="{{ $img }}" loading="lazy">
+						</a>
 					</div>
-
-					<a href="{{ $img }}">
-						<img src="{{ $img }}" loading="lazy">
-					</a>
 				</div>
-			</div>
-		{{ end }}
-	</div>
+			{{ end }}
+		</div>
+	</main>
 {{ end }}

@@ -1,9 +1,10 @@
 {{ define "main" }}
 	<main>
-		<header>
+		<div>
 			<img src="{{ .Params.image }}" width="72" height="72" loading="lazy">
 			<h1>{{ .LinkTitle | default (.Data.Term | title) }}</h1>
-		</header>
+		</div>
+		<hr>
 
 		<article>
 			{{ .Content }}

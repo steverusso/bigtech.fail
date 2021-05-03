@@ -1,12 +1,13 @@
 {{ define "main" }}
-	<div class="cntr w900">
-		<header>
+	<main class="w900">
+		<div>
 			{{ with .Param "img" }}
 				<img src="{{ . }}" width="64" height="64" loading="lazy">
 			{{ end }}
 
 			<h1>{{ .Title }}</h1>
-		</header>
+		</div>
+		<hr>
 
 		<div class="caption mb-8">
 			{{ with .Date }}
@@ -19,5 +20,5 @@
 		</div>
 
 		<article>{{ .Content }}</article>
-	</div>
+	</main>
 {{ end }}

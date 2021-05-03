@@ -3,10 +3,11 @@
 	{{ $img := $slug | printf "/logos/%s.png" }}
 
 	<main>
-		<header>
+		<div>
 			<img src="{{ $img }}" width="64" height="64" loading="lazy">
 			<h1>{{ .Title | title }}</h1>
-		</header>
+		</div>
+		<hr>
 
 		{{ with .Content }}
 			<article>{{ . }}</article>
