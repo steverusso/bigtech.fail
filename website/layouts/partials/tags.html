@@ -2,7 +2,7 @@
 	{{ with site.GetPage (printf "/tags/%s" .) }}
 		<a href="{{ .RelPermalink }}">
 			<img src="{{ .Params.image }}" loading="lazy">
-			{{ .LinkTitle | default ($ | title) }}
+			<u>{{ .LinkTitle | default ($ | title) }}</u>
 		</a>
 	{{ end }}
 {{ end }}
