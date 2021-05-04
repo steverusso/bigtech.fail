@@ -112,6 +112,37 @@ aside > div > div:not(:last-child) {
 	margin-bottom: 2rem;
 	padding-bottom: 2rem;
 }
+aside .corpos a {
+	background: var(--cardBg);
+	border: var(--border1);
+	color: var(--bodyColor);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: 0.7rem;
+}
+aside .corpos a:hover {
+	background: var(--cardTitleBg);
+}
+aside .corpos .img {
+	margin: 0 auto 0.5rem;
+	width: 24px !important;
+	height: 24px !important;
+}
+aside .corpos .img:after {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+aside .corpos u {
+	display: block;
+	max-width: 100%;
+	text-decoration: none;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
 aside .tagls {
 	position: relative;
 }

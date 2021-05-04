@@ -37,10 +37,3 @@
 		</a>
 	{{ end }}
 {{ end }}
-
-{{ define "partials/cards/corpo" }}
-	<a class="card" href="/{{ . }}/">
-		<img src="/logos/{{ . }}.png" loading="lazy">
-		<u>{{ index site.Data.bigtechNames . | default (. | humanize | title) }}</u>
-	</a>
-{{ end }}

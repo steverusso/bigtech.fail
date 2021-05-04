@@ -121,36 +121,3 @@
 	top: 0.25rem;
 	right: 0.5rem;
 }
-
-.corpos {
-	padding-top: 0 !important;
-}
-.corpos .card {
-	display: inline-flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	font-size: 0.7rem;
-	padding: 0.25rem;
-}
-.corpos .card .img {
-	margin: 0.2rem auto 0.25rem;
-	width: 24px !important;
-	height: 24px !important;
-}
-.corpos .card .img:after {
-	position: absolute;
-	top: 0;
-	left: 0;
-}
-.corpos .card u {
-	display: block;
-	max-width: 100%;
-	text-decoration: none;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-	overflow: hidden;
-}
-.corpos > div {
-	padding: 0.25rem !important;
-}

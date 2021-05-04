@@ -30,12 +30,10 @@
 	<div>
 		<div class="corpos grid xs-3">
 			{{ range site.Data.orderCorps }}
-				<div>
-					<a class="card" href="/{{ .k }}/">
-						<i class="img {{ .k }}"></i>
-						{{ index site.Data.bigtechNames .k | default (.k | title) }}
-					</a>
-				</div>
+				<a href="/{{ .k }}/">
+					<i class="img {{ .k }}"></i>
+					<u>{{ index site.Data.bigtechNames .k | default (.k | title) }}</u>
+				</a>
 			{{ end }}
 		</div>
 

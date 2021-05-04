@@ -27,6 +27,10 @@
 	background: var(--jtronCardBg);
 	border: var(--border2);
 	color: var(--para);
+	display: inline-flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 	font-size: 0.9rem;
 	margin: 0.38rem 0.25rem;
 	width: 100px;
@@ -36,6 +40,11 @@
 	margin-bottom: 0.75rem;
 	width: 32px !important;
 	height: 32px !important;
+}
+.jtron .corpos a .img:after {
+	position: absolute;
+	top: 0;
+	left: 0;
 }
 @media (max-width: 500px) {
 	.jtron .blurb {
