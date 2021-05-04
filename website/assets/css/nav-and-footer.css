@@ -120,13 +120,14 @@ aside .corpos a {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	font-size: 0.7rem;
+	font-size: 0.75rem;
+	padding: 0.7rem 0;
 }
 aside .corpos a:hover {
 	background: var(--cardTitleBg);
 }
 aside .corpos .img {
-	margin: 0 auto 0.5rem;
+	margin: 0 auto 0.6rem;
 	width: 24px !important;
 	height: 24px !important;
 }

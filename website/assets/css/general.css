@@ -172,6 +172,7 @@ h3[data-count] {
 }
 .grid > a {
 	margin: 0.25rem !important;
+	padding: 0;
 	width: calc(100% / calc(12 / var(--c)) - 0.5rem);
 }
 .grid.xs-3 { --c: 3 }
