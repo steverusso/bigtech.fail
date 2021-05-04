@@ -19,21 +19,3 @@
 		<p>{{ .Summary | truncate 82 | plainify }}</p>
 	</a>
 {{ end }}
-
-{{ define "partials/cards/tag" }}
-	{{ with site.GetPage (printf "/tags/%s" .) }}
-		<a class="card" href="{{ .RelPermalink }}">
-			<img src="{{ .Params.image }}" loading="lazy">
-			<u>{{ .LinkTitle | default ($ | title) }}</u>
-		</a>
-	{{ end }}
-{{ end }}
-
-{{ define "partials/cards/tag-count" }}
-	{{ with site.GetPage (printf "/tags/%s" .) }}
-		<a class="card" href="{{ .RelPermalink }}">
-			<img src="{{ .Params.image }}" loading="lazy">
-			<div data-count="{{ len .Pages }}">{{ .LinkTitle | default ($ | title) }}</div>
-		</a>
-	{{ end }}
-{{ end }}

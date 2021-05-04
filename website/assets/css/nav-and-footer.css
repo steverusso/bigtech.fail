@@ -135,7 +135,7 @@ aside .corpos .img:after {
 	top: 0;
 	left: 0;
 }
-aside .corpos u {
+aside .corpos u, .tags u {
 	display: block;
 	max-width: 100%;
 	text-decoration: none;
@@ -143,10 +143,10 @@ aside .corpos u {
 	white-space: nowrap;
 	overflow: hidden;
 }
-aside .tagls {
+aside .tags {
 	position: relative;
 }
-aside .corpos:before, aside .tagls:before {
+aside .corpos:before, aside .tags:before {
 	color: var(--caption);
 	display: block !important;
 	font-size: 1.1rem;
@@ -154,13 +154,13 @@ aside .corpos:before, aside .tagls:before {
 	width: 100%;
 }
 aside .corpos:before { content: "Corporations:" }
-aside .tagls:before { content: "Tags:" }
-aside .tagls.s:before { content: "Specific Tags:" }
-aside .tagls > #seeMore,
-aside .tagls > #seeMore ~ div > .card:nth-child(n+8) {
+aside .tags:before { content: "Tags:" }
+aside .tags.s:before { content: "Specific Tags:" }
+aside .tags > #seeMore,
+aside .tags > #seeMore ~ div > a:nth-child(n+9) {
 	display: none;
 }
-aside .tagls > #seeMore + label {
+aside .tags > #seeMore + label {
 	color: var(--link);
 	position: absolute;
 	bottom: 1.25rem;
@@ -169,16 +169,16 @@ aside .tagls > #seeMore + label {
 	width: 100%;
 	z-index: 1;
 }
-aside .tagls > #seeMore + label:after {
+aside .tags > #seeMore + label:after {
 	content: "(Show All)";
 }
-aside .tagls > #seeMore ~ div {
-	padding-bottom: 0.75rem;
+aside .tags > #seeMore ~ div {
+	padding-bottom: 1rem;
 }
-aside .tagls > #seeMore:checked + label:after {
+aside .tags > #seeMore:checked + label:after {
 	content: "(Show Fewer)";
 }
-aside .tagls > #seeMore:checked ~ div > .card:nth-child(n+8) {
+aside .tags > #seeMore:checked ~ div > a:nth-child(n+9) {
 	display: flex;
 }
 @media (max-width: 699px) {

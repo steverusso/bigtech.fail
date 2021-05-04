@@ -70,49 +70,6 @@
 	padding: 0.75rem;
 }
 
-.tagls .card {
-	display: flex;
-	align-items: center;
-	font-size: 0.9rem;
-	margin-bottom: 0.6rem;
-}
-.tagls .card > :first-child {
-	background: var(--cardTitleBg);
-	border-right: var(--border1);
-	border-top-right-radius: 0;
-	border-bottom-right-radius: 0;
-	margin-right: 1rem;
-	padding: 0.6rem;
-	width: 40px !important;
-	height: 40px !important;
-}
-.tagls .card > :last-child:not([data-count]):after {
-	content: "\2794";
-	color: var(--caption);
-	position: absolute;
-	right: 0.75rem;
-}
-.tagls .card > u {
-	display: flex;
-	align-items: center;
-	padding: 0;
-	text-decoration: none;
-}
-.tagls .card div[data-count] {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	padding: 0 0.75rem 0 0;
-	width: 100%;
-}
-.tagls .card div[data-count]:after {
-	--h: 21px;
-	--fs: 15px;
-	background: var(--bodyBg);
-	color: var(--articleBold);
-	margin: 0;
-}
-
 .alttech.card div:after {
 	content: "\2794";
 	color: var(--caption);

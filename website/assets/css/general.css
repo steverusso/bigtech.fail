@@ -171,10 +171,11 @@ h3[data-count] {
 	max-width: 100%;
 }
 .grid > a {
-	margin: 0.25rem;
+	margin: 0.25rem !important;
 	width: calc(100% / calc(12 / var(--c)) - 0.5rem);
 }
 .grid.xs-3 { --c: 3 }
+.grid.xs-6 { --c: 6 }
 @media (max-width: 599px) {
 	.grid > div {
 		padding: 0.5rem 0.25rem;
