@@ -22,7 +22,7 @@
 	width: 100%;
 }
 .events a:hover {
-	color: var(--bodyColor);
+	color: var(--bodyColor) !important;
 }
 .events a:hover b {
 	font-weight: 500;
