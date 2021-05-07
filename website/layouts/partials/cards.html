@@ -1,14 +1,3 @@
-{{ define "partials/cards/event" }}
-	<a class="card" href="{{ .RelPermalink }}">
-		<div>
-			<img src="{{ .Params.image }}" loading="lazy">
-			<b title="{{ .Title }}">{{ .Date.Format `2 Jan 2006` }}</b>
-		</div>
-
-		<p>{{ .Summary | truncate 80 }}</p>
-	</a>
-{{ end }}
-
 {{ define "partials/cards/alt" }}
 	<a class="alttech card" href="{{ .RelPermalink }}">
 		<div>
