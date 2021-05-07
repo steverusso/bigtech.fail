@@ -1,0 +1,75 @@
+.events a:hover {
+	text-decoration: none;
+}
+.events > div {
+	border-bottom: var(--border1);
+	display: flex;
+	align-items: center;
+	scroll-margin-top: calc(var(--navHeight) + 3rem);
+}
+.events > div:target {
+	border: 1px solid var(--blockquoteColor);
+	box-shadow: 0 0 12px 6px var(--blockquoteBorder);
+}
+.events > div:first-child {
+	border-top: var(--border1);
+}
+.events > div:hover {
+	background: var(--cardBg);
+}
+.events > div > a:first-child {
+	color: var(--para);
+	display: flex;
+	align-items: center;
+	padding: 0.75rem;
+	width: 100%;
+}
+.events > div > a:first-child:hover {
+	color: var(--bodyColor);
+}
+.events > div > a:first-child:hover b {
+	font-weight: 500;
+}
+.events img {
+	width: 36px;
+	height: 36px;
+	margin-right: 0.75rem;
+}
+.events b {
+	flex: 1;
+	font-size: 1rem;
+	font-weight: normal;
+}
+.events u {
+	color: var(--caption);
+	font-size: 0.9rem;
+	text-decoration: none;
+	margin-left: 0.75rem;
+}
+.events > div > a:last-child {
+	border-radius: 50%;
+	width: 36px;
+	height: 36px;
+	margin-right: 0.25rem;
+	position: relative;
+}
+.events > div > a:last-child:after {
+	content: "";
+	background: no-repeat center/100% url('data:image/png;base64,{{ (resources.Get "link.png").Content | base64Encode }}');
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top: calc(100% / 2 - 50% / 2);
+	right: calc(100% / 2 - 50% / 2);
+}
+.events > div > a:last-child:hover {
+	border: var(--border2);
+	background: var(--bodyBg);
+}
+@media (max-width: 599px) {
+	.events > div > a:first-child {
+		padding: 1rem 0.25rem;
+	}
+	.events b { font-size: 0.95rem }
+	.events u { font-size: 0.85rem }
+}
