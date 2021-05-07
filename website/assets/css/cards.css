@@ -29,7 +29,7 @@
 .card:hover:after {
 	opacity: 0.15;
 }
-.card > div:first-child {
+.card div {
 	background: var(--cardTitleBg);
 	border-bottom: var(--border1);
 	border-radius: var(--radius) var(--radius) 0 0;
@@ -37,33 +37,16 @@
 	align-items: center;
 	padding: 0.75rem;
 }
-.card > :first-child img {
+.card img {
 	min-width: var(--imgSize); min-height: var(--imgSize);
 	max-width: var(--imgSize); max-height: var(--imgSize);
 	margin-right: 1rem;
 }
-.card > :first-child h2 {
+.card h2 {
 	font-size: 1.25rem;
 	margin: 0;
 }
-.card b:before {
-	content: attr(title);
-	color: var(--articleBold);
-	display: -webkit-box;
-	font-size: 1.1rem;
-	font-weight: 400;
-	line-height: 1.4;
-	margin-bottom: 0.5rem;
-	overflow: hidden;
-	-webkit-box-orient: vertical;
-	-webkit-line-clamp: 2
-}
-.card b {
-	color: var(--caption);
-	font-size: 0.9rem;
-	font-weight: 400;
-}
-.card > p {
+.card p {
 	font-size: 0.98rem;
 	line-height: 1.75;
 	margin: 0;
