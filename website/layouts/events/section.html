@@ -2,8 +2,7 @@
 	<main>
 		<h1 data-count="{{ len .Pages }}">Events</h1>
 		<article>{{ .Content }}</article>
-		<hr>
 
-		{{ partial "timeline" .Pages }}
+		{{ partial "events" .Pages }}
 	</main>
 {{ end }}

@@ -1,0 +1,21 @@
+{{ define "partials/event" }}
+	{{ $id := substr .File.UniqueID 0 5 }}
+
+	<div id="{{ $id }}">
+		<a href="{{ .RelPermalink }}">
+			<img src="{{ .Params.image }}" loading="lazy">
+			<b>{{ .Title }}</b>
+			<u>{{ .Date.Format `2 Jan 2006` }}</u>
+		</a>
+
+		<a href="#{{ $id }}"></a>
+	</div>
+{{ end }}
+
+{{ define "partials/events" }}
+	<div class="events">
+		{{ range . }}
+			{{ partialCached "event" . .File.UniqueID }}
+		{{ end }}
+	</div>
+{{ end }}

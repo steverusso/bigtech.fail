@@ -156,22 +156,13 @@
 		</div>
 	</div>
 
-	<!-- The short timeline of the six most recent events. -->
 	<div class="recent-events">
 		<div class="cntr w900">
 			<h1>Recent Events:</h1>
-			<hr>
 
-			<div class="timeline">
-				{{ range (site.GetPage "/events").Pages | first 6 }}
-					<div>
-						<u><i></i></u>
-						<div>{{ partialCached "cards/event" . .File.UniqueID }}</div>
-					</div>
-				{{ end }}
-			</div>
+			{{ partial "events" ((site.GetPage "/events").Pages | first 10) }}
 
-			<a href="/events/" class="btn light-blue">See Full Timeline &nbsp;&#x2794;</a>
+			<a href="/events/" class="btn light-blue">All Events &nbsp;&#x2794;</a>
 		</div>
 	</div>
 {{ end }}

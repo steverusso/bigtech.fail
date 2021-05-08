@@ -1,0 +1,71 @@
+.events div, .events a {
+	display: flex;
+	align-items: center;
+}
+.events div {
+	border-bottom: var(--border1);
+	scroll-margin-top: calc(var(--navHeight) + 3rem);
+}
+.events div:first-child {
+	border-top: var(--border1);
+}
+.events div:target {
+	border: 1px solid var(--blockquoteColor);
+	box-shadow: 0 0 12px 6px var(--blockquoteBorder);
+}
+.events div:hover {
+	background: var(--cardBg);
+}
+.events div > a:first-child {
+	padding: 0.75rem 0.4rem 0.75rem 0.75rem;
+	width: 100%;
+}
+.events a:hover b {
+	color: var(--bodyColor);
+	font-weight: 500;
+}
+.events u, .events a:hover {
+	text-decoration: none;
+}
+.events img {
+	width: 40px !important;
+	height: 40px !important;
+}
+.events b {
+	color: var(--para);
+	flex: 1;
+	font-size: 1rem;
+	font-weight: normal;
+	margin: 0 0.75rem;
+}
+.events u {
+	color: var(--caption);
+	font-size: 0.85rem;
+}
+.events div > a:last-child {
+	border-radius: 50%;
+	margin-right: 0.4rem;
+	position: relative;
+	width: 40px;
+	height: 40px;
+}
+.events div > a:last-child:after {
+	content: "";
+	background: no-repeat center/100% url('data:image/png;base64,{{ (resources.Get "link.png").Content | base64Encode }}');
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top: calc(100% / 2 - 50% / 2);
+	right: calc(100% / 2 - 50% / 2);
+}
+.events div > a:last-child:hover {
+	border: var(--border2);
+	background: var(--bodyBg);
+}
+@media (max-width: 599px) {
+	.events div > a:first-child {
+		padding: 1rem 0.25rem;
+	}
+	.events b { font-size: 0.95rem }
+	.events u { font-size: 0.8rem }
+}
