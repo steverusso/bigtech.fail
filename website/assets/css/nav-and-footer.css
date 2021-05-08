@@ -127,7 +127,7 @@ aside .corpos a:hover {
 	background: var(--cardTitleBg);
 }
 aside .corpos .img {
-	margin: 0 auto 0.6rem;
+	margin: 0 auto 0.4rem;
 	width: 24px !important;
 	height: 24px !important;
 }
