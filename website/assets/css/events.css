@@ -17,14 +17,11 @@
 	background: var(--cardBg);
 }
 .events div > a:first-child {
-	color: var(--para);
 	padding: 0.75rem 0.4rem 0.75rem 0.75rem;
 	width: 100%;
 }
-.events a:hover {
-	color: var(--bodyColor) !important;
-}
 .events a:hover b {
+	color: var(--bodyColor);
 	font-weight: 500;
 }
 .events u, .events a:hover {
@@ -35,6 +32,7 @@
 	height: 40px !important;
 }
 .events b {
+	color: var(--para);
 	flex: 1;
 	font-size: 1rem;
 	font-weight: normal;
