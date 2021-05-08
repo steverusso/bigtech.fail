@@ -14,9 +14,10 @@ extra:
 ---
 
 A few months after the first [_White Coat Summit_](/e/white-coat-summit/) was
-heavily censored, YouTube censored the second _White Coat Summit_ a few days
-after it took place and was uploaded for "spam, deceptive practices, and
-scams":
+heavily censored, YouTube censored [the second _White Coat
+Summit_](https://odysee.com/@Critical-Thinkers:b/America's-Frontline-Doctors_-White-Coat-Summit-II---SCOTUS-Press-Conference:f)
+a few days after it took place and was uploaded for "spam, deceptive practices,
+and scams":
 
 > WOW: YouTube has removed our White Coat Summit video from its platform under
 > fraudulent and manufactured pretenses, labeling it as “spam, deceptive
