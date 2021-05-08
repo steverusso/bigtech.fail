@@ -32,10 +32,10 @@
 {{ end }}
 
 {{ define "partials/cards/alt" }}
-	<a class="alttech card" href="{{ .RelPermalink }}">
+	<a class="alt card" href="{{ .RelPermalink }}">
 		<div>
 			<img src="/logos/{{ anchorize .Title }}.png" loading="lazy">
-			<h2>{{ .Title }}</h2>
+			<h3>{{ .Title }}</h3>
 		</div>
 
 		<p>{{ .Summary | truncate 82 | plainify }}</p>
