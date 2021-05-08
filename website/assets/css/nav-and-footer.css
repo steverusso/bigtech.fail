@@ -109,7 +109,7 @@ aside > div {
 }
 aside > div > div:not(:last-child) {
 	border-bottom: var(--border1);
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 	padding-bottom: 2rem;
 }
 aside .corpos a {
