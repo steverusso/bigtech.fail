@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/trans/ ]
 slug: trans
 title: Transgenderism
 image: /icons/trans.png

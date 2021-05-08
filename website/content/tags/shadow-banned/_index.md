@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/shadow-banned/ ]
 title: Shadow Banned
 image: /icons/shadow-banned.png
 extra:

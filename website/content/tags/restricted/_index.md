@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/restricted/ ]
 title: Restricted
 image: /icons/restricted.png
 ---

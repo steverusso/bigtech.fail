@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/humor/ ]
 slug: humor
 title: No Jokes Allowed
 image: /img/emoji/face-with-tears-of-joy.png

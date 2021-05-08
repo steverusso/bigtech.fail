@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/banned/ ]
 title: Banned
 image: /icons/banned.png
 ---

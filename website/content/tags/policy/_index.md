@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/policy/ ]
 slug: policy
 title: Policy Decisions
 image: /img/emoji/scroll.png

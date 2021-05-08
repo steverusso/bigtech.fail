@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/fired/ ]
 title: Fired
 image: /img/emoji/fire.png
 ---

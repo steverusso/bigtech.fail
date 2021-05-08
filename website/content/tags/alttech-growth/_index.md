@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/alttech-growth/ ]
 title: AltTech Growth
 image: /icons/alttech-growth.png
 quotes:

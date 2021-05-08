@@ -1,5 +1,4 @@
 ---
-aliases: [ /tags/copyright/ ]
 title: Copyright
 image: /icons/copyright.png
 extra:

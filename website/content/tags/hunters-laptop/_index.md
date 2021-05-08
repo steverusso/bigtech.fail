@@ -1,5 +1,5 @@
 ---
-aliases: [ /hunter/, /tags/hunter/ ]
+aliases: [ /hunter/ ]
 slug: hunters-laptop
 title: Hunter Biden Laptop Scandal
 image: /img/misc/hunter.jpg
