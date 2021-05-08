@@ -142,6 +142,13 @@ aside .corpos u, .tags u {
 aside .tags {
 	position: relative;
 }
+aside a[href="/tags/"] {
+	background: none;
+	border: none;
+	color: var(--link);
+	font-size: 1rem;
+	justify-content: center;
+}
 aside .corpos:before, aside .tags:before {
 	color: var(--caption);
 	display: block !important;
@@ -152,38 +159,13 @@ aside .corpos:before, aside .tags:before {
 aside .corpos:before { content: "Corporations:" }
 aside .tags:before { content: "Tags:" }
 aside .tags.s:before { content: "Specific Tags:" }
-aside .tags > #seeMore,
-aside .tags > #seeMore ~ div > a:nth-child(n+9) {
-	display: none;
-}
-aside .tags > #seeMore + label {
-	color: var(--link);
-	position: absolute;
-	bottom: 1.25rem;
-	left: 0;
-	text-align: center;
-	width: 100%;
-	z-index: 1;
-}
-aside .tags > #seeMore + label:after {
-	content: "(Show All)";
-}
-aside .tags > #seeMore ~ div {
-	padding-bottom: 1rem;
-}
-aside .tags > #seeMore:checked + label:after {
-	content: "(Show Fewer)";
-}
-aside .tags > #seeMore:checked ~ div > a:nth-child(n+9) {
-	display: flex;
-}
 @media (max-width: 699px) {
+	nav > a:not(:first-child) {
+		display: none;
+	}
 	aside > div {
 		border-top: var(--border1);
 		margin-top: 1rem;
-	}
-	nav > a:not(:first-child) {
-		display: none;
 	}
 }
 @media (min-width: 700px) {

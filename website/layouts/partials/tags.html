@@ -1,5 +1,9 @@
 {{ define "partials/tags/tag" }}
-	{{ with site.GetPage (printf "/tags/%s" .) }}
+	{{ if eq "string" (printf "%T" .) }}
+		{{ with index site.Taxonomies.tags . }}
+			{{ partialCached "tags/tag" .Page .Page }}
+		{{ end }}
+	{{ else }}
 		<a href="{{ .RelPermalink }}">
 			<img src="{{ .Params.image }}" loading="lazy">
 			<u>{{ .LinkTitle | default ($ | title) }}</u>
