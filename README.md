@@ -13,14 +13,14 @@ and governments.
 
 ### Development
 
-With [`Hugo 0.81`](https://github.com/gohugoio/hugo/releases/tag/v0.81.0)
+With [`Hugo 0.83.1`](https://github.com/gohugoio/hugo/releases/tag/v0.83.1)
 installed, simply run `hugo server -D` from the `./website` directory. This
 will build and serve the website (with live reloading) from
 `http://localhost:1313`.
 
 ### Production
 
-With both [`Hugo 0.81`](https://github.com/gohugoio/hugo/releases/tag/v0.81.0)
+With both [`Hugo 0.83.1`](https://github.com/gohugoio/hugo/releases/tag/v0.83.1)
 and [`Go 1.16`](https://golang.org/doc/go1.16) installed, simply run `make`
 from the root of the repository to build the full production binary (available
 at `./server/bigtechfaild`) which will contain the static web resources
