@@ -148,7 +148,7 @@
 
 			<div class="alttrs tags">
 				{{ range site.Taxonomies.alttrs.ByCount | first 6 }}
-					{{ partial "tags/alttr" .Page }}
+					{{ partialCached "tags/alttr" .Page .Page }}
 				{{ end }}
 			</div>
 
