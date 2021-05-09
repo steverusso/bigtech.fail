@@ -2,7 +2,7 @@
 title: Odysee
 site: odysee.com
 alttrs: [ video-hosting, monetization ]
-weight: 1
+weight: 2
 extra:
  - [ 'twitter.com/Styx666Official/status/1310876766555209728', 'https://archive.vn/gH7Nr' ]
  - [ 'twitter.com/UE_UpperEchelon/status/1311378305581486081', 'https://archive.is/twMZ7' ]

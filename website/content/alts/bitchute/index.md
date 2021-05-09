@@ -3,7 +3,7 @@ title: BitChute
 site: www.bitchute.com
 alttrs: [ video-hosting ]
 summary: BitChute is a free speech video hosting platform.
-weight: 2
+weight: 3
 extra:
 - [ 'Archive of 50% funding goal reached', 'archive.ph/PcHu2' ]
 ---

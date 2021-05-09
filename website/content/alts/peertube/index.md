@@ -2,6 +2,7 @@
 title: PeerTube
 site: joinpeertube.org
 alttrs: [ video-hosting ]
+weight: 1
 ---
 
 PeerTube is an [open-source](https://github.com/Chocobozzz/PeerTube) and
