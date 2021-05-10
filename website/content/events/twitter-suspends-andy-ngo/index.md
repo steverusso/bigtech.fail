@@ -3,7 +3,6 @@ date: 2019-11-25
 title: Twitter Suspends Andy Ngo For Tweeting Verifiable Statistics
 image: /img/people/andy-ngo.jpg
 summary: Objective, verifiable, empirical statistics are now hate speech on Twitter.
-profiles: [ andy-ngo ]
 corpos: [ twitter ]
 tags: [ suspended, trans ]
 sources:
