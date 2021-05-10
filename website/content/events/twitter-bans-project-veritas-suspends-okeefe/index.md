@@ -1,5 +1,5 @@
 ---
-title: Twitter Bans Project Veritas Suspends Okeefe
+title: Twitter Bans Project Veritas, Suspends O'Keefe
 date: 2021-02-11
 image: /logos/project-veritas.jpg
 corpos: [ twitter ]
