@@ -27,27 +27,25 @@
 		<a href="/{{ . }}/">{{ index $links . }}</a>
 	{{ end }}
 
-	<div>
-		<div class="corpos grid xs-3">
-			{{ range site.Data.orderCorps }}
-				<a href="/{{ .k }}/">
-					<i class="img {{ .k }}"></i>
-					<u>{{ index site.Data.bigtechNames .k | default (.k | title) }}</u>
-				</a>
-			{{ end }}
-		</div>
+	<div class="corpos grid xs-3">
+		{{ range site.Data.orderCorps }}
+			<a href="/{{ .k }}/">
+				<i class="img {{ .k }}"></i>
+				<u>{{ index site.Data.bigtechNames .k | default (.k | title) }}</u>
+			</a>
+		{{ end }}
+	</div>
 
-		<div class="tags grid xs-6">
-			{{ range site.Data.tagsMeta.general | first 11 }}
-				{{ partialCached "tags/tag" . . }}
-			{{ end }}
-			<a href="/tags/">All Tags &#x2794;</a>
-		</div>
+	<div class="tags grid xs-6">
+		{{ range site.Data.tagsMeta.general | first 11 }}
+			{{ partialCached "tags/tag" . . }}
+		{{ end }}
+		<a href="/tags/">All Tags &#x2794;</a>
+	</div>
 
-		<div class="tags s grid">
-			{{ range site.Data.tagsMeta.specific }}
-				{{ partialCached "tags/tag" . . }}
-			{{ end }}
-		</div>
+	<div class="tags s grid">
+		{{ range site.Data.tagsMeta.specific }}
+			{{ partialCached "tags/tag" . . }}
+		{{ end }}
 	</div>
 </aside>
