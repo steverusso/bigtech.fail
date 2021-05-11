@@ -1,9 +1,5 @@
 {{ define "style" }}
 <style>
-main > div:first-child > img {
-	width: 116px !important;
-	height: 116px !important;
-}
 .links {
 	display: flex;
 	flex-flow: row wrap;
@@ -24,7 +20,7 @@ main > div:first-child > img {
 {{ define "main" }}
 	<main class="w900">
 		<div>
-			{{ partialCached `profile/pic` . .Title }}
+			<img src="{{ partialCached `profile/pic` . .Title }}" width="116" height="116" loading="lazy">
 			<div>
 				<h1>{{ .Title }}</h1>
 				{{ with .Params.aka }}
