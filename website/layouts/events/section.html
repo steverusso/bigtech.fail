@@ -1,7 +1,15 @@
 {{ define "main" }}
 	<main>
-		<h1 data-count="{{ len .Pages }}">Events</h1>
-		<article>{{ .Content }}</article>
+		<h1>{{ .Title }}</h1>
+		<article>
+			<p>
+				The main purpose of an Event in this context is to provide evidence
+				that something happened on a certain date. In other words, Events
+				should be thought of more as living records and <i>not</i> as news
+				reports. By extension, this page is simply a chronological collection
+				of <strong>{{ len .Pages }}</strong> records, <i>not</i> a news feed.
+			</p>
+		</article>
 
 		{{ partial "events" .Pages }}
 	</main>

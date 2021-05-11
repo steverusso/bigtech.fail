@@ -28,6 +28,7 @@ h1, h2, h3 {
 }
 h1 {
 	font-size: 2.25rem;
+	margin: 0;
 }
 
 main, .cntr {
@@ -46,9 +47,6 @@ main > div:first-child {
 }
 main > div:first-child img {
 	margin-right: 1.5rem;
-}
-main > div:first-child h1 {
-	margin: 0;
 }
 .w800 { width: 800px }
 .w900 { width: 900px }
@@ -116,29 +114,23 @@ tr:nth-child(odd) {
 	content: " \00a0(archived)";
 }
 
+[data-count] {
+	margin: 4rem 0 0 0;
+}
 [data-count]:after {
+	--h: 22px;
 	content: attr(data-count) " ";
 	background: var(--cardTitleBg);
 	border: 1px solid #aaa;
 	border-radius: var(--h);
 	display: inline-flex;
 	align-items: center;
-	font-size: var(--fs);
+	font-size: 16px;
 	font-weight: bold;
 	height: var(--h);
 	margin: 0 0 0 calc(var(--h) / 2);
 	padding: 0 0.75rem;
 	vertical-align: top;
-}
-h1[data-count] {
-	--h: 25px;
-	--fs: 18px;
-	margin: 0;
-}
-h2[data-count] {
-	--h: 22px;
-	--fs: 16px;
-	margin: 4rem 0 0 0;
 }
 
 .easy-select {
