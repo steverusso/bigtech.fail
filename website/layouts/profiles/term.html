@@ -10,15 +10,13 @@ main > div:first-child > img {
 	align-items: center;
 }
 .links a {
+	border: 2px solid transparent;
 	border-radius: 50%;
-	padding: 0.8rem;
+	padding: 0.6rem;
 }
 .links a:hover {
 	background: var(--shadowColor);
-}
-.links a img {
-	width: 32px !important;
-	height: 32px !important;
+	border: var(--border2);
 }
 </style>
 {{ end }}
@@ -51,12 +49,11 @@ main > div:first-child > img {
 
 					<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">
 						{{ $type := cond (isset $v "icon") "icons" "logos" }}
-						<img src="/{{ $type }}/{{ $v.key }}.png" loading="lazy">
+						<img src="/{{ $type }}/{{ $v.key }}.png" width="32" height="32" loading="lazy">
 					</a>
 				{{ end }}
 			{{ end }}
 		</div>
-		<hr>
 
 		<article>{{ .Content }}</article>
 		{{ partial "events" .Pages }}
