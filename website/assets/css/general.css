@@ -137,12 +137,8 @@ h1[data-count] {
 }
 h2[data-count] {
 	--h: 22px;
-	--fs: 17px;
+	--fs: 16px;
 	margin: 4rem 0 0 0;
-}
-h3[data-count] {
-	--h: 19px;
-	--fs: 15px;
 }
 
 .easy-select {
