@@ -2,7 +2,6 @@
 title: YouTube Bans World Alternative Media
 date: 2020-10-15
 image: /img/people/wam.png
-profiles: [ wam ]
 corpos: [ youtube ]
 tags: [ banned ]
 sources:
@@ -28,10 +27,11 @@ youtube:
  videos: 1705
 ---
 
-YouTube banned _World Alternative Media_ in an attempt to purge
-channels that the platform claimed were spreading "harmful conspiracy
-theories." The seven and a half year old channel had over **154k subscribers**
-and more than **21.5 million total views** across 1700 videos.
+YouTube [banned _World Alternative
+Media_](https://flote.app/post/b9ed6191-a193-4a61-adde-832e92f67f65) in an
+attempt to purge channels that the platform claimed were spreading "harmful
+conspiracy theories." The seven and a half year old channel had over **154k
+subscribers** and more than **21.5 million total views** across 1700 videos.
 
 > YouTube just DELETED my channel for no reason without recourse. A channel
 > with 155,000 subs. All we do is tell the news. We just report facts. We had
