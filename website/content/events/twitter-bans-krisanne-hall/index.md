@@ -2,7 +2,6 @@
 title: Twitter Bans Krisanne Hall
 date: 2020-09-01
 image: /img/people/krisanne-hall.jpg
-profiles: [ krisanne-hall ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
@@ -12,10 +11,11 @@ sources:
 ---
 
 Twitter banned constitutional expert and podcaster [KrisAnne
-Hall](/profiles/krisanne-hall/) without warning
+Hall](https://krisannehall.com/index.php/about-krisanne-hall) without warning
 or explanation. Her account had nearly 34k followers and over 43k tweets. She
 made the following post [on Facebook](https://archive.is/HFSp4) regarding the
 suspension:
+
 > NOTICE- Twitter has suspended my @KrisAnneHall account without notice or
 > reason.
 >
@@ -35,6 +35,7 @@ of The KrisAnne Hall Show, she speculates that she might have been removed from
 Twitter for continually posting information about COVID-19, particularly the
 recent CDC report showing that [94% of COVID-19 deaths had other contributing
 conditions](https://archive.is/5OKqt#selection-3955.0-3955.13):
+
 > Everybody's quoting CDC on why you have to wear a mask and why you have to
 > social distance. Well now CDC is telling you something, and now you go to
 > Twitter jail for directly quoting the CDC.
