@@ -3,7 +3,6 @@ aliases: [ /shadowgate/ ]
 title: ShadowGate Censored
 date: 2020-08-16
 image: /img/misc/shadowgate.png
-profiles: [ millie-weaver ]
 corpos: [ facebook, twitter, youtube ]
 tags: [ content-removed, gov ]
 sources:
@@ -17,14 +16,16 @@ sources:
  - [ 'twitter.com/Millie__Weaver/status/1297236643020185606', 'archive.is/Va5Ug' ]
  - [ 'twitter.com/thevivafrei/status/1296282438507925506', 'archive.is/4xC5g' ]
  - [ 'twitter.com/zerohedge/status/1295374829500145664', 'archive.is/PWPOy' ]
- - [ 'Archive of the video page on YouTube', 'archive.vn/4nrAj' ]
- - [ 'Archive of the video page on Banned.Video', 'archive.is/hEShk' ]
+ - [ 'Video page on YouTube', 'archive.vn/4nrAj' ]
+ - [ 'Video page on Banned.Video', 'archive.is/hEShk' ]
  - [ 'YouTube "Shadowgate Updates" by Millie Weaver (20 Aug 2020)', 'www.youtube.com/watch?v=ddeD6Oa8Mr8' ]
 ---
 
-YouTube and Facebook deleted Millie Weaver's documentary _ShadowGate_ for
+YouTube and Facebook deleted [Millie
+Weaver's](https://www.millennialmillie.com) documentary _ShadowGate_ for
 violating "hate speech" rules after it had been live for a couple of days
 accumulating millions of views.
+
 > YouTube just banned Millie Weaver's new #ShadowGate documentary, claiming it
 > violates their policies against "hate speech." Twitter won't even let me post
 > a link to where it was, claiming it leads to "harmful" content.
@@ -42,6 +43,7 @@ Twitter blocked all links to the documentary on YouTube (even after it was
 removed) as well as censored the _#ShadowGate_ hashtag, actions which received
 much less media attention than the video itself being removed on other
 platforms.
+
 > No conservative media outlets have reported that the hashtag #ShadowGate has
 > been blocked by Twitter. Click on it, then click on "Latest." No results.
 > It's been blocked.
