@@ -2,7 +2,6 @@
 title: Twitter Suspends Katie Hopkins After Pressure From Activists
 date: 2020-01-30
 image: /img/people/katie-hopkins.jpg
-profiles: [ katie-hopkins ]
 corpos: [ twitter ]
 tags: [ suspended ]
 sources:
@@ -25,6 +24,7 @@ about a month prior, which suggests that may have been what prompted the
 suspension.
 
 Twitter gave the [following statement](https://archive.vn/bFO5w#selection-803.0-803.422):
+
 > Keeping Twitter safe is a top priority for — abuse and harassment have no
 > place on the service. We take enforcement action against any account that is
 > violative of our rules — which includes violations of our hateful conduct

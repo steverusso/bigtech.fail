@@ -2,7 +2,6 @@
 title: Twitter Bans Katie Hopkins
 date: 2020-06-19
 image: /img/people/katie-hopkins.jpg
-profiles: [ katie-hopkins ]
 corpos: [ twitter ]
 tags: [ banned ]
 sources:
@@ -14,6 +13,7 @@ Katie Hopkins (**@KTHopkins**) was permanently banned from Twitter for "abuse
 and hateful conduct." The account had more than 1.1 million followers. Twitter
 did not give a specific reason or cite a specific tweet, but the platform did
 issue the following statement:
+
 > Keeping Twitter safe is a top priority for us -- abuse and hateful conduct
 > have no place on our service and we will continue to take action when our
 > rules are broken. In this case, the account has been permanently suspended
