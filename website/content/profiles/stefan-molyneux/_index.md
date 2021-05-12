@@ -1,5 +1,6 @@
 ---
 title: Stefan Molyneux
+image: /img/people/stefan-molyneux.jpg
 links:
   website: www.freedomain.com
   support: www.freedomain.com/donate

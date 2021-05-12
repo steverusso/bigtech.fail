@@ -1,6 +1,7 @@
 ---
 title: Patriots' Soapbox
 aka: Patriots' Soapbox News Network LIVE
+image: /img/people/patriots-soapbox.jpg
 links:
   website: patriotssoapbox.com
   support: patriotssoapbox.com/donate/

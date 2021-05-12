@@ -1,5 +1,6 @@
 ---
 title: Dave Rubin
+image: /img/people/dave-rubin.jpg
 links:
   website: rubinreport.com/
   support: rubinreport.com/support

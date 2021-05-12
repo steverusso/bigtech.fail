@@ -1,5 +1,6 @@
 ---
 title: Dr. Jordan Peterson
+image: /img/people/dr-jordan-peterson.jpg
 links:
   website: www.jordanbpeterson.com/
   support: www.jordanbpeterson.com/donate/

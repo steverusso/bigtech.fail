@@ -1,5 +1,6 @@
 ---
 title: James O'Keefe
+image: /img/people/james-okeefe.jpg
 links:
   telegram: JamesOKeefeIII
   gab: jamesokeefeiii

@@ -20,7 +20,7 @@
 {{ define "main" }}
 	<main class="w900">
 		<div>
-			<img src="{{ partialCached `profile/pic` . .Title }}" width="116" height="116" loading="lazy">
+			<img src="{{ .Params.image }}" width="116" height="116" loading="lazy">
 			<div>
 				<h1>{{ .Title }}</h1>
 				{{ with .Params.aka }}
@@ -30,10 +30,10 @@
 		</div>
 
 		<!--
-			A Profile's independent / alt tech links. Range over the link meta data, not
-			the links themselves, so that:
-				1) the order is consistent, every time, no matter what links a profile provides.
-				2) to change the order, or remove a link, a change is only needed in one place.
+		 A Profile's independent / alt tech links. Range over the link meta data, not
+		 the links themselves, so that:
+		  1) the order is consistent, every time, no matter what links a profile provides.
+		  2) to change the order, or remove a link, a change is only needed in one place.
 		-->
 		<div class="links">
 			{{ range $v := site.Data.profileLinksMeta }}
@@ -52,6 +52,7 @@
 		</div>
 
 		<article>{{ .Content }}</article>
+
 		{{ partial "events" .Pages }}
 	</main>
 {{ end }}

@@ -1,5 +1,6 @@
 ---
 title: RedPill78
+image: /img/people/redpill78.png
 links:
   merch: teespring.com/stores/redpill78
   subscribestar: redpill78

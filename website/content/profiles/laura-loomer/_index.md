@@ -1,5 +1,6 @@
 ---
 title: Laura Loomer
+image: /img/people/laura-loomer.jpg
 links:
   website: loomered.com
   support: loomered.com/donate/

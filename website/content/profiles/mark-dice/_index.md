@@ -1,5 +1,6 @@
 ---
 title: Mark Dice
+image: /img/people/mark-dice.jpg
 links:
   merch: teespring.com/stores/markdice
   bitchute: channel/u3QMwGD7bSW6/

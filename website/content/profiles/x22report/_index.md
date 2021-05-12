@@ -1,5 +1,6 @@
 ---
 title: X22report
+image: /img/people/x22report.jpg
 links:
   website: x22report.com/
   rumble: c/X22Report

@@ -1,5 +1,6 @@
 ---
 title: Ryan Dawson
+image: /img/people/ryan-dawson.jpg
 links:
   website: www.ancreport.com
   support: www.ancreport.com/donate/

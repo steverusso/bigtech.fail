@@ -1,5 +1,6 @@
 ---
 title: Gavin Mcinnes
+image: /img/people/gavin-mcinnes.jpg
 links:
   website:  censored.tv
   support:  censored.tv/donate

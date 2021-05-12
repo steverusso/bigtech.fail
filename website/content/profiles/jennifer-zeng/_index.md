@@ -1,5 +1,6 @@
 ---
 title: Jennifer Zeng
+image: /img/people/jennifer-zeng.jpg
 links:
   website: www.jenniferzengblog.com
   subscribestar: inconvenient-truths-by-jennifer-zeng

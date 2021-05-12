@@ -1,5 +1,6 @@
 ---
 title: Max Igan
+image: /img/people/max-igan.jpg
 links:
   website: thecrowhouse.com
   support: thecrowhouse.com/contribute.html

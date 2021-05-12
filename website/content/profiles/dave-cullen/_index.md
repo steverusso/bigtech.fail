@@ -1,6 +1,7 @@
 ---
 title: Dave Cullen
 aka: Computing Forever
+image: /img/people/dave-cullen.png
 links:
   website: computingforever.com
   support: computingforever.com/donate/

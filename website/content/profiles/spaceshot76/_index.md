@@ -1,5 +1,6 @@
 ---
 title: Spaceshot76
+image: /img/people/spaceshot76.jpg
 links:
   bitchute: channel/lvstqvii0eal/
   parler: profile/Spaceshot76

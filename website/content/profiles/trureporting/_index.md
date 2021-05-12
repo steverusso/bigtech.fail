@@ -1,5 +1,6 @@
 ---
 title: TRUreporting
+image: /img/people/trureporting.jpg
 links:
   bitchute: channel/aaTDlvuIAMBx/
   rumble: TRUreporting

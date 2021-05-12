@@ -1,5 +1,6 @@
 ---
 title: Nick Fuentes
+image: /img/people/nick-fuentes.jpg
 links:
   website: nicholasjfuentes.com
   support: nicholasjfuentes.com/subscribe/

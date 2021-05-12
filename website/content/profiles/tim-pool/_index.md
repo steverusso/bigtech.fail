@@ -1,5 +1,6 @@
 ---
 title: Tim Pool
+image: /img/people/tim-pool.jpg
 links:
   website:  https://www.timcast.com/
   support:  https://www.timcast.com/donate

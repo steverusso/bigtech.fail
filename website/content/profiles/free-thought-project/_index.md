@@ -1,5 +1,6 @@
 ---
 title: Free Thought Project
+image: /img/people/free-thought-project.png
 links:
   website: thefreethoughtproject.com
   minds: TheFreeThoughtProject.com/

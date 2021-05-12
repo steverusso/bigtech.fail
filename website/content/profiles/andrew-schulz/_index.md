@@ -1,5 +1,6 @@
 ---
 title: Andrew Schulz
+image: /img/people/andrew-schulz.jpg
 links:
   website: theandrewschulz.com
 ---

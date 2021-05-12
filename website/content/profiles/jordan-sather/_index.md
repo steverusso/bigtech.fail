@@ -1,6 +1,7 @@
 ---
 title: Jordan Sather
 aka: Destroying the Illusion
+image: /img/people/jordan-sather.jpg
 links:
   website: www.jordansather.com
   merch: www.teepublic.com/user/jordansather

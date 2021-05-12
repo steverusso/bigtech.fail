@@ -1,5 +1,6 @@
 ---
 title: Cassandra Fairbanks
+image: /img/people/cassandra-fairbanks.jpg
 links:
  website: www.thegatewaypundit.com/author/cassandraf/
  gab: CassandraRules

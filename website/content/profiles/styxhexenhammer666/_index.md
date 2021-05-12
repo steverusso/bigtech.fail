@@ -1,6 +1,7 @@
 ---
 title: Styxhexenhammer666
 aka: Styx
+image: /img/people/styxhexenhammer666.jpg
 links:
   website: tarlwarwick.net/
   merch: tarlwarwick.net/collections/all

@@ -1,5 +1,6 @@
 ---
 title: Carey Wedler
+image: /img/people/carey-wedler.jpg
 links:
   minds: careywedler/
   steemit: '@careywedler'

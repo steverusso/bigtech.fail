@@ -1,5 +1,6 @@
 ---
 title: Upper Echelon Gamers
+image: /img/people/upper-echelon-gamers.jpg
 links:
   website: upperechelon.gg
   merch: agentink.gg/collections/ue/

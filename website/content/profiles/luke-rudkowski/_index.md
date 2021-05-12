@@ -1,6 +1,7 @@
 ---
 title: Luke Rudkowski
 aka: We Are Change
+image: /img/people/luke-rudkowski.jpg
 links:
   website: wearechange.org
   support: wearechange.org/donate/

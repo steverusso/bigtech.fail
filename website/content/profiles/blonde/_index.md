@@ -1,6 +1,7 @@
 ---
 title: Blonde
 aka: Blonde in the Belly of the Beast
+image: /img/people/blonde.jpg
 links:
   subscribestar: blonde-in-the-belly-of-the-beast
   gab: Blonde_Beast

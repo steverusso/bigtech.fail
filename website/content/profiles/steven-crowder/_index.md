@@ -1,5 +1,6 @@
 ---
 title: Steven Crowder
+image: /img/people/steven-crowder.jpg
 links:
  website: www.louderwithcrowder.com
  support: www.louderwithcrowder.com/mug-club-promo/

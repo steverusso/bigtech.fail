@@ -21,7 +21,7 @@
 {{ define "partials/tags/profile" }}
 	{{ with site.GetPage (printf "/profiles/%s" .) }}
 		<a href="{{ .RelPermalink }}">
-			<img src="{{ partialCached `profile/pic` . .Title }}" loading="lazy">
+			<img src="{{ .Params.image }}" loading="lazy">
 			{{ .Title }}
 		</a>
 	{{ end }}

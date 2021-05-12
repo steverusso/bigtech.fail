@@ -1,5 +1,6 @@
 ---
 title: Matt Christiansen
+image: /img/people/matt-christiansen.jpg
 links:
   website: www.mattchristiansenmedia.com
   support: www.mattchristiansenmedia.com/support

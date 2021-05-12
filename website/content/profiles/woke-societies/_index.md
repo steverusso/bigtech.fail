@@ -1,5 +1,6 @@
 ---
 title: Woke Societies
+image: /img/people/woke-societies.jpg
 links:
   website: wokesocieties.com
   merch: wokesocieties.com/store-2/

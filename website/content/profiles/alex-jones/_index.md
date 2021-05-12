@@ -1,5 +1,6 @@
 ---
 title: Alex Jones
+image: /img/people/alex-jones.jpg
 links:
   website: www.infowars.com
   support: www.infowarsstore.com

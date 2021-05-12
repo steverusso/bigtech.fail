@@ -1,5 +1,6 @@
 ---
 title: Ford Fischer
+image: /img/people/ford-fischer.jpg
 links:
   website: news2share.com/start/
   minds: fordfischer/

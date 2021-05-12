@@ -1,5 +1,6 @@
 ---
 title: Dan Dicks
+image: /img/people/dan-dicks.jpg
 links:
  website: pressfortruth.ca
  support: pressfortruth.ca/donate/
