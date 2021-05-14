@@ -1,12 +1,11 @@
 :root {
-	--navHeight: 64px;
-
-	--bodyBg: #1f1f1f;
+	--bodyBg: #1b1b1b;
 	--bodyBg2: #242424;
 	--bodyColor: #f8f8f8;
 
-	--navBg: #111;
+	--navBg: #1c1c1c;
 	--navColor: #eee;
+	--navHeight: 68px;
 
 	--borderColor: #777;
 	--border1: 1px solid var(--borderColor);
@@ -17,17 +16,14 @@
 	--caption: #8f8f8f;
 	--shadowColor: rgba(0,0,0,.5);
 
-	--cardBg: #333;
+	--cardBg: #2a2a2a;
 	--cardBefore: #000;
-	--cardTitleBg: #444;
+	--cardTitleBg: #3e3e3e;
 
 	--blockquoteBorder: #666;
 	--blockquoteColor: #8f8f8f;
 	--articleHeading: #fafafa;
 	--articleBold: #fff;
-
-	--jtronBg: linear-gradient(#272727, #404040);
-	--jtronCardBg: #2d2d2d;
 }
 
 @media (prefers-color-scheme: light) {
@@ -52,8 +48,5 @@
 		--blockquoteColor: #888;
 		--articleHeading: #222;
 		--articleBold: #333;
-
-		--jtronBg: linear-gradient(#ccc, #fff);
-		--jtronCardBg: #fff;
 	}
 }
