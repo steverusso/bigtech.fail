@@ -23,9 +23,7 @@
 			<img src="{{ .Params.image }}" width="116" height="116" loading="lazy">
 			<div>
 				<h1>{{ .Title }}</h1>
-				{{ with .Params.aka }}
-					<span class="caption">{{ . }}</span>
-				{{ end }}
+				{{ with .Params.aka }}<small>{{ . }}</small>{{ end }}
 			</div>
 		</div>
 

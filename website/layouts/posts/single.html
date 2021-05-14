@@ -8,17 +8,12 @@
 	{{ end }}
 
 	<div class="cntr w800">
-		<h1 style="margin-top: 0;">{{ .Title }}</h1>
+		<h1>{{ .Title }}</h1>
+		<br>
 
-		<span class="caption">By: {{ .Params.author | default "Steve Russo" }}</span>
-
-		{{ with .Date }}
-			| <span class="caption">Published: {{ .Format "Jan 2, 2006" }}</span>
-		{{ end }}
-
-		{{ with .Lastmod }}
-			| <span class="caption">Updated: {{ .Format "Jan 2, 2006" }}</span>
-		{{ end }}
+		<small>By: {{ .Params.author | default "Steve Russo" }}</small>
+		{{ with .Date }}| <small>Published: {{ .Format "Jan 2, 2006" }}</small>{{ end }}
+		{{ with .Lastmod }}| <small>Updated: {{ .Format "Jan 2, 2006" }}</small>{{ end }}
 		<hr>
 
 		<article>{{ .Content }}</article>

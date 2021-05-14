@@ -20,9 +20,6 @@ h1 {
 .p:hover h2 {
 	text-decoration: underline;
 }
-.p span {
-	color: var(--caption);
-}
 .p img {
 	width: 140px;
 	height: 140px;
@@ -50,7 +47,7 @@ h1 {
 
 				<div>
 					<h2>{{ .Title }}</h2>
-					<span>{{ .Date.Format "02 Jan 2006" }}</span>
+					<small>{{ .Date.Format "02 Jan 2006" }}</small>
 					<p>{{ .Summary }}</p>
 				</div>
 			</a>

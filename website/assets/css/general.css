@@ -80,6 +80,10 @@ summary:focus {
 	outline: none;
 }
 
+small {
+	color: var(--caption);
+}
+
 table {
 	border-collapse: collapse;
 }
@@ -140,13 +144,6 @@ tr:nth-child(odd) {
 	user-select: all !important;
 	word-break: break-all;
 }
-
-.caption {
-	font-size: 0.9rem;
-	color: var(--caption);
-}
-
-.mb-8 { margin-bottom: 2rem !important }
 
 .grid {
 	--c: 12; /* columns */

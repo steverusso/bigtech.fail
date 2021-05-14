@@ -7,17 +7,10 @@
 
 			<h1>{{ .Title }}</h1>
 		</div>
+
+		{{ with .Date }}<small>{{ .Format "Jan 2, 2006" }}</small>{{ end }}
+		{{ with .Lastmod }}<small>(Updated: {{ .Format "Jan 2, 2006" }})</small>{{ end }}
 		<hr>
-
-		<div class="caption mb-8">
-			{{ with .Date }}
-				{{ .Format "Jan 2, 2006" }}
-			{{ end }}
-
-			{{ with .Lastmod }}
-				(Updated: {{ .Format "Jan 2, 2006" }})
-			{{ end }}
-		</div>
 
 		<article>{{ .Content }}</article>
 	</main>
