@@ -4,6 +4,7 @@
 
 - { key: locals,        text: Locals.com,    suffix: .locals.com }
 - { key: subscribestar, text: SubscribeStar, prefix: subscribestar.com }
+- { key: peertube,      text: PeerTube Instance }
 - { key: minds,         text: Minds,         prefix: www.minds.com }
 - { key: odysee,        text: Odysee,        prefix: odysee.com }
 - { key: bitchute,      text: Bitchute,      prefix: bitchute.com }
