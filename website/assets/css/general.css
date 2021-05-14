@@ -230,6 +230,9 @@ tr:nth-child(odd) {
 		flex-direction: column;
 		text-align: center;
 	}
+	.evtpg .tags {
+		text-align: center;
+	}
 	.evtpg > div:first-child h1 {
 		margin-top: 2rem;
 	}
