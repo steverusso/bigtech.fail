@@ -85,6 +85,7 @@ table {
 }
 th {
 	background: var(--bodyBg);
+	font-size: 0.85rem;
 	text-align: left;
 }
 table, th, td {

@@ -24,7 +24,7 @@ using YouTube to notify his audience of this fact.
 Shortly before that in the video, Cullen mentions ten of his videos that had
 been removed within the past year, which are listed (and linked) below:
 
-| <small>Date (2020)</small> | <small>Title / BitChute Link</small> |
+| Date (2020) | Title / BitChute Link |
 |---|---|
 | Apr 9 | [Coronavirus (COVID-19) Questionable Death Certificates](https://www.bitchute.com/video/YfG9nmAnQp4/) |
 | May 11 | [MUST WATCH: Debunking the Narrative (With Prof. Dolores Cahill)](https://www.bitchute.com/video/Avc6_ftzk3w/) |

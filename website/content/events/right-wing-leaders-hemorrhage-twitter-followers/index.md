@@ -27,7 +27,7 @@ worse follower loss over the course of Jan 9 - Jan 13. These larger numbers
 might possibly indicate that many users are deleting their accounts and leaving
 Twitter.
 
-<small>Account</small> | <small>Follower Loss</small>
+Account | Follower Loss
 ---|---
 [Tucker Carlson](http://web.archive.org/web/20210119005712/https://socialblade.com/twitter/user/tuckercarlson) | 279,741 (6%)
 [James O'Keefe](https://archive.is/8y3hv) | 117,738 (11.4%)

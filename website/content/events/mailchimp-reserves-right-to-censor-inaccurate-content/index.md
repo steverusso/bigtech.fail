@@ -20,7 +20,7 @@ Service to include [the following gem](https://archive.is/spOEk#selection-2883.0
 Up until this point, Mailchimp had already terminated _at least_ the following
 accounts:
 
-| <small>User</small> | <small>Date</small> | <small>Reason</small>
+| User | Date | Reason
 |---|---|---|
 | [NicheFacts](/e/mailchimp-bans-niche-facts/) | 11 Oct 2017 | "significant risk" |
 | [Infowars](/e/mailchimp-linkedin-ban-infowars/) | 7 Aug 2018 | "hateful content" |

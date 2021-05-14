@@ -25,7 +25,7 @@ Party headquarters in Portland, Oregon.
 Below are some of the accounts (linked to archives of their suspended profile
 pages).
 
-<small>Account</small> | <small>Followers (Approx.)</small>
+Account | Followers (Approx.)
 ---|---
 [@TheBaseBK](https://archive.is/taQuw) | 17k
 [@JewishWorker](https://archive.is/Zq9xW) | 31k

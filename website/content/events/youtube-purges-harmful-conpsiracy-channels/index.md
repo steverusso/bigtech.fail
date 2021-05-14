@@ -30,7 +30,7 @@ listed in order of subscriber count. One week later, many of these same
 accounts were suddenly [banned from
 Patreon](/e/patreon-announces-qanon-purge/) as well.
 
-| <small>Channel</small> | <small>Subscriber Count</small> |
+| Channel | Subscriber Count |
 |---|---|
 | [X22Report](/e/youtube-bans-x22report/) | 952k |
 | [SGTreport](/e/youtube-bans-sgtreport/) | 630k |

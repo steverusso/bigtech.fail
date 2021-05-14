@@ -26,7 +26,7 @@ removing accounts that spread "QAnon disinformation":
 Below are just a few of the higher profile accounts we were able to identify as
 part of this purge, listed by patron count:
 
-| <small>Account</small> | <small>Patron Count</small> |
+| Account | Patron Count |
 |---|---|
 | [SGTreport](/e/patreon-bans-sgtreport/) | 1,000+ |
 | [JustInformed Talk](/e/patreon-bans-justinformed-talk/) | 520 |
