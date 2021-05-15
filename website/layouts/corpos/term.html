@@ -10,10 +10,10 @@
 
 		{{ with .Content }}
 			<article>{{ . }}</article>
+			<br>
 		{{ end }}
 
 		<h2 data-count="{{ len .Pages }}">Events</h2>
-		<br>
 		{{ partial "events" .Pages }}
 	</main>
 {{ end }}

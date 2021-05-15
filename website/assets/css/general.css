@@ -119,9 +119,6 @@ tr:nth-child(odd) {
 	content: " \00a0(archived)";
 }
 
-[data-count] {
-	margin: 4rem 0 0 0;
-}
 [data-count]:after {
 	--h: 22px;
 	content: attr(data-count) " ";
