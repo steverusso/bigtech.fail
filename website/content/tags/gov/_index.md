@@ -3,10 +3,10 @@ url: /gov/
 title: Government
 image: /img/emoji/poo.png
 sources:
- - [ 'twitter.com/Official_TTFT/status/1348694926654103558', 'https://archive.is/RZ4Zx' ]
+ - [ 'twitter.com/Official_TTFT/status/1348694926654103558', 'archive.is/RZ4Zx' ]
 extra:
- - [ 'twitter.com/Policy/status/1293632898294259714', 'https://archive.is/OAyHm' ]
- - [ 'Las Vegas Review-Journal "Bill would allow tech companies to create local governments" by Colton Lochhead (3 Feb 2021)', 'https://archive.is/OnlgT' ]
+ - [ 'twitter.com/Policy/status/1293632898294259714', 'archive.is/OAyHm' ]
+ - [ 'Las Vegas Review-Journal "Bill would allow tech companies to create local governments" by Colton Lochhead (3 Feb 2021)', 'archive.is/OnlgT' ]
 quotes:
  - person: Edward Snowden
    date: '23 Oct 2019'
