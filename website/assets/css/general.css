@@ -30,6 +30,15 @@ h1 {
 	font-size: 2.25rem;
 	margin: 0;
 }
+h2 b {
+	background: var(--cardTitleBg);
+	border: 1px solid #aaa;
+	border-radius: 16px;
+	font-size: 16px;
+	margin-left: 0.6rem;
+	padding: 0.125rem 0.75rem;
+	vertical-align: top;
+}
 
 main, .cntr {
 	width: 1200px;
@@ -117,22 +126,6 @@ tr:nth-child(odd) {
 .srcs a[href^="https://archive."]:after,
 .srcs a[href^="https://web.archive.org"]:after {
 	content: " \00a0(archived)";
-}
-
-[data-count]:after {
-	--h: 22px;
-	content: attr(data-count) " ";
-	background: var(--cardTitleBg);
-	border: 1px solid #aaa;
-	border-radius: var(--h);
-	display: inline-flex;
-	align-items: center;
-	font-size: 16px;
-	font-weight: bold;
-	height: var(--h);
-	margin: 0 0 0 calc(var(--h) / 2);
-	padding: 0 0.75rem;
-	vertical-align: top;
 }
 
 .easy-select {
