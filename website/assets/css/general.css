@@ -246,3 +246,16 @@ tr:nth-child(odd) {
 	height: 20px;
 	margin-right: 0.5rem;
 }
+
+.img {
+	background: no-repeat center/100% var(--url) !important;
+}
+
+{{ range site.Data.orderCorps }}
+	{{ $imgPath := printf "logos/%s.png" .k }}
+	{{ $imgRes := resources.Get $imgPath }}
+
+	.img.{{ .k }} {
+		--url: url('data:image/png;base64,{{ $imgRes.Content | base64Encode }}');
+	}
+{{ end }}
