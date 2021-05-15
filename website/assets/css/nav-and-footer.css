@@ -143,7 +143,6 @@ aside .corpos:before, aside .tags:before {
 }
 aside .corpos:before { content: "Corporations:" }
 aside .tags:before { content: "Tags:" }
-aside .tags.s:before { content: "Specific Tags:" }
 @media (max-width: 699px) {
 	nav > a:not(:first-child) {
 		display: none;
