@@ -10,9 +10,9 @@
 		</div>
 
 		<div class="tags">
-			{{ range .Params.corpos }} {{ partialCached "tags/corpo" . . }} {{ end }}
-			{{ range .Params.tags }} {{ partialCached "tags/tag" . . }} {{ end }}
-			{{ range .Params.profiles }} {{ partialCached "tags/profile" . . }} {{ end }}
+			{{ range .Params.corpos }}{{ partialCached "tags/corpo" . . }}{{ end }}
+			{{ range .Params.tags }}{{ partialCached "tags/tag" . . }}{{ end }}
+			{{ range .Params.profiles }}{{ partialCached "tags/profile" . . }}{{ end }}
 		</div>
 		<hr>
 
