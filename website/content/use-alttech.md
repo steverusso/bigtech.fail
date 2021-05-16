@@ -1,7 +1,6 @@
 ---
+aliases: [ /p/meaningfully-use-alttech/ ]
 title: Meaningfully Use Alternative Technology
-date: 2021-03-28
-summary: Actually use and promote alternative technology instead of just having it as a backup.
 ---
 
 There are many great articles on the web that clearly illustrate the threats we
@@ -17,8 +16,6 @@ use? The suggestion here is not to completely abandon BigTech "platforms," but
 rather to start _meaningfully using_ [better platforms](/alts/) to possibly
 mitigate some of the risk we face from depending so heavily on BigTech. Below
 are just a few ideas on how to do that.
-
----
 
 ## Share and _Promote_ Your AltTech Links
 
