@@ -170,30 +170,17 @@ tr:nth-child(odd) {
 }
 
 .btn {
-	--clr: var(--bodyColor);
-	background: transparent;
-	border: 1px solid var(--clr);
-	border-radius: 4px;
-	color: var(--clr);
+	background: #3e81b7;
+	border-radius: 5px;
+	color: #fff;
 	font-size: 1rem;
-	padding: 0.75rem;
+	padding: 0.7rem 0.8rem;
 	position: relative;
 }
 .btn:hover {
+	background: #03a9f4;
 	text-decoration: none;
 }
-.btn:before {
-	content: "";
-	background: var(--clr);
-	position: absolute;
-	top: 0; right: 0; bottom: 0; left: 0;
-	opacity: 0;
-}
-.btn:hover:before {
-	opacity: 0.1;
-}
-.btn.blue { --clr: #2196f3 }
-.btn.light-blue { --clr: #03a9f4 }
 
 .evtpg {
 	width: 900px;
