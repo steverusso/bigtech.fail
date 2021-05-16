@@ -20,6 +20,9 @@
 	--cardBefore: #000;
 	--cardTitleBg: #3e3e3e;
 
+	--tagBg: var(--cardTitleBg);
+	--tagHoverBg: var(--cardBg);
+
 	--blockquoteBorder: #666;
 	--blockquoteColor: #8f8f8f;
 	--articleHeading: #fafafa;
@@ -28,7 +31,7 @@
 
 @media (prefers-color-scheme: light) {
 	:root {
-		--bodyBg: #fafafa;
+		--bodyBg: #f8f8f8;
 		--bodyBg2: #f4f4f4;
 		--bodyColor: #444;
 
@@ -43,6 +46,9 @@
 		--cardBg: #fff;
 		--cardBefore: #aaa;
 		--cardTitleBg: #f2f2f2;
+
+		--tagBg: var(--cardBg);
+		--tagHoverBg: var(--cardTitleBg);
 
 		--blockquoteBorder: #ddd;
 		--blockquoteColor: #888;

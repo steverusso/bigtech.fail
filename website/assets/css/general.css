@@ -214,7 +214,7 @@ tr:nth-child(odd) {
 }
 
 .tags a {
-	background: var(--cardTitleBg);
+	background: var(--tagBg);
 	border: var(--border2);
 	border-radius: 18px;
 	color: var(--bodyColor);
@@ -226,7 +226,7 @@ tr:nth-child(odd) {
 	padding: 0.5rem 0.85rem;
 }
 .tags a:hover {
-	background: var(--cardBg);
+	background: var(--tagHoverBg);
 }
 .tags a img {
 	width: 20px;
