@@ -1,9 +1,8 @@
 {{ define "style" }}
 <style>
 .p {
-	display: flex;
-	align-items: center;
-	margin-bottom: 4rem;
+	display: block;
+	margin-bottom: 6rem;
 }
 .p:hover {
 	text-decoration: none;
@@ -15,16 +14,6 @@
 .p:hover h2 {
 	text-decoration: underline;
 }
-.p img {
-	width: 140px;
-	height: 140px;
-	margin-right: 1rem;
-}
-@media (max-width: 500px) {
-	.p img {
-		display: none;
-	}
-}
 </style>
 {{ end }}
 
@@ -32,21 +21,13 @@
 	<div class="cntr w900">
 		<br>
 		<h1>{{ .Title }}</h1>
-		<hr>
+		<hr><br>
 
 		{{ range .Pages }}
 			<a class="p" href="{{ .RelPermalink }}">
-				{{ with .Resources.GetMatch "pic*" }}
-					<img src="{{ .RelPermalink }}" loading="lazy">
-				{{ else }}
-					<img src="{{ .Params.image }}" loading="lazy">
-				{{ end }}
-
-				<div>
-					<h2>{{ .Title }}</h2>
-					<small>{{ .Date.Format "02 Jan 2006" }}</small>
-					<p>{{ .Summary }}</p>
-				</div>
+				<h2>{{ .Title }}</h2>
+				<small>{{ .Date.Format "02 Jan 2006" }}</small>
+				<p>{{ .Summary }}</p>
 			</a>
 		{{ end }}
 	</div>
