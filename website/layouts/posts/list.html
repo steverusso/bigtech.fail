@@ -1,10 +1,5 @@
 {{ define "style" }}
 <style>
-h1 {
-	border-bottom: var(--border1);
-	margin-bottom: 3rem;
-	padding-bottom: 1rem;
-}
 .p {
 	display: flex;
 	align-items: center;
@@ -35,7 +30,9 @@ h1 {
 
 {{ define "main" }}
 	<div class="cntr w900">
+		<br>
 		<h1>{{ .Title }}</h1>
+		<hr>
 
 		{{ range .Pages }}
 			<a class="p" href="{{ .RelPermalink }}">
