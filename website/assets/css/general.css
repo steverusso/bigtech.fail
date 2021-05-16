@@ -101,15 +101,10 @@ th {
 	font-size: 0.85rem;
 	text-align: left;
 }
-table, th, td {
+th, td {
 	border-top: var(--border1);
 	border-bottom: var(--border1);
-}
-th, td {
-	padding: 0.75rem 1.25rem;
-}
-th *, td * {
-	display: inline-block;
+	padding: 0.75rem 1rem;
 }
 tr:nth-child(odd) {
 	background-color: var(--cardBg);
