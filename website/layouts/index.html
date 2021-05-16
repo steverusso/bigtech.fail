@@ -147,6 +147,7 @@
 	<div class="recent-events">
 		<div class="cntr w900">
 			<h1>Recent Events:</h1>
+			<br>
 
 			{{ partial "events" ((site.GetPage "/events").Pages | first 10) }}
 
