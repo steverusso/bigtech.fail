@@ -110,6 +110,40 @@ tr:nth-child(odd) {
 	background-color: var(--cardBg);
 }
 
+.btn {
+	background: #3e81b7;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 1rem;
+	padding: 0.7rem 0.8rem;
+	position: relative;
+}
+.btn:hover {
+	background: #03a9f4;
+	text-decoration: none;
+}
+
+.tags a {
+	background: var(--tagBg);
+	border: var(--border2);
+	border-radius: 18px;
+	color: var(--bodyColor);
+	display: inline-flex;
+	align-items: center;
+	font-size: 14px;
+	height: 36px;
+	margin: 0.25rem 0;
+	padding: 0.5rem 0.85rem;
+}
+.tags a:hover {
+	background: var(--tagHoverBg);
+}
+.tags a img {
+	width: 20px;
+	height: 20px;
+	margin-right: 0.5rem;
+}
+
 .srcs {
 	overflow: hidden;
 }
@@ -164,18 +198,17 @@ tr:nth-child(odd) {
 	.grid.lg-4 { --c: 4 }
 }
 
-.btn {
-	background: #3e81b7;
-	border-radius: 5px;
-	color: #fff;
-	font-size: 1rem;
-	padding: 0.7rem 0.8rem;
-	position: relative;
+.img {
+	background: no-repeat center/100% var(--url) !important;
 }
-.btn:hover {
-	background: #03a9f4;
-	text-decoration: none;
-}
+{{ range site.Data.orderCorps }}
+	{{ $imgPath := printf "logos/%s.png" .k }}
+	{{ $imgRes := resources.Get $imgPath }}
+
+	.img.{{ .k }} {
+		--url: url('data:image/png;base64,{{ $imgRes.Content | base64Encode }}');
+	}
+{{ end }}
 
 .evtpg {
 	width: 900px;
@@ -207,37 +240,3 @@ tr:nth-child(odd) {
 		margin-top: 2rem;
 	}
 }
-
-.tags a {
-	background: var(--tagBg);
-	border: var(--border2);
-	border-radius: 18px;
-	color: var(--bodyColor);
-	display: inline-flex;
-	align-items: center;
-	font-size: 14px;
-	height: 36px;
-	margin: 0.25rem 0;
-	padding: 0.5rem 0.85rem;
-}
-.tags a:hover {
-	background: var(--tagHoverBg);
-}
-.tags a img {
-	width: 20px;
-	height: 20px;
-	margin-right: 0.5rem;
-}
-
-.img {
-	background: no-repeat center/100% var(--url) !important;
-}
-
-{{ range site.Data.orderCorps }}
-	{{ $imgPath := printf "logos/%s.png" .k }}
-	{{ $imgRes := resources.Get $imgPath }}
-
-	.img.{{ .k }} {
-		--url: url('data:image/png;base64,{{ $imgRes.Content | base64Encode }}');
-	}
-{{ end }}
