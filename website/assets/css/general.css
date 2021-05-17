@@ -1,11 +1,56 @@
+:root {
+	--bodyBg: #1b1b1b;
+	--bodyBg2: #242424;
+	--bodyColor: #f8f8f8;
+
+	--navH: 68px;
+	--navBg: #1c1c1c;
+	--navColor: #eee;
+
+	--borderColor: #777;
+	--border1: 1px solid var(--borderColor);
+	--border2: 2px solid var(--borderColor);
+
+	--para: #d6d6d6;
+	--link: #29B6F6;
+	--strong: #fff;
+	--caption: #8f8f8f;
+	--blockquote: 143, 143, 143;
+	--shadowColor: rgba(0,0,0,.5);
+
+	--cardBg: #2a2a2a;
+	--cardBefore: #000;
+	--cardTitleBg: #3e3e3e;
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--bodyBg: #fbfbfb;
+		--bodyBg2: #f4f4f4;
+		--bodyColor: #444;
+
+		--navBg: #222;
+		--borderColor: #ccc;
+
+		--para: #555;
+		--link: #03A9F4;
+		--strong: #333;
+		--caption: #a5a5a5;
+		--blockquote: 136, 136, 136;
+		--shadowColor: rgba(100,100,100,.25);
+
+		--cardBg: #fff;
+		--cardBefore: #aaa;
+		--cardTitleBg: #f4f4f4;
+	}
+}
+
 * {
 	box-sizing: border-box;
 }
-
 html {
 	scroll-behavior: smooth;
 }
-
 body {
 	background: var(--bodyBg);
 	color: var(--bodyColor);
