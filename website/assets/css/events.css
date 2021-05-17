@@ -4,7 +4,7 @@
 }
 .events div {
 	border-bottom: var(--border1);
-	scroll-margin-top: calc(var(--navHeight) + 3rem);
+	scroll-margin-top: calc(var(--navH) + 3rem);
 }
 .events div:first-child {
 	border-top: var(--border1);

@@ -3,9 +3,9 @@
 	--bodyBg2: #242424;
 	--bodyColor: #f8f8f8;
 
+	--navH: 68px;
 	--navBg: #1c1c1c;
 	--navColor: #eee;
-	--navHeight: 68px;
 
 	--borderColor: #777;
 	--border1: 1px solid var(--borderColor);

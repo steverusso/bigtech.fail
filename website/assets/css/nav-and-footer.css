@@ -1,18 +1,19 @@
+nav, aside:before {
+	content: "";
+	background: var(--navBg);
+	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
+	display: flex;
+	height: var(--navH);
+	padding-right: var(--navH);
+	position: sticky;
+	top: 0;
+	z-index: 4;
+}
 nav a, footer a, aside > a {
 	color: var(--navColor);
 	display: flex;
 	align-items: center;
 	font-size: 1.025rem;
-}
-nav, aside:before {
-	background: var(--navBg);
-	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
-	display: flex;
-	height: var(--navHeight);
-	padding-right: var(--navHeight);
-	position: sticky;
-	top: 0;
-	z-index: 4;
 }
 nav a {
 	height: 100%;
@@ -50,8 +51,8 @@ nav a:not(:first-child):hover {
 	display: flex;
 	background: no-repeat center/60% url('data:image/png;base64,{{ (resources.Get "menu.png").Content | base64Encode }}');
 	background-color: var(--navBg);
-	width: var(--navHeight);
-	height: var(--navHeight);
+	width: var(--navH);
+	height: var(--navH);
 	z-index: 7;
 }
 #tn + label:before, #tn + label:after, aside {
@@ -71,9 +72,6 @@ aside {
 	width: 400px;
 	max-width: 100%;
 	z-index: 6;
-}
-aside:before {
-	content: "";
 }
 aside::-webkit-scrollbar {
 	width: 0 !important;
