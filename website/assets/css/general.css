@@ -116,7 +116,6 @@ tr:nth-child(odd) {
 	color: #fff;
 	font-size: 1rem;
 	padding: 0.7rem 0.8rem;
-	position: relative;
 }
 .btn:hover {
 	background: #03a9f4;
@@ -182,16 +181,10 @@ tr:nth-child(odd) {
 }
 .grid.xs-3 { --c: 3 }
 .grid.xs-6 { --c: 6 }
-@media (max-width: 599px) {
-	.grid > div {
-		padding: 0.5rem 0.25rem;
-	}
-}
 @media (min-width: 600px) {
-	.grid.sm-6 { --c: 6 }
+	.grid.sm-9 { --c: 9 }
 }
 @media (min-width: 950px) {
-	.grid.md-4 { --c: 4 }
 	.grid.md-6 { --c: 6 }
 }
 @media (min-width: 1250px) {
@@ -226,17 +219,16 @@ tr:nth-child(odd) {
 }
 .evtpg > h4:after {
 	content: "Sources / Relevant Material";
-	font-weight: 600;
 }
 @media (max-width: 500px) {
 	.evtpg > div:first-child {
 		flex-direction: column;
 		text-align: center;
 	}
-	.evtpg .tags {
-		text-align: center;
-	}
 	.evtpg > div:first-child h1 {
 		margin-top: 2rem;
+	}
+	.evtpg .tags {
+		text-align: center;
 	}
 }
