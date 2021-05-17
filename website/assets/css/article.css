@@ -11,8 +11,10 @@ article > h1:first-child {
 	display: none;
 }
 article h2, article h3 {
-	color: var(--articleHeading) !important;
-	font-weight: 600;
+	font-weight: 500;
+}
+article h2, article h3, article strong {
+	color: var(--strong) !important;
 }
 article h2 {
 	margin-top: 3rem;
@@ -36,9 +38,6 @@ article p, article ol, article ul, article table, article details {
 }
 article p + ol, article p + ul {
 	margin-top: -2.5rem;
-}
-article strong {
-	color: var(--articleBold) !important;
 }
 blockquote {
 	border-left: 3px solid var(--blockquoteBorder);

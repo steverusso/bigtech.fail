@@ -13,6 +13,7 @@
 
 	--para: #d6d6d6;
 	--link: #29B6F6;
+	--strong: #fff;
 	--caption: #8f8f8f;
 	--shadowColor: rgba(0,0,0,.5);
 
@@ -25,8 +26,6 @@
 
 	--blockquoteBorder: #666;
 	--blockquoteColor: #8f8f8f;
-	--articleHeading: #fafafa;
-	--articleBold: #fff;
 }
 
 @media (prefers-color-scheme: light) {
@@ -40,6 +39,7 @@
 
 		--para: #555;
 		--link: #03A9F4;
+		--strong: #333;
 		--caption: #a5a5a5;
 		--shadowColor: rgba(100,100,100,.25);
 
@@ -52,7 +52,5 @@
 
 		--blockquoteBorder: #ddd;
 		--blockquoteColor: #888;
-		--articleHeading: #222;
-		--articleBold: #333;
 	}
 }
