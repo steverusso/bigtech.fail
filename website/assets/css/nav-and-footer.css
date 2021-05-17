@@ -1,6 +1,3 @@
-nav {
-	padding-right: calc(2.5rem + 32px);
-}
 nav a, footer a, aside > a {
 	color: var(--navColor);
 	display: flex;
@@ -12,6 +9,7 @@ nav, aside:before {
 	box-shadow: 0 4px 16px -1px rgba(0,0,0,.75);
 	display: flex;
 	height: var(--navHeight);
+	padding-right: var(--navHeight);
 	position: sticky;
 	top: 0;
 	z-index: 4;
@@ -48,11 +46,12 @@ nav a:not(:first-child):hover {
 	transform: translateX(0) !important;
 }
 #tn + label:after {
-	content: "☰";
-	color: #ddd;
-	font-size: 32px;
-	line-height: var(--navHeight);
-	padding: 0 1.25rem;
+	content: "";
+	display: flex;
+	background: no-repeat center/60% url('data:image/png;base64,{{ (resources.Get "menu.png").Content | base64Encode }}');
+	background-color: var(--navBg);
+	width: var(--navHeight);
+	height: var(--navHeight);
 	z-index: 7;
 }
 #tn + label:before, #tn + label:after, aside {
@@ -64,7 +63,7 @@ aside {
 	background: var(--bodyBg);
 	border-left: var(--border1);
 	box-shadow: none;
-	height: 100%;
+	height: 100vh;
 	overflow-y: auto;
 	padding-bottom: 8rem;
 	scrollbar-width: none;
