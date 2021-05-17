@@ -4,13 +4,12 @@
 }
 .events div {
 	border-bottom: var(--border1);
-	scroll-margin-top: calc(var(--navH) + 3rem);
+	scroll-margin-top: 10rem;
 }
 .events div:first-child {
 	border-top: var(--border1);
 }
 .events div:target {
-	border: 1px solid var(--blockquote);
 	box-shadow: 0 0 12px 6px var(--borderColor);
 }
 .events div:hover {
@@ -21,7 +20,7 @@
 	width: 100%;
 }
 .events a:hover b {
-	color: var(--bodyColor);
+	color: var(--strong);
 	font-weight: 500;
 }
 .events u, .events a:hover {
@@ -32,7 +31,7 @@
 	height: 40px !important;
 }
 .events b {
-	color: var(--para);
+	color: var(--bodyColor);
 	flex: 1;
 	font-size: 1rem;
 	font-weight: normal;
