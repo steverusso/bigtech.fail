@@ -132,7 +132,7 @@ tr:nth-child(odd) {
 	font-size: 14px;
 	height: 36px;
 	margin: 0.25rem 0;
-	padding: 0.5rem 0.85rem;
+	padding: 0.5rem 0.85rem !important;
 }
 .tags a:hover {
 	background: var(--tagHoverBg);
@@ -176,7 +176,6 @@ tr:nth-child(odd) {
 }
 .grid > a {
 	margin: 0.25rem !important;
-	padding: 0;
 	width: calc(100% / calc(12 / var(--c)) - 0.5rem);
 }
 .grid.xs-3 { --c: 3 }
