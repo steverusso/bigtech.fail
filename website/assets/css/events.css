@@ -10,8 +10,8 @@
 	border-top: var(--border1);
 }
 .events div:target {
-	border: 1px solid var(--blockquoteColor);
-	box-shadow: 0 0 12px 6px var(--blockquoteBorder);
+	border: 1px solid var(--blockquote);
+	box-shadow: 0 0 12px 6px var(--borderColor);
 }
 .events div:hover {
 	background: var(--cardBg);

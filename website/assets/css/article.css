@@ -1,5 +1,4 @@
 article > img {
-	border: var(--border1);
 	margin: 3rem 0 3rem 1rem;
 }
 article img + a {
@@ -17,8 +16,7 @@ article h2, article h3, article strong {
 	color: var(--strong) !important;
 }
 article h2 {
-	margin-top: 3rem;
-	margin-bottom: 2rem;
+	margin: 3rem 0 2rem;
 }
 article h2 img {
 	display: inline-block;
@@ -40,7 +38,7 @@ article p + ol, article p + ul {
 	margin-top: -2.5rem;
 }
 blockquote {
-	border-left: 3px solid var(--blockquoteBorder);
+	border-left: 3px solid rgba(var(--blockquote), 0.4);
 	margin: 1.5rem 0 2.5rem 1rem;
 	padding-left: 1rem;
 }
@@ -51,5 +49,5 @@ blockquote > * {
 	margin: 0.75rem 0 !important;
 }
 blockquote *:not(a) {
-	color: var(--blockquoteColor) !important;
+	color: rgb(var(--blockquote)) !important;
 }

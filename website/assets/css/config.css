@@ -15,6 +15,7 @@
 	--link: #29B6F6;
 	--strong: #fff;
 	--caption: #8f8f8f;
+	--blockquote: 143, 143, 143;
 	--shadowColor: rgba(0,0,0,.5);
 
 	--cardBg: #2a2a2a;
@@ -23,9 +24,6 @@
 
 	--tagBg: var(--cardTitleBg);
 	--tagHoverBg: var(--cardBg);
-
-	--blockquoteBorder: #666;
-	--blockquoteColor: #8f8f8f;
 }
 
 @media (prefers-color-scheme: light) {
@@ -41,6 +39,7 @@
 		--link: #03A9F4;
 		--strong: #333;
 		--caption: #a5a5a5;
+		--blockquote: 136, 136, 136;
 		--shadowColor: rgba(100,100,100,.25);
 
 		--cardBg: #fff;
@@ -49,8 +48,5 @@
 
 		--tagBg: var(--cardBg);
 		--tagHoverBg: var(--cardTitleBg);
-
-		--blockquoteBorder: #ddd;
-		--blockquoteColor: #888;
 	}
 }
