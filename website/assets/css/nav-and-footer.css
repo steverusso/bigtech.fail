@@ -1,10 +1,11 @@
 nav {
 	padding-right: calc(2.5rem + 32px);
 }
-nav a, footer a {
+nav a, footer a, aside > a {
 	color: var(--navColor);
+	display: flex;
 	align-items: center;
-	font-size: 1rem;
+	font-size: 1.025rem;
 }
 nav, aside:before {
 	background: var(--navBg);
@@ -16,7 +17,6 @@ nav, aside:before {
 	z-index: 4;
 }
 nav a {
-	display: inline-flex;
 	height: 100%;
 	padding: 0 1.25rem;
 }
@@ -81,8 +81,6 @@ aside::-webkit-scrollbar {
 }
 aside > a {
 	color: var(--bodyColor);
-	display: flex;
-	align-items: center;
 	padding: 1.5rem;
 }
 aside > a:after {
@@ -152,7 +150,7 @@ aside .tags:before { content: "Tags:" }
 	}
 }
 @media (min-width: 700px) {
-	#tn ~ aside > a {
+	aside > a {
 		display: none;
 	}
 }
@@ -178,7 +176,6 @@ footer h3 {
 	text-decoration: underline;
 }
 footer a {
-	display: flex;
 	margin: 1rem 0 0 0.5rem;
 }
 footer a:hover {
