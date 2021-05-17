@@ -21,14 +21,11 @@
 	--cardBg: #2a2a2a;
 	--cardBefore: #000;
 	--cardTitleBg: #3e3e3e;
-
-	--tagBg: var(--cardTitleBg);
-	--tagHoverBg: var(--cardBg);
 }
 
 @media (prefers-color-scheme: light) {
 	:root {
-		--bodyBg: #f8f8f8;
+		--bodyBg: #fbfbfb;
 		--bodyBg2: #f4f4f4;
 		--bodyColor: #444;
 
@@ -44,9 +41,6 @@
 
 		--cardBg: #fff;
 		--cardBefore: #aaa;
-		--cardTitleBg: #f2f2f2;
-
-		--tagBg: var(--cardBg);
-		--tagHoverBg: var(--cardTitleBg);
+		--cardTitleBg: #f4f4f4;
 	}
 }
