@@ -83,10 +83,8 @@
 	border-top: var(--border1);
 	padding: 3rem 0;
 }
-@media (min-width: 850px) {
-	.recent-events .cntr > h1 {
-		text-align: center;
-	}
+.recent-events .cntr > h2 {
+	text-align: center;
 }
 .recent-events a[href="/events/"] {
 	display: table;
@@ -97,7 +95,6 @@
 {{ end }}
 
 {{ define "main" }}
-	<!-- The jumbotron. -->
 	<div class="jtron">
 		<div class="cntr">
 			<img width="450" height="auto" src="data:image/png;base64,{{ (resources.Get `logo.png`).Content | base64Encode }}">
@@ -118,7 +115,6 @@
 		</div>
 	</div>
 
-	<!-- The use alternatives section. -->
 	<div class="cntr grid md-6 use-alts">
 		<div>
 			<h1>Use Better Tech!</h1>
@@ -146,8 +142,7 @@
 
 	<div class="recent-events">
 		<div class="cntr w900">
-			<h1>Recent Events:</h1>
-			<br>
+			<h2>Recent Events</h2>
 
 			{{ partial "events" ((site.GetPage "/events").Pages | first 10) }}
 
