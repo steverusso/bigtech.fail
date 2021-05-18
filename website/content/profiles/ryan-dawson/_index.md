@@ -5,8 +5,10 @@ links:
   website: www.ancreport.com
   support: www.ancreport.com/donate/
   merch: www.teezily.com/stores/anc
+  peertube: vid.ancreport.com/
   subscribestar: ancreport
   bitchute: channel/kCBxN1oEVOa0/
+  telegram: ancreport
 ---
 
 [Ryan Dawson](https://www.ancreport.com/ryan-dawson/) is host of Anti Neocon
