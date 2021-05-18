@@ -235,11 +235,10 @@ tr:nth-child(odd) {
 	background: no-repeat center/100% var(--url) !important;
 }
 {{ range site.Data.orderCorps }}
-	{{ $imgPath := printf "logos/%s.png" .k }}
-	{{ $imgRes := resources.Get $imgPath }}
+	{{ $logo := resources.Get (printf "logos/%s.png" .k) }}
 
 	.img.{{ .k }} {
-		--url: url('data:image/png;base64,{{ $imgRes.Content | base64Encode }}');
+		--url: url('data:image/png;base64,{{ $logo.Content | base64Encode }}');
 	}
 {{ end }}
 
@@ -265,8 +264,8 @@ tr:nth-child(odd) {
 		flex-direction: column;
 		text-align: center;
 	}
-	.evtpg > div:first-child h1 {
-		margin-top: 2rem;
+	.evtpg > div:first-child img {
+		margin: 0 0 1rem;
 	}
 	.evtpg .tags {
 		text-align: center;

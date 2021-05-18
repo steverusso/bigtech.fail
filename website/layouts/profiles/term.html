@@ -40,9 +40,9 @@
 					{{ $prefix := $v.prefix | default "" }}
 					{{ $suffix := $v.suffix | default "" }}
 					{{ $href := printf "https://%s/%s%s" $prefix . $suffix }}
+					{{ $type := cond (isset $v "icon") "icons" "logos" }}
 
 					<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">
-						{{ $type := cond (isset $v "icon") "icons" "logos" }}
 						<img src="/{{ $type }}/{{ $v.key }}.png" width="32" height="32" loading="lazy">
 					</a>
 				{{ end }}

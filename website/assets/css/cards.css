@@ -48,12 +48,3 @@
 	line-height: 1.75;
 	margin: 0.75rem;
 }
-
-.alt.card div:after {
-	content: "\2794";
-	color: var(--caption);
-	font-size: 1.1rem;
-	position: absolute;
-	top: 0.5rem;
-	right: 0.5rem;
-}
