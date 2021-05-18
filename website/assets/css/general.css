@@ -16,7 +16,6 @@
 	--strong: #fff;
 	--caption: #8f8f8f;
 	--blockquote: 143, 143, 143;
-	--shadowColor: rgba(0,0,0,.5);
 
 	--cardBg: #2a2a2a;
 	--cardBefore: #000;
@@ -37,7 +36,6 @@
 		--strong: #333;
 		--caption: #a5a5a5;
 		--blockquote: 136, 136, 136;
-		--shadowColor: rgba(100,100,100,.25);
 
 		--cardBg: #fff;
 		--cardBefore: #aaa;
