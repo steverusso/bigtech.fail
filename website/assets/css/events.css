@@ -44,6 +44,7 @@
 .events div > a:last-child {
 	background: no-repeat center/50% url('data:image/png;base64,{{ (resources.Get "link.png").Content | base64Encode }}');
 	border-radius: 50%;
+	display: table;
 	margin-right: 0.4rem;
 	width: 40px;
 	height: 40px;
