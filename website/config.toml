@@ -2,7 +2,6 @@ languageCode = "en-us"
 disableKinds = [ "RSS" ]
 title = "BigTech.fail"
 enableEmoji = true
-summaryLength = 25
 
 [frontmatter]
 	lastmod = [ ":git", "lastmod" ]
