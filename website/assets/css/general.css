@@ -242,12 +242,6 @@ tr:nth-child(odd) {
 	}
 {{ end }}
 
-.evtpg {
-	width: 900px;
-}
-.evtpg > h4:after {
-	content: "Sources / Relevant Material";
-}
 time {
 	font-size: 1.1rem;
 	margin: 1rem 0 0;

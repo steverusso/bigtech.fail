@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-	<main class="evtpg">
+	<main class="w900">
 		<header style="--b: url({{ .Params.image }})">
 			<h1>
 				{{ .Title }}
@@ -21,7 +21,7 @@
 		<article>{{ .Content }}</article>
 		<hr>
 
-		<h4></h4>
+		<h4>Sources / Relevant Material</h4>
 		{{ partial "sources" .Params.sources }}
 	</main>
 {{ end }}
