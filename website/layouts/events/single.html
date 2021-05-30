@@ -4,10 +4,12 @@
 
 {{ define "main" }}
 	<main class="evtpg">
-		<div>
-			<img src="{{ .Params.image }}" loading="lazy">
-			<h1 data-date="{{ .Date.Format `2 Jan 2006` }}">{{ .Title }}</h1>
-		</div>
+		<header style="--b: url({{ .Params.image }})">
+			<h1>
+				{{ .Title }}
+				<time>Occurred on {{ .Date.Format `2 Jan 2006` }}</time>
+			</h1>
+		</header>
 
 		<div class="tags">
 			{{ range .Params.corpos }}{{ partialCached "tags/corpo" . . }}{{ end }}

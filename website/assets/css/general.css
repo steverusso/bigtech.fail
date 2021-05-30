@@ -93,7 +93,7 @@ main, .cntr {
 main {
 	width: 1000px;
 }
-main > div:first-child {
+main > div:first-child, header, time {
 	display: flex;
 	align-items: center;
 	margin-bottom: 1.5rem;
@@ -133,7 +133,7 @@ summary:focus {
 	outline: none;
 }
 
-small {
+small, time {
 	color: var(--caption);
 }
 
@@ -245,29 +245,35 @@ tr:nth-child(odd) {
 .evtpg {
 	width: 900px;
 }
-.evtpg > div:first-child img {
-	width: 128px !important;
-	height: 128px !important;
-}
-.evtpg h1:after {
-	content: "Occurred on " attr(data-date);
-	color: var(--caption);
-	display: block;
-	font-size: 1.05rem;
-	margin-top: 1rem;
-}
 .evtpg > h4:after {
 	content: "Sources / Relevant Material";
 }
-@media (max-width: 500px) {
-	.evtpg > div:first-child {
-		flex-direction: column;
-		text-align: center;
+time {
+	font-size: 1.1rem;
+	margin: 1rem 0 0;
+}
+header h1 {
+	display: flex;
+	flex-direction: column;
+	font-size: 1.75rem;
+}
+header:before, time:before {
+	content: "";
+	background: no-repeat center/100% var(--b);
+	border-radius: 4px;
+	display: inline-table;
+	width: var(--s);
+	height: var(--s);
+}
+@media (max-width: 599px) {
+	time:before {
+		--s: 48px;
+		margin: 0 1rem 0;
 	}
-	.evtpg > div:first-child img {
-		margin: 0 0 1rem;
-	}
-	.evtpg .tags {
-		text-align: center;
+}
+@media (min-width: 600px) {
+	header:before {
+		--s: 128px;
+		margin-right: 1.5rem;
 	}
 }
