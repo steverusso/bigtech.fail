@@ -87,7 +87,6 @@
 
 		<div class="gasl">
 			{{ range .Pages.ByDate }}
-				{{ $img := printf "/%s%s" .File.Dir .Params.img }}
 				{{ $id := substr .File.UniqueID 0 5 }}
 
 				<div id="{{ $id }}">
@@ -100,9 +99,9 @@
 							<article>{{ .Content }}</article>
 						</div>
 
-						<a href="{{ $img }}">
-							<img src="{{ $img }}" loading="lazy">
-						</a>
+						{{ with print .File.Dir .Params.img }}
+							<a href="/{{ . }}"><img src="/{{ . }}" loading="lazy"></a>
+						{{ end }}
 					</div>
 				</div>
 			{{ end }}

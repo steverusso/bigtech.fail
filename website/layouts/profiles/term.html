@@ -39,7 +39,7 @@
 				{{ with index $.Params.links .key }}
 					{{ $prefix := $v.prefix | default "" }}
 					{{ $suffix := $v.suffix | default "" }}
-					{{ $href := printf "https://%s/%s%s" $prefix . $suffix }}
+					{{ $href := print "https://" $prefix "/" . $suffix }}
 					{{ $type := cond (isset $v "icon") "icons" "logos" }}
 
 					<a href="{{ $href }}" title="{{ $v.text }}" target="_blank">

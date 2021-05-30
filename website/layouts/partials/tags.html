@@ -19,7 +19,7 @@
 {{ end }}
 
 {{ define "partials/tags/profile" }}
-	{{ with site.GetPage (printf "/profiles/%s" .) }}
+	{{ with site.GetPage (print "/profiles/" .) }}
 		<a href="{{ .RelPermalink }}">
 			<img src="{{ .Params.image }}" loading="lazy">
 			{{ .Title }}
