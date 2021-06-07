@@ -10,6 +10,7 @@ sources:
  - [ 'twitter.com/JustInformU/status/1319795258570371072', 'archive.is/N2QhL' ]
  - [ 'graphtreon.com/creator/justinformedtalk', 'archive.is/fI5Uw' ]
  - [ 'patreon.com/justinformedtalk (archived removal notice)', 'archive.is/644KC' ]
+excludeFromTopLvl: true
 ---
 
 Patreon banned [_JustInformed

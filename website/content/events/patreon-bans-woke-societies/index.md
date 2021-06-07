@@ -11,6 +11,7 @@ sources:
  - [ 'twitter.com/wokesocieties/status/1319318193664630786', 'archive.is/TFWhY' ]
  - [ 'graphtreon.com/creator/wokesocieties1111', 'archive.is/wJFqW' ]
  - [ 'patreon.com/wokesocieties1111 (archived page removed)', 'archive.is/iSldz' ]
+excludeFromTopLvl: true
 ---
 
 Patreon banned _Woke Societies_ in an effort to [purge

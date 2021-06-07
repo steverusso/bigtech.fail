@@ -10,6 +10,7 @@ sources:
  - [ 'twitter.com/NotPsb/status/1319383709305495563', 'archive.is/IJnim' ]
  - [ 'twitter.com/verum29/status/1319350765434130433', 'archive.is/vzQgy' ]
  - [ 'graphtreon.com/creator/PatriotsSoapbox', 'archive.is/QIpnm' ]
+excludeFromTopLvl: true
 ---
 
 Patreon banned _Patriots' Soapbox News_ in an effort to purge

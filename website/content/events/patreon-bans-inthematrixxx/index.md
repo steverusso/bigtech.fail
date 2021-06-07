@@ -9,7 +9,8 @@ sources:
  - [ 'twitter.com/intheMatrixxx/status/1319651370882879488', 'archive.is/fILPj' ]
  - [ 'twitter.com/intheMatrixxx/status/1319654363531513856', 'archive.is/eF6OC' ]
  - [ 'graphtreon.com/creator/inthematrixxx', 'archive.is/Kkc9Y' ]
- - [ 'patreon.com/inthematrixxx (archived removal notice)', 'archive.is/clAE4' ]
+ - [ 'patreon.com/inthematrixxx (removal notice)', 'archive.is/clAE4' ]
+excludeFromTopLvl: true
 ---
 
 Patreon banned [_InTheMatrixxx_](https://inthematrixxx.com/), an

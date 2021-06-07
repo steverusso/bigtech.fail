@@ -12,6 +12,7 @@ sources:
  - [ 'twitter.com/TRUreporting/status/1319819576109158400', 'archive.is/aGo8h' ]
  - [ 'graphtreon.com/creator/TRUreporting', 'archive.is/mpi9o' ]
  - [ 'patreon.com/TRUreporting (archived page removed)', 'archive.is/ZeTtK' ]
+excludeFromTopLvl: true
 ---
 
 Patreon banned _TRUreporting_ (one week after they were [banned

@@ -10,6 +10,7 @@ sources:
  - [ 'twitter.com/SGTreport/status/1319356045819609094', 'archive.is/mXAzK' ]
  - [ 'twitter.com/SGTreport/status/1319363047669059587', 'archive.is/EZyPT' ]
  - [ 'twitter.com/SGTreport/status/1319363047669059587', 'archive.is/EZyPT' ]
+excludeFromTopLvl: true
 ---
 
 Patreon banned _SGTreport_ in an effort to purge QAnon-related

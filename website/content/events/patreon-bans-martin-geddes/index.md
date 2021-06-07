@@ -13,7 +13,8 @@ sources:
  - [ 'twitter.com/martingeddes/status/1319380132499492892', 'archive.is/BieF3' ]
  - [ 'twitter.com/martingeddes/status/1319398362110660609', 'archive.is/0gz0v' ]
  - [ 'graphtreon.com/creator/martingeddes', 'archive.is/ju2OG' ]
- - [ 'Archive of page removal notice', 'archive.is/cWlGa' ]
+ - [ 'account removal notice', 'archive.is/cWlGa' ]
+excludeFromTopLvl: true
 ---
 
 Patreon banned Martin Geddes in an effort to purge QAnon-related material
