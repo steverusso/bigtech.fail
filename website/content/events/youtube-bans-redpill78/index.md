@@ -15,6 +15,7 @@ sources:
  - [ 'twitter.com/RedPill78/status/1316781661716189185', 'archive.is/QgvpF' ]
  - [ 'twitter.com/RedPill78/status/1316833970160644097', 'archive.is/SNOCd' ]
  - [ 'twitter.com/RedPill78/status/1317583287427190785', 'archive.is/Nzrbm' ]
+excludeFromTopLvl: true
 youtube:
  subs: 270414
  views: 48764950

@@ -9,6 +9,7 @@ sources:
  - [ 'socialblade.com/youtube/channel/UCwJq9pqEEUr5_OmwBWQxDKA', 'archive.is/winCF' ]
  - [ 'socialblade.com/youtube/channel/UC1h1a4IkUVc4fumhmRpqXSA (backup channel)', 'archive.is/Par9T' ]
  - [ 'youtube.com/channel/UCwJq9pqEEUr5_OmwBWQxDKA (archived channel removal notice)', 'archive.is/4IcZy/image' ]
+excludeFromTopLvl: true
 youtube:
  subs: 249000
  views: 54331582

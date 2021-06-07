@@ -16,6 +16,7 @@ sources:
  - [ 'twitter.com/SGTreport/status/1316825931747676166', 'archive.is/ON5R2' ]
  - [ 'twitter.com/SGTreport/status/1316843271679815683', 'archive.is/erqho' ]
  - [ 'twitter.com/SGTreport/status/1318982938525130754', 'archive.is/3H456' ]
+excludeFromTopLvl: true
 youtube:
  subs: 630000
  views: 130000000

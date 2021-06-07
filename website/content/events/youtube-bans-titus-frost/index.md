@@ -15,6 +15,7 @@ sources:
  - [ 'socialblade.com/youtube/channel/UCDHrwVzgl-vZ14wWnN1LVjQ', 'archive.is/rjsnb' ]
  - [ 'youtube.com/channel/UCDHrwVzgl-vZ14wWnN1LVjQ (archived channel removal notice)', 'archive.is/uL98t/image' ]
  - [ 'twitter.com/ImperatorTruth/status/1241716796740247552', 'archive.is/87eQj' ]
+excludeFromTopLvl: true
 youtube:
  subs: 44000
  views: 4097498

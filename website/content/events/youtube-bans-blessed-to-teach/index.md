@@ -10,6 +10,7 @@ sources:
  - [ 'twitter.com/BlessedToTeach/status/1316823230552969217', 'archive.is/aKzGx' ]
  - [ 'socialblade.com/youtube/channel/UC3yCYDoc70dMMQGKL364wHQ', 'archive.is/o6lU3' ]
  - [ 'youtube.com/channel/UC3yCYDoc70dMMQGKL364wHQ (archive of channel removal notice)', 'archive.is/UwF3u/image' ]
+excludeFromTopLvl: true
 youtube:
  subs: 109000
  views: 14167992

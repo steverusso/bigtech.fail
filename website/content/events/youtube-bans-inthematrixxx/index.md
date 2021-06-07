@@ -8,6 +8,7 @@ sources:
  - [ 'twitter.com/intheMatrixxx/status/1316770108862156800', 'archive.is/mAb2b' ]
  - [ 'twitter.com/intheMatrixxx/status/1316826355808391168', 'archive.is/fGJ1P' ]
  - [ 'socialblade.com/youtube/channel/UCtYWoR-C-oAceQse9Wam_fQ', 'archive.is/rNu5E' ]
+excludeFromTopLvl: true
 youtube:
  subs: 76900
  views: 4667407

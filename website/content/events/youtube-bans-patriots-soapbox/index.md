@@ -11,6 +11,7 @@ sources:
  - [ 'twitter.com/NotPsb/status/1316759024981999618', 'archive.is/XNBM9' ]
  - [ 'twitter.com/NotPsb/status/1316763700339113987', 'archive.is/llCa7' ]
  - [ 'facebook.com/SoapboxNews/photos/a.221571266027684/221570862694391/', 'archive.is/hvsFN' ]
+excludeFromTopLvl: true
 youtube:
  subs: 80745
  views: 21810131

@@ -15,6 +15,7 @@ sources:
  - [ 'gab.com/destroyingtheillusion/posts/105051284151498486', 'archive.is/QzrkL' ]
  - [ 'gab.com/destroyingtheillusion/posts/105052357686824835', 'archive.is/3n6xr' ]
  - [ 'gab.com/destroyingtheillusion/posts/105044798107047774', 'archive.is/r5POu' ]
+excludeFromTopLvl: true
 youtube:
  subs: 238545
  views: 35050517

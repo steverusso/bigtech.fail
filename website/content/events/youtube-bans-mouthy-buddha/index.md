@@ -11,6 +11,7 @@ sources:
  - [ 'youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg (archived channel removal notice)', 'archive.is/sinvd/image' ]
 extra:
  - [ 'twitter.com/MouthyBuddha/status/1339669814487506947', 'archive.is/uvhV8' ]
+excludeFromTopLvl: true
 youtube:
  subs: 296854
  views: 12833352

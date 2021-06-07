@@ -9,6 +9,7 @@ sources:
  - [ 'twitter.com/JustInformU/status/1316783764786212864', 'archive.is/pAEGJ' ]
  - [ 'socialblade.com/youtube/channel/UCm5CkXzGXb-A2XX0nuTctMQ', 'archive.is/LWPaF' ]
  - [ 'twitter.com/saintangelo/status/1316900211520917506', 'archive.is/qDjHq' ]
+excludeFromTopLvl: true
 youtube:
  subs: 281000
  views: 60154395

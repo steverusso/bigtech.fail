@@ -9,6 +9,7 @@ sources:
  - [ 'twitter.com/GlobalWatchmen/status/1316897480760565760', 'archive.is/C2CZR' ]
  - [ 'youtube.com/channel/UCthxxdOYx6gK6ZkdZxoE3lA (archived channel removal notice)', 'archive.is/cFmEa/image' ]
  - [ 'socialblade.com/youtube/channel/UCthxxdOYx6gK6ZkdZxoE3lA', 'socialblade.com/youtube/channel/UCthxxdOYx6gK6ZkdZxoE3lA' ]
+excludeFromTopLvl: true
 youtube:
  subs: 30900
  views: 3021005

@@ -21,6 +21,7 @@ sources:
  - [ 'flote.app/post/91dd8a83-8602-4df6-bf36-8a0d28f7fdb9', 'archive.is/UOOp7' ]
 extra:
  - [ 'twitter.com/WorldAltMedia/status/1342105276690927617', 'archive.is/4uFgw' ]
+excludeFromTopLvl: true
 youtube:
  subs: 154000
  views: 21500000

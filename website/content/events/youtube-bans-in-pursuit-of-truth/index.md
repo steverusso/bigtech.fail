@@ -11,6 +11,7 @@ sources:
  - [ 'altcensored.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ', 'altcensored.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ' ]
  - [ 'socialblade.com/youtube/channel/UCAyrKoW31y5UcsRjh2ItvxQ', 'archive.is/TMi4E' ]
  - [ 'youtube.com/channel/UCAyrKoW31y5UcsRjh2ItvxQ (archived channel removal notice)', 'archive.is/0omjC/image' ]
+excludeFromTopLvl: true
 youtube:
  subs: 242952
  views: 43434858

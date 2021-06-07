@@ -9,6 +9,7 @@ sources:
  - [ 'twitter.com/AliceMasci/status/1316767013117865984', 'archive.is/DCmRW' ]
  - [ 'socialblade.com/youtube/channel/UC23R7E4-4-uICO-_Dq5IqUg', 'archive.is/COG8F' ]
  - [ 'youtube.com/channel/UC23R7E4-4-uICO-_Dq5IqUg (archived channel removal)', 'archive.is/u0fSf/image' ]
+excludeFromTopLvl: true
 youtube:
  subs: 174000
  views: 19820070

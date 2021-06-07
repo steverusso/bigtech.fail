@@ -16,6 +16,7 @@ sources:
  - [ 'twitter.com/TRUreporting/status/1316968666051870720', 'archive.is/ogLKo' ]
  - [ 'twitter.com/TRUreporting/status/1317180036907229185', 'archive.is/B75XL' ]
  - [ 'twitter.com/TRUreporting/status/1318326395177738246', 'archive.is/WmSS0' ]
+excludeFromTopLvl: true
 youtube:
  subs: 216985
  views: 23626051

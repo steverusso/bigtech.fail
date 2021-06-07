@@ -10,6 +10,7 @@ sources:
  - [ 'twitter.com/99freemind/status/1316761489047519234', 'archive.is/ckDUX' ]
  - [ 'twitter.com/99freemind/status/1316765620646686723', 'archive.is/kYE4R' ]
  - [ 'BitChute "Truth Purge - Youtube Got Rid of Me" by Amazing Polly (15 Oct 2020)', 'www.bitchute.com/video/kr0UZsQVZ8AC/' ]
+excludeFromTopLvl: true
 ---
 
 YouTube banned _Amazing Polly_ in an effort to purge channels that

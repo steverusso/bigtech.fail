@@ -13,6 +13,7 @@ sources:
  - [ 'altcensored.com/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'archive.is/NRT03' ]
  - [ 'socialblade.com/youtube/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'web.archive.org/web/20201102182502/https://socialblade.com/youtube/channel/UCChqaZ_kStPhOgDx1NxdA0w' ]
  - [ 'youtube.com/channel/UCChqaZ_kStPhOgDx1NxdA0w', 'archive.is/1Oa5R/image' ]
+excludeFromTopLvl: true
 ---
 
 YouTube banned _Woke Societies_ in an attempt to purge channels

@@ -11,6 +11,7 @@ sources:
  - [ 'altcensored.com/channel/UCxC2RlwWGHnwXanvHNBmw2w', 'archive.is/eHKgA' ]
  - [ 'twitter.com/OnEdgeOfWonder/status/1316766284554657794', 'archive.is/m9KGF' ]
  - [ 'facebook.com/EdgeOfWonder/', 'archive.vn/9LoOn' ]
+excludeFromTopLvl: true
 youtube:
  subs: 467000
  views: 38000000

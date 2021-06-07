@@ -18,6 +18,7 @@ sources:
  - [ 'twitter.com/X22Report/status/1318210545112276994', 'archive.is/YJWqY' ]
  - [ 'twitter.com/X22Report/status/1318698338292817920', 'archive.is/sQDXs' ]
  - [ 'twitter.com/X22Report/status/1318698178376597515', 'archive.is/StYmO' ]
+excludeFromTopLvl: true
 ---
 
 YouTube banned the channel _X22 Report_ (as well as the sibling channels _X22

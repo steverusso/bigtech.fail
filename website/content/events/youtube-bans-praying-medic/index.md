@@ -10,6 +10,7 @@ sources:
  - [ 'twitter.com/prayingmedic/status/1316816928799768577', 'archive.is/86Aap' ]
  - [ 'twitter.com/prayingmedic/status/1316818435314130946', 'archive.is/jPVlH' ]
  - [ 'twitter.com/prayingmedic/status/1316844935090323456', 'archive.is/iNgk0' ]
+excludeFromTopLvl: true
 youtube:
  subs: 391652
  views: 4254005
