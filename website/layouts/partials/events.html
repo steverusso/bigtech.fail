@@ -19,3 +19,7 @@
 		{{ end }}
 	</div>
 {{ end }}
+
+{{ define "partials/events-filtered" }}
+	{{ return (where . "Params.excludeFromTopLvl" "!=" "true") }}
+{{ end }}

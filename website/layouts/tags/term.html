@@ -30,7 +30,9 @@
 		</article>
 		<br>
 
-		<h2>Events<b>{{ len .Pages }}</b></h2>
-		{{ partial "events" .Pages }}
+		{{ with partial "events-filtered" .Pages }}
+			<h2>Events<b>{{ len . }}</b></h2>
+			{{ partial "events" . }}
+		{{ end }}
 	</main>
 {{ end }}

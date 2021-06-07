@@ -1,4 +1,6 @@
 {{ define "main" }}
+	{{ $events := partial "events-filtered" .Pages }}
+
 	<main>
 		<h1>{{ .Title }}</h1>
 		<article>
@@ -7,10 +9,10 @@
 				that something happened on a certain date. In other words, Events
 				should be thought of more as living records and <i>not</i> as news
 				reports. By extension, this page is simply a chronological collection
-				of <strong>{{ len .Pages }}</strong> records, <i>not</i> a news feed.
+				of <strong>{{ len $events }}</strong> records, <i>not</i> a news feed.
 			</p>
 		</article>
 
-		{{ partial "events" .Pages }}
+		{{ partial "events" $events }}
 	</main>
 {{ end }}
