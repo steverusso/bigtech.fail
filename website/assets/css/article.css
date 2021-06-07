@@ -38,7 +38,7 @@ article p + ol, article p + ul {
 	margin-top: -2.5rem;
 }
 blockquote {
-	border-left: 3px solid rgba(var(--blockquote), 0.4);
+	border-left: 3px solid rgba(var(--blockq), 0.4);
 	margin: 1.5rem 0 2.5rem 1rem;
 	padding-left: 1rem;
 }
@@ -49,5 +49,5 @@ blockquote > * {
 	margin: 0.75rem 0 !important;
 }
 blockquote *:not(a) {
-	color: rgb(var(--blockquote)) !important;
+	color: rgb(var(--blockq)) !important;
 }

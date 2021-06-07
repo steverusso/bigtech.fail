@@ -1,21 +1,21 @@
 :root {
 	--bodyBg: #1b1b1b;
 	--bodyBg2: #242424;
-	--bodyColor: #f8f8f8;
+	--bodyClr: #f8f8f8;
 
 	--navH: 68px;
 	--navBg: #1c1c1c;
-	--navColor: #eee;
+	--navClr: #eee;
 
-	--borderColor: #777;
-	--border1: 1px solid var(--borderColor);
-	--border2: 2px solid var(--borderColor);
+	--borderClr: #777;
+	--border1: 1px solid var(--borderClr);
+	--border2: 2px solid var(--borderClr);
 
 	--para: #d6d6d6;
 	--link: #29B6F6;
 	--strong: #fff;
 	--caption: #8f8f8f;
-	--blockquote: 143, 143, 143;
+	--blockq: 143, 143, 143;
 
 	--cardBg: #2a2a2a;
 	--cardBefore: #000;
@@ -26,16 +26,16 @@
 	:root {
 		--bodyBg: #fbfbfb;
 		--bodyBg2: #f4f4f4;
-		--bodyColor: #444;
+		--bodyClr: #444;
 
 		--navBg: #222;
-		--borderColor: #ccc;
+		--borderClr: #ccc;
 
 		--para: #555;
 		--link: #03A9F4;
 		--strong: #333;
 		--caption: #a5a5a5;
-		--blockquote: 136, 136, 136;
+		--blockq: 136, 136, 136;
 
 		--cardBg: #fff;
 		--cardBefore: #aaa;
@@ -51,8 +51,8 @@ html {
 }
 body {
 	background: var(--bodyBg);
-	color: var(--bodyColor);
-	font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,Roboto,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji !important;
+	color: var(--bodyClr);
+	font-family: Ubuntu,'Segoe UI',Oxygen,Helvetica Neue,Roboto,Trebuchet MS,Tahoma,Cantarell,sans-serif !important;
 	font-size: 105%;
 	margin: 0;
 	word-spacing: 0.075rem;
@@ -61,10 +61,9 @@ body {
 a {
 	color: var(--link);
 	overflow-wrap: break-word;
-	text-decoration: none;
 }
-a:hover {
-	text-decoration: underline;
+a:not(:hover) {
+	text-decoration: none;
 }
 
 h1, h2, h3 {
@@ -126,7 +125,7 @@ p, li, span, summary {
 	color: var(--para);
 }
 
-label, summary {
+label, summary, .easy-select {
 	cursor: pointer;
 }
 summary:focus {
@@ -170,7 +169,7 @@ tr:nth-child(odd) {
 	background: var(--cardTitleBg);
 	border: var(--border2);
 	border-radius: 18px;
-	color: var(--bodyColor);
+	color: var(--bodyClr);
 	display: inline-flex;
 	align-items: center;
 	font-size: 14px;
@@ -198,7 +197,6 @@ tr:nth-child(odd) {
 }
 
 .easy-select {
-	cursor: pointer;
 	-webkit-user-select: all !important;
 	user-select: all !important;
 	word-break: break-all;
@@ -235,10 +233,8 @@ tr:nth-child(odd) {
 	background: no-repeat center/100% var(--url) !important;
 }
 {{ range site.Data.orderCorps }}
-	{{ $logo := resources.Get (printf "logos/%s.png" .k) }}
-
 	.img.{{ .k }} {
-		--url: url('data:image/png;base64,{{ $logo.Content | base64Encode }}');
+		--url: url('data:image/png;base64,{{ (print "logos/" .k ".png" | resources.Get).Content | base64Encode }}');
 	}
 {{ end }}
 

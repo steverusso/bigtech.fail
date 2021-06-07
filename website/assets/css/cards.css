@@ -3,7 +3,7 @@
 	background: var(--cardBg);
 	border: var(--border1);
 	border-radius: var(--radius);
-	color: var(--bodyColor);
+	color: var(--bodyClr);
 	display: block;
 	position: relative;
 	max-width: 100%;

@@ -10,7 +10,7 @@
 	border-top: var(--border1);
 }
 .events div:target {
-	box-shadow: 0 0 12px 6px var(--borderColor);
+	box-shadow: 0 0 12px 6px var(--borderClr);
 }
 .events div:hover {
 	background: var(--cardBg);
@@ -31,7 +31,7 @@
 	height: 40px;
 }
 .events b {
-	color: var(--bodyColor);
+	color: var(--bodyClr);
 	flex: 1;
 	font-size: 1rem;
 	font-weight: normal;

@@ -10,7 +10,7 @@ nav, aside:before {
 	z-index: 4;
 }
 nav a, footer a, aside > a {
-	color: var(--navColor);
+	color: var(--navClr);
 	display: flex;
 	align-items: center;
 	font-size: 1.025rem;
@@ -76,7 +76,7 @@ aside::-webkit-scrollbar {
 	width: 0 !important;
 }
 aside > a {
-	color: var(--bodyColor);
+	color: var(--bodyClr);
 	padding: 1.5rem;
 }
 aside > a:after {
@@ -98,7 +98,7 @@ aside > div:not(:last-child) {
 aside .corpos a {
 	background: var(--cardBg);
 	border: var(--border1);
-	color: var(--bodyColor);
+	color: var(--bodyClr);
 	text-align: center;
 	font-size: 0.75rem;
 	padding: 0.7rem 0;
@@ -167,7 +167,7 @@ footer .cntr > div {
 	margin: 0 1rem 2rem;
 }
 footer h3 {
-	color: var(--navColor);
+	color: var(--navClr);
 	text-decoration: underline;
 }
 footer a {
