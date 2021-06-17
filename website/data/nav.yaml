@@ -1,7 +1,6 @@
 links:
 - [ /posts/, Posts ]
-- [ /alts/, Alternatives ]
-- [ /events/, Event Archives ]
+- [ /events/, Events ]
 
 tagLinks:
 - banned

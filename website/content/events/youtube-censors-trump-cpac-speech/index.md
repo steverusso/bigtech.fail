@@ -54,5 +54,4 @@ suspended RSBN for two weeks:
 
 The speech is still available to view [on
 Rumble](https://rumble.com/ve9azh-donald-trumps-entire-2021-cpac-speech.html)
-(or just by searching for it on any [alternative video hosting
-platform](/alt/video-hosting/)).
+(or just by searching for it on any alternative video hosting platform).

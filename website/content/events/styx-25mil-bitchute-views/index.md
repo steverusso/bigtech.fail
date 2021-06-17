@@ -12,9 +12,9 @@ sources:
 ---
 
 [Styxhexenhammer666](/profiles/styxhexenhammer666/) became the first BitChute
-user to reach **25 million total views** on [BitChute](/alt/bitchute), a
-free-speech video hosting site. He was also the first BitChute user to [reach
-100k subscribers](/e/styx-100k-bitchute-subs/) about five months prior to this.
+user to reach **25 million total views** on BitChute, a free-speech video
+hosting site. He was also the first BitChute user to [reach 100k
+subscribers](/e/styx-100k-bitchute-subs/) about five months prior to this.
 
 > Clankdom now the first to hit 25,000,000 Bitchute views. Huzzah!
 >

@@ -54,30 +54,6 @@
 	}
 }
 
-.use-alts {
-	align-items: center;
-	padding: 5rem 1.5rem;
-	text-align: center;
-}
-.use-alts .tags {
-	margin: 1.25rem 0 1.75rem;
-}
-@media (max-width: 949px) {
-	.use-alts {
-		padding-top: 2rem;
-		width: 600px;
-	}
-}
-@media (min-width: 950px) {
-	.use-alts > div:first-child {
-		border-right: var(--border1);
-		padding-right: 3rem;
-	}
-	.use-alts > div:last-child {
-		padding-left: 2rem;
-	}
-}
-
 .recent-events {
 	background: var(--bodyBg2);
 	border-top: var(--border1);
@@ -112,31 +88,6 @@
 					<i class="img {{ .k }}"></i>{{ .v }}
 				</a>
 			{{ end }}
-		</div>
-	</div>
-
-	<div class="cntr grid md-6 use-alts">
-		<div>
-			<h1>Use Better Tech!</h1>
-			<article>
-				<p>
-					Change starts with the content creators.
-					As a content creator, using alternative platforms and services ("AltTech") not only protects your own voice from <b><i>censorship</i></b>, but it also helps to nullify the <b><i>propaganda</i></b> that inevitably follows.
-					<a href="/use-alttech/">Read here</a> for more on why and how to go about trying AltTech.
-				</p>
-			</article>
-		</div>
-
-		<div>
-			<b>Alt Categories / Features:</b>
-
-			<div class="tags">
-				{{ range site.Taxonomies.alttrs.ByCount | first 6 }}
-					{{ partialCached "tags/alttr" .Page .Page }}
-				{{ end }}
-			</div>
-
-			<a href="/alts/" class="btn">&nbsp;View All &nbsp;&#x2794;</a>
 		</div>
 	</div>
 

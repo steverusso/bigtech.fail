@@ -9,9 +9,8 @@ sources:
  - [ 'twitter.com/OdyseeTeam/status/1385324650691907586', 'archive.ph/8RhMR' ]
 ---
 
-[Alternative video-hosting](/alt/video-hosting/) platform
-[Odysee](/alt/odysee/) starting gradually rolling out the ability for users to
-livestream:
+Alternative video-hosting platform Odysee starting gradually rolling out the
+ability for users to livestream:
 
 > LIVESTREAMING IS NOW ON ODYSEE
 >

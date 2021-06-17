@@ -31,7 +31,7 @@ second channel was deleted a couple weeks later after she uploaded the clip of
 Wendy Williams saying she is not getting a covid vaccine because she doesn't
 trust it.
 
-Rachel Reenstra is on [alternative video-hosting](/alt/video-hosting/)
-platforms, primarily [BrandNewTube](https://brandnewtube.com/@RachelReenstra),
-but she's also [on Odysee](https://odysee.com/@RachelReenstra:6) and [on
+Rachel Reenstra is on alternative video-hosting platforms, primarily
+[BrandNewTube](https://brandnewtube.com/@RachelReenstra), but she's also [on
+Odysee](https://odysee.com/@RachelReenstra:6) and [on
 Rumble](https://rumble.com/user/RachelReenstra).

@@ -11,10 +11,10 @@ sources:
 ---
 
 Amid the fallout from the [US captiol riot](/t/us-capitol-riot/), Facebook
-alternative [MeWe](/alt/mewe/) experienced record growth just like other
-alternative platforms and services. MeWe added 2.5 million new members in the
-week prior and trended as the #2 (and briefly as the #1) social network app in
-the Google Play Store:
+alternative MeWe experienced record growth just like other alternative
+platforms and services. MeWe added 2.5 million new members in the week prior
+and trended as the #2 (and briefly as the #1) social network app in the Google
+Play Store:
 
 > #MeWe is the #2 downloaded social app in the Google Play Store!
 >

@@ -9,10 +9,9 @@ sources:
  - [ 'reddit.com/r/OdyseeForever/comments/mz7nsy/odysee_now_has_hyperchats_our_version_of/', 'archive.ph/QNVli' ]
 ---
 
-[Alternative video-hosting](/alt/video-hosting/) platform
-[Odysee](/alt/odysee/) added "hyperchats" (which are basically chat messages
-with some monetary value attached to them) shortly after it [added
-livestreaming](/e/odysee-livestreaming/):
+Alternative video-hosting platform Odysee added "hyperchats" (which are
+basically chat messages with some monetary value attached to them) shortly
+after it [added livestreaming](/e/odysee-livestreaming/):
 
 > HYPERCHATS ARE NOW LIVE!!!1
 >

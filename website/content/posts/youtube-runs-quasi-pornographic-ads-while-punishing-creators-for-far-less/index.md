@@ -139,14 +139,13 @@ go through to resolve them, have become an inherent part of YouTube as a
 platform.
 
 So if YouTube isn't going to change, what can we do? Well if you're a content
-creator, consider using [alternative video hosting
-platforms](/alt/video-hosting/)! Most (if not all) provide some type of tool
-that allows you to automatically mirror your entire video library from YouTube.
-In other words, whenever you upload a video on YouTube, it'll automatically
-upload to the new platform as well. Not only will this serve as a contingency
-in case YouTube's automation starts messing with your channel, but it could
-also be rewarding in its own right. For example, creators and viewers on
-[Odysee](/alt/odysee/) both earn cryptocurrency for using the platform.
+creator, consider using alternative video hosting platforms! Most (if not all)
+provide some type of tool that allows you to automatically mirror your entire
+video library from YouTube.  In other words, whenever you upload a video on
+YouTube, it'll automatically upload to the new platform as well. Not only will
+this serve as a contingency in case YouTube's automation starts messing with
+your channel, but it could also be rewarding in its own right. For example,
+creators and viewers on Odysee both earn cryptocurrency for using the platform.
 Futhermore, especially if you are a content creator who is just getting
 started, you could possibly experience quicker and more sustained growth than
 you would on YouTube nowadays.

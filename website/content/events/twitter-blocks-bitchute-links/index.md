@@ -9,8 +9,8 @@ sources:
 ---
 
 Twitter completely blocked all links to [BitChute.com](https://bitchute.com/),
-an [alternative video-hosting platform](/alt/video-hosting/), meaning that
-users were unable to tweet any link to that site. Twitter [restricted BitChute
+an alternative video-hosting platform, meaning that users were unable to tweet
+any link to that site. Twitter [restricted BitChute
 links](/e/twitter-restricts-bitchute-links/) in August of 2020, and about three
 months after that, [Reddit outright blocked all BitChute
 links](/e/reddit-blocks-bitchute-links/) (similar to what Twitter did here).

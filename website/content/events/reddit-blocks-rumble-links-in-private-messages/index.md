@@ -9,9 +9,9 @@ sources:
 ---
 
 _Reclaim The Net_ investigated and confirmed claims made by users that Reddit
-was blocking links to [Rumble.com](https://rumble.com/), an [alternative
-video-hosting](/alt/video-hosting/) platform, in private messages on the
-platform. Didi Rankovic for _Reclaim The Net_
+was blocking links to [Rumble.com](https://rumble.com/), an alternative
+video-hosting platform, in private messages on the platform. Didi Rankovic for
+_Reclaim The Net_
 [reported](https://reclaimthenet.org/reddit-blocks-links-to-rumble/):
 
 > Reddit users have been reporting to Reclaim The Net that the social media
