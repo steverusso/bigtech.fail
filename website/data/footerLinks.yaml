@@ -1,7 +1,7 @@
 Connect:
 - [ Flote, 'https://flote.app/user/bigtechfail', /logos/flote.png ]
 - [ E-mail, 'mailto:info@bigtech.fail', /icons/email.png ]
-- [ Minds, 'https://minds.com/bigtechfail', /logos/minds.png ]
+- [ GitHub, 'https://github.com/steverusso/bigtech.fail', /logos/github.png ]
 
 About:
 - [ Privacy Policy, /privacy-policy/ ]
