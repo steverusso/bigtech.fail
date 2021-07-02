@@ -17,6 +17,9 @@ sources:
  - [ 'twitter.com/TwitterSafety/status/1322298208236830720', 'https://archive.is/kbVNz' ]
  - [ 'twitter.com/VinceCoglianese/status/1316535862264561664', 'https://archive.is/5BeeR' ]
  - [ 'twitter.com/MZHemingway/status/1319352247562678276', 'https://archive.is/Ui1cF' ]
+extra:
+ - [ 'twitter.com/vijaya/status/1316923557268652033', 'archive.is/cUsvY' ]
+ - [ 'twitter.com/Timcast/status/1317082260189884417', 'archive.is/CxMVk' ]
 ---
 
 The New York Post triggered a flurry of BigTech censorship after dropping an
