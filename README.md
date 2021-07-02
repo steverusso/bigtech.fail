@@ -33,3 +33,11 @@ embedded within it. To build and run production locally on
 * Any **source code** in this repository is free and unencumbered software released into the public domain. See the UNLICENSE file or visit [unlicense.org](https://unlicense.org/) for more information.
 * Unless otherwise stated, any orignal content (articles, graphics, etc.) in this repo is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 * Please review our [Contributing Guidelines](./CONTRIBUTING.md) before you consider making a contribution.
+
+## Support
+
+Any Monero (XMR) donations are greatly appreciated. Thank you!
+
+`48c67XF15rNHD3KXVHh5aGFWNMn1JhcZ1JCaqMhCioeidaigiE3433bJU1JknQrpB2AwThoMZrtTuK1nRJ35geV5HnVHneY`
+
+![](./website/static/xmr-qr.png)
