@@ -156,11 +156,10 @@ footer {
 	padding-bottom: 2rem;
 }
 footer .cntr {
-	border-bottom: var(--border1);
 	display: flex;
 	justify-content: space-evenly;
 	flex-flow: row wrap;
-	padding: 2.5rem 0.5rem 1.5rem;
+	padding: 2.5rem 0.5rem 1rem;
 	margin-bottom: 2rem;
 }
 footer .cntr > div {
