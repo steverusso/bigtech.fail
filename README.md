@@ -5,7 +5,6 @@ of censorship, propaganda and surveillance from today's technology corporations
 and governments.
 
 * [Website](./website/)
-* [Server](./server/)
 * [Documentation](./doc/)
 * [Graphics](./graphics/)
 
@@ -20,12 +19,9 @@ will build and serve the website (with live reloading) from
 
 ### Production
 
-With both [`Hugo 0.83.1`](https://github.com/gohugoio/hugo/releases/tag/v0.83.1)
-and [`Go 1.16`](https://golang.org/doc/go1.16) installed, simply run `make`
-from the root of the repository to build the full production binary (available
-at `./server/bigtechfaild`) which will contain the static web resources
-embedded within it. To build and run production locally on
-`http://localhost:8080`, run `make run`.
+With [`Hugo 0.83.1`](https://github.com/gohugoio/hugo/releases/tag/v0.83.1)
+installed, simply run `hugo` from the `./website` directory to build the full
+production site.
 
 ## Licensing
 
