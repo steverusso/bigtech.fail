@@ -12,14 +12,14 @@ and governments.
 
 ### Development
 
-With [`Hugo 0.83.1`](https://github.com/gohugoio/hugo/releases/tag/v0.83.1)
+With [`Hugo 0.96.0`](https://github.com/gohugoio/hugo/releases/tag/v0.96.0)
 installed, simply run `hugo server -D` from the `./website` directory. This
 will build and serve the website (with live reloading) from
 `http://localhost:1313`.
 
 ### Production
 
-With [`Hugo 0.83.1`](https://github.com/gohugoio/hugo/releases/tag/v0.83.1)
+With [`Hugo 0.96.0`](https://github.com/gohugoio/hugo/releases/tag/v0.96.0)
 installed, simply run `hugo` from the `./website` directory to build the full
 production site.
 
